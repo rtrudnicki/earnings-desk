@@ -2810,7 +2810,11212 @@
 "_row": 53
 }
 },
-"notes": [],
+"notes": [
+{
+"ticker": "AAL",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1gATE5rL4_nn_KHuIxEv3YmC_TyZiJSQN1Rdxv2lQhnY/edit",
+"updated_at": "2026-10-19T02:56:45-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "ABT",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1EBMSYkylgiRCDY7DNiKYFBSfZhgLm_YQXdaGNe87ipA/edit",
+"updated_at": "2026-10-19T03:00:41-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "AXP",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1iQo_2qtqdGFmMMD9KtecRQ80PVJRLF_bUzUZofJbiLI/edit",
+"updated_at": "2026-10-19T02:53:48-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "BE",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1dvrK0BduhinePPg-nNsnTpA7ri0P5Uv92fzj74otb74/edit",
+"updated_at": "2026-10-19T02:54:33-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "BX",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1csDW4SFDb-QTCQIJsT6iXv-xaEkLYnFBdGS1gtZkLwE/edit",
+"updated_at": "2026-10-19T02:56:32-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "CLF",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1i9UjX9vzjvHRoDOynw8LRGGZIffs6RzOX0wFkM7t4Rk/edit",
+"updated_at": "2026-10-19T03:04:31-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "CMCSA",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1R4Ek7Ne4n798YBapvTssppy7EC63IQ8pQ002FmM3YfE/edit",
+"updated_at": "2026-10-19T02:56:10-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "COF",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1k8da5FaPPhf7dKFEnyZGvWvSnGV-hqDn0h46ae1EmdI/edit",
+"updated_at": "2026-10-19T03:01:28-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "CSX",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1GvJapkMNPXz9wwnC1seAllEW2XD4Blm-aV-4WQlZj0w/edit",
+"updated_at": "2026-10-19T02:57:58-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "ELV",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1d2v_xm4K8XGDWDpAb1wvqrmQrYSVIh9grd-7UGodPWc/edit",
+"updated_at": "2026-10-19T03:00:25-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "FITB",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1uBe4TYT0jCo-UR_UnrrOXLGjIDFV9UBVx5J01O02Nec/edit",
+"updated_at": "2026-10-19T03:04:15-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "GE",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1dCe8T7KmFbK9tQuzYR8MfRedSLezS2mQ4ElC85b-uMA/edit",
+"updated_at": "2026-10-19T03:03:38-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "GM",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1BBIp4ulKLbKp1E7Ih5WOjNwuzIsY3MdFCxJfnzcxhVo/edit",
+"updated_at": "2026-10-19T03:03:21-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "HAL",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1nUWeDN9EKrcY0Dldh467lLfVdvJKX4gdJL97I5iPJg0/edit",
+"updated_at": "2026-10-19T03:03:07-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "HON",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1Qpomj86ODeElwLYUPQe4ddvT_KlGbhJOXzxC9Y08BzE/edit",
+"updated_at": "2026-10-19T02:55:55-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "IBM",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1Q6E1rp9l4oqOIlvhDzO4Dvqw_kZ4_TaorZk_LLVI8Vg/edit",
+"updated_at": "2026-10-19T02:59:11-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "ISRG",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/13PAp_oslO1KBhTAXXSZ29lkQyt1nZQP2N7MPntAXfP8/edit",
+"updated_at": "2026-10-19T03:01:11-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "LMT",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1C935p-pX0M6bn_8Eq71BlTBBh6NUxVQjF0pvTiOIksU/edit",
+"updated_at": "2026-10-19T02:55:41-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "LRCX",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1POc9jEDhDX2Kpzdgk_K-S6KA6R75A7vUA0J7c5a7xTE/edit",
+"updated_at": "2026-10-19T02:58:56-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": "none"
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "LUV",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1L4r9N3DSYMjIiRQP99G1RmtHAKnOKeNK_xMtx9lKJ7s/edit",
+"updated_at": "2026-10-19T02:57:44-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "META",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1fb_Ffl_624V3at4Sz2Ws8K3WXGmqWySLC6CUeq7SWAw/edit",
+"updated_at": "2026-10-19T02:58:40-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "MMM",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1AZRMJUWOcWikJfIbY06ttGrtDF4fwTU4am4ZA_sRMMY/edit",
+"updated_at": "2026-10-19T03:02:55-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "NEE",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1KoIBMNBk0LzbRnyYpLw53f_IeisqJRcE70aHiYfy0xY/edit",
+"updated_at": "2026-10-19T03:00:14-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "NEM",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1XPbBV3PiSG6Fv1fCDGPYatAh4TrUcS97gMvrrHssosc/edit",
+"updated_at": "2026-10-19T02:54:19-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "NFLX",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1DXaO5Bm_jjo3vF_NFC54utrbBdfrxEjZ9Hbifhd0k6s/edit",
+"updated_at": "2026-10-19T03:02:03-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": "none"
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "NOC",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1vsTWJhcK-T52DqLNsJz7hD1TE2luu4ukDMPBo3GlPcg/edit",
+"updated_at": "2026-10-19T03:02:45-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "PG",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1UQy-D0n9r9nl34OcXwOkeanLqaiQbgHfI6VToTaDFB0/edit",
+"updated_at": "2026-10-19T02:57:04-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "PM",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1-zuv9xVtBXh2U450oR0k6ZjY8S1UTeszOo-5XypLC10/edit",
+"updated_at": "2026-10-19T02:59:57-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "RTX",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1t0zhKC_dOnqB9-i3ey2-xvc8OatudmccpJ-qeWqFvKY/edit",
+"updated_at": "2026-10-19T03:02:31-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "SAP",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1dxDr4o-34IgL_ysuLvVllwJzGiSMRRXlXUgxpQrhyuw/edit",
+"updated_at": "2026-10-19T02:57:30-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "SLB",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1mxcGxMc9ybiJzimvjCuwCK6a1X7BIngM1bQkjwFwlvc/edit",
+"updated_at": "2026-10-19T02:53:30-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "SPCX",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/16VRu0uqeu4q4V5VGa-zdJymjQ-vHAe_d1zkXvWsmDIQ/edit",
+"updated_at": "2026-10-19T03:01:48-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "SPOT",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1lCiWWoWMBWiliv8yHUtsQ-MVCp_9xGEZ3OhzndLDzfk/edit",
+"updated_at": "2026-10-19T02:55:29-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": "none"
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "STLD",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/141mmA40VnAsmLZ6Lx4JDNdPGGvZYYJSL43KFxqig25w/edit",
+"updated_at": "2026-10-19T03:03:53-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "SYF",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1maAB_Ia6eCOFZwxswonlz_jN3DRJAA0MzUvpf0wbK-0/edit",
+"updated_at": "2026-10-19T03:02:16-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "T",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1H02hU60XgpNv9fgxrZFwziABEHciog77n8Z-sx7fkdw/edit",
+"updated_at": "2026-10-19T02:59:40-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "TMO",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1kC7Dj3L0hGangZbQPL_eL1jF04338cqFOE_-S2_UX1M/edit",
+"updated_at": "2026-10-19T02:59:25-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "TSLA",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1FPVEfuREP4kEDZPhxHsxYz4zZulHc9fers7VLaprZn8/edit",
+"updated_at": "2026-10-19T02:58:25-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "TXN",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1IF5zBKDUACeuSVzHphlyW7ABqLRMx2q171ev0eQfGxA/edit",
+"updated_at": "2026-10-19T02:58:12-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "UAL",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1JxxttsU2dCnYtwAAdW9N6CKB9uO_O_ZoaFpOm7mSMzw/edit",
+"updated_at": "2026-10-19T03:00:57-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": "none"
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "UNP",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1OjpEjZ4MwZis6razDfRXsgeCXfUMy7b_Erd3ZWI-fuc/edit",
+"updated_at": "2026-10-19T02:55:12-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "URI",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1Ri8T7OxmhnLhpMsS10wdokC7An6uTiJnpzkO-hLDTy4/edit",
+"updated_at": "2026-10-19T02:57:16-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "VLO",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1mT_aVrDioHh6UTs8SbiGpUvfLHbwPtmI-oonjpEDu5U/edit",
+"updated_at": "2026-10-19T02:54:57-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "WDC",
+"company": null,
+"quarter": "Q3FY26",
+"author": "niglesi2",
+"call_date": null,
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "doc",
+"doc_url": "https://docs.google.com/document/d/1YuT59nSBxDnoDQ7D-NvTieZc0oBgOhS0Ej8VTV1Ej4E/edit",
+"updated_at": "2026-10-19T02:54:04-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+}
+],
 "macro": {
 "date": "2026-10-19",
 "prints": [
