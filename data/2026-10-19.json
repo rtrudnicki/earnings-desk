@@ -3020,7 +3020,19 @@
 "target": "$421",
 "why": "Ahead of Q3"
 }
-]
+],
+"counts": {
+"strong_buy": 16,
+"buy": 3,
+"hold": 3,
+"sell": 1,
+"strong_sell": 0
+},
+"target_low": 305,
+"target_mean": 391.19,
+"target_high": 435,
+"chart_source": "Stockanalysis.com consensus, 23 analysts",
+"as_of": "2026-10-19"
 },
 "ours": {
 "analyst": null,
@@ -3098,6 +3110,10 @@
 {
 "label": "Goldesel: Melius cuts GE to Hold, $350",
 "url": "https://goldesel.de/aktien/news/ge-aerospace-melius-research-stuft-aktie-auf-hold-mit-350-dollar-kursziel-ab"
+},
+{
+"label": "Stockanalysis GE forecast (rating counts, target low/average/high)",
+"url": "https://stockanalysis.com/stocks/ge/forecast/"
 }
 ]
 },
@@ -3505,7 +3521,19 @@
 "target": "$101",
 "why": null
 }
-]
+],
+"counts": {
+"strong_buy": 13,
+"buy": 7,
+"hold": 4,
+"sell": 0,
+"strong_sell": 0
+},
+"target_low": 75,
+"target_mean": 104.17,
+"target_high": 132,
+"chart_source": "Stockanalysis.com consensus, 24 analysts",
+"as_of": "2026-10-19"
 },
 "ours": {
 "analyst": null,
@@ -3595,6 +3623,10 @@
 {
 "label": "ad-hoc-news: Morgan Stanley holds $101 GM target",
 "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/morgan-stanley-holds-usd-101-00-target-for-general-motors-stock/70340615"
+},
+{
+"label": "Stockanalysis GM forecast (rating counts, target low/average/high)",
+"url": "https://stockanalysis.com/stocks/gm/forecast/"
 }
 ]
 },
