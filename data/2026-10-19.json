@@ -2815,15 +2815,15 @@
 "ticker": "GE",
 "company": "GE Aerospace",
 "quarter": "Q3FY26",
-"author": null,
+"author": "AI",
 "call_date": "2026-10-20",
 "session": "pre",
 "call_time_et": null,
 "priority": null,
 "bio": false,
-"source": "typed",
+"source": "ai",
 "doc_url": "https://docs.google.com/document/d/1sBQz3qrfECYGdwZOMCqvV1sS1LTh8uxlMHAMOK25ddI/edit",
-"updated_at": "2026-10-19T14:30:13-05:00",
+"updated_at": "2026-10-19T14:36:32-05:00",
 "O": {
 "O1": {
 "business": null,
