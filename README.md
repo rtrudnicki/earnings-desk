@@ -1,3 +1,3 @@
-# Earnings Desk
+# Earnings notes
 
-Static digest rebuilt by AI HQ from the team's earnings sheet and call-notes docs. Edit the docs, not this repo.
+Team page rebuilt by AI HQ from the earnings sheet and the call-notes docs. Password: DESK_USER / DESK_PASSWORD in Vercel.
