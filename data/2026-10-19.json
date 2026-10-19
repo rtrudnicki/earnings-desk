@@ -3625,15 +3625,19 @@
 "yoy": "-80bps",
 "source": "transcript 06:40"
 }
-]
+],
+"segments": "Terminals 58% of revenue, +11% y/y; brokerage 27%, +2%; storage and chassis 15%, +9%"
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "None flagged; the $4m storm cost in Q2 did not repeat",
+"organic": "Lifts +6% and contracted price +3%; no acquisitions in the quarter",
+"margin_drivers": "Terminal fee mix up; brokerage GM 14.2% vs 14.5% on loose truck capacity",
+"cash_conversion": "FCF 92% of net income; capex $140m with the Gulf build on budget",
+"share_count_tax": "Diluted shares -1.1% q/q from the buyback; tax 23.5% vs 24% guided, worth about $0.01",
+"beat_from": [
+"Revenue",
+"Margin"
+]
 },
 "C3": {
 "guidance": [
