@@ -5105,6 +5105,1001 @@
 }
 },
 {
+"ticker": "DEMO",
+"company": "Harbor Logistics (sample)",
+"quarter": "Q2FY26",
+"author": "Thomas",
+"call_date": "2026-07-17",
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "scan",
+"doc_url": null,
+"updated_at": "2026-10-19T03:08:52-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": "3",
+"specificity": "3",
+"defensiveness": "4"
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": "Intact",
+"stance": "Hold",
+"why": "in line, Gulf timing unclear"
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [
+{
+"metric": "Revenue",
+"cons": "1.76bn",
+"actual": "1.75bn",
+"grade": "IL"
+},
+{
+"metric": "EPS",
+"cons": "1.05",
+"actual": "1.02",
+"grade": "M"
+}
+]
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [
+{
+"item": "Full-year EPS",
+"prior": "4.50-4.70",
+"new": "4.55-4.70",
+"street": "4.62",
+"direction": "Flat"
+}
+]
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": "In line; waiting on the Gulf."
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "DEMO",
+"company": "Harbor Logistics (sample)",
+"quarter": "Q3FY26",
+"author": "AI",
+"call_date": "2026-10-16",
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "ai",
+"doc_url": null,
+"updated_at": "2026-10-19T03:08:52-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": null,
+"cons_eps": null,
+"cons_gaap_eps": null,
+"steering_metric": null,
+"steering_cons": null,
+"buyside_bar": null,
+"implied_move": null,
+"price_into": null,
+"one_month_move": null,
+"short_interest": null,
+"last_quarter": null
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": []
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": []
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": "buyback pace",
+"deflected": "Q4 buyback, 42:20",
+"new_info": "Gulf one January, rail renewal through 2031",
+"nobody_asked": "chassis pricing"
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [
+"Contracted share rising"
+],
+"red": [
+"Buyback 'balanced'"
+]
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": "AI read: beat and raise; margin question unresolved."
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "DEMO",
+"company": "Harbor Logistics (sample)",
+"quarter": "Q3FY26",
+"author": "Thomas",
+"call_date": "2026-10-16",
+"session": null,
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "scan",
+"doc_url": "https://docs.google.com/document/d/1TWtWJ2PnE8wEosxrCru4kOE1n0fKoJWS8PIB7_04MhE/edit",
+"updated_at": "2026-10-19T03:08:52-05:00",
+"O": {
+"O1": {
+"business": "Harbor Logistics runs 41 inland container terminals and a truck brokerage; it sells throughput to shippers and rail partners under 3 to 7 year take-or-pay contracts.",
+"how_it_makes_money": "Terminal fees 58%, brokerage 27%, storage and chassis 15%.",
+"thesis_bull": "Contracted volumes step up 9% in FY27 as two Gulf terminals open; pricing resets on 40% of the book; buybacks retire 4% of shares a year.",
+"thesis_bear": "Brokerage margins compress when truck capacity loosens; Gulf ramp slips a quarter; leverage at 3.1x limits the buyback.",
+"kpis": [
+{
+"kpi": "Terminal lifts",
+"why": "volume drives 58% of revenue",
+"latest": "2.41m, +6%"
+},
+{
+"kpi": "Brokerage gross margin",
+"why": "the cyclical piece",
+"latest": "14.2%"
+},
+{
+"kpi": "Contracted share of volume",
+"why": "visibility",
+"latest": "71%"
+},
+{
+"kpi": "Net debt / EBITDA",
+"why": "buyback capacity",
+"latest": "3.1x"
+}
+],
+"valuation": "11.8x FY27 EBITDA against rails at 12.5x; the stock prices a flat brokerage margin and no Gulf upside.",
+"change_mind": "Two quarters of lifts below +3%, or a Gulf opening pushed past Q2 FY27.",
+"owner": "Thomas",
+"updated": "2026-10-16"
+}
+},
+"A": {
+"A1": {
+"speakers": []
+},
+"A2": {
+"cons_rev": "1.84bn",
+"cons_eps": "1.12",
+"steering_metric": "Terminal lifts",
+"steering_cons": "2.36m",
+"implied_move": "7.4%",
+"price_into": "64.20",
+"one_month_move": "+5.1%",
+"short_interest": "4.8%"
+},
+"A3": {
+"rows": [],
+"acceleration_note": null
+},
+"A4": {
+"debates": [
+{
+"debate": "Does brokerage margin hold above 14%?",
+"lean": "no",
+"settles_on": "Q3 gross margin"
+}
+]
+},
+"A5": {
+"bull": null,
+"bear": null,
+"beat_and_down": null
+},
+"A6": {
+"inputs": []
+},
+"A7": {
+"questions": [
+"When do the Gulf terminals take first lifts?",
+"What is the FY27 contracted share?",
+"Buyback pace with leverage at 3.1x?"
+]
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"sources": []
+},
+"B": {
+"B1": {
+"rows": [
+{
+"line": "Revenue",
+"delta": "1.89 vs 1.84",
+"grade": "B",
+"reaction": "good"
+},
+{
+"line": "EPS",
+"delta": "1.19 vs 1.12",
+"grade": "B",
+"reaction": "good"
+},
+{
+"line": "Steering metric",
+"delta": "lifts 2.41m vs 2.36m",
+"grade": "B",
+"reaction": "key"
+},
+{
+"line": "Guide (full year)",
+"delta": "raised to 4.70-4.80",
+"grade": null,
+"reaction": "raised"
+}
+],
+"release_gap": "No brokerage margin in the release",
+"move_at_release": "+4.2%",
+"vs_implied": "Smaller"
+},
+"B2": {
+"log": [
+{
+"t": "02:10",
+"note": "Gulf terminal one takes first lifts in January, two in March",
+"tag": "key"
+},
+{
+"t": "06:40",
+"note": "brokerage margin 14.2%, 'stable', said twice",
+"tag": "good"
+},
+{
+"t": "11:05",
+"note": "contracted share 71% vs 68% last q",
+"tag": "key"
+},
+{
+"t": "14:30",
+"note": "buyback 180m this q, 'opportunistic' now, no number for Q4",
+"tag": "follow up"
+}
+],
+"three_messages": [
+"Gulf on time",
+"Brokerage stable",
+"Contracted book growing"
+]
+},
+"B3": {
+"nq": "rev 1.92-1.96bn",
+"fy": "EPS 4.70-4.80 (was 4.55-4.70)",
+"direction": "Up",
+"assumptions": "diesel flat, Gulf first lifts January",
+"tone": "In line",
+"must_go_right": "Gulf permits by December"
+},
+"B4": {
+"qa": [
+{
+"t": "31:10",
+"analyst": "Patel",
+"firm": "Morgan Stanley",
+"q": "brokerage margin into Q4?",
+"real_q": "is 14% the floor",
+"a": "'we see stability', no number",
+"answered": "P",
+"tag": "follow up"
+},
+{
+"t": "36:45",
+"analyst": "Kim",
+"firm": "JPM",
+"q": "Gulf capex overrun?",
+"real_q": "is the 310m budget real",
+"a": "on budget, 290m spent",
+"answered": "F",
+"tag": "good"
+},
+{
+"t": "42:20",
+"analyst": "Rossi",
+"firm": "Wolfe",
+"q": "why opportunistic on the buyback?",
+"real_q": "is leverage binding",
+"a": "'balanced approach'",
+"answered": "D",
+"tag": "bad"
+},
+{
+"t": "48:00",
+"analyst": "Nguyen",
+"firm": "Citi",
+"q": "rail partner renewal?",
+"real_q": null,
+"a": "signed through 2031, terms not disclosed",
+"answered": "P",
+"tag": null
+}
+],
+"pressed": "buyback pace, twice",
+"nobody_asked": "chassis pricing",
+"my_questions_answered": "2 of 3; FY27 contracted share dodged"
+},
+"B5": {
+"confidence": "4",
+"specificity": "3",
+"defensiveness": "3",
+"vs_last": "Better",
+"hedges": "'balanced approach' is new",
+"who_answered": "CFO took the buyback question"
+},
+"B6": {
+"quotes": [
+{
+"t": "06:40",
+"speaker": "CEO",
+"text": "Brokerage is stable and we are not chasing volume.",
+"why": "the margin floor claim"
+},
+{
+"t": "42:30",
+"speaker": "CFO",
+"text": "We will take a balanced approach to returning capital.",
+"why": "buyback slowing"
+}
+]
+},
+"B7": {
+"verdict": "Strengthened",
+"stance": "Add",
+"expected_move": "+5%",
+"why": "Gulf on time and contracted share up; buyback softness is the only wobble",
+"move_end_of_call": "+3.8%",
+"agrees": "Yes"
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [
+{
+"metric": "Revenue",
+"cons": "1.84bn",
+"actual": "1.89bn",
+"grade": "B",
+"yoy": "+8.4%",
+"source": "release p.1"
+},
+{
+"metric": "EPS",
+"cons": "1.12",
+"actual": "1.19",
+"grade": "B",
+"yoy": "+14%",
+"source": "release p.1"
+},
+{
+"metric": "Terminal lifts",
+"cons": "2.36m",
+"actual": "2.41m",
+"grade": "B",
+"yoy": "+6%",
+"source": "release p.3"
+},
+{
+"metric": "Brokerage GM",
+"cons": "14.5%",
+"actual": "14.2%",
+"grade": "M",
+"yoy": "-80bps",
+"source": "transcript 06:40"
+}
+]
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [
+{
+"item": "Full-year EPS",
+"prior": "4.55-4.70",
+"new": "4.70-4.80",
+"street": "4.66",
+"direction": "Up",
+"implied_rest": "Q4 1.21 vs 1.17 street",
+"assumptions": "diesel flat"
+},
+{
+"item": "Next-quarter revenue",
+"prior": null,
+"new": "1.92-1.96bn",
+"street": "1.93bn",
+"direction": "New",
+"implied_rest": null,
+"assumptions": null
+}
+]
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [
+"Gulf terminals on time and on budget",
+"Contracted share 71%, up 3 points"
+],
+"red": [
+"Brokerage margin 14.2%, below the 14.5% bar",
+"Buyback language softened"
+]
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": "64.20",
+"at_release": "+4.2%",
+"end_call": "+3.8%",
+"next_close": "+5.6%",
+"implied": "7.4%",
+"vs_implied": "Smaller",
+"why": "beat and raise, brokerage margin capped the move"
+},
+"C10": {
+"blank_for_you": [
+"Thesis check",
+"Bottom line"
+],
+"missed": [
+{
+"t": "19:50",
+"item": "Chassis repricing adds 20m in FY27",
+"impact": "medium"
+}
+],
+"disagreements": [
+{
+"field": "Buyback this quarter",
+"yours": "180m",
+"document": "175m"
+}
+],
+"answered_followups": [
+{
+"q": "Q4 buyback pace",
+"a": "not given; 'balanced'",
+"source": "transcript 42:20"
+}
+],
+"model_inputs_changed": [
+{
+"input": "FY27 lifts growth",
+"old": "+7%",
+"new": "+9%",
+"source": "transcript 02:10"
+}
+],
+"unverified": [
+"B4 analyst names"
+]
+},
+"C11": {
+"next_earnings": "2027-01-28",
+"catalysts": "Gulf terminal one first lifts, January; investor day March 3"
+},
+"C12": {
+"bottom_line": "Beat and raise with the Gulf on time. The brokerage margin is the only soft spot and it is a choice. Add on any dip toward 62."
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": "1.19",
+"rev_actual": "1.89",
+"guidance_vs_street": "Raised",
+"kpi_result": null,
+"actual_move": null,
+"verdict": "Clean beat",
+"takeaway": null
+}
+},
+{
 "ticker": "ELV",
 "company": null,
 "quarter": "Q3FY26",

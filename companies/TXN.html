@@ -1,91 +1,157 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>TXN · Texas Instruments</title><meta name="robots" content="noindex"><link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 40 40&quot;&gt;&lt;rect x=&quot;2&quot; y=&quot;2&quot; width=&quot;36&quot; height=&quot;36&quot; rx=&quot;9&quot; fill=&quot;#0b5fff&quot;/&gt;&lt;rect x=&quot;9&quot; y=&quot;22&quot; width=&quot;5&quot; height=&quot;9&quot; rx=&quot;1.2&quot; fill=&quot;#fff&quot; opacity=&quot;.85&quot;/&gt;&lt;rect x=&quot;17.5&quot; y=&quot;15&quot; width=&quot;5&quot; height=&quot;16&quot; rx=&quot;1.2&quot; fill=&quot;#fff&quot; opacity=&quot;.92&quot;/&gt;&lt;rect x=&quot;26&quot; y=&quot;9&quot; width=&quot;5&quot; height=&quot;22&quot; rx=&quot;1.2&quot; fill=&quot;#fff&quot;/&gt;&lt;/svg&gt;"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"><style>
-:root{color-scheme:light;--bg:#f4f6fa;--card:#ffffff;--ink:#0f172a;--muted:#64748b;--rule:#e2e8f0;--row:#f8fafc;
---accent:#0b5fff;--accent-ink:#ffffff;--up:#16a34a;--up-bg:#dcfce7;--down:#dc2626;--down-bg:#fee2e2;--amber:#d97706;--amber-bg:#fef3c7;
---chip:#eef2f7;--shadow:0 1px 2px rgba(15,23,42,.06),0 4px 16px rgba(15,23,42,.05)}
-@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#0b1220;--card:#121a2b;--ink:#e6edf7;--muted:#94a3b8;--rule:#223049;--row:#162036;
---accent:#4f8cff;--up:#34d399;--up-bg:#0f2f24;--down:#f87171;--down-bg:#3a1414;--amber:#fbbf24;--amber-bg:#3a2a07;--chip:#1b2740;--shadow:none}}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);
-font:15px/1.5 Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
-a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
-.num{font-variant-numeric:tabular-nums}
-.top{position:sticky;top:0;z-index:20;background:var(--card);border-bottom:1px solid var(--rule);box-shadow:var(--shadow)}
-.top .in{max-width:1320px;margin:0 auto;display:flex;align-items:center;gap:26px;padding:10px max(20px,env(safe-area-inset-right,0px)) 10px max(20px,env(safe-area-inset-left,0px))}
-.brand{display:flex;align-items:center;gap:10px;font-weight:700;font-size:17px;color:var(--ink);letter-spacing:-.01em}.brand:hover{text-decoration:none}
-.tabs{display:flex;gap:4px;margin-left:8px}.tabs a{padding:7px 12px;border-radius:8px;color:var(--muted);font-weight:500}
-.tabs a:hover{background:var(--chip);text-decoration:none;color:var(--ink)}.tabs a.on{background:var(--accent);color:var(--accent-ink)}
-.top .right{margin-left:auto;color:var(--muted);font-size:13px}
-.wrap{max-width:1320px;margin:0 auto;padding:18px max(20px,env(safe-area-inset-right,0px)) 56px max(20px,env(safe-area-inset-left,0px))}
-h1{font-size:28px;letter-spacing:-.02em;margin:6px 0 2px;font-weight:700}h2{font-size:19px;margin:0 0 10px;font-weight:650;letter-spacing:-.01em}
-h3{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;font-weight:600}
-.sub{color:var(--muted);margin:0 0 14px;font-size:14px}p{margin:6px 0}
-.tape{display:flex;gap:8px;overflow-x:auto;padding:4px 0 12px;scrollbar-width:none}.tape::-webkit-scrollbar{display:none}
-.tk{flex:0 0 auto;background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:8px 12px;min-width:118px;box-shadow:var(--shadow)}
-.tk .l{font-size:11.5px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;font-weight:600}
-.tk .v{font-weight:650;font-size:16px}.tk .c{font-size:12.5px;font-weight:600}
-.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}.c12{grid-column:span 12}.c8{grid-column:span 8}.c6{grid-column:span 6}.c4{grid-column:span 4}.c3{grid-column:span 3}
-@media (max-width:980px){.c8,.c7,.c6,.c5,.c4,.c3{grid-column:span 12!important}}
-.card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:16px 18px;box-shadow:var(--shadow);min-width:0}
-.card.hero{border-left:5px solid var(--accent)}
-.kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}.kpi div{background:var(--row);border-radius:10px;padding:10px 12px}
-.kpi b{display:block;font-size:22px;font-weight:700;letter-spacing:-.01em}.kpi span{font-size:12px;color:var(--muted)}
-.up{color:var(--up)}.down{color:var(--down)}.amber{color:var(--amber)}
-.pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600;background:var(--chip);color:var(--ink);white-space:nowrap}
-.pill.up{background:var(--up-bg);color:var(--up)}.pill.down{background:var(--down-bg);color:var(--down)}.pill.amber{background:var(--amber-bg);color:var(--amber)}
-.pill.acc{background:var(--accent);color:var(--accent-ink)}.pill.ghost{border:1px solid var(--rule);background:transparent;color:var(--muted)}
-.tw{overflow-x:auto;border:1px solid var(--rule);border-radius:12px;background:var(--card);box-shadow:var(--shadow)}
-table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
-th{font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;white-space:nowrap;background:var(--row);position:sticky;top:0}
-tr:last-child td{border-bottom:0}tr.day td{background:var(--row);font-weight:650;font-size:12.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
-td.n,th.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}td.t{font-weight:650}
-tbody tr:hover td{background:color-mix(in srgb,var(--accent) 5%,transparent)}
-.sbar{display:inline-block;vertical-align:middle;width:84px;height:8px;position:relative;background:var(--chip);border-radius:4px;margin:0 8px 0 0}
-.sbar i{position:absolute;top:0;bottom:0;background:var(--up);border-radius:4px}.sbar i.neg{background:var(--down)}.sbar s{position:absolute;top:-3px;bottom:-3px;left:50%;width:1px;background:var(--muted)}
-.chartbox{position:relative;width:100%;height:260px}.chartbox.tall{height:420px}.chartbox.short{height:200px}
-.list{margin:0;padding-left:20px}.list li{margin:5px 0}
-.feed{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-.note-card{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:14px 16px;box-shadow:var(--shadow)}
-.note-card h4{margin:0 0 4px;font-size:16px}.note-card .m{color:var(--muted);font-size:13px}
-.section{margin:26px 0 10px;display:flex;align-items:baseline;justify-content:space-between;gap:12px}
-input.filter{font:inherit;padding:9px 12px;border:1px solid var(--rule);border-radius:10px;width:100%;max-width:360px;background:var(--card);color:var(--ink)}
-.quote{font-size:15.5px;border-left:3px solid var(--accent);padding:4px 12px;margin:8px 0}.quote small{display:block;color:var(--muted);font-size:12.5px}
-.gap{border-left:4px solid var(--amber);background:var(--amber-bg);border-radius:0 10px 10px 0;padding:10px 14px}.gap ol{margin:4px 0 8px 18px}
-.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media (max-width:640px){.two{grid-template-columns:1fr}}
-.flags ul{margin:0;padding-left:18px}.g li::marker{color:var(--up)}.r li::marker{color:var(--down)}
-.bias{display:inline-block;padding:3px 10px;border-radius:8px;font-weight:700;font-size:13px}
-.bias.higher{background:var(--up-bg);color:var(--up)}.bias.lower{background:var(--down-bg);color:var(--down)}.bias.chop{background:var(--amber-bg);color:var(--amber)}
-.foot{color:var(--muted);font-size:12.5px;margin-top:40px;border-top:1px solid var(--rule);padding-top:12px}
-svg.inline text{fill:var(--ink);font-size:11px;font-family:inherit}svg.inline .m{fill:var(--muted)}svg.inline .grid{stroke:var(--rule)}
-.muted{color:var(--muted)}.small{font-size:13px}.note-body h5{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:16px 0 6px}
-.note-body table{font-size:13.5px}.chip-row{display:flex;flex-wrap:wrap;gap:6px}
-@media (max-width:640px){.top .in{gap:10px;padding:8px 14px}.tabs a{padding:6px 9px;font-size:14px}.top .right{display:none}.wrap{padding:12px 14px 40px}h1{font-size:22px}.card{padding:12px 13px}}
-
-/* motion and interaction */
-@media (prefers-reduced-motion:no-preference){
-  .card,.note-card,.tk,.tw,.cal-item{transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
-  .note-card:hover,.cal-item:hover{transform:translateY(-2px);box-shadow:0 6px 22px rgba(15,23,42,.10);border-color:color-mix(in srgb,var(--accent) 45%,var(--rule))}
-  .fade{animation:fadeup .45s ease both}.fade:nth-child(2){animation-delay:.05s}.fade:nth-child(3){animation-delay:.1s}.fade:nth-child(4){animation-delay:.15s}.fade:nth-child(5){animation-delay:.2s}
-  @keyframes fadeup{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-  details .body{animation:fadeup .3s ease both}
-}
-details.x{border:1px solid var(--rule);border-radius:12px;background:var(--card);box-shadow:var(--shadow);margin:10px 0;overflow:hidden}
-details.x>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:12px;padding:14px 16px;font-weight:600;user-select:none}
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>TXN · Texas Instruments</title><meta name="robots" content="noindex"><link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 40 40&quot;&gt;&lt;rect x=&quot;1&quot; y=&quot;1&quot; width=&quot;38&quot; height=&quot;38&quot; rx=&quot;3&quot; fill=&quot;#00B3E3&quot;/&gt;&lt;rect x=&quot;8&quot; y=&quot;22&quot; width=&quot;5&quot; height=&quot;10&quot; fill=&quot;#0B1220&quot;/&gt;&lt;rect x=&quot;17.5&quot; y=&quot;15&quot; width=&quot;5&quot; height=&quot;17&quot; fill=&quot;#0B1220&quot;/&gt;&lt;rect x=&quot;27&quot; y=&quot;8&quot; width=&quot;5&quot; height=&quot;24&quot; fill=&quot;#0B1220&quot;/&gt;&lt;/svg&gt;"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap"><style>
+:root{color-scheme:dark;--bg:#0B1220;--panel:#121A2B;--panel2:#0F1726;--line:#1F2A40;--ink:#E6EDF7;--ink2:#8A97AD;--ink3:#5B6880;
+--up:#16C784;--down:#EA3943;--teal:#00B3E3;--teal-ink:#0B1220;--alert:#FFC72C;--mono:"JetBrains Mono","IBM Plex Mono",ui-monospace,Menlo,monospace;
+--sans:Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;--r:3px}
+:root[data-theme="light"]{color-scheme:light;--bg:#FFFFFF;--panel:#F6F8FB;--panel2:#EEF2F7;--line:#C9D2E0;--ink:#0B1220;--ink2:#4B5768;--ink3:#7A8699;--teal-ink:#FFFFFF}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:var(--teal);text-decoration:none}a:hover{text-decoration:underline}
+.mono,.n,.num,td.n,th.n,.v,.c,.kv b,.stat b{font-family:var(--mono);font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1}
+.up{color:var(--up)}.down{color:var(--down)}.flat{color:var(--ink2)}.alert{color:var(--alert)}
+/* ticker */
+.ticker{background:var(--panel2);border-bottom:1px solid var(--line);overflow:hidden;white-space:nowrap;height:34px;position:relative}
+.ticker .track{display:inline-flex;align-items:center;height:34px;animation:tick 70s linear infinite;will-change:transform}
+.ticker:hover .track{animation-play-state:paused}@media (prefers-reduced-motion:reduce){.ticker .track{animation:none}.ticker{overflow-x:auto}}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.ticker .it{display:inline-flex;align-items:baseline;gap:7px;padding:0 18px;border-right:1px solid var(--line);font-size:12.5px}
+.ticker .it .l{color:var(--ink2);font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:11px}
+.ticker .it .v{font-weight:600}.ticker .it .c{font-size:12px;font-weight:600}
+/* top bar */
+.top{background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30}
+.top .in{max-width:1440px;margin:0 auto;display:flex;align-items:center;gap:18px;padding:8px max(16px,env(safe-area-inset-right,0px)) 8px max(16px,env(safe-area-inset-left,0px))}
+.brand{display:flex;align-items:center;gap:9px;color:var(--ink);font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:13px}.brand:hover{text-decoration:none}
+.tabs{display:flex;gap:2px;margin-left:6px}.tabs a{padding:7px 12px;border-radius:var(--r);color:var(--ink2);font-weight:600;font-size:13px;letter-spacing:.03em;text-transform:uppercase;border-bottom:2px solid transparent}
+.tabs a:hover{color:var(--ink);text-decoration:none;background:var(--panel2)}.tabs a.on{color:var(--teal);border-bottom-color:var(--teal)}
+.top .right{margin-left:auto;display:flex;align-items:center;gap:12px;color:var(--ink2);font-size:12px}
+.tg{border:1px solid var(--line);background:var(--panel2);color:var(--ink);border-radius:var(--r);padding:4px 9px;font:600 11px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
+.tg:hover{border-color:var(--teal)}
+/* layout */
+.wrap{max-width:1440px;margin:0 auto;padding:14px max(16px,env(safe-area-inset-right,0px)) 48px max(16px,env(safe-area-inset-left,0px))}
+h1{font-size:22px;letter-spacing:-.01em;margin:4px 0 2px;font-weight:700}h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink2);margin:0;font-weight:700}
+h3{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink2);margin:0 0 8px;font-weight:700}
+.sub{color:var(--ink2);margin:0 0 12px;font-size:13px}p{margin:5px 0}.small{font-size:12.5px}.muted{color:var(--ink2)}.dim{color:var(--ink3)}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px}.c12{grid-column:span 12}.c8{grid-column:span 8}.c7{grid-column:span 7}.c6{grid-column:span 6}.c5{grid-column:span 5}.c4{grid-column:span 4}.c3{grid-column:span 3}
+@media (max-width:980px){.c8,.c7,.c6,.c5,.c4,.c3{grid-column:span 12}}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:12px 14px;min-width:0}
+.panel.alert{border-left:3px solid var(--alert)}.panel.teal{border-left:3px solid var(--teal)}
+.section{margin:18px 0 8px;display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding-bottom:6px}
+.asof{color:var(--ink3);font-size:11px;font-family:var(--mono)}
+/* tiles */
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.tile{background:var(--panel);padding:10px 12px;min-width:0}.tile .l{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink2);font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile .v{font-size:20px;font-weight:600;margin:2px 0 0;line-height:1.15}.tile .c{font-size:12px;font-weight:600}.tile .m{font-size:11px;color:var(--ink3);margin-top:3px;font-family:var(--mono)}
+.tile.lg .v{font-size:26px}
+/* readings */
+.readings{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.rd{background:var(--panel);padding:10px 12px;min-width:0;cursor:default}.rd .l{font-size:12px;font-weight:600;color:var(--ink)}.rd .p{font-size:11px;color:var(--ink3)}
+.rd .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-top:4px}.rd .v{font-size:18px;font-weight:600}
+.rd .s{font-size:12px;font-weight:700;padding:1px 6px;border-radius:var(--r)}.rd .s.up{background:color-mix(in srgb,var(--up) 16%,transparent)}.rd .s.down{background:color-mix(in srgb,var(--down) 16%,transparent)}.rd .s.flat{background:var(--panel2)}
+.rd .k{display:flex;gap:10px;margin-top:4px;font-size:11px;color:var(--ink2);font-family:var(--mono)}.rd .k span b{color:var(--ink);font-weight:500}
+.rd .read{display:none;font-size:12px;color:var(--ink2);margin-top:6px;line-height:1.4}.rd:hover .read,.rd:focus-within .read{display:block}
+/* tables */
+.tw{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-size:13px}th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink2);font-weight:700;white-space:nowrap;background:var(--panel2)}
+tr:last-child td{border-bottom:0}td.n,th.n{text-align:right;white-space:nowrap}td.t{font-weight:700;font-family:var(--mono)}
+tbody tr:hover td{background:color-mix(in srgb,var(--teal) 6%,transparent)}
+.pill{display:inline-block;padding:1px 7px;border-radius:var(--r);font-size:11px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;background:var(--panel2);color:var(--ink2);border:1px solid var(--line);white-space:nowrap}
+.pill.up{color:var(--up);border-color:color-mix(in srgb,var(--up) 50%,transparent)}.pill.down{color:var(--down);border-color:color-mix(in srgb,var(--down) 50%,transparent)}
+.pill.amber{color:var(--alert);border-color:color-mix(in srgb,var(--alert) 50%,transparent)}.pill.acc{color:var(--teal);border-color:color-mix(in srgb,var(--teal) 55%,transparent)}.pill.ghost{color:var(--ink3)}
+.sbar{display:inline-block;vertical-align:middle;width:72px;height:6px;position:relative;background:var(--panel2);margin-right:6px}
+.sbar i{position:absolute;top:0;bottom:0;background:var(--up)}.sbar i.neg{background:var(--down)}.sbar s{position:absolute;top:-3px;bottom:-3px;left:50%;width:1px;background:var(--ink3)}
+.chartbox{position:relative;width:100%;height:240px}.chartbox.tall{height:360px}.chartbox.short{height:180px}
+.list{margin:0;padding-left:18px}.list li{margin:4px 0}
+.bias{display:inline-block;padding:2px 8px;border-radius:var(--r);font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--line)}
+.bias.higher{color:var(--up);border-color:var(--up)}.bias.lower{color:var(--down);border-color:var(--down)}.bias.chop{color:var(--alert);border-color:var(--alert)}
+.kv{display:grid;grid-template-columns:1fr auto;gap:4px 12px;font-size:12.5px}.kv span{color:var(--ink2)}.kv b{font-weight:500;text-align:right}
+/* expanders */
+details.x{border:1px solid var(--line);border-radius:var(--r);background:var(--panel);margin:8px 0;overflow:hidden}
+details.x>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:10px 12px;font-weight:600;user-select:none;font-size:13px}
 details.x>summary::-webkit-details-marker{display:none}
-details.x>summary .chev{margin-left:auto;width:22px;height:22px;border-radius:50%;background:var(--chip);display:grid;place-items:center;transition:transform .2s ease;flex:0 0 auto}
-details.x[open]>summary .chev{transform:rotate(90deg)}details.x>summary:hover{background:var(--row)}
-details.x>.body{padding:4px 16px 16px;border-top:1px solid var(--rule)}
-/* weekly calendar */
-.cal{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}@media (max-width:980px){.cal{grid-template-columns:1fr}}
-.cal-day{background:var(--card);border:1px solid var(--rule);border-radius:12px;box-shadow:var(--shadow);min-width:0;display:flex;flex-direction:column}
-.cal-day.today{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent) 25%,transparent)}
-.cal-day .dh{padding:10px 12px;border-bottom:1px solid var(--rule);display:flex;align-items:baseline;justify-content:space-between}
-.cal-day .dh b{font-size:15px}.cal-day .dh span{color:var(--muted);font-size:12.5px}
-.cal-day .sess{padding:8px 12px 2px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
-.cal-item{display:flex;align-items:center;gap:8px;margin:4px 8px;padding:8px 10px;border:1px solid var(--rule);border-radius:10px;color:var(--ink);text-decoration:none;background:var(--card)}
-.cal-item:hover{text-decoration:none}.cal-item .tk2{font-weight:700;min-width:48px}.cal-item .co{color:var(--muted);font-size:12.5px;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.cal-item .tm{font-size:12px;color:var(--muted);white-space:nowrap}.cal-item.p1{border-left:4px solid var(--accent)}
-.cal-item .dot{width:8px;height:8px;border-radius:50%;background:var(--rule);flex:0 0 auto}.cal-item .dot.on{background:var(--up)}
-.cal-more{color:var(--muted);font-size:12.5px;padding:4px 12px 10px}
-.qgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}.qgrid div{background:var(--row);border-radius:8px;padding:8px 10px}
-.qgrid b{display:block;font-size:17px}.qgrid span{font-size:11.5px;color:var(--muted)}
-.hdr{display:flex;align-items:center;gap:14px;flex-wrap:wrap}.hdr .big{width:52px;height:52px;border-radius:12px;background:var(--accent);color:#fff;display:grid;place-items:center;font-weight:800;font-size:15px;letter-spacing:-.02em}
-</style></head><body><div class="top"><div class="in"><a class="brand" href="../index.html"><svg class="logo" viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><rect x="2" y="2" width="36" height="36" rx="9" fill="var(--accent)"/><rect x="9" y="22" width="5" height="9" rx="1.2" fill="#fff" opacity=".85"/><rect x="17.5" y="15" width="5" height="16" rx="1.2" fill="#fff" opacity=".92"/><rect x="26" y="9" width="5" height="22" rx="1.2" fill="#fff"/><path d="M8 13 L19 9 L26 6" fill="none" stroke="#bfe3ff" stroke-width="2.2" stroke-linecap="round"/></svg>Earnings Desk</a><div class="tabs"><a href="../index.html" class="">Today</a><a href="../macro.html" class="">Macro</a><a href="../week.html" class="">This week</a><a href="../companies/index.html" class="on">Companies</a></div><div class="right">Rebuilt Mon Oct 19, 3:04 AM</div></div></div><div class="wrap"><p class="small"><a href="index.html">← all companies</a></p><div class="hdr"><div class="big">TXN</div><div><h1 style="margin:0">Texas Instruments</h1><p class="sub" style="margin:0">TXN · 1 quarter on file</p></div></div><div class="grid" style="margin-top:14px"><div class="c12" style="display:grid;gap:16px;align-content:start"><div class="card fade"><h3>This quarter</h3><div class="kpi"><div><b class="num">–</b><span>EPS vs 2.39 est</span></div><div><b>AMC 4:30 PM</b><span>Wed 10-21, tier 1</span></div></div><p class="small muted" style="margin-top:8px"><b>What to watch:</b> Est. EPS up ~61% YoY: Q4 guide and analog demand.</p></div></div></div><div class="section"><h2>Notes by quarter</h2></div><details class="x" id="Q3FY26" open><summary><span>Q3FY26</span><span class="muted small" style="font-weight:400"></span><span class="pill ghost">niglesi2</span><span class="chev">›</span></summary><div class="body"><p class="small"><a href="https://docs.google.com/document/d/1IF5zBKDUACeuSVzHphlyW7ABqLRMx2q171ev0eQfGxA/edit" class="small">open the doc</a></p><div class="note-body"><div class="note"><h2 id="TXN">TXN <span class="muted">Texas Instruments · niglesi2 · <a href="https://docs.google.com/document/d/1IF5zBKDUACeuSVzHphlyW7ABqLRMx2q171ev0eQfGxA/edit">doc</a></span></h2></div></div></div></details><div class="foot">Earnings Desk. Sheet and docs are the source; this site follows within half an hour. Not investment advice.</div></div></body></html>
+details.x>summary .chev{margin-left:auto;color:var(--ink2);transition:transform .18s ease;flex:0 0 auto;font-family:var(--mono)}
+details.x[open]>summary .chev{transform:rotate(90deg)}details.x>summary:hover{background:var(--panel2)}
+details.x>.body{padding:4px 12px 12px;border-top:1px solid var(--line)}
+@media (prefers-reduced-motion:no-preference){details.x>.body{animation:fin .22s ease both}@keyframes fin{from{opacity:0;transform:translateY(-3px)}to{opacity:1;transform:none}}
+.chip:hover,.cal-item:hover{border-color:var(--teal)}.cal-item,.chip,.panel{transition:border-color .15s ease}}
+/* calendar */
+.cal{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+@media (max-width:980px){.cal{grid-template-columns:1fr}}
+.cal-day{background:var(--panel);min-width:0;display:flex;flex-direction:column;min-height:220px}.cal-day.today .dh{border-top:3px solid var(--alert)}
+.cal-day .dh{padding:9px 12px;border-bottom:1px solid var(--line);display:flex;align-items:baseline;justify-content:space-between}
+.cal-day .dh b{font-size:13px;letter-spacing:.06em;text-transform:uppercase}.cal-day .dh span{color:var(--ink2);font-size:12px;font-family:var(--mono)}
+.cal-day .sess{padding:8px 12px 2px;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);font-weight:700}
+.cal-item{display:flex;align-items:center;gap:8px;margin:3px 8px;padding:7px 9px;border:1px solid var(--line);border-radius:var(--r);color:var(--ink);background:var(--panel2)}
+.cal-item:hover{text-decoration:none}.cal-item .tk2{font-weight:700;min-width:46px;font-family:var(--mono)}.cal-item .co{color:var(--ink2);font-size:12px;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cal-item .tm{font-size:11.5px;color:var(--ink2);white-space:nowrap;font-family:var(--mono)}.cal-item.p1{border-left:3px solid var(--teal)}
+.cal-item .dot{width:7px;height:7px;border-radius:50%;background:var(--line);flex:0 0 auto}.cal-item .dot.on{background:var(--up)}
+.cal-more{color:var(--ink3);font-size:12px;padding:6px 12px 10px}
+/* company header */
+.chead{display:flex;align-items:flex-end;gap:22px;flex-wrap:wrap;padding:12px 0 10px;border-bottom:1px solid var(--line)}
+.chead .nm{min-width:0}.chead .nm h1{margin:0}.chead .nm .sub{margin:2px 0 0}.chead .px{font-family:var(--mono);font-size:34px;font-weight:600;line-height:1}
+.chead .chg{font-family:var(--mono);font-size:15px;font-weight:600;margin-top:4px}.chead .mini{margin-left:auto}
+.news{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.news a{display:block;background:var(--panel);padding:9px 12px;color:var(--ink);border-left:3px solid var(--alert)}.news a:hover{background:var(--panel2);text-decoration:none}
+.news .h{font-weight:700;font-size:13px;line-height:1.3}.news .m{color:var(--ink2);font-size:11px;font-family:var(--mono);margin-top:3px}
+.rng{display:flex;gap:2px;margin:4px 0 8px}.rng button{border:1px solid var(--line);background:var(--panel2);color:var(--ink2);border-radius:var(--r);padding:3px 9px;font:600 11px var(--mono);cursor:pointer}
+.rng button.on{color:var(--teal);border-color:var(--teal)}
+.feed{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.note-card{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:12px 14px}.note-card h4{margin:0 0 3px;font-size:15px}.note-card .m{color:var(--ink2);font-size:12px}
+.chip-row{display:flex;flex-wrap:wrap;gap:5px}input.filter{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:var(--r);width:100%;max-width:360px;background:var(--panel);color:var(--ink)}
+.quote{font-size:14px;border-left:3px solid var(--teal);padding:3px 10px;margin:8px 0}.quote small{display:block;color:var(--ink2);font-size:12px;font-family:var(--mono)}
+.gap{border-left:3px solid var(--alert);background:color-mix(in srgb,var(--alert) 7%,transparent);padding:8px 12px}.gap ol{margin:4px 0 8px 18px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}@media (max-width:640px){.two{grid-template-columns:1fr}}
+.flags ul{margin:0;padding-left:18px}.g li::marker{color:var(--up)}.r li::marker{color:var(--down)}
+.note-body h5{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink2);margin:14px 0 6px}.note-body table{font-size:12.5px}
+svg.inline text{fill:var(--ink);font-size:11px;font-family:var(--mono)}svg.inline .m{fill:var(--ink2)}svg.inline .grid{stroke:var(--line)}
+.foot{color:var(--ink3);font-size:11.5px;margin-top:36px;border-top:1px solid var(--line);padding-top:10px;font-family:var(--mono)}
+@media (max-width:640px){.top .in{gap:8px;padding:6px 12px}.tabs a{padding:6px 8px;font-size:12px}.top .right span{display:none}.wrap{padding:10px 12px 36px}.chead .px{font-size:28px}}
+</style><script>
+(function(){try{var t=localStorage.getItem('edk-theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script></head><body><div class="ticker" aria-label="Market ticker"><div class="track"><span class="it"><span class="l">2Y</span><span class="v">4.74%</span><span class="c flat">• </span></span><span class="it"><span class="l">VIX</span><span class="v">19.99 (highest since July 29)</span><span class="c flat">• </span></span><span class="it"><span class="l">Fed funds</span><span class="v">3.75-4.00%</span><span class="c flat">• </span></span><span class="it"><span class="l">2Y</span><span class="v">4.74%</span><span class="c flat">• </span></span><span class="it"><span class="l">VIX</span><span class="v">19.99 (highest since July 29)</span><span class="c flat">• </span></span><span class="it"><span class="l">Fed funds</span><span class="v">3.75-4.00%</span><span class="c flat">• </span></span></div></div><div class="top"><div class="in"><a class="brand" href="../index.html"><svg class="logo" viewBox="0 0 40 40" width="28" height="28" aria-hidden="true"><rect x="1" y="1" width="38" height="38" rx="3" fill="#00B3E3"/><rect x="8" y="22" width="5" height="10" fill="#0B1220" opacity=".9"/><rect x="17.5" y="15" width="5" height="17" fill="#0B1220" opacity=".9"/><rect x="27" y="8" width="5" height="24" fill="#0B1220"/></svg>Earnings Desk</a><div class="tabs"><a href="../index.html" class="">Today</a><a href="../macro.html" class="">Macro</a><a href="../week.html" class="">This week</a><a href="../companies/index.html" class="on">Companies</a></div><div class="right"><span class="mono">as of Mon Oct 19, 3:14 AM</span><button class="tg" id="tg" type="button" aria-label="Toggle theme">Light</button></div></div></div><div class="wrap"><p class="small"><a href="index.html">← all companies</a></p><div class="chead"><div class="nm"><h1>Texas Instruments</h1><p class="sub"><span class="mono">TXN</span> · NYSE/Nasdaq · tier 1 · AMC 4:30 PM</p></div><div><div class="px">276.48</div><div class="chg down">▼ -2.64 (-0.95%)</div><div class="asof">last close 2026-10-16 · 52w 153.33 to 332.28</div></div><div class="mini"><svg class="inline" viewBox="0 0 120 32" width="120" height="32" aria-hidden="true"><polyline points="1.0,30.8 5.1,30.4 9.1,28.4 13.2,30.5 17.3,22.9 21.3,26.9 25.4,26.9 29.5,29.1 33.6,31.0 37.6,24.5 41.7,21.2 45.8,20.8 49.8,19.9 53.9,21.4 58.0,15.7 62.0,15.5 66.1,12.9 70.2,14.2 74.2,13.2 78.3,3.6 82.4,2.8 86.4,1.0 90.5,7.3 94.6,7.9 98.7,11.4 102.7,12.9 106.8,8.2 110.9,13.7 114.9,14.9 119.0,16.9" fill="none" stroke="var(--up)" stroke-width="1.5"/></svg></div></div><div class="grid" style="margin-top:12px"><div class="c8"><div class="panel"><div class="section" style="margin:0 0 6px"><h2>Price</h2><div class="rng" id="rng"><button data-n="22">1M</button><button data-n="65">3M</button><button data-n="130">6M</button><button data-n="252" class="on">1Y</button></div></div><div class="chartbox"><canvas id="c-px"></canvas></div><script>document.addEventListener("DOMContentLoaded",function(){var D=["2025-09-15", "2025-09-16", "2025-09-17", "2025-09-18", "2025-09-19", "2025-09-22", "2025-09-23", "2025-09-24", "2025-09-25", "2025-09-26", "2025-09-29", "2025-09-30", "2025-10-01", "2025-10-02", "2025-10-03", "2025-10-06", "2025-10-07", "2025-10-08", "2025-10-09", "2025-10-10", "2025-10-13", "2025-10-14", "2025-10-15", "2025-10-16", "2025-10-17", "2025-10-20", "2025-10-21", "2025-10-22", "2025-10-23", "2025-10-24", "2025-10-27", "2025-10-28", "2025-10-29", "2025-10-30", "2025-10-31", "2025-11-03", "2025-11-04", "2025-11-05", "2025-11-06", "2025-11-07", "2025-11-10", "2025-11-11", "2025-11-12", "2025-11-13", "2025-11-14", "2025-11-17", "2025-11-18", "2025-11-19", "2025-11-20", "2025-11-21", "2025-11-24", "2025-11-25", "2025-11-26", "2025-11-28", "2025-12-01", "2025-12-02", "2025-12-03", "2025-12-04", "2025-12-05", "2025-12-08", "2025-12-09", "2025-12-10", "2025-12-11", "2025-12-12", "2025-12-15", "2025-12-16", "2025-12-17", "2025-12-18", "2025-12-19", "2025-12-22", "2025-12-23", "2025-12-24", "2025-12-26", "2025-12-29", "2025-12-30", "2025-12-31", "2026-01-02", "2026-01-05", "2026-01-06", "2026-01-07", "2026-01-08", "2026-01-09", "2026-01-12", "2026-01-13", "2026-01-14", "2026-01-15", "2026-01-16", "2026-01-20", "2026-01-21", "2026-01-22", "2026-01-23", "2026-01-26", "2026-01-27", "2026-01-28", "2026-01-29", "2026-01-30", "2026-02-02", "2026-02-03", "2026-02-04", "2026-02-05", "2026-02-06", "2026-02-09", "2026-02-10", "2026-02-11", "2026-02-12", "2026-02-13", "2026-02-17", "2026-02-18", "2026-02-19", "2026-02-20", "2026-02-23", "2026-02-24", "2026-02-25", "2026-02-26", "2026-02-27", "2026-03-02", "2026-03-03", "2026-03-04", "2026-03-05", "2026-03-06", "2026-03-09", "2026-03-10", "2026-03-11", "2026-03-12", "2026-03-13", "2026-03-16", "2026-03-17", "2026-03-18", "2026-03-19", "2026-03-20", "2026-03-23", "2026-03-24", "2026-03-25", "2026-03-26", "2026-03-27", "2026-03-30", "2026-03-31", "2026-04-01", "2026-04-02", "2026-04-06", "2026-04-07", "2026-04-08", "2026-04-09", "2026-04-10", "2026-04-13", "2026-04-14", "2026-04-15", "2026-04-16", "2026-04-17", "2026-04-20", "2026-04-21", "2026-04-22", "2026-04-23", "2026-04-24", "2026-04-27", "2026-04-28", "2026-04-29", "2026-04-30", "2026-05-01", "2026-05-04", "2026-05-05", "2026-05-06", "2026-05-07", "2026-05-08", "2026-05-11", "2026-05-12", "2026-05-13", "2026-05-14", "2026-05-15", "2026-05-18", "2026-05-19", "2026-05-20", "2026-05-21", "2026-05-22", "2026-05-26", "2026-05-27", "2026-05-28", "2026-05-29", "2026-06-01", "2026-06-02", "2026-06-03", "2026-06-04", "2026-06-05", "2026-06-08", "2026-06-09", "2026-06-10", "2026-06-11", "2026-06-12", "2026-06-15", "2026-06-16", "2026-06-17", "2026-06-18", "2026-06-22", "2026-06-23", "2026-06-24", "2026-06-25", "2026-06-26", "2026-06-29", "2026-06-30", "2026-07-01", "2026-07-02", "2026-07-06", "2026-07-07", "2026-07-08", "2026-07-09", "2026-07-10", "2026-07-13", "2026-07-14", "2026-07-15", "2026-07-16", "2026-07-17", "2026-07-20", "2026-07-21", "2026-07-22", "2026-07-23", "2026-07-24", "2026-07-27", "2026-07-28", "2026-07-29", "2026-07-30", "2026-07-31", "2026-08-03", "2026-08-04", "2026-08-05", "2026-08-06", "2026-08-07", "2026-08-10", "2026-08-11", "2026-08-12", "2026-08-13", "2026-08-14", "2026-08-17", "2026-08-18", "2026-08-19", "2026-08-20", "2026-08-21", "2026-08-24", "2026-08-25", "2026-08-26", "2026-08-27", "2026-08-28", "2026-08-31", "2026-09-01", "2026-09-02", "2026-09-03", "2026-09-04", "2026-09-08", "2026-09-09", "2026-09-10", "2026-09-11", "2026-09-14", "2026-09-15", "2026-09-16", "2026-09-17", "2026-09-18", "2026-09-21", "2026-09-22", "2026-09-23", "2026-09-24", "2026-09-25", "2026-09-28", "2026-09-29", "2026-09-30", "2026-10-01", "2026-10-02", "2026-10-05", "2026-10-06", "2026-10-07", "2026-10-08", "2026-10-09", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-10-16"],V=[178.2, 177.63, 180.3, 181.62, 179.37, 179.62, 182.04, 184.44, 182.04, 184.55, 183.23, 183.73, 180.39, 182.32, 180.32, 181.81, 177.05, 181.6, 178.96, 171.7, 175.11, 173.94, 175.27, 175.48, 176.58, 179.59, 180.84, 170.71, 172.19, 169.13, 169.41, 166.91, 160.26, 160.51, 161.46, 161.46, 159.36, 163.57, 161.38, 160.55, 160.58, 159.73, 163.09, 162.23, 159.33, 154.99, 157.32, 157.09, 153.33, 159.4, 161.26, 161.77, 165.35, 168.27, 168.16, 175.26, 182.6, 180.12, 182.54, 180.94, 179.52, 181.67, 181.67, 179.42, 177.97, 177.56, 174.49, 176.19, 176.29, 178.82, 177.08, 177.13, 176.88, 175.69, 175.42, 173.49, 177.52, 177.17, 192.1, 185.71, 188.45, 190.31, 189.07, 188.53, 193.45, 189.12, 191.58, 189.59, 194.41, 194.99, 193.31, 196.59, 196.63, 216.17, 218.97, 215.55, 225.01, 225.21, 222.92, 223.98, 221.44, 218.77, 220.92, 226.56, 223.0, 226.16, 225.69, 223.32, 218.05, 219.73, 219.86, 213.35, 213.9, 212.63, 212.11, 209.82, 202.67, 202.39, 197.98, 193.23, 196.2, 197.46, 198.67, 190.05, 190.78, 194.13, 194.45, 190.78, 188.29, 187.19, 188.63, 194.63, 196.77, 193.41, 190.33, 186.42, 194.14, 196.3, 194.87, 199.42, 199.74, 208.9, 214.98, 214.73, 216.71, 218.87, 216.29, 223.1, 229.82, 233.7, 233.15, 236.31, 282.23, 277.14, 269.5, 265.0, 269.22, 281.08, 281.02, 280.89, 281.0, 289.44, 285.24, 287.8, 297.76, 295.17, 306.34, 308.17, 302.73, 300.6, 302.31, 304.88, 298.39, 309.21, 324.89, 317.45, 315.95, 305.68, 293.2, 308.12, 308.59, 305.37, 285.06, 290.9, 288.63, 282.01, 297.1, 301.12, 313.34, 305.71, 301.88, 322.86, 332.28, 304.36, 303.11, 311.81, 285.43, 285.48, 298.07, 298.41, 293.08, 303.5, 293.3, 301.32, 308.53, 311.46, 298.57, 305.55, 301.19, 291.22, 284.02, 284.07, 291.3, 294.19, 284.99, 279.58, 279.41, 277.07, 271.3, 278.76, 275.74, 269.04, 283.63, 277.72, 278.4, 286.08, 280.44, 281.24, 276.59, 273.43, 279.58, 282.91, 272.24, 267.45, 265.6, 264.36, 258.94, 260.05, 261.77, 266.54, 258.64, 260.91, 253.34, 254.8, 253.83, 258.44, 258.92, 261.59, 258.82, 268.7, 263.42, 263.43, 260.67, 258.14, 266.64, 270.87, 271.41, 272.62, 270.65, 278.07, 278.31, 281.69, 280.09, 281.31, 293.8, 294.9, 297.23, 288.98, 288.2, 283.74, 281.74, 287.85, 280.65, 279.12, 276.48];var ch=EDK.line("c-px",D.slice(-252),V.slice(-252),{fmt:function(v){return v.toFixed(2);}});document.querySelectorAll("#rng button").forEach(function(b){b.addEventListener("click",function(){document.querySelectorAll("#rng button").forEach(function(x){x.classList.remove("on");});b.classList.add("on");EDK.range(ch,D,V,parseInt(b.dataset.n,10));});});});</script></div><div style="height:12px"></div><div class="section"><h2>By quarter, from our notes</h2><span class="asof">consensus at the time · actual from the release</span></div><div class="tw"><table><tr><th>Quarter</th><th class="n">EPS cons</th><th class="n">EPS</th><th class="n">Surprise</th><th class="n">Rev cons</th><th class="n">Revenue</th><th>Guide</th></tr><tr><td class="t">Q3FY26</td><td class="n">–</td><td class="n"><b>–</b></td><td class="n flat"></td><td class="n">–</td><td class="n"><b>–</b></td><td></td></tr></table></div></div><div class="c4"><div class="panel"><h3>Key stats</h3><div class="kv"><span>Last close</span><b>276.48</b><span>Day change</span><b><span class="down">-0.95%</span></b><span>52-week range</span><b>153.33 – 332.28</b><span>EPS, latest</span><b>– <span class="dim">vs 2.39</span></b><span>Quarters on file</span><b>1</b></div></div><div style="height:12px"></div><div class="panel alert"><h3>Catalysts</h3><p><span class="mono dim">2026-10-21</span> <b>Earnings, AMC 4:30 PM</b><br><span class=small>Est. EPS up ~61% YoY: Q4 guide and analog demand.</span></p></div><div style="height:12px"></div><div style="height:12px"></div><div class="panel" style="padding:0;border:0;background:transparent"><h3 style="margin:0 0 6px">News</h3><div class="news"><a href="https://www.nasdaq.com/press-release/texas-instruments-board-declares-fourth-quarter-2026-quarterly-dividend-2026-10-15" target="_blank" rel="noopener"><div class="h">Texas Instruments board declares fourth quarter 2026 quarterly dividend</div><div class="m">2026-10-15 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/ti-unveils-new-adc-enable-nanosecond-level-telemetry-and-minimize-downtime-ai-data" target="_blank" rel="noopener"><div class="h">TI unveils new ADC to enable nanosecond-level telemetry and minimize downtime in AI data centers</div><div class="m">2026-10-12 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/texas-instruments-webcast-q3-2026-earnings-conference-call-2026-10-01" target="_blank" rel="noopener"><div class="h">Texas Instruments to webcast Q3 2026 earnings conference call</div><div class="m">2026-10-01 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/ti-increases-dividend-7-152-share-marking-23-consecutive-years-increases-2026-09-17" target="_blank" rel="noopener"><div class="h">TI increases dividend 7% to $1.52 per share, marking 23 consecutive years of increases</div><div class="m">2026-09-17 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/ti-reports-second-quarter-2026-financial-results-and-shareholder-returns-2026-07-22" target="_blank" rel="noopener"><div class="h">TI reports second quarter 2026 financial results and shareholder returns</div><div class="m">2026-07-22 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/texas-instruments-board-declares-third-quarter-2026-quarterly-dividend-2026-07-16" target="_blank" rel="noopener"><div class="h">Texas Instruments board declares third quarter 2026 quarterly dividend</div><div class="m">2026-07-16 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/texas-instruments-webcast-q2-2026-earnings-conference-call-2026-07-01" target="_blank" rel="noopener"><div class="h">Texas Instruments to webcast Q2 2026 earnings conference call</div><div class="m">2026-07-01 · Nasdaq press release</div></a><a href="https://www.nasdaq.com/press-release/ti-brings-intelligence-battery-management-systems-industrys-highest-cell-count-eis" target="_blank" rel="noopener"><div class="h">TI brings intelligence to battery management systems with industry&#x27;s highest-cell-count EIS-enabled battery monitor</div><div class="m">2026-06-09 · Nasdaq press release</div></a></div></div></div></div><div class="section"><h2>Notes by quarter</h2><span class="asof">1 on file</span></div><details class="x" id="Q3FY26" open><summary><span class="mono">Q3FY26</span><span class="dim small mono" style="font-weight:400"></span><span class="pill ghost">niglesi2</span><span class="chev">›</span></summary><div class="body"><p class="small"><a href="https://docs.google.com/document/d/1IF5zBKDUACeuSVzHphlyW7ABqLRMx2q171ev0eQfGxA/edit" class="small">open the doc</a></p><div class="note-body"><div class="note"><h2 id="TXN">TXN <span class="muted">Texas Instruments · niglesi2 · <a href="https://docs.google.com/document/d/1IF5zBKDUACeuSVzHphlyW7ABqLRMx2q171ev0eQfGxA/edit">doc</a></span></h2></div></div></div></details><div class="foot">EARNINGS DESK · sheet and docs are the source · rebuilt Mon Oct 19, 3:14 AM · not investment advice</div></div>
+<script>
+(function(){
+  if(!window.Chart) return;
+  function pal(){var light=document.documentElement.getAttribute('data-theme')==='light';
+    return {ink: light?'#0B1220':'#E6EDF7', muted: light?'#4B5768':'#8A97AD', rule: light?'#C9D2E0':'#1F2A40', up:'#16C784', down:'#EA3943', teal:'#00B3E3'};}
+  var charts=[];
+  function apply(){var p=pal();Chart.defaults.font.family='JetBrains Mono, IBM Plex Mono, Menlo, monospace';Chart.defaults.font.size=11;Chart.defaults.color=p.muted;Chart.defaults.borderColor=p.rule;}
+  apply();
+  window.EDK = {
+    pal: pal,
+    repaint: function(){apply();charts.forEach(function(c){var p=pal();c.options.scales.x.grid.color=p.rule;c.options.scales.y.grid.color=p.rule;c.options.scales.x.ticks.color=p.muted;c.options.scales.y.ticks.color=p.muted;c.update();});},
+    hbar: function(id, labels, values, opts){
+      var el=document.getElementById(id); if(!el) return; opts=opts||{}; var p=pal();
+      var colors=values.map(function(v){return v>0?p.up:v<0?p.down:p.muted;});
+      charts.push(new Chart(el,{type:'bar',data:{labels:labels,datasets:[{data:values,backgroundColor:colors,borderRadius:2,maxBarThickness:14}]},
+        options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return (opts.fmt||function(v){return v;})(c.raw);}}}},
+          scales:{x:{grid:{color:p.rule},ticks:{color:p.muted,callback:function(v){return (opts.tick||function(v){return v;})(v);}}},y:{grid:{display:false,color:p.rule},ticks:{color:p.ink,autoSkip:false,font:{size:11}}}}}}));
+    },
+    vbar: function(id, labels, values, opts){
+      var el=document.getElementById(id); if(!el) return; opts=opts||{}; var p=pal();
+      var colors=values.map(function(v){return v>0?p.up:v<0?p.down:p.muted;});
+      charts.push(new Chart(el,{type:'bar',data:{labels:labels,datasets:[{data:values,backgroundColor:colors,borderRadius:2,maxBarThickness:26}]},
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return (opts.fmt||function(v){return v;})(c.raw);}}}},
+          scales:{y:{grid:{color:p.rule},ticks:{color:p.muted,callback:function(v){return (opts.tick||function(v){return v;})(v);}}},x:{grid:{display:false,color:p.rule},ticks:{color:p.ink}}}}}));
+    },
+    line: function(id, dates, values, opts){
+      var el=document.getElementById(id); if(!el) return; opts=opts||{}; var p=pal();
+      var upc = values.length>1 && values[values.length-1]>=values[0];
+      var col = upc?p.up:p.down;
+      var ch=new Chart(el,{type:'line',data:{labels:dates,datasets:[{data:values,borderColor:col,borderWidth:1.6,pointRadius:0,fill:true,
+          backgroundColor:function(ctx){var c=ctx.chart.ctx;var g=c.createLinearGradient(0,0,0,ctx.chart.height);g.addColorStop(0,col+'33');g.addColorStop(1,col+'00');return g;},tension:.15}]},
+        options:{responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:'index',intersect:false},plugins:{legend:{display:false},tooltip:{callbacks:{label:function(c){return (opts.fmt||function(v){return v;})(c.raw);}}}},
+          scales:{x:{grid:{display:false,color:p.rule},ticks:{color:p.muted,maxTicksLimit:7,maxRotation:0}},y:{position:'right',grid:{color:p.rule},ticks:{color:p.muted}}}}});
+      charts.push(ch); return ch;
+    },
+    range: function(ch, dates, values, n){
+      var d=dates.slice(-n), v=values.slice(-n); var p=pal(); var upc=v.length>1&&v[v.length-1]>=v[0]; var col=upc?p.up:p.down;
+      ch.data.labels=d; ch.data.datasets[0].data=v; ch.data.datasets[0].borderColor=col; ch.update();
+    }
+  };
+})();
+</script>
+<script>
+(function(){var b=document.getElementById('tg');if(!b)return;function cur(){return document.documentElement.getAttribute('data-theme')==='light'?'light':'dark';}
+function paint(){b.textContent=cur()==='light'?'Dark':'Light';}
+b.addEventListener('click',function(){var n=cur()==='light'?'dark':'light';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('edk-theme',n);}catch(e){}paint();
+if(window.EDK&&EDK.repaint)EDK.repaint();});paint();})();
+</script></body></html>
