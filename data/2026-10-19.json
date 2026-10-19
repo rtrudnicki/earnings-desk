@@ -2813,12 +2813,231 @@
 "notes": [],
 "macro": {
 "date": "2026-10-19",
-"prints": [],
-"read": null,
-"what_mattered": [],
-"look_at": [],
-"fed": null,
-"snapshot": [],
-"runs": []
+"prints": [
+{
+"time_ct": "07:30",
+"event": "Canada Consumer Price Index, September (Statistics Canada)",
+"period": "September",
+"consensus": "0.2% m/m, 3.2% y/y",
+"actual": null,
+"prior": "-0.1% m/m, 3.0% y/y",
+"unit": "m/m % and y/y %",
+"surprise": null,
+"read": "Only matters to US futures through the energy-inflation read-across; a hot headline would echo last week's US CPI and lean on the front end.",
+"source_url": "https://www150.statcan.gc.ca/n1/dai-quo/cal2-eng.htm"
+},
+{
+"time_ct": "09:00",
+"event": "NAHB/Wells Fargo Housing Market Index",
+"period": "October",
+"consensus": "31",
+"actual": null,
+"prior": "32",
+"unit": "index",
+"surprise": null,
+"read": "Builder sentiment is already deep in contraction after a three-point drop in September; another dip is expected with the 10-year above 5%, so only a print under 30 or a bounce back above 32 moves anything.",
+"source_url": "https://forex.tradingcharts.com/economic_calendar/2026-10-19.html?code=USD"
+},
+{
+"time_ct": "10:30",
+"event": "Treasury 13-week ($95bn) and 26-week ($82bn) bill auctions",
+"period": "Weekly",
+"consensus": null,
+"actual": null,
+"prior": "13-week 4.085%, 26-week 4.200% (previous high rates)",
+"unit": "%",
+"surprise": null,
+"read": "Bill stops read the front end's view of the October 28 meeting; a 26-week stop well above the 13-week keeps the December hike priced.",
+"source_url": "https://www.treasurydirect.gov/TA_WS/securities/upcoming?format=json"
+},
+{
+"time_ct": "21:00",
+"event": "China GDP, third quarter (NBS, released Sunday evening CT)",
+"period": "Q3 2026",
+"consensus": "4.4% y/y",
+"actual": "4.5% y/y",
+"prior": "4.3% y/y",
+"unit": "y/y %",
+"surprise": "+0.1 pp",
+"read": "A small beat on the year-on-year rate, with the quarter-on-quarter pace at 1.2% against 1.1% expected, enough to steady Asia and lift US futures but not a growth story on its own.",
+"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+},
+{
+"time_ct": "21:00",
+"event": "China industrial production, September (NBS)",
+"period": "September",
+"consensus": "5.4% y/y",
+"actual": "5.5% y/y",
+"prior": "5.2% y/y",
+"unit": "y/y %",
+"surprise": "+0.1 pp",
+"read": "In line; factory output is holding up while property investment is down 20.6% year to date.",
+"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+},
+{
+"time_ct": "21:00",
+"event": "China retail sales, September (NBS)",
+"period": "September",
+"consensus": "0.5% y/y",
+"actual": "1.1% y/y",
+"prior": "0.4% y/y",
+"unit": "y/y %",
+"surprise": "+0.6 pp",
+"read": "The clearest beat of the batch, though a 1% consumer is still weak and the fixed-asset investment line stayed at minus 7.2% year to date.",
+"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+}
+],
+"read": {
+"bias": "higher",
+"confidence": "low",
+"call": "A relief bounce after the worst week since June, with S&P futures up about 0.7% and Nasdaq futures up about 1.3% on the China beat and Brent off 1.5% to 2%, but no US data to anchor it, so the chip tape and oil decide whether it holds.",
+"swing": "Oil: Brent near $107 after a tanker hit a mine in the Strait of Hormuz and the White House waived some Russia sanctions; a move back above $110 reverses the bounce and puts the 10-year back toward 5.3%.",
+"drivers": [
+"Friday's selloff was AI financing, not macro: CoreWeave fell 12% with more than $51bn of debt, the Philadelphia semiconductor index fell an eighth straight day, the Nasdaq lost 4.5% on the week.",
+"Rates: the 10-year sits near 5.07% to 5.09% after spiking to 5.33% on Wednesday's CPI; Treasuries extended their rally overnight as oil slipped.",
+"Fed: blackout started Saturday ahead of the October 27-28 meeting; FedWatch prices about a 16-17% chance of an October hike and roughly 89-90% for December from the current 3.75-4.00% range.",
+"China: Q3 GDP 4.5% and retail sales 1.1% both beat, the yuan hit 6.68, its strongest since July 2022, supportive for risk at the margin.",
+"The US calendar is empty of hard data all week; the only scheduled items are housing (NAHB today, starts tomorrow), claims Thursday and flash PMIs Friday, so earnings carry the tape."
+]
+},
+"what_mattered": [
+{
+"headline": "China Q3 GDP beat and retail sales doubled expectations",
+"fact": "GDP 4.5% y/y vs 4.4% consensus (q/q 1.2% vs 1.1%); September retail sales 1.1% vs 0.5%; industrial output 5.5% in line; property investment -20.6% year to date.",
+"implication": "Enough to lift Nasdaq futures about 1.3% in Asian hours and firm the yuan; the property line says the floor, not an upturn.",
+"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+},
+{
+"headline": "Oil fell on a Russia sanctions waiver despite a Hormuz mine strike",
+"fact": "Brent down about 1.5% to 2% overnight to roughly $107-108 after settling at $109.86 Friday (+4.9% on the week); Iran said a tanker hit a naval mine in the Strait of Hormuz; tanker rates at record highs.",
+"implication": "Oil is the inflation channel the Fed is reacting to (September CPI energy +5.2% m/m); a lower open in crude is why Treasuries rallied and futures are green.",
+"source_url": "https://www.investing.com/news/economy-news/morning-bid-markets-left-to-figure-out-sanctions-4956314"
+},
+{
+"headline": "Friday: Nasdaq -2.1%, S&P -1.1%, led by chips and AI credit",
+"fact": "S&P 500 7,659.44 (-1.9% on the week, worst since June), Nasdaq 26,140.03 (-4.5% on the week), Russell 2000 -1.7%; Micron -5.6%, Intel -5.8%, CoreWeave -12%.",
+"implication": "The selloff is about AI capex financing and the cost of capital at a 5% 10-year, which makes Meta's Wednesday capex guide the week's real macro event.",
+"source_url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+},
+{
+"headline": "Warsh gave no rate guidance; October hike odds fell to about 17%",
+"fact": "At the IMF meeting in Bangkok Chair Warsh said the Fed is 'not in that business anymore' on forward guidance; CME FedWatch 17% for an October hike (from 28%), 89% for December; 10-year about 5.09%, had spiked to 5.33% after CPI.",
+"implication": "The blackout freezes Fed talk until October 28, so rates trade on oil and auctions this week, with Wednesday's $13bn 20-year reopening the test of the Treasury rally.",
+"source_url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
+},
+{
+"headline": "Last week's inflation and sentiment backdrop",
+"fact": "September CPI +0.6% m/m, 3.7% y/y (core 2.6%); September payrolls +29k, unemployment 4.2%; Michigan preliminary October sentiment 46.3 vs 48.1, 1-year inflation expectations 4.7%, long-run 3.5%.",
+"implication": "Hot headline inflation on energy with a soft labor market and sour consumers is the stagflation setup the market is pricing into a December hike; GDPNow still has Q3 at 3.6%.",
+"source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+}
+],
+"look_at": [
+"Brent against $110 at the US open: it drove Friday's late rally in energy and the overnight bond bid, and a reversal higher is the fastest way to lose the futures gain.",
+"Semiconductors and CoreWeave at the open: the Philadelphia semiconductor index has fallen eight sessions running and whether it bounces with futures tells you if Friday was capitulation or a pause.",
+"The 10-year around 5.07%: a close back under 5.05% with oil soft would confirm the Treasury rally; the $13bn 20-year reopening Wednesday is the real test.",
+"NAHB at 09:00 CT: the only US print; a sub-30 reading would be the lowest since 2012 and feed the growth-scare side of the stagflation trade.",
+"Bank earnings today (Fifth Third, Zions, Western Alliance) for credit and deposit cost commentary after a 25 bp hike cycle restart; Netflix Tuesday and Meta, Tesla, Texas Instruments and Lam Wednesday are where AI capex gets re-priced."
+],
+"fed": {
+"next_meeting": "2026-10-28",
+"market_pricing": "Target range 3.75-4.00% after the September 16 hike. CME FedWatch about 17% for a 25 bp hike on October 28 (hold about 83-84%), roughly 89-90% for a December hike (Yahoo/Investopedia Oct 16, FXStreet Oct 19). Blackout began Saturday October 17.",
+"speakers_today": []
+},
+"snapshot": [
+{
+"label": "S&P 500 futures",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Nasdaq futures",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Russell 2000 futures",
+"value": null,
+"change_pct": null
+},
+{
+"label": "S&P 500 (prior close)",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Nasdaq (prior close)",
+"value": null,
+"change_pct": null
+},
+{
+"label": "10Y Treasury yield %",
+"value": null,
+"change_pct": null
+},
+{
+"label": "30Y Treasury yield %",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Dollar index (DXY)",
+"value": null,
+"change_pct": null
+},
+{
+"label": "WTI crude $",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Brent crude $",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Nat gas (Henry Hub) $",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Gold $",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Bitcoin $",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Nikkei 225",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Hang Seng",
+"value": null,
+"change_pct": null
+},
+{
+"label": "Euro Stoxx 50",
+"value": null,
+"change_pct": null
+},
+{
+"label": "XBI (biotech ETF, prior close)",
+"value": null,
+"change_pct": null
+}
+],
+"runs": [
+{
+"slot": "morning",
+"at": "2026-10-19T02:29:43-05:00",
+"rows": 6
+}
+],
+"snapshot_at": "2026-10-19T02:29:44-05:00"
 }
 }
