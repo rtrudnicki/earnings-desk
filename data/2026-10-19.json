@@ -165,8 +165,8 @@
 "call_et": "7:30 AM",
 "eps_est": "2.01",
 "yr_ago_eps": "1.66",
-"rev_est": "",
-"implied_move": "",
+"rev_est": "12.88",
+"implied_move": "0.061",
 "watch": "Aerospace bellwether: full-year guidance change; commercial engine and services demand.",
 "notes_raw": "GE Call Notes 10-20",
 "notes_link": null
@@ -183,8 +183,8 @@
 "call_et": "8:30 AM",
 "eps_est": "3.52",
 "yr_ago_eps": "2.8",
-"rev_est": "",
-"implied_move": "",
+"rev_est": "48.76",
+"implied_move": "0.059",
 "watch": "FY26 adj. EPS guide is $12-14 (raised in July): does the range hold, rise or fall? Release ~6:30 AM, call 8:30 AM.",
 "notes_raw": "GM Call Notes 10-20",
 "notes_link": null
@@ -2036,13 +2036,13 @@
 "EPS Est": "$2.01",
 "EPS Actual": "",
 "EPS Surprise": "",
-"Rev Est ($B)": "",
+"Rev Est ($B)": "$12.9",
 "Rev Actual ($B)": "",
 "Rev Surprise": "",
 "Guidance vs Street": "",
 "Key KPI to Check": "FY guide; orders",
 "KPI Result": "",
-"Implied Move": "",
+"Implied Move": "6.1%",
 "Actual Move (T+1)": "",
 "Move / Implied": "",
 "Verdict": "",
@@ -2055,13 +2055,13 @@
 "EPS Est": "$3.52",
 "EPS Actual": "",
 "EPS Surprise": "",
-"Rev Est ($B)": "",
+"Rev Est ($B)": "$48.8",
 "Rev Actual ($B)": "",
 "Rev Surprise": "",
 "Guidance vs Street": "",
 "Key KPI to Check": "FY adj. EPS guide ($12-14)",
 "KPI Result": "",
-"Implied Move": "",
+"Implied Move": "5.9%",
 "Actual Move (T+1)": "",
 "Move / Implied": "",
 "Verdict": "",
@@ -2810,7 +2810,977 @@
 "_row": 53
 }
 },
-"notes": [],
+"notes": [
+{
+"ticker": "GE",
+"company": "GE Aerospace",
+"quarter": "Q3FY26",
+"author": null,
+"call_date": "2026-10-20",
+"session": "pre",
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "typed",
+"doc_url": "https://docs.google.com/document/d/1sBQz3qrfECYGdwZOMCqvV1sS1LTh8uxlMHAMOK25ddI/edit",
+"updated_at": "2026-10-19T14:30:13-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": [
+{
+"name": "H. Lawrence Culp, Jr.",
+"role": "Chairman and CEO",
+"note": "Owns the FLIGHT DECK and capacity story; framed the CPP deal on 9/8"
+},
+{
+"name": "Rahul Ghai",
+"role": "CFO",
+"note": "Gave the CFM56 retirement and removal figures the 2027 debate runs on; said more 2027 detail comes in October and January"
+},
+{
+"name": "Blaire Shoor",
+"role": "Investor Relations",
+"note": "Moderator"
+}
+]
+},
+"A2": {
+"cons_rev": "$12.88B adjusted revenue (13 analysts, $12.55B to $13.13B), +13.9% vs $11.3B in 3Q25. Zacks: $12.7B",
+"cons_eps": "$2.02 adjusted (Nasdaq, 7 estimates, $2.00 to $2.08, 1 revision up in 4 weeks); Yahoo $2.01 (18, $1.96 to $2.09). 3Q25: $1.66",
+"cons_gaap_eps": null,
+"steering_metric": "CES services revenue growth (guided low 20s for 2026) and what Ghai says about 2027 services",
+"steering_cons": "Zacks segment consensus: CES revenue ~$9.71B, DPT ~$3.40B",
+"buyside_bar": "Analysis: a beat is assumed (four straight, 11.7% average surprise per Zacks). The bar is a 2027 services outlook of double digits, plus FY26 EPS raised to at least the $7.91 the Street already carries",
+"implied_move": "\u00b16.1% through Fri 10/23: $312.50 straddle $19.00 vs spot $313.24 (Cboe delayed, 10/19), ATM IV ~72%",
+"price_into": "$313.83 close Fri 10/16; ~$313.24 intraday 10/19. About 19-20% below the $388.84 intraday record of 8/6",
+"one_month_move": "+0.3% (9/16 $312.90 to 10/16 $313.83) vs XLI -0.6% over the same days",
+"short_interest": null,
+"last_quarter": "2Q26 (7/16): adjusted EPS $2.02 vs $1.86 consensus, adjusted revenue $12.6B +24%, FY guide raised on every line; operating margin 21.7%, down 130 bps. Stock -4.1% on the day ($359.80 to $345.21)"
+},
+"A3": {
+"rows": [
+{
+"item": "Adjusted EPS FY26",
+"prior": "$7.65 to $7.85 (raised 7/16 from $7.10 to $7.40); H1 actual $3.88",
+"street": "$7.91 FY (Nasdaq, $7.82 to $8.00); Q3 $2.02 + Q4 $2.02",
+"implied_rest": "Guide implies H2 $3.77 to $3.97; Street H2 $4.04, above the top"
+},
+{
+"item": "Adjusted revenue FY26",
+"prior": "High-teens growth on $42.3B (2025)",
+"street": "$50.36B (+19.0%); Q3 $12.88B, Q4 $13.29B",
+"implied_rest": "Analysis: high-teens (17% to 19%) is $49.5B to $50.3B, so H2 $25.2B to $26.1B; Street H2 $26.17B, at or above the top"
+},
+{
+"item": "Operating profit FY26",
+"prior": "$10.55B to $10.75B (from $9.85B to $10.25B); H1 $5.27B",
+"street": null,
+"implied_rest": "H2 $5.28B to $5.48B"
+},
+{
+"item": "Free cash flow FY26",
+"prior": "$8.9B to $9.2B, >100% conversion; H1 $4.69B",
+"street": null,
+"implied_rest": "H2 $4.2B to $4.5B"
+},
+{
+"item": "CES operating profit FY26",
+"prior": "$10.25B to $10.35B; revenue ~+20%, services low 20s, equipment ~+20%; H1 $5.01B",
+"street": "Q3 CES revenue ~$9.71B (Zacks)",
+"implied_rest": "H2 $5.24B to $5.34B"
+},
+{
+"item": "DPT operating profit FY26",
+"prior": "$1.6B to $1.7B; revenue low double digits; H1 $0.86B",
+"street": "Q3 DPT revenue ~$3.40B (Zacks)",
+"implied_rest": "H2 $0.75B to $0.85B"
+}
+],
+"acceleration_note": "Analysis: Street Q3 revenue growth of ~14% is a sharp step down from 24% in Q2 and 27% in H1. Either the Street is too low on Q3 or it is already modelling the services slowdown Melius describes. EPS is the reverse: the Street is above the top of the FY guide, so a guide that only nudges the top end could still read as a miss"
+},
+"A4": {
+"debates": [
+{
+"debate": "2027 aftermarket: does services growth hold double digits or slow to high single digits?",
+"lean": "Analysis: the data Ghai has given leans to double digits. CFM56 retirements ~2% in 2026 and ~3% in 2027 vs the 3% to 4% GE planned on, shop visits nearer 2,400 than 2,300, removals up more than 10% in H1 2027",
+"settles_on": "Ghai's first 2027 services framing on this call, and whether CFM56 retirement and removal figures hold"
+},
+{
+"debate": "Margins: is the 130 bp drop in Q2 operating margin mix and investment, or lasting?",
+"lean": "Analysis: mostly mix (LEAP and GE9X installs, equipment +30%) plus FLIGHT DECK spending, but the stock punished it once already",
+"settles_on": "Q3 CES margin vs 27.3% in Q2 and 28.9% a year ago, and the Q4 margin implied by the FY operating profit guide"
+},
+{
+"debate": "CPP at $11.75B: capacity insurance or an expensive tuck-in?",
+"lean": "Analysis: strategic (castings and airfoils are the bottleneck, airfoil demand >30%), but ~26x 2027 EBITDA before synergies and $4.75B of new debt",
+"settles_on": "Whether management ties CPP to faster shop-visit turns and LEAP durability-kit rollout, plus any change to buyback pace"
+}
+]
+},
+"A5": {
+"bull": "Analysis: beat, FY EPS raised above $7.91, services growth kept in the low 20s and 2027 framed as double-digit services with removals rising. That undercuts Melius and the stock retakes part of the 20% drawdown, likely beyond the 6% implied move",
+"bear": "Analysis: services decelerate visibly in Q3, CES margin down again, and 2027 framed as normalising. That confirms the Melius call; with ~39x forward earnings there is room for a move larger than the implied 6%",
+"beat_and_down": "Analysis: the July pattern repeats. Beat and small raise, but FY EPS lands at or below the $7.91 already in the numbers or margins fall again, and the stock falls anyway"
+},
+"A6": {
+"inputs": [
+{
+"input": "FY26 adjusted EPS guide",
+"current": "$7.65 to $7.85",
+"source_line": "2Q26 release, FY2026 guidance table"
+},
+{
+"input": "FY26 operating profit guide",
+"current": "$10.55B to $10.75B",
+"source_line": "2Q26 release, FY2026 guidance table"
+},
+{
+"input": "FY26 FCF guide",
+"current": "$8.9B to $9.2B",
+"source_line": "2Q26 release, FY2026 guidance table"
+},
+{
+"input": "Diluted shares",
+"current": "~1,046M (derived: $2,405M GAAP continuing net income / $2.30 EPS, 2Q26)",
+"source_line": "2Q26 release, adjusted net income reconciliation"
+},
+{
+"input": "Backlog",
+"current": "Over $210B",
+"source_line": "2Q26 release, CEO quote"
+},
+{
+"input": "CPP purchase price and funding",
+"current": "$11.75B: $7B cash, rest new debt; close H2 2027",
+"source_line": "8-K 9/8/2026, Ex 99.2"
+}
+]
+},
+"A7": {
+"questions": [
+"Services growth in 2027: removals up more than 10% in the first half and CFM56 retirements near 3%. Does that add up to double-digit services growth next year, and what would take it down to high single digits?",
+"CES margin fell 160 bps in Q2 on installs, investment and inflation. How much of that reverses in the second half, and what is the CES margin exit rate for 2026?",
+"CPP adds $4.75B of new debt. Does it change the pace of buybacks over the next 12 months, and when does CPP capacity start to shorten shop-visit turn times?"
+]
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"A9": {
+"street": {
+"ratings": "Moderate Buy: 16 Buy, 3 Hold, 1 Sell (MarketBeat, 20 brokers, 10/15). Stockanalysis: Buy, 23 analysts",
+"targets": "Mean $386.67 (MarketBeat); $391.19 (Stockanalysis); ~23% above the 10/16 close",
+"consensus_view": "Analysis: the Street still rates it a Buy on the services runway; the pressure is valuation (~39x forward EPS) and the 2027 aftermarket, which is where the cuts have come from",
+"changes": [
+{
+"date": "2026-09-14",
+"firm": "Melius Research",
+"action": "Downgrade to Hold from Buy",
+"target": "$432 to $350",
+"why": "Aftermarket growth could slow to high single digits in 2027"
+},
+{
+"date": null,
+"firm": "Deutsche Bank",
+"action": "Target cut",
+"target": "$450 to $377",
+"why": null
+},
+{
+"date": null,
+"firm": "Jefferies",
+"action": "Buy kept, target trimmed",
+"target": "$455 to $435",
+"why": "Ahead of Q3"
+},
+{
+"date": null,
+"firm": "Bernstein",
+"action": "Outperform reiterated",
+"target": "$421",
+"why": "Ahead of Q3"
+}
+]
+},
+"ours": {
+"analyst": null,
+"lean": null,
+"expected_move": null,
+"why": null,
+"vs_street": null
+}
+},
+"sources": [
+{
+"label": "Nasdaq earnings forecast (quarterly and FY EPS consensus)",
+"url": "https://api.nasdaq.com/api/analyst/GE/earnings-forecast"
+},
+{
+"label": "Nasdaq earnings calendar 10/20/2026",
+"url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
+},
+{
+"label": "Yahoo Finance GE analysis (revenue and EPS estimates)",
+"url": "https://finance.yahoo.com/quote/GE/analysis/"
+},
+{
+"label": "Cboe delayed GE options chain (10/23 expiry straddle)",
+"url": "https://cdn-api.cboe.com/api/global/delayed_quotes/options/GE.json"
+},
+{
+"label": "GE 2Q26 earnings release, 8-K Ex 99 (7/16/2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000047/ge2q2026earningsrelease.htm"
+},
+{
+"label": "GE to acquire CPP, 8-K Ex 99.2 (9/8/2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/40545/000095014226002501/eh260827362_ex9902.htm"
+},
+{
+"label": "GE Lead Director change, 8-K Ex 99.1 (9/22/2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000059/ex990120260922.htm"
+},
+{
+"label": "Alphastreet Q3 preview (consensus range)",
+"url": "https://news.alphastreet.com/ge-aerospace-q3-2026-earnings-preview-october-20-street-expects-2-01-eps/"
+},
+{
+"label": "Yahoo/Zacks: What to expect from GE's Q3 2026 (segment consensus, surprise history)",
+"url": "https://finance.yahoo.com/markets/stocks/articles/expect-ge-aerospaces-q3-2026-183051789.html"
+},
+{
+"label": "TIKR: CFM56 retirement data and 2027 (Ghai quotes, Melius call)",
+"url": "https://www.tikr.com/blog/ge-aerospace-stock-is-17-below-its-high-heres-what-its-cfm56-retirement-data-means-for-2027"
+},
+{
+"label": "Stocktwits: Melius downgrades five aviation names",
+"url": "https://stocktwits.com/news-articles/markets/equity/5-aviation-stocks-slide-melius-warns-years-of-robust-aftermarket-growth-ending/cZtmcbvRBRF"
+},
+{
+"label": "Barchart via Yahoo: put/call 1.12x, forward P/E ~39x, mean target ~$386",
+"url": "https://finance.yahoo.com/markets/stocks/articles/ahead-ge-aerospace-earnings-heres-133402802.html"
+},
+{
+"label": "Prices: GE and XLI daily closes (catalyst_calendar.market_data bars)",
+"url": "https://www.nasdaq.com/market-activity/stocks/ge/historical"
+},
+{
+"label": "MarketBeat: GE consensus target $386.67 (10/15/2026)",
+"url": "https://www.marketbeat.com/instant-alerts/consensus-ge-aerospace-nyse-ge-stock-has-consensus-price-target-of-38667-according-to-analysts-2026-10-15/"
+},
+{
+"label": "Stockanalysis GE (23 analysts, $391.19)",
+"url": "https://stockanalysis.com/stocks/ge/"
+},
+{
+"label": "Investing.com: Bernstein reiterates GE",
+"url": "https://www.investing.com/news/analyst-ratings/bernstein-reiterates-ge-aerospace-stock-rating-on-strong-outlook-93CH-4954323"
+},
+{
+"label": "Goldesel: Melius cuts GE to Hold, $350",
+"url": "https://goldesel.de/aktien/news/ge-aerospace-melius-research-stuft-aktie-auf-hold-mit-350-dollar-kursziel-ab"
+}
+]
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "GM",
+"company": "General Motors",
+"quarter": "Q3FY26",
+"author": "AI",
+"call_date": "2026-10-20",
+"session": "pre",
+"call_time_et": null,
+"priority": null,
+"bio": false,
+"source": "ai",
+"doc_url": "https://docs.google.com/document/d/1vHWWXMsSLwi4TzaOG3G3o0KgDMD7kMJ7YVqcgTCSQzI/edit",
+"updated_at": "2026-10-19T14:30:18-05:00",
+"O": {
+"O1": {
+"business": null,
+"how_it_makes_money": null,
+"thesis_bull": null,
+"thesis_bear": null,
+"kpis": [],
+"valuation": null,
+"change_mind": null,
+"owner": null,
+"updated": null
+}
+},
+"A": {
+"A1": {
+"speakers": [
+{
+"name": "Mary Barra",
+"role": "Chair and CEO",
+"note": "Hosted the Q2 call with the CFO; shareholder letter posted with results"
+},
+{
+"name": "Paul Jacobson",
+"role": "CFO",
+"note": "Owns guidance, tariff offset and capital return math"
+},
+{
+"name": "Ashish Kohli",
+"role": "Investor Relations",
+"note": "IR contact on the Q2 release"
+}
+]
+},
+"A2": {
+"cons_rev": "$48.76B (Yahoo, 13 ests, range $46.0B to $51.11B) vs $48.59B a year ago, +0.35%",
+"cons_eps": "$3.55 adjusted (Nasdaq, 6 ests, range $3.44 to $3.66, 3 up revisions in 4 weeks); Yahoo $3.63 (15 ests); year ago $2.80",
+"cons_gaap_eps": null,
+"steering_metric": "EBIT-adjusted and the FY26 EPS-diluted-adjusted guide ($12.00 to $14.00)",
+"steering_cons": "FY26 adjusted EPS consensus $13.53 (Nasdaq, 8 ests, $13.25 to $13.92); Yahoo $13.42 (21 ests)",
+"buyside_bar": "Analysis: a beat is expected (12 straight beats per Benzinga); the bar is a third FY raise or at least a held range with a clean Q4 bridge, since the street already sits above the guide midpoint of $13.00",
+"implied_move": "\u00b15.9% through Oct 23 ($83 straddle $4.89 vs spot $82.57, Cboe delayed; IV 70)",
+"price_into": "$83.96 close Oct 16; $82.57 on Oct 19 (Cboe delayed)",
+"one_month_move": "-0.4% (Sep 16 to Oct 16) vs XLY +2.1%",
+"short_interest": null,
+"last_quarter": "Q2 (Jul 21): adjusted EPS $3.57 vs $3.13 consensus; EBIT-adjusted $3.94B, +30%; revenue $48.0B, +1.9%; GAAP EPS $1.41 after a $2.28B EV strategic realignment charge; FY guide raised for the second time (EBIT-adj $14.0B to $16.0B, EPS-adj $12.00 to $14.00). Stock +4.9% close to close on the day ($75.80 to $79.52)"
+},
+"A3": {
+"rows": [
+{
+"item": "EPS-diluted-adjusted",
+"prior": "FY26 $12.00 to $14.00 (H1 actual $7.27)",
+"street": "Q3 $3.55 + Q4 $2.70 = $6.25 H2 (Nasdaq); FY $13.53",
+"implied_rest": "Derived: H2 $4.73 to $6.73; street H2 sits in the upper half, FY street $0.53 above the guide midpoint"
+},
+{
+"item": "EBIT-adjusted",
+"prior": "FY26 $14.0B to $16.0B (H1 actual $8.20B)",
+"street": null,
+"implied_rest": "Derived: H2 $5.80B to $7.80B, i.e. $2.9B to $3.9B a quarter vs Q2 $3.94B"
+},
+{
+"item": "Adjusted automotive FCF",
+"prior": "FY26 $9.5B to $11.5B (H1 actual $6.30B)",
+"street": null,
+"implied_rest": "Derived: H2 $3.2B to $5.2B"
+},
+{
+"item": "Net income attributable to stockholders",
+"prior": "FY26 $8.4B to $9.8B (includes $3.5B of adjustments; H1 actual $3.93B)",
+"street": null,
+"implied_rest": "Derived: H2 $4.5B to $5.9B before any new special items"
+},
+{
+"item": "Revenue",
+"prior": "No revenue guide",
+"street": "Q3 $48.76B, FY $185.91B (Yahoo)",
+"implied_rest": null
+}
+],
+"acceleration_note": "Analysis: the street has Q4 EPS at $2.70 vs Q3 $3.55, a step down of about 24%. Either the street is baking in seasonality and tariff costs that management has not flagged, or there is room for an H2 raise. Q3 U.S. deliveries fell about 6% (670,974 units), so the beat has to come from price, mix and cost, not volume."
+},
+"A4": {
+"debates": [
+{
+"debate": "Is the FY26 guide raised a third time, or does weak Q3 U.S. volume (-6%) and a Q4 step down cap it?",
+"lean": "Analysis: hold or modest raise; H1 already banked $7.27 of the $12 to $14 range",
+"settles_on": "The FY EPS and EBIT-adjusted range and the Q4 bridge Jacobson gives (pricing, warranty, tariff timing)"
+},
+{
+"debate": "Truck and full-size SUV pricing and mix with fuel prices high: does GMNA margin (8.6% in Q2) hold?",
+"lean": "Analysis: margin holds in Q3 on mix, the risk is Q4 and 2027 incentives",
+"settles_on": "GMNA EBIT-adjusted margin, incentive spend as % of ATP, dealer inventory days, any comment on buyers trading down from full-size"
+},
+{
+"debate": "How much more EV write-down is left and where does cash go: buybacks vs EV restructuring cash",
+"lean": "Analysis: more special items likely; the guide already carries $3.5B of adjustments and EV write-downs total about $11B",
+"settles_on": "Size of any new EV strategic realignment charge, cash cost of the restructuring, the buyback pace (diluted shares 910M in Q2 vs 976M a year earlier) and the net tariff cost range"
+}
+]
+},
+"A5": {
+"bull": "Beat near $3.60 plus a third raise (EPS top end above $14) and a firm net tariff number: stock likely clears the $84.62 to $90 resistance area and moves more than the 5.9% implied",
+"bear": "In-line Q3, guide held with Q4 commentary pointing to incentives and lower truck mix, plus a large new EV charge: a move toward or below the 5.9% downside, testing the high $70s",
+"beat_and_down": "Analysis: most likely failure mode is a beat on price/cost with a held range and cautious 2027 language on pricing, tariffs or EV cash, which reads as peak margin"
+},
+"A6": {
+"inputs": [
+{
+"input": "Diluted weighted shares",
+"current": "910M (Q2 2026) vs 976M (Q2 2025)",
+"source_line": "Q2 2026 8-K Ex 99.1, diluted EPS table"
+},
+{
+"input": "FY26 EPS-diluted-adjusted guide",
+"current": "$12.00 to $14.00",
+"source_line": "Q2 2026 8-K Ex 99.1, guidance table"
+},
+{
+"input": "FY26 EBIT-adjusted guide",
+"current": "$14.0B to $16.0B",
+"source_line": "Q2 2026 8-K Ex 99.1, guidance table"
+},
+{
+"input": "FY26 adjusted automotive FCF guide",
+"current": "$9.5B to $11.5B; capex $10.0B to $12.0B",
+"source_line": "Q2 2026 8-K Ex 99.1, FCF reconciliation"
+},
+{
+"input": "FY26 adjustments in net income guide",
+"current": "$3.5B (H1 actual $3.455B: EV strategic realignment $3.356B, China restructuring $99M)",
+"source_line": "Q2 2026 8-K Ex 99.1, EBIT-adjusted reconciliation"
+},
+{
+"input": "Gross tariff cost FY26",
+"current": "$2.5B to $3.5B (secondary coverage of the Q2 call; unconfirmed in the release)",
+"source_line": "dealershipguy / analyticsinsight Q2 coverage"
+},
+{
+"input": "Supplier inventory financing program",
+"current": "Up to $4.5B of IPUs, SOFR + 1.55%, signed Aug 7, 2026",
+"source_line": "8-K filed 2026-08-11, Item 1.01"
+}
+]
+},
+"A7": {
+"questions": [
+"The street has Q4 EPS about 24% below Q3. Walk us from Q3 to Q4: how much is seasonality, how much is tariff timing, and how much is incentives on full-size trucks and SUVs?",
+"With U.S. deliveries down about 6% in Q3 and fuel prices high, what share of full-size buyers are trading down, and what does that do to GMNA margin in 2027 if it persists?",
+"How much of the EV restructuring is still to come in charges and in cash, and does that cash change the buyback pace from here?"
+]
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"A9": {
+"street": {
+"ratings": "Moderate Buy: 1 Strong Buy, 19 Buy, 6 Hold, 1 Sell (MarketBeat); 13 of 14 Buy (price-target.com)",
+"targets": "Mean $101.22 (MarketBeat); median $103 (price-target.com, 14 firms); ~21% above the 10/16 close",
+"consensus_view": "Analysis: the Street is constructive on pricing, buybacks and the raised guide; target moves into the print were mixed, no rating changes in the last week",
+"changes": [
+{
+"date": "2026-10-12",
+"firm": "JPMorgan",
+"action": "Overweight kept, target cut",
+"target": "$120 to $110",
+"why": null
+},
+{
+"date": "2026-10-12",
+"firm": "RBC Capital",
+"action": "Outperform kept, target raised",
+"target": "$100 to $102",
+"why": null
+},
+{
+"date": "2026-10-07",
+"firm": "UBS",
+"action": "Buy kept, target trimmed",
+"target": "$114 to $112",
+"why": null
+},
+{
+"date": null,
+"firm": "Goldman Sachs",
+"action": "Buy kept, target raised",
+"target": "$103 to $112",
+"why": null
+},
+{
+"date": "2026-10-09",
+"firm": "Deutsche Bank",
+"action": "Buy reaffirmed",
+"target": "$101",
+"why": null
+},
+{
+"date": "2026-10-15",
+"firm": "Morgan Stanley",
+"action": "Rating kept",
+"target": "$101",
+"why": null
+}
+]
+},
+"ours": {
+"analyst": null,
+"lean": null,
+"expected_move": null,
+"why": null,
+"vs_street": null
+}
+},
+"sources": [
+{
+"label": "Week sheet row (Tue 10-20, row 7)",
+"url": "https://docs.google.com/spreadsheets/d/1e3oh7m0YqP2f9dO6knpPhTutrnsoOtH0NPgLkauOqq0"
+},
+{
+"label": "Q2 2026 results, 8-K Ex 99.1 (Jul 21, 2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000049/gmq22026pressreleaseandfin.htm"
+},
+{
+"label": "8-K Item 1.01 supplier IPU program (filed Aug 11, 2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312526344698/d145571d8k.htm"
+},
+{
+"label": "Nasdaq earnings calendar Oct 20, 2026",
+"url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
+},
+{
+"label": "Nasdaq analyst EPS forecast (quarterly and yearly)",
+"url": "https://api.nasdaq.com/api/analyst/GM/earnings-forecast"
+},
+{
+"label": "Nasdaq EPS history (beats)",
+"url": "https://api.nasdaq.com/api/quote/GM/eps"
+},
+{
+"label": "Yahoo Finance analysis (revenue and EPS consensus)",
+"url": "https://finance.yahoo.com/quote/GM/analysis/"
+},
+{
+"label": "Cboe delayed options chain, GM",
+"url": "https://cdn-api.cboe.com/api/global/delayed_quotes/options/GM.json"
+},
+{
+"label": "Daily closes GM and XLY (market_data bars, Nasdaq historical)",
+"url": "https://api.nasdaq.com/api/quote/GM/historical?assetclass=stocks"
+},
+{
+"label": "Alphastreet Q3 preview ($3.63 EPS)",
+"url": "https://news.alphastreet.com/general-motors-q3-2026-earnings-preview-october-20-street-expects-3-63-eps/"
+},
+{
+"label": "Benzinga Q3 preview (beat streak)",
+"url": "https://www.benzinga.com/trading-ideas/previews/26/10/62415307/general-motors-q3-preview-can-detroits-beat-machine-keep-rolling"
+},
+{
+"label": "Tradingkey: Q3 U.S. sales, $84.62 resistance",
+"url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262220891-general-motors-stock-forecast-q3-earnings-triangle-breakout-october-17-2026-tradingkey"
+},
+{
+"label": "Yahoo: GM and Ally earnings preview",
+"url": "https://finance.yahoo.com/markets/stocks/articles/gm-ally-earnings-preview-wall-130537201.html"
+},
+{
+"label": "GuruFocus: JPMorgan PT cut to $110 (Oct 12)",
+"url": "https://www.gurufocus.com/news/9119592/gm-maintained-by-jp-morgan-price-target-lowered-to-110"
+},
+{
+"label": "Q2 tariff range coverage",
+"url": "https://news.dealershipguy.com/p/gm-ford-stellantis-navigate-billions-in-tariff-costs-as-q2-results-diverge"
+},
+{
+"label": "Q2 EV write-down coverage",
+"url": "https://www.analyticsinsight.net/news/gm-q2-earnings-beat-estimates-as-automaker-lifts-full-year-profit-outlook"
+},
+{
+"label": "MarketBeat: JPMorgan cuts GM target (10/12/2026), consensus $101.22",
+"url": "https://www.marketbeat.com/instant-alerts/analyst-general-motors-nyse-gm-stock-gets-price-target-cut-from-jpmorgan-chase-co-2026-10-12/"
+},
+{
+"label": "price-target.com GM (median $103, 14 firms)",
+"url": "https://price-target.com/automotive/gm/"
+},
+{
+"label": "Defense World: GM weekly ratings changes (10/19/2026)",
+"url": "https://www.defenseworld.net/2026/10/19/general-motors-gm-analysts-weekly-ratings-changes.html"
+},
+{
+"label": "ad-hoc-news: Morgan Stanley holds $101 GM target",
+"url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/morgan-stanley-holds-usd-101-00-target-for-general-motors-stock/70340615"
+}
+]
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+}
+],
 "macro": {
 "date": "2026-10-19",
 "prints": [
