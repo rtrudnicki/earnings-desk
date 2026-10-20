@@ -420,8 +420,8 @@
 "rev_est": "12.872",
 "implied_move": "0.0892",
 "watch": "Own Q3 guide: rev $12.86B (+11.7% YoY), op margin 33.2%, EPS $0.82. Options imply ~9% move. Letter ~4:01 PM, interview 4:45 PM.",
-"notes_raw": "NFLX Call Notes 10-20",
-"notes_link": null
+"notes_raw": "=HYPERLINK(\"https://docs.google.com/document/d/15e_sjWdJNEI4cxbAb05jToPa1ATGZToQA2oxA1D5WJk/edit\",\"NFLX Call Notes 10-20\")",
+"notes_link": "https://docs.google.com/document/d/15e_sjWdJNEI4cxbAb05jToPa1ATGZToQA2oxA1D5WJk/edit"
 },
 {
 "tab": "Tue 10-20",
@@ -435,11 +435,11 @@
 "call_et": "4:30 PM",
 "eps_est": "0.147",
 "yr_ago_eps": "",
-"rev_est": "12.875",
-"implied_move": "0.068",
+"rev_est": "13",
+"implied_move": "0.07",
 "watch": "Company-announced Tue 3:30 PM CT (= 4:30 PM ET) per TipRanks. No consensus found - fill in.",
-"notes_raw": "SPCX Call Notes 10-20",
-"notes_link": null
+"notes_raw": "=HYPERLINK(\"https://docs.google.com/document/d/1GCyayooWNxdRIXX4tOzEu8LANfXoor75usw0aQEBe9c/edit\",\"SPCX Call Notes 10-20\")",
+"notes_link": "https://docs.google.com/document/d/1GCyayooWNxdRIXX4tOzEu8LANfXoor75usw0aQEBe9c/edit"
 },
 {
 "tab": "Tue 10-20",
@@ -2188,13 +2188,13 @@
 "EPS Est": "$0.15",
 "EPS Actual": "",
 "EPS Surprise": "",
-"Rev Est ($B)": "$12.9",
+"Rev Est ($B)": "$13.0",
 "Rev Actual ($B)": "",
 "Rev Surprise": "",
 "Guidance vs Street": "",
 "Key KPI to Check": "Headline KPI (set after release)",
 "KPI Result": "",
-"Implied Move": "6.8%",
+"Implied Move": "7.0%",
 "Actual Move (T+1)": "",
 "Move / Implied": "",
 "Verdict": "",
@@ -4093,6 +4093,1192 @@
 },
 "C12": {
 "bottom_line": "GM beat Q3 on revenue ($50.0B vs $48.76B) and adjusted EPS ($3.70 vs $3.55 Nasdaq, $3.63 Yahoo), with GMNA margin at 8.7%, a raised FCF guide and a new $20B buyback. The FY EPS range narrowed to $12.75 to $13.75 and the EBIT midpoint stayed at $15.0B, which implies Q4 EPS of $1.78 to $2.78 against a street $2.70, and management flagged about $2B of commodity and logistics cost this year with more in 2027 and no offsets yet. Analysis: the stock was down about 8.5% at midday, beyond the 5.9% implied move, because the market is trading the 2027 cost risk rather than the Q3 beat, and January guidance is the next real test."
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "NFLX",
+"company": "Netflix",
+"quarter": "Q3FY26",
+"author": null,
+"call_date": "2026-10-20",
+"session": "post",
+"call_time_et": "4:45 PM",
+"priority": 1,
+"bio": false,
+"source": "typed",
+"doc_url": "https://docs.google.com/document/d/15e_sjWdJNEI4cxbAb05jToPa1ATGZToQA2oxA1D5WJk/edit",
+"updated_at": "2026-10-20T13:59:59-05:00",
+"O": {
+"O1": {
+"business": "Netflix runs a paid streaming entertainment service: series, films, live events, games and now video podcasts and creator shows, reaching an audience it says is approaching 1B people. Paid memberships were above 325M at Q1 2026 (it no longer reports them quarterly)",
+"how_it_makes_money": "Monthly membership fees across tiers, including an ad plan, are most of revenue; advertising is guided to about $3B of the $51.0B to $51.4B 2026 revenue (about 6%). Q2 2026 revenue by region: US and Canada $5.43B, EMEA $4.03B, LATAM $1.58B, APAC $1.51B. The main cost is content amortization (up about 10% in 2026) on about $20B of cash content spend",
+"thesis_bull": "Analysis: at about 18x 2027 EPS (Deutsche Bank cites about 40x at the 2025 peak) the stock prices a growth stall that the numbers do not yet show: revenue still +12% guided for Q3, ads doubling to about $3B, US price rise landing as planned, operating margin up 200 bps to 31.5% in 2026, FCF about $12.5B funding record buybacks ($4.7B in Q2, $27.1B authorization left)",
+"thesis_bear": "Analysis: growth has slowed four quarters running (17.6% in Q4 2025 to 11.7% guided for Q3 2026), engagement is losing time to YouTube and short-form video (HSBC, Wells Fargo, Pivotal), Netflix cut its view-hours report to once a year, the Warner Bros deal is gone, and live sports adds cost faster than viewing (just over 5% of content spend for about 1% of hours). Street 2027 EPS growth is only about 6%",
+"kpis": [
+{
+"kpi": "Revenue growth (reported and currency neutral)",
+"why": "Netflix names revenue its primary growth metric and guides it every quarter",
+"latest": "Q2 2026 +13.4% (+12% currency neutral); Q3 guide +11.7% (+11% currency neutral)"
+},
+{
+"kpi": "Operating margin",
+"why": "Its primary profit metric; the full-year target is set in January at January currency rates",
+"latest": "Q2 2026 33.4%; Q3 guide 33.2%; FY26 guide 31.5% vs 29.5% in 2025"
+},
+{
+"kpi": "Advertising revenue",
+"why": "The new growth leg as subscriber gains slow and price rises do more of the work",
+"latest": "About $3B guided for 2026, a rough doubling; US upfront was closing in July"
+},
+{
+"kpi": "View hours",
+"why": "The engagement proxy the bears are attacking; disclosure moves to once a year from 2027",
+"latest": "H1 2026 more than 97B hours, +2% (2025: +1.5%)"
+},
+{
+"kpi": "Free cash flow",
+"why": "Funds the buyback; diluted shares fell 2% in a year (4,349M in Q2 2025 to 4,261M in Q2 2026)",
+"latest": "H1 2026 $6.62B; FY26 guide about $12.5B; content cash to amortization about 1.1x"
+},
+{
+"kpi": "US and Canada (UCAN) revenue growth",
+"why": "The largest region and the first to show price-rise effect",
+"latest": "Q2 2026 +10%, only a partial quarter of the US price change"
+}
+],
+"valuation": "$68.69 is 19.2x Street FY26 EPS of $3.58 and 18.1x FY27 EPS of $3.80; market cap about $291B; FCF yield about 4.3% on the $12.5B FY26 guide; net debt $5.2B at Q2. Shares are about 27% lower year to date ($93.76 on 12/31/2025)",
+"change_mind": "Analysis: the bull case breaks if the Q4 revenue guide implies growth under about 11% (below $13.37B) or the 31.5% margin target slips, or if management concedes engagement is falling. The bear case weakens if Q4 is guided at or above the $13.52B Street figure, ads track at or above $3B, and 2027 is framed as margin expansion with live costs absorbed",
+"owner": null,
+"updated": "2026-10-20"
+}
+},
+"A": {
+"A1": {
+"speakers": [
+{
+"name": "Greg Peters",
+"role": "Co-CEO",
+"note": "Owns product, ads and pricing; the person to press on the ad tier and the free-trial retests outside the US and UK"
+},
+{
+"name": "Ted Sarandos",
+"role": "Co-CEO",
+"note": "Owns content, live and the slate; has had to defend engagement against YouTube and the lost Warner Bros deal"
+},
+{
+"name": "Spence Neumann",
+"role": "CFO",
+"note": "Owns the FY revenue range, the 31.5% margin target, the FCF guide and the buyback pace"
+},
+{
+"name": "Spencer Wang",
+"role": "VP Finance and Capital Markets",
+"note": "Moderator; reads the sellside questions on the video interview (4:45 PM ET)"
+}
+]
+},
+"A2": {
+"cons_rev": "$12.87B (Yahoo, 38 analysts, $12.76B to $13.03B), +11.9% vs $11.51B in Q3 2025; Hudson Labs $12.879B. Company guide $12.86B",
+"cons_eps": "$0.82 (Nasdaq, 13 estimates, $0.81 to $0.83, no revisions in 4 weeks); Yahoo $0.82 (35, $0.79 to $0.87). Company guide $0.82. Q3 2025: $0.59, all on the post-split basis (10-for-1 in 2025). The team sheet's $0.831 does not match either feed",
+"cons_gaap_eps": "$0.82; Netflix reports GAAP EPS only, so the consensus above is GAAP",
+"steering_metric": "The Q4 revenue guide and where FY26 revenue lands in the $51.0B to $51.4B range, plus the ad revenue update",
+"steering_cons": "Q4 revenue $13.52B (Yahoo, 37, $13.30B to $13.72B), +12.2%; Q4 EPS $0.73 (Nasdaq, 12, $0.70 to $0.82); FY26 revenue $51.21B (Yahoo, 46)",
+"buyside_bar": "Analysis: Netflix guides to its internal forecast, so a quarter in line with the $12.86B and 33.2% guide is assumed. The bar is a Q4 guide at or above $13.52B with the FY range held at its top half, ads confirmed at $3B or more, and some engagement data that answers the YouTube and Wells Fargo case. The stock fell the next day after each of the last four reports (average 7.3%), even with in-line or better numbers",
+"implied_move": "plus or minus 9.4% through Fri 10/23: $68/$69 ATM straddle about $6.44 (mid) vs spot $68.69 (Cboe delayed, 10/20 2:36 PM ET); front-expiry IV about 128%, 30-day IV 48.5%",
+"price_into": "$68.69 intraday 10/20 (down 1.7%); $69.85 close 10/19. About 12% below the $77.90 close of 9/15 and 27% below the $93.76 close of 12/31/2025",
+"one_month_move": "-2.7% (9/18 $71.79 to 10/19 $69.85) vs SPY +0.6% (761.69 to 766.48) over the same days",
+"short_interest": "82.23M shares short (MarketBeat, latest record date, date not stated); Analysis: about 2% of the 4,261M diluted shares",
+"last_quarter": "Q2 2026 (7/16): revenue $12.56B +13.4% and operating margin 33.4%, both in line with guide; EPS $0.80, slightly above forecast; FY26 revenue narrowed to $51.0B to $51.4B, margin target 31.5% kept; Q3 guided to +11.7%; view-hours report moved to annual. Stock -7.3% next day ($74.35 to $68.95). Next-day moves on the last four prints: -10.1% (10/22/2025), -2.2% (1/21/2026), -9.7% (4/17/2026, with the Hastings exit), -7.3% (7/17/2026); average absolute 7.3%, all down"
+},
+"A3": {
+"rows": [
+{
+"item": "Revenue Q3",
+"prior": "$12.86B, +11.7% (+11% currency neutral)",
+"street": "$12.87B (Yahoo, 38, $12.76B to $13.03B)",
+"implied_rest": "Street sits about $10M above the guide; the quarter is not the event"
+},
+{
+"item": "Operating margin Q3",
+"prior": "33.2%, operating income $4.268B (vs 28.2% in Q3 2025, which carried a one-time Brazil tax expense)",
+"street": null,
+"implied_rest": null
+},
+{
+"item": "Diluted EPS Q3",
+"prior": "$0.82, net income $3.452B",
+"street": "$0.82 (Nasdaq 13; Yahoo 35)",
+"implied_rest": "Analysis: the guide implies about 4,210M diluted shares vs 4,261M in Q2, consistent with the Q2 buyback pace"
+},
+{
+"item": "Revenue FY26",
+"prior": "$51.0B to $51.4B, +13% to 14% (~12% currency neutral), narrowed 7/16; H1 actual $24.81B",
+"street": "$51.21B (Yahoo, 46, $50.95B to $51.51B); Q4 $13.52B",
+"implied_rest": "H2 $26.19B to $26.59B; with the Q3 guide, Q4 $13.33B to $13.73B (+10.6% to +13.9% vs $12.05B). Street Q4 sits at the midpoint"
+},
+{
+"item": "Operating margin FY26",
+"prior": "31.5% reported and at January 1 currency rates (2025: 29.5%); H1 operating income $8.15B",
+"street": null,
+"implied_rest": "FY operating income $16.07B to $16.19B, so H2 $7.92B to $8.04B and Q4 $3.65B to $3.77B, a Q4 margin near 27.4% to 27.5% vs 24.5% in Q4 2025"
+},
+{
+"item": "Diluted EPS FY26",
+"prior": "Not guided for the year; H1 actual $2.03 (Q1 $1.23 includes the $2.8B Warner Bros termination fee)",
+"street": "$3.58 (Yahoo, 41) / $3.59 (Nasdaq, 15); Q4 $0.73",
+"implied_rest": "Street H2 $1.55: Q3 $0.82 plus Q4 $0.73 (Q4 2025: $0.56)"
+},
+{
+"item": "Free cash flow FY26",
+"prior": "About $12.5B; content cash to amortization about 1.1x; H1 actual $6.62B",
+"street": null,
+"implied_rest": "H2 about $5.88B"
+},
+{
+"item": "Ad revenue FY26",
+"prior": "About $3B, a rough doubling",
+"street": null,
+"implied_rest": null
+}
+],
+"acceleration_note": "Analysis: reported revenue growth fell from 17.6% in Q4 2025 to 16.2%, 13.4% and a guided 11.7% in Q3. Both the Street Q4 ($13.52B, +12.2%) and the FY guide midpoint imply a small pickup in Q4 from the full-quarter US price rise and NFL and live ad inventory. Street 2027 revenue growth is +11.2%, so a Q4 guide below about $13.37B (+11%) would read as the slowdown continuing. Q3 EPS growth of about 39% is flattered by the Brazil tax charge in the Q3 2025 base"
+},
+"A4": {
+"debates": [
+{
+"debate": "Engagement: is Netflix losing time to YouTube and short-form video?",
+"lean": "Analysis: total view hours grew 2% in H1, faster than 2025, but Wells Fargo models top-100 original view hours down 21% in H2 and HSBC cut on YouTube share. Moving the view-hours report to once a year removes the data that would settle it, which the market reads as a tell",
+"settles_on": "Any Q3 engagement or churn data in the letter, how Sarandos frames the slate, and whether the Q4 guide holds up after the US price rise"
+},
+{
+"debate": "Growth path: does revenue growth bottom near 11% to 12%, with ads and pricing carrying 2026 and 2027?",
+"lean": "Analysis: the guide math already implies a small Q4 pickup; ads at about $3B are only about 6% of revenue, so pricing and members still drive most of it",
+"settles_on": "The Q4 revenue guide vs $13.52B, whether FY26 lands in the top half of $51.0B to $51.4B, and the ad revenue update after the upfront"
+},
+{
+"debate": "Margins and capital after Warner Bros: can margin keep expanding while live sports and content spend rise, and does the cash go to buybacks or M&A?",
+"lean": "Analysis: the 31.5% target implies a Q4 margin near 27.5%, up about 300 bps on the year, so the 2026 target looks safe; 2027 is the question with the expanded NFL slate. Q2 buybacks of $4.7B and $27.1B left suggest buybacks over another large deal",
+"settles_on": "Neumann's first 2027 margin framing, Q3 repurchase size, and any M&A language beyond 'selective'"
+}
+]
+},
+"A5": {
+"bull": "Analysis: in-line quarter, Q4 guided above $13.52B, FY revenue moved to the top half, ads at or above $3B, and a credible engagement answer. At 18x 2027 EPS with 27% gone this year, a move larger than the 9.4% implied is possible to the upside",
+"bear": "Analysis: Q4 guided below about $13.37B (growth under 11%), the FY range cut toward $51.0B, or soft engagement or churn comments. That confirms Wells Fargo and HSBC; with four straight next-day falls averaging 7.3%, a fall near or beyond the 9.4% implied move",
+"beat_and_down": "Analysis: the April and July pattern repeats. Q3 matches or beats the guide, but Q4 is guided only in line and 2027 margin talk is vague because of live sports costs; the stock falls 4% to 8%, inside the 9.4% implied move, as in January (-2.2%) and July (-7.3%)"
+},
+"A6": {
+"inputs": [
+{
+"input": "Q3 revenue guide",
+"current": "$12.86B (+11.7%)",
+"source_line": "Q2 2026 letter, summary results and Q3'26 forecast table"
+},
+{
+"input": "Q3 operating margin and income guide",
+"current": "33.2%; $4.268B",
+"source_line": "Q2 2026 letter, Q3'26 forecast table"
+},
+{
+"input": "Q3 net income and EPS guide",
+"current": "$3.452B; $0.82",
+"source_line": "Q2 2026 letter, Q3'26 forecast table"
+},
+{
+"input": "FY26 revenue guide",
+"current": "$51.0B to $51.4B",
+"source_line": "Q2 2026 letter, Q2 Results and Forecast"
+},
+{
+"input": "FY26 operating margin guide",
+"current": "31.5%",
+"source_line": "Q2 2026 letter, Q2 Results and Forecast"
+},
+{
+"input": "FY26 FCF guide",
+"current": "About $12.5B; content cash to amortization about 1.1x; amortization up about 10%",
+"source_line": "Q2 2026 letter, Cash Flow and Capital Structure"
+},
+{
+"input": "FY26 ad revenue",
+"current": "About $3B",
+"source_line": "Q2 2026 letter, ads paragraph"
+},
+{
+"input": "Diluted shares",
+"current": "4,261M (Q2 2026)",
+"source_line": "Q2 2026 letter, summary table"
+},
+{
+"input": "Buyback",
+"current": "$4.7B repurchased in Q2 ($5.98B H1); $27.1B authorization left",
+"source_line": "Q2 2026 letter, Cash Flow and Capital Structure"
+},
+{
+"input": "Debt and cash",
+"current": "Gross debt $14.4B, cash $9.1B, net debt $5.24B (6/30); $1B of 5.250% notes due 2036 issued 7/22 to repay the 4.375% notes due 2026",
+"source_line": "Q2 2026 letter, net debt reconciliation; 8-K 7/22/2026 Item 8.01"
+}
+]
+},
+"A7": {
+"questions": [
+"Wells Fargo expects view hours for your top 100 originals to fall about 21% in the second half, and you moved the What We Watched report to once a year. What did total view hours and churn do in Q3 after the US price rise, and how much of viewing growth came from podcasts, creators and live rather than series and film?",
+"Ads are on track for about $3B this year. Now that the upfront is closed, how much of next year's ad revenue is already committed, and what share of new sign-ups in ad markets choose the ad plan?",
+"Live is just over 5% of content spend for about 1% of hours, and the NFL slate grows. Can operating margin still rise in 2027 on about $20B of cash content spend, and after the record $4.7B buyback quarter, does M&A remain on the table after Warner Bros?"
+]
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"A9": {
+"street": {
+"ratings": "Buy: 28 Strong Buy, 7 Buy, 15 Hold, 0 Sell, 2 Strong Sell (stockanalysis, 52 analysts, October 2026; Strong Sell was 0 in August). MarketBeat: Moderate Buy, 56 ratings",
+"targets": "Mean $91.39, median $90, low $57, high $126 (stockanalysis), about 33% above $68.69; MarketBeat mean $93.38",
+"consensus_view": "Analysis: the Street still rates it a Buy on valuation (about 18x 2027) and ads, but most desks cut targets after July and again into this print, the low end fell from Pivotal's $70 to Wells Fargo's $57, and the first two sell ratings (Wells Fargo, Huber) arrived on engagement",
+"counts": {
+"strong_buy": 28,
+"buy": 7,
+"hold": 15,
+"sell": 0,
+"strong_sell": 2
+},
+"target_low": 57,
+"target_mean": 91.39,
+"target_high": 126,
+"chart_source": "stockanalysis.com (https://stockanalysis.com/stocks/nflx/forecast/)",
+"as_of": "2026-10-20",
+"changes": [
+{
+"date": "2026-07-17",
+"firm": "Pivotal Research",
+"action": "Hold kept, target cut",
+"target": "$96 to $70",
+"why": "Cut long-term member forecasts and raised content cost assumptions as younger viewers move to free short-form video"
+},
+{
+"date": "2026-07-17",
+"firm": "Bank of America",
+"action": "Buy kept, target cut",
+"target": "$125 to $105",
+"why": null
+},
+{
+"date": "2026-07-17",
+"firm": "UBS",
+"action": "Buy kept, target cut",
+"target": "$130 to $115",
+"why": null
+},
+{
+"date": "2026-07-17",
+"firm": "Piper Sandler",
+"action": "Overweight kept, target cut",
+"target": "$115 to $85",
+"why": null
+},
+{
+"date": "2026-07-17",
+"firm": "KGI Securities",
+"action": "Downgrade to Neutral from Outperform",
+"target": "$75",
+"why": null
+},
+{
+"date": "2026-09-14",
+"firm": "Evercore ISI",
+"action": "Outperform kept, target raised",
+"target": "$100 to $110",
+"why": null
+},
+{
+"date": "2026-09-18",
+"firm": "Wells Fargo",
+"action": "Downgrade to Underweight from Equal Weight",
+"target": "$80 to $57",
+"why": "Weaker engagement and a softer slate (top-100 original view hours seen down 21% in H2), margin pressure and churn risk into 2027"
+},
+{
+"date": "2026-09-22",
+"firm": "HSBC",
+"action": "Downgrade to Hold from Buy",
+"target": "$96 to $76",
+"why": "YouTube drawing viewer attention away from Netflix"
+},
+{
+"date": "2026-09-29",
+"firm": "Deutsche Bank",
+"action": "Upgrade to Buy from Hold",
+"target": "$100 to $95",
+"why": "Focus on US time spent misses stronger international engagement; about 18x 2027 earnings"
+},
+{
+"date": "2026-10-07",
+"firm": "Barclays",
+"action": "Equal Weight, target cut",
+"target": "$80 to $70",
+"why": null
+},
+{
+"date": "2026-10-08",
+"firm": "Morgan Stanley",
+"action": "Overweight kept, target cut",
+"target": "$83 to $80",
+"why": null
+},
+{
+"date": "2026-10-13",
+"firm": "KeyBanc",
+"action": "Overweight kept, target cut",
+"target": "$92 to $85",
+"why": null
+},
+{
+"date": "2026-10-13",
+"firm": "Huber Research",
+"action": "Downgrade to Underweight from Buy",
+"target": null,
+"why": null
+},
+{
+"date": "2026-10-15",
+"firm": "Jefferies",
+"action": "Initiate at Buy",
+"target": "$85",
+"why": null
+},
+{
+"date": "2026-10-16",
+"firm": "Wedbush",
+"action": "Outperform kept, target cut",
+"target": "$105 to $90",
+"why": "Ahead of Q3"
+},
+{
+"date": "2026-10-16",
+"firm": "BMO Capital",
+"action": "Outperform kept, target cut",
+"target": "$135 to $125",
+"why": "Ahead of Q3"
+},
+{
+"date": "2026-10-16",
+"firm": "Rosenblatt",
+"action": "Neutral kept",
+"target": "$75",
+"why": "Ahead of Q3"
+},
+{
+"date": "2026-10-19",
+"firm": "Seaport Global",
+"action": "Buy kept, target cut",
+"target": "$102 to $90",
+"why": "Ahead of Q3"
+}
+]
+},
+"ours": null
+},
+"sources": [
+{
+"label": "Nasdaq earnings forecast (quarterly and FY EPS consensus)",
+"url": "https://api.nasdaq.com/api/analyst/NFLX/earnings-forecast"
+},
+{
+"label": "Nasdaq earnings calendar 10/20/2026 (after close, $0.82, 13 estimates, market cap)",
+"url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-10-20"
+},
+{
+"label": "Yahoo Finance NFLX analysis (revenue and EPS estimates)",
+"url": "https://finance.yahoo.com/quote/NFLX/analysis/"
+},
+{
+"label": "Stockanalysis NFLX forecast (rating counts, targets, recent actions)",
+"url": "https://stockanalysis.com/stocks/nflx/forecast/"
+},
+{
+"label": "Cboe delayed NFLX options chain (10/23 expiry straddle, spot, IV30)",
+"url": "https://cdn-api.cboe.com/api/global/delayed_quotes/options/NFLX.json"
+},
+{
+"label": "Netflix Q2 2026 shareholder letter, 8-K Ex 99.1 (7/16/2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000211/ex991_q226.htm"
+},
+{
+"label": "Netflix 8-K 7/22/2026: $1B 5.250% notes due 2036",
+"url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312526312575/d171951d8k.htm"
+},
+{
+"label": "Hudson Labs Q3 2026 preview (consensus $12,879M, content spend about $20B, members above 325M)",
+"url": "https://www.hudson-labs.com/research/netflix-q3-2026-earnings-preview-nflx-revenue-guidance"
+},
+{
+"label": "Prices: NFLX and SPY daily closes (catalyst_calendar.market_data bars)",
+"url": "https://www.nasdaq.com/market-activity/stocks/nflx/historical"
+},
+{
+"label": "MarketBeat NFLX forecast (rating and target changes since 7/17, consensus $93.38, short interest)",
+"url": "https://www.marketbeat.com/stocks/NASDAQ/NFLX/forecast/"
+},
+{
+"label": "TipRanks 7/18/2026: analysts cut targets after Q2 (Pivotal $70)",
+"url": "https://www.tipranks.com/news/weekend-updates/netflix-stock-plunges-as-analysts-slash-price-targets"
+},
+{
+"label": "Tradingpedia 9/18/2026: Wells Fargo downgrade",
+"url": "https://www.tradingpedia.com/2026/09/18/wells-fargo-downgrade-knocks-netflix-shares-in-pre-market-trade/"
+},
+{
+"label": "Parameter: Wells Fargo Underweight details",
+"url": "https://parameter.io/netflix-nflx-stock-drops-following-wells-fargos-historic-underweight-rating/"
+},
+{
+"label": "MarketBeat 9/22/2026: HSBC downgrades to Hold",
+"url": "https://www.marketbeat.com/instant-alerts/analyst-netflix-nasdaq-nflx-downgraded-by-hsbc-to-hold-2026-09-22/"
+},
+{
+"label": "24/7 Wall St 9/29/2026: Deutsche Bank upgrade, about 18x 2027 vs about 40x at 2025 peak",
+"url": "https://247wallst.com/investing/2026/09/29/deutsche-bank-turns-bullish-on-netflix-says-global-engagement-is-underappreciated/"
+},
+{
+"label": "FMP: Wedbush cuts target to $90",
+"url": "https://site.financialmodelingprep.com/market-news/wedbush-cuts-netflix-price-target"
+},
+{
+"label": "Al Jazeera 4/16/2026: Hastings to step down, $2.8B Warner Bros termination fee",
+"url": "https://www.aljazeera.com/economy/2026/4/16/netflix-cofounder-hastings-to-step-down-after-it-lost-warner-bros-deal"
+}
+]
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
+},
+"transcript_source": null
+},
+"D": {
+"D1": {
+"leads_buries": null,
+"non_gaap": null,
+"guidance_verbatim": null,
+"kpi_definitions": null,
+"share_count": null
+},
+"D2": {
+"filing_not_in_release": [],
+"numbers_differ": null
+},
+"D3": {
+"segments": null,
+"concentration": null,
+"sbc_da_tax": null
+},
+"D4": {
+"working_capital": null,
+"debt": null,
+"goodwill": null
+},
+"D5": {
+"cfo_vs_ni": null,
+"capex_fcf_buybacks": null,
+"cover_share_count": null
+},
+"D6": {
+"mdna_changes": null,
+"risk_legal_subsequent": null
+},
+"D7": {
+"cash_runway": null,
+"dilution": null,
+"trial_wording": null
+},
+"D8": {
+"trueup": []
+},
+"D9": {
+"green": [],
+"red": [],
+"changes_c8": null
+},
+"filing_url": null
+},
+"sheet_row": {
+"eps_actual": null,
+"rev_actual": null,
+"guidance_vs_street": null,
+"kpi_result": null,
+"actual_move": null,
+"verdict": null,
+"takeaway": null
+}
+},
+{
+"ticker": "SPCX",
+"company": "SpaceX",
+"quarter": "Q3FY26",
+"author": null,
+"call_date": "2026-10-20",
+"session": "post",
+"call_time_et": "4:30 PM",
+"priority": 1,
+"bio": false,
+"source": "typed",
+"doc_url": "https://docs.google.com/document/d/1GCyayooWNxdRIXX4tOzEu8LANfXoor75usw0aQEBe9c/edit",
+"updated_at": "2026-10-20T13:56:12-05:00",
+"O": {
+"O1": {
+"business": "Space Exploration Technologies (SpaceX): Falcon and Starship launch, the Starlink satellite network (consumer, enterprise, government/Starshield, mobile), and an AI segment (Grok, X advertising, Colossus compute sold under Cloud Services Agreements, Cursor since 8/14/2026). Listed 6/12/2026 on Nasdaq Global Select and Nasdaq Texas; IPO of 638.9M Class A shares for ~$85.7B net proceeds. This is its second report as a public company (first: Q2 on 8/4/2026)",
+"how_it_makes_money": "Q2 2026 revenue $7.81B: Connectivity $4.29B (~55%; consumer $2.49B, enterprise and government $1.81B), AI $2.56B (~33%; AI solutions and infrastructure $2.19B, advertising $0.37B), Space $0.96B (~12%; launch services $0.65B, launch and development $0.31B). Only Connectivity makes an operating profit ($1.66B); Space -$0.54B, AI -$1.26B",
+"thesis_bull": "Analysis: Starlink is a cash engine (Connectivity Adjusted EBITDA $2.6B a quarter, subscribers doubled to 12.0M) funding Starship and AI; the AI segment flipped to positive Adjusted EBITDA ($1.1B) on $14.1B of Cloud Services contracts, and management targets $100B of annualized revenue by December 2026",
+"thesis_bear": "Analysis: ~$2.0T market cap on ~$45B of 2026 Street revenue (~44x sales); capex ran $18.4B in Q2, 86% of it AI, against a $1.9B a quarter and rising AI depreciation bill; Starlink ARPU fell from $85 to $66 a year; lockup tranches keep adding supply into December",
+"kpis": [
+{
+"kpi": "Starlink subscribers",
+"why": "Volume driver of the only profitable segment",
+"latest": "12.0M at 6/30/2026, +1.7M q/q, 2x y/y"
+},
+{
+"kpi": "Starlink ARPU",
+"why": "Mix shift abroad and to cheaper plans; CFO flagged average ARPU may fall",
+"latest": "$66/month Q2, flat q/q, vs $85 Q2 2025"
+},
+{
+"kpi": "AI solutions and infrastructure revenue / contracted sales",
+"why": "Decides whether AI capex earns a return",
+"latest": "$2.19B Q2 (from $0.48B Q1); $14.1B contracted sales signed in Q2"
+},
+{
+"kpi": "Nameplate compute (GW)",
+"why": "Capacity behind the Cloud Services revenue",
+"latest": "1.4 GW at 6/30; guide over 2 GW by year end"
+},
+{
+"kpi": "Capex",
+"why": "Funding need and depreciation path",
+"latest": "$18.37B Q2 ($15.83B AI); CFO: next two quarters similar"
+},
+{
+"kpi": "Launches / Starship progress",
+"why": "Cost to orbit and V3 Starlink deployment",
+"latest": "38 launches Q2; Starship V3 Flights 12 (May) and 13 (July) completed"
+}
+],
+"valuation": "Analysis: ~$2.0T market cap (Nasdaq, 10/20) less ~$100B cash plus ~$39B debt and leases is ~$1.94T EV, ~43x Street 2026 revenue ($45.3B) and ~17x 2027 ($117.5B); ~69x Street 2027 EPS ($2.13, Yahoo). Street mean target $222.71 (stockanalysis) is ~51% above the price",
+"change_mind": "Analysis: new Cloud Services contracted sales stalling below Q2's $14.1B while capex stays near $18B a quarter, or management walking back the $100B ARR December target",
+"owner": null,
+"updated": "2026-10-20"
+}
+},
+"A": {
+"A1": {
+"speakers": [
+{
+"name": "Elon Musk",
+"role": "CEO",
+"note": "On the Q2 call gave the 2027 compute framing (closer to 10 GW than 5 GW), Starship 'one flight a day' in about a year, and moved the $1T revenue target to 2030"
+},
+{
+"name": "Gwynne Shotwell",
+"role": "President and COO",
+"note": "Starlink and launch operations; said Starlink Mobile service starts at the end of next year"
+},
+{
+"name": "Bret Johnsen",
+"role": "CFO",
+"note": "Gave the $100B ARR by year-end target, capex flat at Q2 levels for two quarters, and over 2 GW of compute by year end; flagged ARPU dilution from geographic expansion"
+},
+{
+"name": "Andrea Williams",
+"role": "Head of Investor Relations",
+"note": "Moderator; questions also submitted in advance on the Q&A platform"
+}
+]
+},
+"A2": {
+"cons_rev": "$13.0B (Yahoo, 18 analysts, $11.47B to $15.19B); Benzinga $12.75B; Earnings Whispers $12.31B. Q2 actual $7.81B. Note: the sheet's $12.875B matches GE's Q3 consensus and is likely a copied placeholder",
+"cons_eps": "$0.16 (Yahoo, 17, -$0.11 to $0.43; 1 revision up and 2 down in 30 days); Nasdaq $0.11 (10, -$0.03 to $0.26); Benzinga $0.13. Q2 actual -$0.09 vs -$0.29 Yahoo estimate",
+"cons_gaap_eps": "Analysis: SpaceX publishes only GAAP EPS (Q2 release has no adjusted EPS line), so the $0.11 to $0.16 figures are the comparison",
+"steering_metric": "AI solutions and infrastructure revenue plus new Cloud Services contracted sales; then Starlink subscribers and ARPU, and capex against the ~$18B a quarter framing",
+"steering_cons": null,
+"buyside_bar": "Analysis: consensus is thin and noisy (second public print, revenue range $11.5B to $15.2B, EPS -$0.11 to $0.43), so the headline beat matters less than the trajectory. The bar: reaffirm $100B ARR by December, over 2 GW of compute, new contracted sales at or above Q2's $14.1B, capex no higher than ~$18B. In Q2 revenue beat by 13.7% and the stock still fell 13.6% the next day",
+"implied_move": "+/-7.0% through Wed 10/21: $147 straddle $10.28 vs spot $147.37 (Cboe delayed, 10/20 ~2:35 PM ET), ATM IV ~161%; +/-8.0% through Fri 10/23",
+"price_into": "$147.11 at 2:51 PM ET 10/20 (Nasdaq); $147.96 close 10/19. ~35% below the $225.64 52-week high; first close 6/12 $160.95",
+"one_month_move": "-3.1% (9/18 $152.71 to 10/19 $147.96); round trip through $171.92 on 10/6 after the 10/5 jump",
+"short_interest": "181.0M shares at 9/30 settlement (~1.3% of ~13.6B shares, larger share of the float), 1.8 days to cover (Nasdaq)",
+"last_quarter": "Q2 2026 (8/4): revenue $7.81B +92% vs $6.87B Benzinga estimate, net loss $541M (-$0.09/share), Adjusted EBITDA $3.54B +191%, AI Adjusted EBITDA positive $1.15B. Stock $125.33 (8/4 close) to $108.27 (8/5), -13.6%; the 8/6 lockup tranche followed"
+},
+"A3": {
+"rows": [
+{
+"item": "Revenue FY26",
+"prior": "No formal guide. CFO (Q2 call): $100B of annualized revenue run rate by end of 2026, based on December revenue. H1 actual $12.51B",
+"street": "$45.33B (Yahoo, 24, $39.14B to $51.62B); Q3 $13.0B",
+"implied_rest": "Analysis: Street H2 $32.8B, so Q4 ~$19.8B (~$6.6B a month) vs ~$8.3B for December that the $100B run rate needs"
+},
+{
+"item": "Capex",
+"prior": "CFO: next two quarters 'very similar' to Q2's $18.37B; H1 $28.48B",
+"street": null,
+"implied_rest": "Analysis: H2 ~$36.7B, FY26 ~$65B"
+},
+{
+"item": "AI compute",
+"prior": "Over 2 GW by end of 2026 (CFO); 1.4 GW at 6/30. Musk: closer to 10 GW than 5 GW by end of 2027",
+"street": null,
+"implied_rest": "Analysis: +0.6 GW or more in H2"
+},
+{
+"item": "Starlink subscribers and ARPU",
+"prior": "12.0M at 6/30 (+1.7M q/q); ARPU $66; CFO: geographic expansion may drive average ARPU down",
+"street": null,
+"implied_rest": "Analysis: the Q2 pace puts Q3 near 13.7M; ARPU drift below $66 is the guided direction"
+},
+{
+"item": "EPS",
+"prior": "No guide; Q2 -$0.09, H1 -$1.12 (on 4,879M weighted shares)",
+"street": "Q3 $0.11, Q4 $0.36, FY26 $0.07 (Nasdaq); FY26 $0.10 (Yahoo)",
+"implied_rest": "Analysis: on ~13.4B shares Q3 $0.11 to $0.16 is ~$1.5B to $2.1B of net income vs a $541M Q2 loss; it needs operating profit, not only interest on $100B of cash"
+},
+{
+"item": "Cursor",
+"prior": "Closed 8/14/2026 for 391.0M Class A shares ($60B implied); no revenue framing given",
+"street": null,
+"implied_rest": "Analysis: ~6 weeks consolidated in Q3; first look at its revenue"
+}
+],
+"acceleration_note": "Analysis: Street Q3 revenue of $13.0B is +66% q/q, the same step as Q2 (+66%, $4.69B to $7.81B), which came mostly from AI infrastructure ($0.48B to $2.19B). The revenue range is $3.7B wide, so nobody has a firm read on how fast Cloud Services contracts convert to revenue. Q4 Street (~$19.8B) still sits below the run rate the $100B December target implies"
+},
+"A4": {
+"debates": [
+{
+"debate": "AI: are Cloud Services Agreements durable revenue that justify ~$18B a quarter of capex, mostly AI?",
+"lean": "Analysis: Q2 is the first proof (AI Adjusted EBITDA +$1.1B on $14.1B contracted), but AI depreciation is already $1.9B a quarter and rising with each GW, and AI operating loss was still $1.26B",
+"settles_on": "New contracted sales vs $14.1B, AI revenue and segment operating loss, capex vs ~$18B, compute GW vs the over 2 GW target"
+},
+{
+"debate": "Starlink: does subscriber growth outrun ARPU dilution?",
+"lean": "Analysis: so far yes (Connectivity revenue +66% y/y with ARPU down 22%), helped by enterprise and government (+108% y/y, $6B Starshield awards)",
+"settles_on": "Q3 net adds vs +1.7M in Q2, ARPU vs $66, enterprise and government revenue vs $1.81B, V3 satellite timing"
+},
+{
+"debate": "Valuation and supply: does ~43x 2026 sales hold through the lockup schedule?",
+"lean": "Analysis: supply is the near-term overhang. Secondary sources put the 180-day lockup end at 12/8/2026 after the 8/6 first tranche (Musk and large holders on 366 days); the stock fell 13.6% on a Q2 beat",
+"settles_on": "Reaffirmed $100B ARR and Starship cadence; any 2027 revenue or capex framing; trading into 12/8"
+}
+]
+},
+"A5": {
+"bull": "Analysis: revenue at or above $13B with AI infrastructure stepping up again, new contracted sales above $14.1B, $100B December run rate reaffirmed, Starlink net adds near 2M. That supports the 2027 Street number ($117.5B) and the stock moves beyond the 7% implied",
+"bear": "Analysis: revenue in the lower half of the $11.5B to $15.2B range, contracted sales thin, ARPU down again, capex framed higher for 2027. With ~43x 2026 sales and lockup supply ahead, the move could exceed 7% down",
+"beat_and_down": "Analysis: the Q2 pattern repeats. Headline beat on a soft, thin consensus, but capex and AI depreciation grow faster than AI revenue, or the $100B ARR target is softened, and the stock falls anyway"
+},
+"A6": {
+"inputs": [
+{
+"input": "Shares outstanding",
+"current": "~13,573M: 7,696.3M Class A + 5,485.5M Class B (7/28/2026) + 391.0M issued for Cursor (8/14). Nasdaq market cap $1,997.6B / $147.11 gives ~13,579M",
+"source_line": "10-Q Q2 2026 cover; 8-K 8/14/2026 Item 2.01"
+},
+{
+"input": "Q2 weighted diluted shares",
+"current": "5,864M (pre-IPO preferred conversion; Q3 will be far higher)",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), statement of operations"
+},
+{
+"input": "Capex",
+"current": "Q2 $18.37B (AI $15.83B, Connectivity $1.37B, Space $1.17B); H1 $28.48B",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), financial highlights"
+},
+{
+"input": "Segment revenue base Q2",
+"current": "Connectivity $4.29B, AI $2.56B, Space $0.96B; total $7.81B",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), financial highlights"
+},
+{
+"input": "Cash and marketable securities",
+"current": "$100.0B ($93.52B cash + $6.49B marketable securities) at 6/30/2026",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), balance sheet"
+},
+{
+"input": "Debt and finance leases",
+"current": "$39.36B ($2.53B current + $36.84B long term), incl. $25B senior notes (6/26, 5.855% weighted rate)",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), balance sheet and other key developments"
+},
+{
+"input": "Backlog and deferred revenue",
+"current": "Backlog $47.5B; deferred revenue $7.98B current + $6.31B long term",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), CFO commentary and balance sheet"
+},
+{
+"input": "Operating cash flow H1",
+"current": "$3.47B",
+"source_line": "Q2 2026 release, 8-K Ex 99.1 (8/4/2026), selected cash flow"
+}
+]
+},
+"A7": {
+"questions": [
+"The $100B December run rate: how much of it is Cloud Services compute, Cursor and Starlink, and how much of the $14.1B contracted in Q2 has turned into revenue so far?",
+"Capex near $18B a quarter is mostly AI. What payback do you underwrite on a GW of compute, how much of the 2 GW is under contract, and what does 2027 capex look like against the 10 GW goal?",
+"Starlink ARPU fell from $85 to $66 in a year. Where does average ARPU settle as international and mobile grow, and when do V3 satellites add enough capacity to lift it?"
+]
+},
+"A8": {
+"cash": null,
+"burn": null,
+"runway_verbatim": null,
+"share_count": null,
+"warrants": null,
+"atm": null,
+"events": [],
+"slip_wording": null
+},
+"A9": {
+"street": {
+"ratings": "Buy: 38 analysts, 22 Strong Buy, 8 Buy, 5 Hold, 0 Sell, 3 Strong Sell (stockanalysis, S&P Global data, Oct 2026)",
+"targets": "Mean $222.71, median $225, range $118 to $450 (stockanalysis); Nasdaq 1-year target $217.00. Mean is ~51% above $147",
+"consensus_view": "Analysis: broad initiation after the quiet period skews Buy, with targets clustered $225 to $275 into the print. Estimates are thin and wide (second report), so ratings say more about the long-run Starlink and AI story than about this quarter",
+"counts": {
+"strong_buy": 22,
+"buy": 8,
+"hold": 5,
+"sell": 0,
+"strong_sell": 3
+},
+"target_low": 118,
+"target_mean": 222.71,
+"target_high": 450,
+"chart_source": "stockanalysis.com/stocks/spcx/forecast/ (S&P Global)",
+"as_of": "2026-10-20",
+"changes": [
+{
+"date": "2026-10-20",
+"firm": "Cantor Fitzgerald",
+"action": "Buy maintained",
+"target": "$246",
+"why": null
+},
+{
+"date": "2026-10-19",
+"firm": "Bernstein",
+"action": "Buy maintained",
+"target": "$248",
+"why": null
+},
+{
+"date": "2026-10-19",
+"firm": "Deutsche Bank",
+"action": "Buy maintained",
+"target": "$235",
+"why": null
+},
+{
+"date": "2026-10-19",
+"firm": "RBC Capital",
+"action": "Buy maintained",
+"target": "$225",
+"why": null
+},
+{
+"date": "2026-10-16",
+"firm": "Evercore ISI",
+"action": "Buy maintained, target raised",
+"target": "$230 to $275",
+"why": null
+},
+{
+"date": "2026-10-05",
+"firm": "Morgan Stanley",
+"action": "Bullish note, target reiterated (secondary source)",
+"target": "$300",
+"why": "Buy ahead of the next Starship flight and Q3 results"
+}
+]
+},
+"ours": null
+},
+"sources": [
+{
+"label": "SpaceX Q2 2026 earnings release, 8-K Ex 99.1 (8/4/2026)",
+"url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm"
+},
+{
+"label": "SpaceX 10-Q for Q2 2026 (cover share counts, Cursor timing, CFO 10b5-1 lockup note)",
+"url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026052535/spcx-20260630.htm"
+},
+{
+"label": "SpaceX 8-K 8/14/2026, Cursor merger completed",
+"url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026056945/spcx-20260814.htm"
+},
+{
+"label": "SpaceX 424B4 prospectus (6/12/2026) filing list, EDGAR CIK 1181412",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1181412"
+},
+{
+"label": "SpaceX IR: Q3 2026 results and webcast on 10/20/2026 (announced 10/16)",
+"url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx"
+},
+{
+"label": "SpaceX Q2 2026 call transcript (Webull): speakers, $100B ARR, capex, 2 GW",
+"url": "https://www.webull.com/news/15387111038133248"
+},
+{
+"label": "Nasdaq earnings forecast SPCX (quarterly and FY EPS)",
+"url": "https://api.nasdaq.com/api/analyst/SPCX/earnings-forecast"
+},
+{
+"label": "Yahoo Finance SPCX analysis (revenue and EPS estimates)",
+"url": "https://finance.yahoo.com/quote/SPCX/analysis/"
+},
+{
+"label": "Benzinga SPCX earnings forecasts (Q3 $12.75B, $0.13; Q2 surprise)",
+"url": "https://www.benzinga.com/quote/SPCX/earnings-forecasts"
+},
+{
+"label": "Earnings Whispers SPCX ($12.31B, $0.09)",
+"url": "https://beta.earningswhispers.com/go/w/SPCX"
+},
+{
+"label": "Cboe delayed SPCX options chain (10/21 and 10/23 straddles)",
+"url": "https://cdn-api.cboe.com/api/global/delayed_quotes/options/SPCX.json"
+},
+{
+"label": "Nasdaq SPCX quote, summary and market cap",
+"url": "https://www.nasdaq.com/market-activity/stocks/spcx"
+},
+{
+"label": "Nasdaq SPCX historical prices",
+"url": "https://www.nasdaq.com/market-activity/stocks/spcx/historical"
+},
+{
+"label": "Nasdaq SPCX short interest",
+"url": "https://www.nasdaq.com/market-activity/stocks/spcx/short-interest"
+},
+{
+"label": "Stockanalysis SPCX forecast (ratings, targets, FY revenue)",
+"url": "https://stockanalysis.com/stocks/spcx/forecast/"
+},
+{
+"label": "Motley Fool: SpaceX lockup expires on Aug 6 (911.5M shares)",
+"url": "https://www.fool.com/investing/2026/08/05/spacexs-lockup-expires-on-aug-6-heres-why-9115-mil/"
+},
+{
+"label": "KuCoin: SpaceX staggered lock-up schedule (secondary)",
+"url": "https://www.kucoin.com/news/flash/spacex-implements-complex-lock-up-schedule-to-control-share-flood-post-ipo"
+},
+{
+"label": "GoLocalProv: SpaceX climbs to highest since June on Morgan Stanley note (10/6/2026)",
+"url": "https://www.golocalprov.com/news/big-news-stories-overnight-tuesday-october-6-2026"
+}
+]
+},
+"B": {
+"B1": {
+"rows": [],
+"release_gap": null,
+"move_at_release": null,
+"vs_implied": null
+},
+"B2": {
+"log": [],
+"three_messages": []
+},
+"B3": {
+"nq": null,
+"fy": null,
+"direction": null,
+"assumptions": null,
+"tone": null,
+"must_go_right": null
+},
+"B4": {
+"qa": [],
+"pressed": null,
+"nobody_asked": null,
+"my_questions_answered": null
+},
+"B5": {
+"confidence": null,
+"specificity": null,
+"defensiveness": null,
+"vs_last": null,
+"hedges": null,
+"who_answered": null
+},
+"B6": {
+"quotes": []
+},
+"B7": {
+"verdict": null,
+"stance": null,
+"expected_move": null,
+"why": null,
+"move_end_of_call": null,
+"agrees": null
+},
+"confidence": {
+"<field path e.g. B4.qa[2].a>": null
+},
+"unreadable": []
+},
+"C": {
+"C1": {
+"headline": [],
+"segments": null
+},
+"C2": {
+"one_time": null,
+"organic": null,
+"margin_drivers": null,
+"cash_conversion": null,
+"share_count_tax": null,
+"beat_from": []
+},
+"C3": {
+"guidance": [],
+"withdrawn_or_redefined": null,
+"tone_vs_quarter": null
+},
+"C4": {
+"pressed": null,
+"deflected": null,
+"new_info": null,
+"nobody_asked": null,
+"my_questions": null
+},
+"C5": {
+"dropped": null,
+"new_hedges": null,
+"catalyst_wording": null
+},
+"C6": {
+"green": [],
+"red": []
+},
+"C7": {
+"peers": null,
+"suppliers_customers": null,
+"theme": null,
+"later_this_week": null
+},
+"C8": {
+"thesis_in": null,
+"verdict": null,
+"same_as_b7": null,
+"changed": null,
+"est_changes": [],
+"stance": null,
+"trade": null
+},
+"C9": {
+"before": null,
+"at_release": null,
+"end_call": null,
+"next_close": null,
+"implied": null,
+"vs_implied": null,
+"why": null
+},
+"C10": {
+"blank_for_you": [],
+"missed": [],
+"disagreements": [],
+"answered_followups": [],
+"model_inputs_changed": [],
+"unverified": []
+},
+"C11": {
+"verify": null,
+"open": null,
+"next_earnings": null,
+"catalysts": null
+},
+"C12": {
+"bottom_line": null
 },
 "transcript_source": null
 },
