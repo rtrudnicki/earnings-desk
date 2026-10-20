@@ -3814,255 +3814,288 @@
 }
 ],
 "macro": {
-"date": "2026-10-19",
+"date": "2026-10-20",
 "prints": [
 {
+"time_ct": "01:00",
+"event": "UK ILO Unemployment Rate (ONS Labour market overview)",
+"period": "June to August",
+"consensus": "4.9%",
+"actual": "4.7%",
+"prior": "4.9%",
+"unit": "%",
+"surprise": "-0.2 pp",
+"read": "Jobless rate fell to a one-year low while vacancies dropped 2.9% on the quarter; the pound rose about 0.4% and gilts led the early bid in bonds.",
+"source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/october2026"
+},
+{
+"time_ct": "01:00",
+"event": "UK Average Weekly Earnings, regular pay, 3m y/y",
+"period": "June to August",
+"consensus": null,
+"actual": "3.7%",
+"prior": "3.7%",
+"unit": "3m y/y %",
+"surprise": null,
+"read": "Regular pay growth flat at 3.7% for a sixth period; total pay slowed to 3.7% from 3.9%; no consensus found.",
+"source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/october2026"
+},
+{
+"time_ct": "04:00",
+"event": "Germany ZEW Economic Sentiment",
+"period": "October",
+"consensus": "32.0",
+"actual": "28.1",
+"prior": "34.7",
+"unit": "index",
+"surprise": "-3.9 pts",
+"read": "Expectations fell for a second month as energy costs and French political stress weigh; the euro dipped on the print and then recovered to about 1.121.",
+"source_url": "https://www.fxstreet.com/news/germany-zew-survey-economic-sentiment-deteriorates-significantly-to-281-in-october-202610200903"
+},
+{
+"time_ct": "04:00",
+"event": "Germany ZEW Current Situation",
+"period": "October",
+"consensus": "-45.0",
+"actual": "-35.9",
+"prior": "-47.1",
+"unit": "index",
+"surprise": "+9.1 pts",
+"read": "Current conditions improved far more than expected, so the German picture is better now and worse ahead.",
+"source_url": "https://www.fxstreet.com/news/germany-zew-survey-economic-sentiment-deteriorates-significantly-to-281-in-october-202610200903"
+},
+{
+"time_ct": "04:00",
+"event": "Euro Area ZEW Economic Sentiment",
+"period": "October",
+"consensus": "24.2",
+"actual": "18.5",
+"prior": "25.8",
+"unit": "index",
+"surprise": "-5.7 pts",
+"read": "Bigger miss than Germany, consistent with the France-Germany 10-year spread closing Monday at 148 bp, its widest since the euro debt crisis.",
+"source_url": "https://www.fxstreet.com/news/germany-zew-survey-economic-sentiment-deteriorates-significantly-to-281-in-october-202610200903"
+},
+{
+"time_ct": "07:15",
+"event": "ADP National Employment Report, weekly preliminary estimate (4-week average)",
+"period": "Four weeks to October 3",
+"consensus": null,
+"actual": null,
+"prior": "24.75k per week",
+"unit": "k per week",
+"surprise": null,
+"read": "Private hiring has rebuilt from about 8k a week in late July; a hold above 20k keeps the soft-but-positive labor read; no consensus found.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
 "time_ct": "07:30",
-"event": "Canada Consumer Price Index, September (Statistics Canada)",
+"event": "New Residential Construction: Housing Starts",
 "period": "September",
-"consensus": "0.2% m/m, 3.2% y/y",
-"actual": "0.1% m/m (NSA; 0.4% SA), 3.1% y/y",
-"prior": "-0.1% m/m, 3.0% y/y",
-"unit": "m/m % and y/y %",
-"surprise": "-0.1 pp m/m, -0.1 pp y/y",
-"read": "A touch cooler than expected and all energy: gasoline is up 27.8% on the year while CPI excluding gasoline runs 2.2% and the core measures slipped (CPI-trim 1.8%, CPI-median 1.9%, common 2.4%), so the Bank of Canada holds at 2.25% on October 28 and the Canadian dollar firmed to a four-week high; for US rates it is a small vote that the oil shock is not spreading into core.",
-"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm"
+"consensus": "1.30M",
+"actual": null,
+"prior": "1.275M",
+"unit": "M units SAAR",
+"surprise": null,
+"read": "Consensus looks for a small rebound after August's 2.6% drop; a miss would confirm the NAHB index at 29, its lowest since June 2012, and feed the housing-recession narrative.",
+"source_url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf"
+},
+{
+"time_ct": "07:30",
+"event": "New Residential Construction: Building Permits (preliminary)",
+"period": "September",
+"consensus": "1.39M",
+"actual": null,
+"prior": "1.394M initial (1.403M revised per Trading Economics)",
+"unit": "M units SAAR",
+"surprise": null,
+"read": "Permits lead starts; another decline would say 7.5% mortgage rates are now cutting new supply, not just demand.",
+"source_url": "https://tradingeconomics.com/united-states/housing-starts"
+},
+{
+"time_ct": "07:30",
+"event": "Philadelphia Fed Nonmanufacturing Business Outlook Survey, firm-level general activity",
+"period": "October",
+"consensus": null,
+"actual": null,
+"prior": "0.3",
+"unit": "diffusion index",
+"surprise": null,
+"read": "Regional services index sat at 0.3 in September after -8.2 in August; a second-tier print, no consensus found.",
+"source_url": "https://philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey"
+},
+{
+"time_ct": "07:55",
+"event": "Redbook Retail Sales y/y",
+"period": "Week to October 17",
+"consensus": null,
+"actual": null,
+"prior": "10.4%",
+"unit": "y/y %",
+"surprise": null,
+"read": "Nominal weekly retail read inflated by 3.7% headline CPI; no consensus found.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
 "time_ct": "09:00",
-"event": "NAHB/Wells Fargo Housing Market Index",
-"period": "October",
-"consensus": "31",
-"actual": "29",
-"prior": "32",
-"unit": "index",
-"surprise": "-2 points",
-"read": "A clear miss and the lowest reading since June 2012: present sales 33 (down 2), six-month expectations 32 (down 5), buyer traffic 18 (down 5, lowest since April 2012 outside the pandemic month), 43% of builders cutting prices with the 30-year mortgage at 7.40%; it argues the 5% ten-year is already biting on housing, which is a growth-negative that helps the front end more than it hurts stocks today.",
-"source_url": "https://www.nahb.org/news-and-economics/press-releases/2026/10/builder-sentiment-falls-on-rising-rates"
+"event": "NAR Pending Home Sales Index m/m",
+"period": "September",
+"consensus": "+0.2%",
+"actual": null,
+"prior": "+0.3%",
+"unit": "m/m %",
+"surprise": null,
+"read": "Contract signings are the demand side of the same housing question the 07:30 starts print asks on supply.",
+"source_url": "https://www.nar.realtor/research-and-statistics/housing-statistics/pending-home-sales"
 },
 {
-"time_ct": "10:30",
-"event": "Treasury 13-week ($95bn) and 26-week ($82bn) bill auctions",
-"period": "Weekly",
+"time_ct": "09:00",
+"event": "BLS State Employment and Unemployment",
+"period": "September",
 "consensus": null,
 "actual": null,
-"prior": "13-week 4.085% (bid-to-cover 2.68), 26-week 4.200% (bid-to-cover 2.76) on October 13",
-"unit": "% (high discount rate)",
-"surprise": null,
-"read": "No consensus found; auctions close at 10:30 CT (not yet held at the time of writing) and the 26-week stop staying well above the 13-week keeps the December hike priced, while a narrower gap after this morning's housing miss would say the market is trimming it.",
-"source_url": "https://www.treasurydirect.gov/TA_WS/securities/announced?format=json&type=Bill&days=5"
-},
-{
-"time_ct": "21:00",
-"event": "China GDP, third quarter (NBS, released Sunday evening CT)",
-"period": "Q3 2026",
-"consensus": "4.4% y/y",
-"actual": "4.5% y/y (1.2% q/q)",
-"prior": "4.3% y/y",
-"unit": "y/y %",
-"surprise": "+0.1 pp",
-"read": "A small beat on the year-on-year rate with the quarter-on-quarter pace at 1.2%, enough to steady Asia and support US futures overnight but not a growth story on its own.",
-"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
-},
-{
-"time_ct": "21:00",
-"event": "China industrial production, September (NBS)",
-"period": "September",
-"consensus": "5.4% y/y",
-"actual": "5.5% y/y",
-"prior": "5.2% y/y",
-"unit": "y/y %",
-"surprise": "+0.1 pp",
-"read": "In line; factory output is holding up while property investment is down 20.6% year to date and the surveyed urban jobless rate sits at 5.2%.",
-"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
-},
-{
-"time_ct": "21:00",
-"event": "China retail sales, September (NBS)",
-"period": "September",
-"consensus": "0.5% y/y",
-"actual": "1.1% y/y",
-"prior": "0.4% y/y",
-"unit": "y/y %",
-"surprise": "+0.6 pp",
-"read": "The clearest beat of the batch, though a 1% consumer is still weak and investment is the drag.",
-"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
-},
-{
-"time_ct": "21:00",
-"event": "China fixed-asset investment, January to September (NBS)",
-"period": "January-September 2026",
-"consensus": "-6.5% y/y",
-"actual": "-7.2% y/y",
 "prior": null,
-"unit": "y/y % year to date",
-"surprise": "-0.7 pp",
-"read": "The miss in the batch; investment is contracting faster than expected with property down 20.6%, which caps how much the GDP beat helps commodities and industrial names.",
-"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+"unit": "state-level rates",
+"surprise": null,
+"read": "Breakdown of the October 2 payrolls report by state; not market moving, no consensus.",
+"source_url": "https://www.bls.gov/schedule/2026/10_sched.htm"
+},
+{
+"time_ct": "10:00",
+"event": "Atlanta Fed GDPNow, Q3 real GDP nowcast update",
+"period": "Q3 2026",
+"consensus": null,
+"actual": null,
+"prior": "3.6% SAAR (October 15)",
+"unit": "% SAAR",
+"surprise": null,
+"read": "Housing starts feed residential investment in the model; the BEA advance Q3 estimate comes October 29. No consensus, it is a model output.",
+"source_url": "https://tradingeconomics.com/united-states/gdpnow"
+},
+{
+"time_ct": "15:30",
+"event": "API Weekly Crude Oil Stock Change",
+"period": "Week to October 16",
+"consensus": null,
+"actual": null,
+"prior": "-11.1M bbl",
+"unit": "M barrels",
+"surprise": null,
+"read": "Second large draw in a row would support Brent near $110 into Wednesday's EIA print; no consensus found.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "20:00",
+"event": "China Loan Prime Rate, 1-year (announced 9:00 Beijing, Mon 20:00 CT)",
+"period": "October",
+"consensus": "3.00%",
+"actual": "3.00%",
+"prior": "3.00%",
+"unit": "%",
+"surprise": "0.0 pp",
+"read": "Seventeenth straight hold after a 4.5% Q3 GDP print removed any urgency to ease; no read-through to US futures.",
+"source_url": "https://www.fxstreet.com/news/confirmed-pboc-leaves-loan-prime-rates-unchanged-in-october-202610200102"
+},
+{
+"time_ct": "20:00",
+"event": "China Loan Prime Rate, 5-year",
+"period": "October",
+"consensus": "3.50%",
+"actual": "3.50%",
+"prior": "3.50%",
+"unit": "%",
+"surprise": "0.0 pp",
+"read": "Mortgage benchmark unchanged; property support is still coming through targeted tools rather than the benchmark.",
+"source_url": "https://www.fxstreet.com/news/confirmed-pboc-leaves-loan-prime-rates-unchanged-in-october-202610200102"
 }
 ],
 "read": {
 "bias": "higher",
 "confidence": "low",
-"call": "A relief bounce in the beaten-up chip and AI names (Nasdaq up about 0.9%, S&P up about 0.4%, VIX down 9% to 18 by mid-morning) with oil off $2 and the housing miss giving bonds a reason not to sell, so the day leans higher but on thin conviction with no Fed speakers and the real tests (Netflix, GE Aerospace and the rest of the earnings week) not until tomorrow.",
-"swing": "The ten-year yield, sitting near 5.11% to 5.13% and up a few basis points on the day: a push back through last week's highs around 5.20% turns the tech bounce into another sale, while a bid after the NAHB miss and the 10:30 bill auctions lets it run.",
+"call": "Modest upside bias: the 10-year is easing from 5.14% toward 5.10%, the chip bounce has follow-through in US futures, and the first big industrial print of the day beat, but Brent near $110 and a 5% ten-year cap any rally.",
+"swing": "The 07:30 CT housing starts and permits print: a clear miss on top of the NAHB index at 29 would push 'housing recession' into the rate debate and pull yields lower, which helps stocks only if it does not read as a growth scare.",
 "drivers": [
-"Builder sentiment fell to 29, the lowest since June 2012, with buyer traffic at 18 and 43% of builders cutting prices; the first hard sign the 5% ten-year and 7.40% mortgage are hitting activity.",
-"Canada's September CPI came in at 3.1% y/y, under the 3.2% consensus, with core measures easing to 1.8% to 1.9%; the energy shock is not yet spreading into core north of the border.",
-"Brent is down about 1.7% to around $108 and WTI near $100.50 as Middle East supply holds near pre-war levels despite three tankers damaged in the Strait of Hormuz.",
-"Chips and AI names are bouncing after the Nasdaq lost about 4.5% last week and semis posted their longest losing streak since 2008; Intel is up near 5% on a JPMorgan upgrade.",
-"Fed blackout through October 29 after Chair Warsh gave no steer on the October 28 decision; markets price roughly an 83% hold next week and a 75% to 90% chance of a December hike depending on the source."
+"Treasury 10-year at about 5.10% this morning after 5.14% Monday, with Fed funds futures at 82% hold and 18% hike for October 28; rates, not data, set the equity tone this week.",
+"Semiconductors ended an eight-session losing streak Monday with the Philadelphia index up 1.6% and the Nasdaq up 1.1%; futures point to modest tech gains.",
+"GM beat on revenue ($50.0B vs about $48.8B) and narrowed full-year guidance upward with a $20B buyback; GE Aerospace, RTX, 3M and Northrop also print before the open, Netflix and Capital One after the close.",
+"Oil: Brent near $110, a five-month high, on a Houthi attack on an LNG tanker and Iran tightening the Strait of Hormuz; European gas at about 90 euros per MWh is the highest since December 2022.",
+"Europe is the soft spot: ZEW missed, the Stoxx 600 fell 0.8% Monday and the France-Germany spread is 148 bp; Asia was lower overnight with Hong Kong closed."
 ]
 },
 "what_mattered": [
 {
-"headline": "Builder confidence hits a 14-year low",
-"fact": "NAHB index 29 in October versus 31 expected and 32 prior; buyer traffic 18, expectations 32 (down 5), 43% of builders cut prices, average cut 6%.",
-"implication": "Housing is the first sector to show the rate shock in the hard-ish data; it supports the front end and weighs on builders and building-products names, and it gives the Fed a growth argument against a December hike.",
-"source_url": "https://www.nahb.org/news-and-economics/press-releases/2026/10/builder-sentiment-falls-on-rising-rates"
+"headline": "Chip stocks snapped the longest losing streak since 2008",
+"fact": "Philadelphia Semiconductor Index +1.6% Monday after eight straight down sessions that erased about $2.3 trillion of value; Nasdaq +1.11% to 26,431, S&P 500 +0.41% to 7,691, Dow -0.07%.",
+"implication": "The AI-capex selloff paused rather than reversed; Netflix tonight and Tesla and Meta later this week decide whether it becomes a trend.",
+"source_url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---korea-slides-as-brent-holds-near-110---20-october-2026-20102026"
 },
 {
-"headline": "Canada inflation cooler than feared, core easing",
-"fact": "CPI 3.1% y/y (consensus 3.2%), 0.1% m/m NSA; gasoline up 27.8% y/y, CPI ex-gasoline 2.2%, CPI-trim 1.8%, CPI-median 1.9%.",
-"implication": "Bank of Canada holds at 2.25% on October 28 and the Canadian dollar made a four-week high; a data point for the view that the oil shock stays a headline, not a core, problem.",
-"source_url": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-a-pick-up-in-inflation-in-september-202610190730"
+"headline": "Ten-year Treasury closed at 5.14% and is easing overnight",
+"fact": "10-year yield 5.139% Monday, up about 5 bp; 2-year 4.77%, up 6 bp; both lower early Tuesday with the 10-year near 5.10%.",
+"implication": "A 5% ten-year is the valuation ceiling on equities; a 20-year auction tomorrow (prior 5.42%) is the next supply test.",
+"source_url": "https://riotimesonline.com/global-economy-briefing-october-20-2026"
 },
 {
-"headline": "Tech bounce with yields still above 5%",
-"fact": "Mid-morning: Nasdaq +0.85%, S&P 500 +0.38%, Dow -0.13%, VIX 18.1 (-9%); ten-year about 5.11% to 5.13%; Brent $107.90 (-1.8%), WTI $100.48.",
-"implication": "A positioning bounce after last week's sell-off rather than a change in the rate picture; the Dow's industrial and housing names are not participating.",
-"source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+"headline": "Builder sentiment fell to a 14-year low",
+"fact": "NAHB housing market index 29 for October versus 31 expected and 32 prior, the lowest since June 2012; 43% of builders are cutting prices by an average 6%.",
+"implication": "Sets a low bar for today's starts and permits; mortgage rates at 7.5% are now hitting supply, which is disinflationary for shelter later but a growth drag now.",
+"source_url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---korea-slides-as-brent-holds-near-110---20-october-2026-20102026"
 },
 {
-"headline": "China Q3 GDP beats, investment misses",
-"fact": "GDP 4.5% y/y (consensus 4.4%), retail sales 1.1% (consensus 0.5%), fixed-asset investment -7.2% year to date (consensus -6.5%), property investment -20.6%.",
-"implication": "Steadied Asia overnight but the investment contraction limits the read-through to commodities and industrials.",
-"source_url": "http://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html"
+"headline": "China Q3 GDP beat and the PBOC held",
+"fact": "GDP +4.5% y/y versus 4.4% expected (Q2 4.3%); September industrial production +5.5% vs 5.4%; retail sales +1.1% vs 0.5%; loan prime rates held at 3.0% and 3.5% for a 17th month.",
+"implication": "Beijing gets to keep stimulus on hold, which removes a hoped-for tailwind for commodities and China-exposed industrials.",
+"source_url": "https://riotimesonline.com/global-economy-briefing-october-20-2026"
+},
+{
+"headline": "Europe: ZEW missed and French spreads are at crisis-era wides",
+"fact": "German ZEW expectations 28.1 vs 32.0 expected; euro-area 18.5 vs 24.2; France-Germany 10-year spread closed at 148 bp, the widest since the sovereign debt crisis; Stoxx 600 -0.8%, DAX -1.2% Monday.",
+"implication": "European risk appetite is deteriorating independently of the US; the ECB's France dilemma is becoming a euro volatility story.",
+"source_url": "https://www.fxstreet.com/news/germany-zew-survey-economic-sentiment-deteriorates-significantly-to-281-in-october-202610200903"
+},
+{
+"headline": "UK jobs data beat",
+"fact": "Unemployment 4.7% in June to August versus 4.9% expected; regular pay +3.7%; vacancies -21k on the quarter to 691k; sterling about +0.4% near 1.335.",
+"implication": "Reduces the odds of a fast Bank of England easing path and gave the dollar a softer open.",
+"source_url": "https://www.fxstreet.com/news/forex-today-pound-rises-on-upbeat-employment-data-us-dollar-retreats-as-yields-turn-south-202610200732"
+},
+{
+"headline": "Oil held near a five-month high on Gulf escalation",
+"fact": "Brent near $110 with diesel near $200 a barrel; Persian Gulf oil flows at about 80% of pre-war levels per the US Energy Secretary; an LNG tanker was fired on near Yemen and Iran is tightening control of the Strait of Hormuz.",
+"implication": "Energy was over half of September's 0.6% CPI jump; oil at these levels keeps the December hike debate alive regardless of today's data.",
+"source_url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---korea-slides-as-brent-holds-near-110---20-october-2026-20102026"
+},
+{
+"headline": "GM beat and raised the floor of its guidance",
+"fact": "Q3 revenue $50.0B versus about $48.8B expected; adjusted EPS $3.70 vs $3.69; EBIT-adjusted guidance narrowed to $14.5-15.5B; adjusted auto free cash flow guidance raised to $11.5-12.5B; new $20B buyback.",
+"implication": "The US consumer is still buying trucks at 7.5% financing; a supportive read for industrials and auto lenders into Ally and Capital One.",
+"source_url": "https://www.prnewswire.com/news-releases/gm-releases-2026-third-quarter-results-and-updates-full-year-2026-guidance-board-approves-new-20-billion-share-repurchase-authorization-declares-quarterly-dividend-302913358.html"
 }
 ],
 "look_at": [
-"The 10:30 CT 13-week and 26-week bill stops: last week's 4.085% and 4.200% embed a December hike, so watch whether the 26-week stop drifts lower after the housing miss.",
-"The ten-year around 5.11% to 5.13%: the tech bounce only survives the afternoon if the long end stays under last week's highs near 5.20%.",
-"Homebuilders and building products after the NAHB print: a weak close in that group with the broad tape up confirms the market is reading it as a sector problem, not a macro turn.",
-"Oil near $108 Brent with three tankers damaged in the Strait of Hormuz over the weekend: any renewed spike reverses today's bid in bonds and tech.",
-"Tomorrow's set-up: Netflix, GE Aerospace, GM and Capital One report, the Atlanta Fed GDPNow updates from 3.6% at 10:00 CT, and no Fed speakers until the October 28 decision."
+"Housing starts and permits at 07:30 CT against 1.30M and 1.39M: anything under about 1.25M on starts with permits still falling confirms the NAHB signal and is the day's rates catalyst.",
+"The 10-year around 5.10%: a break back above Monday's 5.14% close into tomorrow's 20-year auction is the one thing that reverses the tech bounce.",
+"Brent near $110 and the 15:30 CT API crude number after last week's 11.1M barrel draw; energy is the swing factor for the November CPI path and the December hike pricing.",
+"GE Aerospace, RTX and Northrop before the open after GM's beat, then Netflix, Capital One and Intuitive Surgical after the close; Capital One's charge-offs are the cleanest consumer-credit read this week.",
+"Pending home sales and the GDPNow update at 09:00 and 10:00 CT: GDPNow at 3.6% versus a housing sector that is contracting is the gap the October 29 GDP print will have to reconcile."
 ],
 "fed": {
 "next_meeting": "2026-10-28",
-"market_pricing": "Fed funds 3.75% to 4.00% after the September 16 hike. Markets price roughly an 83% hold on October 28 (October hike odds about 15% after Warsh's Bangkok remarks) and a December 9 hike at 75% to over 90% depending on the source (Trading Economics about 75%, FXStreet citing CME FedWatch over 90%).",
-"speakers_today": [
-"None scheduled: FOMC blackout runs through October 29. The Board holds a closed meeting at 10:30 CT with no public remarks; the Board calendar lists only statistical releases (CP at 12:00 CT, H.10 and H.15 at 15:15 CT)."
-]
+"market_pricing": "CME fed funds futures on October 20: 82% hold, 18% 25 bp hike, 0% cut for October 28; target range 3.75-4.00% after the September hike; Kalshi and Polymarket show 83-87% hold. Further out, the market prices roughly three 25 bp hikes by July 2027 (Saxo).",
+"speakers_today": []
 },
-"snapshot": [
-{
-"label": "S&P 500 futures",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Nasdaq futures",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Russell 2000 futures",
-"value": null,
-"change_pct": null
-},
-{
-"label": "S&P 500 (prior close)",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Nasdaq (prior close)",
-"value": null,
-"change_pct": null
-},
-{
-"label": "10Y Treasury yield %",
-"value": null,
-"change_pct": null
-},
-{
-"label": "30Y Treasury yield %",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Dollar index (DXY)",
-"value": null,
-"change_pct": null
-},
-{
-"label": "WTI crude $",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Brent crude $",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Nat gas (Henry Hub) $",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Gold $",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Bitcoin $",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Nikkei 225",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Hang Seng",
-"value": null,
-"change_pct": null
-},
-{
-"label": "Euro Stoxx 50",
-"value": null,
-"change_pct": null
-},
-{
-"label": "XBI (biotech ETF, prior close)",
-"value": null,
-"change_pct": null
-}
-],
+"snapshot": [],
 "runs": [
 {
 "slot": "morning",
-"at": "2026-10-19T02:29:43-05:00",
-"rows": 6
-},
-{
-"slot": "morning",
-"at": "2026-10-19T05:34:52-05:00",
-"rows": 7
-},
-{
-"slot": "midday",
-"at": "2026-10-19T09:49:07-05:00",
-"rows": 7
+"at": "2026-10-20T05:36:06-05:00",
+"rows": 16
 }
 ],
-"snapshot_at": "2026-10-19T02:29:44-05:00",
 "themes": [
-"Is the rate shock reaching the real economy: builder sentiment at 29, the lowest since 2012, with buyer traffic at 18 says yes for housing, while the 3.6% GDPNow says not yet for the whole economy.",
-"Does the oil shock spread into core: Canada's September print says no so far (headline 3.1%, core 1.8% to 1.9%), the opposite of last week's hot US CPI and PPI.",
-"A December hike is still the base case at 75% to 90% priced, but today's weak housing data and softer oil are the first two arguments against it since the Chair spoke on Friday."
+"Housing recession versus 3.6% GDP: with the NAHB index at 29 (lowest since June 2012) and mortgage rates at 7.5%, today's starts print tests whether residential construction is now subtracting from growth while GDPNow still says 3.6%.",
+"The Fed hike debate moved from October to December: futures price only an 18% chance next week but about three hikes by July 2027 with headline CPI at 3.7% and Brent near $110.",
+"Europe is diverging: euro-area ZEW 18.5 versus 24.2 expected and the France-Germany spread at 148 bp put the ECB's France problem back in front of the euro."
 ]
 }
 }
