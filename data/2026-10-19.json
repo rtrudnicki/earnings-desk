@@ -3495,7 +3495,7 @@
 "bio": false,
 "source": "ai",
 "doc_url": "https://docs.google.com/document/d/1vHWWXMsSLwi4TzaOG3G3o0KgDMD7kMJ7YVqcgTCSQzI/edit",
-"updated_at": "2026-10-19T14:30:18-05:00",
+"updated_at": "2026-10-20T12:10:55-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -3865,61 +3865,217 @@
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Revenue",
+"cons": "$48.76B (Yahoo, 13 ests)",
+"actual": "$50.015B",
+"grade": "B",
+"yoy": "+2.9% ($48.591B)",
+"qoq": "+4.2% (Q2 $48.0B)",
+"source": "Q3 2026 8-K Ex 99.1, results overview table"
+},
+{
+"metric": "EPS-diluted-adjusted",
+"cons": "$3.55 (Nasdaq, 6 ests); Yahoo $3.63 (15 ests)",
+"actual": "$3.70",
+"grade": "B",
+"yoy": "+32.2% ($2.80)",
+"qoq": "+3.6% (Q2 $3.57)",
+"source": "Q3 2026 8-K Ex 99.1, EPS-diluted-adjusted reconciliation"
+},
+{
+"metric": "EBIT-adjusted",
+"cons": null,
+"actual": "$4.106B (margin 8.2% vs 6.9%)",
+"grade": null,
+"yoy": "+21.6% ($3.376B)",
+"qoq": "+4.2% (Q2 $3.94B)",
+"source": "Q3 2026 8-K Ex 99.1, EBIT-adjusted reconciliation. No street number in Part A; Analysis: above the top of A3's derived $2.9B to $3.9B per-quarter H2 range"
+},
+{
+"metric": "EPS-diluted (GAAP)",
+"cons": null,
+"actual": "$3.73",
+"grade": null,
+"yoy": "$1.35 a year ago",
+"qoq": "Q2 $1.41",
+"source": "Q3 2026 8-K Ex 99.1, basic and diluted EPS table"
+},
+{
+"metric": "GMNA EBIT-adjusted margin",
+"cons": null,
+"actual": "8.7% ($3.592B)",
+"grade": null,
+"yoy": "+2.5 ppts (6.2%)",
+"qoq": "+0.1 ppt (Q2 8.6%)",
+"source": "Q3 2026 8-K Ex 99.1, results overview table"
+},
+{
+"metric": "Adjusted automotive free cash flow",
+"cons": null,
+"actual": "$5.882B",
+"grade": null,
+"yoy": "+40.0% ($4.201B)",
+"qoq": null,
+"source": "Q3 2026 8-K Ex 99.1, FCF reconciliation"
+}
+],
+"segments": "GMNA EBIT-adj $3.592B (+43.4%) on revenue $41.419B (+2.1%); GMI EBIT-adj $28M vs $226M (-87.7%), including China equity income $32M vs $80M; GM Financial EBT-adj $668M vs $804M (-16.9%); Corporate and eliminations -$183M vs -$160M (8-K Ex 99.1, segment reconciliation). Per the call, GMI ex-China was break-even and included about a $100M negative mark-to-market on Momenta (Investing.com transcript)."
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "Excluded from adjusted: EV strategic realignment $238M pre-tax (vs $1.592B a year ago) and a $208M tax benefit from a change to a subsidiary's legal entity tax classification, so GAAP EPS ($3.73) is above adjusted ($3.70) (8-K Ex 99.1, EPS reconciliation). Inside adjusted: GMNA equity income includes a gain from the sale of an equity investment, amount not disclosed (8-K footnote c); the call cited a $600M Q3 warranty benefit and about $500M of IEEPA tariff refunds credited to earnings, with the quarter split of the refund not stated in the sources read; about $100M negative Momenta mark in GMI (Investing.com transcript; gloom.sh summary). Analysis: warranty and tariff refunds are part of the beat and the company says the refund will not repeat in 2027.",
+"organic": "GMNA wholesale 870k vs 840k (+3.6%); GMI wholesale 159k vs 137k. U.S. total sales 671k vs 710k (-5.5%), share 16.1% vs 16.8%; U.S. trucks 359k vs 369k, crossovers 300k vs 330k. Fleet share of total sales 19.2% vs 16.7%. China JV sales 358k vs 469k (-24%) (8-K Ex 99.1, vehicle sales tables). Call: full-size pickup sales up 9% (gloom.sh summary). Analysis: revenue growth came from wholesale timing and mix, not retail demand; U.S. retail volume and share fell and fleet mix rose.",
+"margin_drivers": "Call: GMNA gains from richer full-size pickup mix, lower EV losses and lower warranty, offset by commodities (including logistics and DRAM) and onshoring costs. Commodities, logistics and DRAM about $700M in Q3, about $1.3B YTD, about $2B for FY26. EV losses expected down $1B to $1.5B for FY26. NA pricing up $400M YTD (Investing.com transcript; Yahoo Finance call summary). Ultium Cells equity income was insignificant vs $213M a year ago (8-K footnote b).",
+"cash_conversion": "Automotive operating cash flow $8.049B; capex $2.333B; adjusted automotive FCF $5.882B, about 143% of EBIT-adjusted. YTD adjusted FCF $12.184B, with $4.242B of EV realignment cash added back (8-K Ex 99.1). Call: Q3 FCF helped by tariff timing. Automotive cash $18.765B plus marketable securities $4.351B at Sep 30 (8-K balance sheet).",
+"share_count_tax": "Diluted weighted shares 887M vs 910M in Q2 and 964M a year ago; 849M shares outstanding at Sep 30 vs 904M at end 2025 (8-K Ex 99.1). Buyback $2.5B in Q3, $1B more in October, $6.3B YTD, prior $6.0B program completed; new $20B multi-year authorization (release; call). ETR-adjusted 19.9% vs 19.8% (8-K). Analysis: at Q2's 910M diluted shares, adjusted EPS would have been about $3.60, so share count added about $0.10.",
+"beat_from": [
+"Revenue",
+"Margin",
+"Share count"
+]
 },
 "C3": {
-"guidance": [],
-"withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"guidance": [
+{
+"item": "EPS-diluted-adjusted FY26",
+"prior": "$12.00 to $14.00",
+"new": "$12.75 to $13.75",
+"street": "FY $13.53 (Nasdaq); Q4 $2.70",
+"direction": "Up",
+"implied_rest": "Derived: Q4 about $1.78 to $2.78 (guide minus 9M actual $10.97); midpoint $2.28 vs street Q4 $2.70. Street FY $13.53 sits above the new midpoint $13.25",
+"assumptions": "Call: Q4 tax rate 25% to 27%, FY 20% to 21%; about 35,000 fewer full-size pickups in Q4 from the changeover, largely offset by price; about $400M of added cost inflation mostly in Q4; FY SAAR mid-16M, about 16M for the rest of the year"
+},
+{
+"item": "EBIT-adjusted FY26",
+"prior": "$14.0B to $16.0B",
+"new": "$14.5B to $15.5B",
+"street": null,
+"direction": "Flat",
+"implied_rest": "Derived: Q4 $2.2B to $3.2B (9M actual $12.302B) vs Q3 $4.106B; midpoint unchanged at $15.0B, range narrowed",
+"assumptions": "Call: commodities, logistics and DRAM about $2B FY headwind; warranty improvement near high end of $1B to $1.5B; EV loss reduction $1B to $1.5B with modest further gain in Q4; onshoring $1B to $1.5B ramping in Q4"
+},
+{
+"item": "Adjusted automotive FCF FY26",
+"prior": "$9.5B to $11.5B",
+"new": "$11.5B to $12.5B",
+"street": null,
+"direction": "Up",
+"implied_rest": "Derived: Q4 about -$0.7B to +$0.3B (9M actual $12.184B)",
+"assumptions": "Call: lower capex, tariff timing and IEEPA refunds ($600M to $800M cash in 2026, not repeating in 2027); about $1B of EV restructuring cash in Q4"
+},
+{
+"item": "Net income attributable to stockholders FY26",
+"prior": "$8.4B to $9.8B (adjustments $3.5B)",
+"new": "$8.9B to $9.5B (adjustments $3.7B)",
+"street": null,
+"direction": "Flat",
+"implied_rest": "Derived: Q4 $1.6B to $2.2B (9M actual $7.267B)",
+"assumptions": "Excludes future special items (release)"
+},
+{
+"item": "EPS-diluted (GAAP) FY26",
+"prior": "$8.98 to $10.98",
+"new": "$9.72 to $10.72",
+"street": null,
+"direction": "Up",
+"implied_rest": null,
+"assumptions": "Adjustments $3.03 per share vs $3.02 prior (release)"
+},
+{
+"item": "Automotive operating cash flow FY26",
+"prior": "$15.4B to $19.4B",
+"new": "$17.3B to $20.3B",
+"street": null,
+"direction": "Up",
+"implied_rest": "Derived: Q4 $3.6B to $6.6B (9M actual $13.653B)",
+"assumptions": null
+},
+{
+"item": "Capex FY26",
+"prior": "$10.0B to $12.0B",
+"new": "Lower half of $10.0B to $12.0B (call)",
+"street": null,
+"direction": "Down",
+"implied_rest": "Derived: Q4 about $4.2B to $5.2B if $10B to $11B (9M actual $5.758B)",
+"assumptions": null
+},
+{
+"item": "Gross tariff cost FY26",
+"prior": "$2.5B to $3.5B (secondary Q2 coverage)",
+"new": "Low end of $2.5B to $3.5B; about $1.8B net YTD after IEEPA reversal benefits (call)",
+"street": null,
+"direction": "Down",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Revenue",
+"prior": "No revenue guide",
+"new": "No revenue guide",
+"street": "FY $185.91B (Yahoo)",
+"direction": null,
+"implied_rest": null,
+"assumptions": null
+}
+],
+"withdrawn_or_redefined": "Nothing withdrawn or redefined. Full 2027 guidance in January after the December board budget (call).",
+"tone_vs_quarter": "Q3 was described as exceptionally strong, but Jacobson told CNBC Q4 will be down sequentially from Q3 (CNBC via search summary). Barra on 2027: 'we continue to believe that 2027 will be another strong year and better than 2026', conditional on demand and cost pressures moderating; annualizing recent commodity inflation adds $1B to $1.5B of 2027 headwind (gloom.sh summary; Investing.com transcript). Analysis: more cautious than Q2's second raise; the top of the EPS and EBIT ranges came down while the Q3 beat was large."
 },
 "C4": {
-"pressed": null,
-"deflected": null,
-"new_info": null,
-"nobody_asked": null,
-"my_questions": null
+"pressed": "No transcript file was supplied. A published transcript exists (Investing.com) and a machine-generated summary (gloom.sh); this section works from extracts of those, not a full verbatim read. Analysts pressed on 2027 commodity cost offsets (Delaney, Goldman; Rosner, Wolfe), whether FCF tracks earnings in 2027 (Michaeli, TD Cowen; Spak, UBS), buyback cadence (Percoco, Morgan Stanley; Ward, Citi), truck pricing vs the 2018-2019 launch (Perry, BofA), Q1 downtime volume (Picariello, BNP Paribas), consumer health (Levy, Barclays) and competition and Level 3 autonomy (Narayan, RBC).",
+"deflected": "Buyback cadence: Jacobson, 'we don't give any forward commentary on what we're going to do on buyback for obvious reasons.' 2027 commodity prices: 'a little bit too early to call.' Not quantified: EV break-even volumes, Q1 2027 downtime units, 2027 fixed-cost savings (deferred to January), Q4 GMI EBIT, hybrid launch details, digital revenue (taken offline), diesel price impact on demand (Investing.com transcript; gloom.sh summary).",
+"new_info": "EV cash charges since 1H25 total $7.4B, $4.6B paid, about $1B more in Q4, the rest in 2027 (derived about $1.8B in 2027). IEEPA refunds about $500M to earnings, $600M to $800M of 2026 cash, not repeating. Commodity, logistics and DRAM headwind about $2B in FY26; copper at record levels and HRC steel at four-year highs. Year-end inventory target 50 to 60 days. Truck incentives on the outgoing model several hundred basis points below prior changeovers. 2027 truck volume about flat, capacity growth in 2028. OnStar and Super Cruise recognized revenue over $800M in the quarter, +15% (Investing.com transcript; gloom.sh summary; Yahoo Finance call summary).",
+"nobody_asked": "Analysis, based on the extracts read: no question on U.S. share loss (16.1% vs 16.8%), the rise in fleet mix (19.2% vs 16.7%), the 17% drop in GM Financial EBT-adjusted, the 24% fall in China JV volume, or the size of the undisclosed equity-investment sale gain in GMNA.",
+"my_questions": "Q1 (Q3 to Q4 walk): partly answered. Inputs given: about 35,000 fewer pickups from the changeover, about $400M of inflation mostly in Q4, a 25% to 27% Q4 tax rate, modest further EV loss gains, the rest of the 0.5% NA pricing tailwind landing in Q4. No percentage split between seasonality, tariffs and incentives. Q2 (trade-down and 2027 GMNA margin): not answered with data. Barra said diesel prices spiked and it is too early to judge, Jacobson said the consumer 'has held up remarkably well', and 2027 truck pricing step-ups will be less pronounced than in past launches. Q3 (EV charges, cash and buybacks): answered on cash ($7.4B charged, $4.6B paid, about $1B in Q4, the rest in 2027; FY adjustments raised to $3.7B from $3.5B); buyback pace not given beyond $1B in October and the new $20B authorization."
 },
 "C5": {
-"dropped": null,
-"new_hedges": null,
-"catalyst_wording": null
+"dropped": "The $14.00 top of the EPS range and $16.0B top of the EBIT range are gone. Gross tariff cost moved to the low end of $2.5B to $3.5B.",
+"new_hedges": "2027 'better than 2026' now conditional on demand holding and recent cost pressures moderating; Jacobson: prices need to 'come off of these levels a little bit' for confidence; 'too early to call commodity prices in 2027'; diesel impact 'too early' (gloom.sh summary; Investing.com transcript).",
+"catalyst_wording": "Level 3 details deferred to the GM Forward event the next day (Oct 21); 2027 guidance in January; first new full-size pickups at dealers late this year (call)."
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Revenue $50.0B beat consensus by $1.25B and adjusted EPS $3.70 beat both Nasdaq $3.55 and Yahoo $3.63 (8-K)",
+"GMNA EBIT-adjusted margin 8.7%, up 2.5 ppts YoY, within the 8% to 10% target (8-K; call)",
+"Adjusted automotive FCF guide raised $2.0B at the low end to $11.5B to $12.5B (8-K)",
+"New $20B buyback authorization; shares outstanding 849M vs 904M at end 2025 (8-K)",
+"Only $238M of new EV realignment charges in Q3 vs $1.592B a year ago (8-K)"
+],
+"red": [
+"Guide implies Q4 EPS of $1.78 to $2.78, midpoint $2.28 vs street $2.70 (derived from 8-K guide)",
+"EBIT-adjusted midpoint unchanged at $15.0B despite a Q3 beat; implied Q4 EBIT $2.2B to $3.2B (derived)",
+"Commodity, logistics and DRAM headwind about $2B in FY26 and $1B to $1.5B more if annualized into 2027 (call)",
+"U.S. sales -5.5% and share 16.1% vs 16.8%; fleet mix up to 19.2% (8-K)",
+"Part of the quarter came from warranty and non-recurring IEEPA refunds (call)",
+"GM Financial EBT-adjusted -16.9% and GMI EBIT-adjusted -87.7% (8-K)"
+]
 },
 "C7": {
-"peers": null,
-"suppliers_customers": null,
-"theme": null,
-"later_this_week": null
+"peers": "Analysis: the commodity, logistics and DRAM inflation GM cited (copper at records, HRC at four-year highs) applies to Ford and Stellantis; expect the same 2027 cost question on their calls. Ford's date is unconfirmed (estimated Oct 22); Stellantis Oct 28 or 29 (calendar sites disagree).",
+"suppliers_customers": "GM expects IEEPA refunds from suppliers before year-end (call). Ultium Cells equity income fell to insignificant from $213M a year ago (8-K footnote b). Up to $4.5B supplier IPU financing program signed Aug 7 (A6).",
+"theme": "Analysis: beat on mix, warranty and buybacks, but cost inflation caps the forward guide; the market is pricing peak margin, the A5 beat-and-down case.",
+"later_this_week": "GM Forward event Oct 21 (call). Tesla reports Oct 21 per a company-announced calendar listing; Ford estimated Oct 22, not confirmed."
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "No team thesis on record (A9 ours is blank). Part A leans: guide held or modestly raised; GMNA margin holds in Q3 with risk in Q4 and 2027; more EV special items likely; failure mode is a beat with a held range and cautious 2027 language.",
+"verdict": "Weakened",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Debate 1 (third raise or capped): settled as a narrowing, not a raise. EPS midpoint up $0.25 to $13.25 but still below street $13.53; EBIT midpoint flat; implied Q4 below street. Debate 2 (GMNA margin): held in Q3 at 8.7% vs 8.6% in Q2; the Q4 and 2027 risk turned out to be commodity and logistics cost more than incentives, which management says are several hundred basis points below prior changeovers. Debate 3 (EV charges vs buybacks): Q3 charge small ($238M), FY adjustments up $0.2B to $3.7B, about $2.8B of EV cash still to pay (about $1B in Q4, the rest in 2027), and buybacks stepped up with a $20B authorization but no cadence. Analysis: the outcome matches A5's beat-and-down case; the near-term earnings path weakened while the cash and buyback story strengthened.",
+"est_changes": [
+"EPS down"
+],
+"stance": "Watch",
+"trade": "Analysis: no position call without a team analyst. Next checkpoints are the GM Forward event on Oct 21 and January 2027 guidance, where the size of cost offsets decides whether 2027 EBIT grows."
 },
 "C9": {
-"before": null,
-"at_release": null,
-"end_call": null,
+"before": "$82.75 close Oct 19 (prices.json)",
+"at_release": "$82.15 at 6:30 AM ET, $79.97 at 6:31 AM ET; $77.32 at 9:29 AM ET premarket, -6.6% (Nasdaq intraday chart)",
+"end_call": "About $78.30 at 9:45 AM ET, -5.4% (Nasdaq intraday chart; call end time estimated, not confirmed)",
 "next_close": null,
-"implied": null,
-"vs_implied": null,
-"why": null
+"implied": "\u00b15.9% through Oct 23 (A2, Cboe delayed straddle)",
+"vs_implied": "Larger",
+"why": "Provisional: the Oct 20 close is not in yet; at 1:07 PM ET GM was $75.70, -8.5% (Nasdaq quote). Analysis: the beat and the $20B buyback were outweighed by a guide implying Q4 EPS below the street, an unchanged EBIT midpoint, and a $1B to $1.5B 2027 commodity headwind with offsets not yet identified."
 },
 "C10": {
 "blank_for_you": [],
@@ -3930,13 +4086,13 @@
 "unverified": []
 },
 "C11": {
-"verify": null,
-"open": null,
-"next_earnings": null,
-"catalysts": null
+"verify": "Today's close and the final vs-implied grade. The call's 'about 866M' diluted share count vs the 8-K's 887M weighted diluted shares. The quarter in which the $500M IEEPA credit was booked, and whether the $600M warranty item is a one-time release or a YoY improvement. All call quotes and figures in this note come from secondary transcripts and summaries; check against the GM IR replay.",
+"open": "Size of 2027 cost offsets and fixed-cost savings; EV break-even volume; buyback cadence under the $20B authorization; Q1 2027 truck downtime units; whether diesel prices hurt full-size demand; the size of the GMNA equity-investment sale gain.",
+"next_earnings": "Q4 FY26 with 2027 guidance in January 2027 (call); date not announced.",
+"catalysts": "GM Forward event Oct 21; new Silverado and Sierra at dealers late Q4; Fort Wayne four down weeks from mid-December; Orion launch Q2 2027; dividend $0.18 payable Dec 17 (record Dec 4); Tesla Oct 21; Ford around Oct 22 (unconfirmed)."
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "GM beat Q3 on revenue ($50.0B vs $48.76B) and adjusted EPS ($3.70 vs $3.55 Nasdaq, $3.63 Yahoo), with GMNA margin at 8.7%, a raised FCF guide and a new $20B buyback. The FY EPS range narrowed to $12.75 to $13.75 and the EBIT midpoint stayed at $15.0B, which implies Q4 EPS of $1.78 to $2.78 against a street $2.70, and management flagged about $2B of commodity and logistics cost this year with more in 2027 and no offsets yet. Analysis: the stock was down about 8.5% at midday, beyond the 5.9% implied move, because the market is trading the 2027 cost risk rather than the Q3 beat, and January guidance is the next real test."
 },
 "transcript_source": null
 },
