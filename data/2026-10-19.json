@@ -2823,7 +2823,7 @@
 "bio": false,
 "source": "ai",
 "doc_url": "https://docs.google.com/document/d/1sBQz3qrfECYGdwZOMCqvV1sS1LTh8uxlMHAMOK25ddI/edit",
-"updated_at": "2026-10-19T14:36:32-05:00",
+"updated_at": "2026-10-20T12:03:53-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -3168,61 +3168,245 @@
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Adjusted revenue",
+"cons": "$12.88B (13 analysts, $12.55B to $13.13B; A2)",
+"actual": "$13.285B",
+"grade": "B",
+"yoy": "+18% (vs $11.305B)",
+"qoq": "+5% (vs $12.6B in 2Q26 per A2)",
+"source": "3Q26 release, adjusted revenue reconciliation"
+},
+{
+"metric": "Adjusted EPS",
+"cons": "$2.02 (Nasdaq, 7 estimates); Yahoo $2.01 (A2)",
+"actual": "$2.25",
+"grade": "B",
+"yoy": "+36% (vs $1.66)",
+"qoq": "+11% (vs $2.02 in 2Q26)",
+"source": "3Q26 release, adjusted net income reconciliation"
+},
+{
+"metric": "GAAP continuing EPS",
+"cons": null,
+"actual": "$2.32",
+"grade": null,
+"yoy": "+14% (vs $2.04)",
+"qoq": null,
+"source": "3Q26 release, total company table"
+},
+{
+"metric": "CES revenue",
+"cons": "~$9.71B (Zacks; A2)",
+"actual": "$10.342B",
+"grade": "B",
+"yoy": "+21%",
+"qoq": null,
+"source": "3Q26 release, CES table"
+},
+{
+"metric": "DPT revenue",
+"cons": "~$3.40B (Zacks; A2)",
+"actual": "$3.469B",
+"grade": "B",
+"yoy": "+7%",
+"qoq": null,
+"source": "3Q26 release, DPT table"
+},
+{
+"metric": "CES commercial services revenue growth (steering metric)",
+"cons": "FY26 guide low 20s (A2); no quarterly consensus",
+"actual": "+17% (internal shop visit revenue +12%, spare parts >+20%)",
+"grade": null,
+"yoy": "+17%",
+"qoq": null,
+"source": "3Q26 release, CES commentary"
+},
+{
+"metric": "Operating profit / margin",
+"cons": null,
+"actual": "$2.988B, 22.5% margin",
+"grade": null,
+"yoy": "+30%; margin +220 bps (vs 20.3%)",
+"qoq": "Margin +80 bps (vs 21.7% in 2Q26 per A2)",
+"source": "3Q26 release, total company table"
+},
+{
+"metric": "CES operating margin",
+"cons": null,
+"actual": "27.9% (profit $2.887B)",
+"grade": null,
+"yoy": "-10 bps (vs 28.0%)",
+"qoq": "+60 bps (vs 27.3% in 2Q26 per A4)",
+"source": "3Q26 release, CES table"
+},
+{
+"metric": "Free cash flow",
+"cons": null,
+"actual": "$2.042B",
+"grade": null,
+"yoy": "-14% (vs $2.362B)",
+"qoq": null,
+"source": "3Q26 release, FCF reconciliation"
+},
+{
+"metric": "Orders",
+"cons": null,
+"actual": "$19.0B (CES $15.3B +58%, services orders +23%, equipment orders more than tripled; DPT $4.3B +18%)",
+"grade": null,
+"yoy": "+49%",
+"qoq": null,
+"source": "3Q26 release, highlights and CES/DPT tables"
+}
+],
+"segments": "CES: revenue $10.34B +21%, services +17%, equipment +38% (engine deliveries +8%, LEAP deliveries +5%, GEnx growth; GE9X shipments not recognized until mid-seal certification), profit $2.89B +21%, margin 27.9% (-10 bps yoy on mix and inflation). DPT: revenue $3.47B +7% (Defense & Systems +5%, Propulsion & Additive +10%), profit $475M +8%, margin 13.7% +20 bps. Corporate cost and eliminations $(373)M vs $(525)M a year ago. Source: 3Q26 release."
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "Excluded from adjusted results: run-off insurance pretax loss of $(210)M (vs +$363M profit in 3Q25) and a $117M pretax gain on retained ownership interests and equity securities. GAAP continuing EPS $2.32 vs adjusted $2.25. Source: 3Q26 release, adjusted net income reconciliation. Analysis: the adjusted number is clean of both; the insurance swing is a GAAP item worth watching, not an operating one.",
+"organic": "Release gives no organic growth figure. Analysis: no acquisitions closed in the period (CPP not yet closed), so reported growth of +18% adjusted revenue is close to organic.",
+"margin_drivers": "Operating margin 22.5%, +220 bps yoy. CES margin -10 bps from mix and inflation, offset by services volume and price. DPT margin +20 bps from volume and price, partly offset by mix and inflation. Adjusted corporate cost and eliminations improved $152M yoy to $(373)M. Source: 3Q26 release. Analysis: about $150M of the $689M yoy operating profit increase came from lower corporate cost and eliminations rather than segments; segments alone grew about 23%.",
+"cash_conversion": "Q3 FCF $2.04B on adjusted net income $2.34B, about 87% conversion; CFOA $2.20B, -14%. Nine months FCF $6.73B, +13%, about 105% conversion. Sources: 3Q26 release; Investing.com transcript (105% YTD).",
+"share_count_tax": "Derived diluted shares about 1,041M ($2,343M adjusted net income / $2.25) vs about 1,046M in 2Q26 (A6) and about 1,063M in 3Q25 ($1,764M / $1.66). Adjusted net income +33% vs adjusted EPS +36%. FY26 tax rate about 16% (call, per Investing.com transcript). Analysis: share count added about 3 points of yoy EPS growth; management cited 'previously announced capital allocation actions' but gave no buyback amount.",
+"beat_from": [
+"Revenue",
+"Margin"
+]
 },
 "C3": {
-"guidance": [],
-"withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"guidance": [
+{
+"item": "Adjusted revenue growth FY26",
+"prior": "High-teens on $42.3B",
+"new": "~19% to 20%",
+"street": "$50.36B (+19.0%); Q4 $13.29B (A3)",
+"direction": "Up",
+"implied_rest": "Analysis: 19% to 20% is $50.3B to $50.8B; less 9M $37.53B leaves Q4 $12.8B to $13.2B, flat to down vs Q3 $13.29B and at or below the Street Q4 $13.29B",
+"assumptions": "CES low 20s (from ~20%), services at higher end of low 20s (about $5.5B of growth, up about $400M at midpoint per call), equipment low 20s, DPT low double digits"
+},
+{
+"item": "Adjusted EPS FY26",
+"prior": "$7.65 to $7.85",
+"new": "$8.00 to $8.10",
+"street": "$7.91 (Nasdaq, A3); TIKR cites $7.93",
+"direction": "Up",
+"implied_rest": "9M $6.13 leaves Q4 $1.87 to $1.97, vs Street Q4 $2.02 (A3), Q3 actual $2.25 and 4Q25 $1.57 (derived: $6.37 FY25 less $4.80 9M25). Analysis: midpoint up $0.30 against a $0.23 Q3 beat, so the Q4 bar is about $0.07 higher than the prior guide implied but still below where the Street had Q4",
+"assumptions": "Tax rate about 16% (call)"
+},
+{
+"item": "Operating profit FY26",
+"prior": "$10.55B to $10.75B",
+"new": "$10.9B to $11.0B",
+"street": null,
+"direction": "Up",
+"implied_rest": "9M $8.26B leaves Q4 $2.64B to $2.74B vs Q3 $2.99B and 4Q25 about $2.32B (derived). Analysis: on Q4 revenue of $12.8B to $13.2B that is a margin of about 20% to 21%, below Q3 22.5%",
+"assumptions": "Up $300M at midpoint (call)"
+},
+{
+"item": "Free cash flow FY26",
+"prior": "$8.9B to $9.2B, >100% conversion",
+"new": "$9.1B to $9.4B, >100% conversion",
+"street": null,
+"direction": "Up",
+"implied_rest": "9M $6.73B leaves Q4 $2.37B to $2.67B vs 4Q25 about $1.77B (derived)",
+"assumptions": null
+},
+{
+"item": "CES operating profit FY26",
+"prior": "$10.25B to $10.35B; revenue ~+20%",
+"new": "$10.5B to $10.6B; revenue low 20s",
+"street": null,
+"direction": "Up",
+"implied_rest": "9M $7.90B leaves Q4 $2.60B to $2.70B vs Q3 $2.89B",
+"assumptions": "About $150M from services drop-through and about $100M from lower GE9X impact (call); fewer GE9X units in 2026"
+},
+{
+"item": "DPT FY26",
+"prior": "Revenue low double digits; profit $1.6B to $1.7B",
+"new": "Unchanged",
+"street": null,
+"direction": "Flat",
+"implied_rest": "9M $1.33B leaves Q4 $0.27B to $0.37B",
+"assumptions": null
+},
+{
+"item": "Adjusted corporate and other costs FY26",
+"prior": "$(1.2)B to $(1.3)B",
+"new": "Trending to lower end: ~$(500)M corporate, ~$(700)M eliminations",
+"street": null,
+"direction": "Up",
+"implied_rest": "9M $(966)M leaves Q4 about $(234)M at the $(1.2)B end",
+"assumptions": null
+},
+{
+"item": "2027 commercial services",
+"prior": "None given; Ghai had said 2027 detail would come in October and January (A1)",
+"new": "Low double-digit growth, about $3.5B to $4B of revenue growth; services margin about flat. Also: DPT high single-digit revenue growth with slight margin expansion; total margin in line with 2026; GE9X about $300M yoy profit headwind; LEAP shop visits +25% to 26%; CFM56 shop visits flat to the high end of 2,300 to 2,400. Full 2027 guide in January",
+"street": "Buy-side bar double digits (A2); Melius high single digits (A9)",
+"direction": "New",
+"implied_rest": null,
+"assumptions": "CFM56 retirements 1.5% to 2.0% in 2026, a step-up expected in 2027 with timing uncertain; two-thirds of CFM56 fleet has not had a second shop visit (call)"
+}
+],
+"withdrawn_or_redefined": "None withdrawn. Revenue guide moved from a range description (high-teens) to a number (~19% to 20%). Source: 3Q26 release guidance table.",
+"tone_vs_quarter": "Analysis: same pattern as July, a beat and raise on every line. The difference is that management gave a 2027 services number (low double digits) that clears the Melius high-single-digit case but signals deceleration from low 20s, and the Q3 services print itself (+17%) was below the FY pace."
 },
 "C4": {
-"pressed": null,
-"deflected": null,
-"new_info": null,
-"nobody_asked": null,
-"my_questions": null
+"pressed": "Transcript found: Investing.com published one on 10/20 (Benzinga listing could not be opened). Per that transcript, analysts pressed on services orders vs delinquencies and the 2027 burn-down (Walton, Wolfe), CFM56 retirement rates (Godyn, Citi), 2027 margin puts and takes (Strauss, Wells Fargo), quantifying LEAP and CFM56 shop visit growth (Poponak, Goldman), widebody shop visits (Deuschle, Deutsche Bank), airline behaviour under high fuel prices (Harned, Bernstein; Liwag, Morgan Stanley), GE9X timing (Kahyaoglu, Jefferies), orders-to-sales conversion (Seifman, J.P. Morgan) and CPP enhanced cooling (Parsons, UBS).",
+"deflected": "Full 2027 guidance including EPS and FCF deferred to January (Culp). No timeline on reducing delinquency. No buyback amounts or share reduction figures. CPP cooling: 'it is early', no performance or commercialization timing beyond approvals expected next summer. Source: Investing.com transcript.",
+"new_info": "2027: commercial services low double digits (about $3.5B to $4B), services margin flat, DPT high single digits, total margin in line with 2026, GE9X about $300M headwind. CFM56 retirements 1.5% to 2.0% in 2026. LEAP shop visits about +40% in Q3. Spare parts orders grew faster than total services orders; over 95% of Q4 spare parts in backlog; delinquency up slightly sequentially; order-to-revenue window of 6 to 9 months has lengthened. GEnx deliveries up more than 50 units in Q3. GE9X shipping with upgraded mid-seal since August, FAA certification targeted for end 2026. Source: Investing.com transcript.",
+"nobody_asked": "Analysis, from the transcript summary rather than a full read: no question on why Q3 commercial services growth (+17%) ran below the FY low-20s guide, on the Q3 FCF decline (-14%), on the $210M insurance loss, or on CPP debt and buyback pace.",
+"my_questions": "Q1 (2027 services): answered. Low double digits, about $3.5B to $4B, with LEAP shop visits +25% to 26% and CFM56 visits flat to slightly up; CFM56 retirements 1.5% to 2.0% this year with a step-up expected. What would take it to high single digits was not addressed directly; the lengthening order conversion window and delinquency are the stated soft spots. Q2 (CES margin): partly answered by the print. CES margin 27.9% in Q3 vs 27.3% in Q2, still -10 bps yoy; no 2026 exit rate given, and the CES guide implies Q4 profit of $2.60B to $2.70B, below Q3. Q3 (CPP and buybacks): not answered. No buyback figures; Culp said GE has 'no intention of being a captive provider'; nothing on shop-visit turn times."
 },
 "C5": {
-"dropped": null,
-"new_hedges": null,
-"catalyst_wording": null
+"dropped": "The CEO quote no longer cites the 'over $210B' total backlog used in 2Q26 (A6); it now cites 'over $170 billion commercial services backlog', a narrower measure, so the two are not comparable. Source: 2Q26 and 3Q26 releases.",
+"new_hedges": "GE9X revenue recognized only after mid-seal certification, with FAA certification by end 2026 'subject to FAA approval'. CFM56 retirement step-up in 2027 with uncertain timing. Order-to-revenue conversion window lengthened; delinquency up slightly. Sources: 3Q26 release; Investing.com transcript.",
+"catalyst_wording": "'we now expect 2027 commercial services to grow low-double-digits' (Culp, release). Full 2027 guide to be updated in January (call). CPP enhanced cooling approvals expected next summer (call)."
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Adjusted EPS $2.25 vs $2.02 consensus, revenue $13.29B vs $12.88B (release; A2)",
+"FY26 EPS guide $8.00 to $8.10, entirely above the $7.91 Street figure (release; A3)",
+"2027 commercial services framed at low double digits, above the Melius high-single-digit case (release)",
+"Orders +49%, CES services orders +23%, equipment orders more than tripled (release)",
+"Operating margin 22.5%, +220 bps yoy; CES margin up 60 bps sequentially to 27.9% (release)",
+"CFM56 retirements 1.5% to 2.0% in 2026, below the 3% to 4% originally planned (call)"
+],
+"red": [
+"Commercial services revenue +17% in Q3, below the FY low-20s guide; internal shop visit revenue +12% (release)",
+"Q3 FCF $2.04B, -14% yoy; CFOA -14% (release)",
+"Implied Q4 EPS $1.87 to $1.97 and Q4 operating margin about 20% to 21%, below Q3 and below Street Q4 EPS $2.02 (Analysis, from release guide)",
+"2027 services margin guided flat and a $300M GE9X profit headwind (call)",
+"Delinquency up sequentially and order conversion window lengthening (call)",
+"Insurance swung to a $(210)M pretax loss, excluded from adjusted (release)"
+]
 },
 "C7": {
 "peers": null,
-"suppliers_customers": null,
-"theme": null,
+"suppliers_customers": "Material input from priority suppliers up double digits yoy. IndiGo committed to more than 1,000 LEAP-1A engines; Turkish Airlines more than 300 LEAP-1B engines plus a services agreement for its 600+ LEAP-1B fleet; $2.9B F414 support contract for the U.S. Navy. Source: 3Q26 release.",
+"theme": "Analysis: the read-across for aftermarket names (the five Melius downgraded in September, A9) is mixed. GE put a low-double-digit number on 2027 services, which is better than the bear case, but the step-down from low 20s is now on record from the largest engine OEM.",
 "later_this_week": null
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "Analysis: no house stance was recorded in Part A (A9 'ours' blank). The working thesis from A4/A5: services runway holds at double digits into 2027, Q2 margin drop was mix, CPP is capacity insurance; the risk was valuation at about 39x forward EPS.",
+"verdict": "Intact",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Analysis: debate 1 (2027 aftermarket) settled toward double digits, but only just: low double digits, about $3.5B to $4B, with services margin flat. That rules out Melius' high single digits for now but confirms deceleration from low 20s, and the Q3 services print (+17%) already shows it. Debate 2 (margins) leaned to mix: total margin +220 bps, CES 27.9% recovered 60 bps from Q2 though still -10 bps yoy (A4 cited 28.9% a year ago; the release shows 28.0%). The Q4 implied margin of about 20% to 21% keeps it open. Debate 3 (CPP) did not move: management framed it as castings capacity, gave no buyback change and did not tie it to shop-visit turn times.",
+"est_changes": [
+"Revenue up",
+"EPS up"
+],
+"stance": "Watch",
+"trade": "Analysis: no trade on the print alone. The stock traded down on a beat and raise for the fourth time, so the debate is valuation against a decelerating services line. A better entry test is the January 2027 guide, where EPS and FCF for 2027 get numbers."
 },
 "C9": {
-"before": null,
-"at_release": null,
+"before": "$311.28 close Mon 10/19 (prices.json); $313.83 close Fri 10/16",
+"at_release": "Indicated $297.99 premarket, -4.27% vs $311.28 (Investing.com transcript page, 10/20)",
 "end_call": null,
-"next_close": null,
-"implied": null,
-"vs_implied": null,
-"why": null
+"next_close": "Not available when written. TIKR reported the stock down about 2% on the day, time not stated.",
+"implied": "\u00b16.1% through Fri 10/23 ($19.00 straddle on $313.24 spot, A2)",
+"vs_implied": "Smaller",
+"why": "Analysis: provisional, based on a premarket -4.3% and an intraday report of about -2%, both inside the 6.1% implied move; confirm against the 10/20 close. The selling follows the beat_and_down case in A5: the beat and raise were expected, and the market focused on Q3 services growth of 17% and the low-double-digit 2027 services framing."
 },
 "C10": {
 "blank_for_you": [],
@@ -3233,13 +3417,13 @@
 "unverified": []
 },
 "C11": {
-"verify": null,
-"open": null,
-"next_earnings": null,
-"catalysts": null
+"verify": "10/20 close and the move vs the 6.1% implied. 2027 figures and CFM56 numbers against GE's own webcast transcript (not posted at writing; this note relies on the Investing.com transcript). CES 3Q25 margin: release shows 28.0%, A4 used 28.9%. Street FY26 EPS before the print: Nasdaq $7.91 vs TIKR $7.93.",
+"open": "What drives the gap between Q3 commercial services (+17%) and the low-20s FY guide, given Q4 implied revenue is flat to down sequentially. Delinquency trend and the lengthening order conversion window. CPP funding effect on buybacks. 2027 EPS and FCF.",
+"next_earnings": "4Q26 in January 2027, date not announced (4Q25 was reported 1/22/2026), with the full 2027 guide.",
+"catalysts": "GE9X FAA mid-seal certification targeted by end 2026; 2027 guidance in January; CPP enhanced cooling approvals expected next summer; CPP close expected H2 2027 (8-K 9/8/2026)."
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "GE beat on revenue ($13.29B vs $12.88B) and adjusted EPS ($2.25 vs $2.02) and raised FY26 EPS to $8.00 to $8.10, above the $7.91 the Street carried, but commercial services grew only 17% in the quarter and the shares were indicated down about 4% premarket. Management framed 2027 commercial services at low double digits (about $3.5B to $4B of growth, flat services margin), which clears the Melius high-single-digit bear case but confirms the step down from low 20s. Analysis: thesis intact, stance Watch; the implied Q4 (EPS $1.87 to $1.97, margin about 20% to 21%) and the January 2027 guide are the next tests for a stock at about 37x to 39x forward earnings."
 },
 "transcript_source": null
 },
