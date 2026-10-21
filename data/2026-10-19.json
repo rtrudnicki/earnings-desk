@@ -5963,15 +5963,15 @@
 "ticker": "NFLX",
 "company": "Netflix",
 "quarter": "Q3FY26",
-"author": null,
+"author": "AI",
 "call_date": "2026-10-20",
 "session": "post",
 "call_time_et": "4:45 PM",
 "priority": 1,
 "bio": false,
-"source": "typed",
+"source": "ai",
 "doc_url": "https://docs.google.com/document/d/15e_sjWdJNEI4cxbAb05jToPa1ATGZToQA2oxA1D5WJk/edit",
-"updated_at": "2026-10-21T15:15:58-05:00",
+"updated_at": "2026-10-21T16:23:31-05:00",
 "O": {
 "O1": {
 "business": "Netflix runs a paid streaming entertainment service: series, films, live events, games and now video podcasts and creator shows, reaching an audience it says is approaching 1B people. Paid memberships were above 325M at Q1 2026 (it no longer reports them quarterly)",
@@ -6979,13 +6979,16 @@
 "later_this_week": "META tonight (10/21 after close: ad pricing and demand), Comcast and Spotify Thursday 10/22 before the open (Peacock, subscription pricing and engagement), Rogers Friday 10/23 (team week sheet)"
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "Part A: revenue growth bottoms near 11% to 12% with pricing and ads carrying 2026 and 2027, and the 31.5% margin target is safe; the open question is engagement against YouTube. The bull needed a Q4 guide at or above $13.52B, FY revenue in the top half of $51.0B to $51.4B and ads at $3B or more; the beat-and-down case was an EPS beat, an in-line Q4 and vague 2027 margin talk, for a 4% to 8% fall inside the 9.4% implied move",
+"verdict": "Weakened",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Analysis: the print landed on the beat-and-down case. Q4 revenue of $13.442B (+11.5%) cleared the $13.37B bear line but sits 0.6% under Street, FY revenue moved below the old midpoint to $51.1B, ads fell to ~$2.7B from ~$3B, and FCF to ~$12.0B. Pricing and churn held up (churn better than forecast), so the member and price leg is intact, but the ad leg slipped, view hours are still undisclosed and the 2027 margin answer was pushed to January",
+"est_changes": [
+"Revenue down",
+"EPS down"
+],
+"stance": "Watch",
+"trade": "Analysis: no position on this print; the test is the January guide, where 2027 revenue growth of 10% or more with margin expansion would support a long at about 17x 2027 EPS (Part A had about 18x at $68.69), while a guide under 10% would confirm the slowdown"
 },
 "C9": {
 "before": "$68.69 close on 10/20 (down 1.7% that day from $69.85) (catalyst_calendar.market_data bars)",
@@ -7113,7 +7116,7 @@
 "catalysts": "NFL Thanksgiving Eve game (11/25) and Christmas Day doubleheader (12/25), Fury vs Joshua, The Further Mis-Adventures of Cliff Booth (Q4), Disney's Ice Age: Boiling Point in theaters (February 2027), ad tier launches in 12 countries (March 2027) (letter (8-K Ex 99.1, 10/20/2026) p.4 to 5)"
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "Analysis: a clean Q3 (EPS $0.87 vs $0.82, margin 34.6%) bought on expense timing, while the forward lines all slipped: ads ~$2.7B from ~$3B, FCF ~$12.0B from ~$12.5B, Q4 EPS $0.67 vs $0.73. Churn and pricing held, so the core subscription case stands, but the ad and engagement legs did not improve and 2027 waits for January. The stock fell 5.3%, inside the 9.4% implied move, for a fifth straight post-print decline; watch, not add, until the January guide"
 },
 "transcript_source": "manual"
 },
@@ -7200,15 +7203,15 @@
 "ticker": "SPCX",
 "company": "SpaceX",
 "quarter": "Q3FY26",
-"author": null,
+"author": "AI",
 "call_date": "2026-10-20",
 "session": "post",
 "call_time_et": "4:30 PM",
 "priority": 1,
 "bio": false,
-"source": "typed",
+"source": "ai",
 "doc_url": "https://docs.google.com/document/d/1GCyayooWNxdRIXX4tOzEu8LANfXoor75usw0aQEBe9c/edit",
-"updated_at": "2026-10-21T15:17:40-05:00",
+"updated_at": "2026-10-21T16:23:47-05:00",
 "O": {
 "O1": {
 "business": "Space Exploration Technologies (SpaceX): Falcon and Starship launch, the Starlink satellite network (consumer, enterprise, government/Starshield, mobile), and an AI segment (Grok, X advertising, Colossus compute sold under Cloud Services Agreements, Cursor since 8/14/2026). Listed 6/12/2026 on Nasdaq Global Select and Nasdaq Texas; IPO of 638.9M Class A shares for ~$85.7B net proceeds. This is its second report as a public company (first: Q2 on 8/4/2026)",
@@ -8160,13 +8163,16 @@
 "later_this_week": "TSLA reports 10/21 after the close (its own special committee on a SpaceX combination); LRCX reports 10/21 after the close (named in the Terafab question)"
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "Part A case: Cloud Services contracts make the roughly $18B a quarter of mostly AI capex pay, Starlink subscriber growth outruns ARPU dilution, and the main risk is valuation near 43x 2026 sales with lockup supply ahead. Bull trigger: revenue at or above $13B with AI stepping up and $100B ARR reaffirmed; bear trigger: thin contracts, ARPU down again, capex framed higher.",
+"verdict": "Strengthened",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Analysis: the AI debate moved toward the bull case. SI turned profitable ($431M operating income, $4.95B segment adjusted EBITDA), management claims payback under a year, and the Q1 2027 guide of $33B to $37B makes Street 2027 revenue look low. Starlink ARPU rose to $69 instead of falling, though net adds of 1.6M fell short of the 2M bull mark. Against that, capex roughly doubles to $35B to $40B in Q4, Q3 free cash flow was about -$10B, Q4 gross margin steps down about 7 points, and part of the EPS beat came from $1.03B of other income and a $390M tax benefit. The lockup overhang around 12/8 is unchanged.",
+"est_changes": [
+"Revenue up",
+"EPS up"
+],
+"stance": "Watch",
+"trade": "Analysis: do not chase the +7.8% into the 12/8 lockup; consider a starter only on a fade back toward the $147 to $150 pre-print range, with the December run rate and Flight 15 as the tests."
 },
 "C9": {
 "before": "$147.79 close on 10/20 (-0.11%); results released after the close (https://www.nasdaq.com/market-activity/stocks/spcx)",
@@ -8254,7 +8260,7 @@
 "catalysts": "Starship Flight 15 (November, both-stage catch attempt); lockup expiry around 12/8/2026 (Part A A4, secondary sources); the December ARR read; 800 MHz deal close in H1 2027; Terafab test chip May or June 2027; special committee outcome"
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "Analysis: SpaceX beat on every headline line and, more important, guided Q1 2027 revenue to $33B to $37B, which shows SI compute can earn a profit and leaves Street 2027 numbers too low. The cost is a Q4 capex bill of $35B to $40B and negative free cash flow funded with debt, and part of the EPS beat came below the line. The stock's +7.8% was a little larger than the 7% implied move; the next tests are Flight 15, the December run rate and the 12/8 lockup."
 },
 "transcript_source": "manual"
 },
