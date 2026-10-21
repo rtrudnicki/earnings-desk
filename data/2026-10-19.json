@@ -5375,15 +5375,15 @@
 "ticker": "META",
 "company": "Meta Platforms",
 "quarter": "Q3FY26",
-"author": "AI",
+"author": null,
 "call_date": "2026-10-21",
 "session": "post",
 "call_time_et": "4:30 PM",
 "priority": "1",
 "bio": false,
-"source": "ai",
+"source": "typed",
 "doc_url": "https://docs.google.com/document/d/1S0mcI6TUhgaMijhg8XW2xN5_S7d448Voc-9TlGIj4aQ/edit",
-"updated_at": "2026-10-21T15:17:17-05:00",
+"updated_at": "2026-10-21T15:21:00-05:00",
 "O": {
 "O1": {
 "business": null,
