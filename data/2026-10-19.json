@@ -5153,7 +5153,7 @@
 "bio": false,
 "source": "ai",
 "doc_url": "https://docs.google.com/document/d/1vOFcY1uWBXJyk5qC1wZf5v0MdF1b7ILtw8AnYoMphoc/edit",
-"updated_at": "2026-10-21T15:17:18-05:00",
+"updated_at": "2026-10-21T17:25:27-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -5625,61 +5625,251 @@
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Revenue",
+"cons": "$8.14B (Yahoo, 24); guide $8.10B +/- $0.40B",
+"actual": "$8.22B ($8,219.4M), record",
+"grade": "IL",
+"yoy": "+54% vs $5.32B",
+"qoq": "+22% vs $6.72B",
+"source": "Release (8-K Ex 99.1, 10/21/2026), statement of operations. Analysis: +1.0% vs consensus and +$119M vs the guide midpoint, about the same size as the June beat ($120M); graded in line on a 1% band"
+},
+{
+"metric": "Non-GAAP diluted EPS",
+"cons": "$2.17 (Nasdaq, 9) / $2.18 (Yahoo, 25); guide $2.15 +/- $0.15",
+"actual": "$2.20",
+"grade": "IL",
+"yoy": "+75% vs $1.26",
+"qoq": "+21% vs $1.82",
+"source": "Release (8-K Ex 99.1, 10/21/2026), non-GAAP summary. Analysis: +0.9% to +1.4% vs consensus, the smallest EPS beat of the last five prints (prior four were +3.3% to +8.7%)"
+},
+{
+"metric": "GAAP diluted EPS",
+"cons": "No GAAP consensus found; Analysis: about $2.17 to $2.18 (A2: should sit at the non-GAAP number)",
+"actual": "$2.19",
+"grade": "IL",
+"yoy": "+77% vs $1.24",
+"qoq": "+21% vs $1.81",
+"source": "Release (8-K Ex 99.1, 10/21/2026), statement of operations"
+},
+{
+"metric": "Non-GAAP gross margin",
+"cons": "No consensus; guide 52.0% +/- 1%",
+"actual": "52.4% (GAAP 52.3%), record",
+"grade": "IL",
+"yoy": "GAAP +190 bps vs 50.4%",
+"qoq": "+40 bps vs 52.0%",
+"source": "Release (8-K Ex 99.1, 10/21/2026); 'record' per Call transcript (Investing.com, AI-assisted, 10/21/2026)"
+},
+{
+"metric": "Non-GAAP operating margin",
+"cons": "No consensus; guide 39.5% +/- 1%",
+"actual": "40.2% (GAAP 40.0%), first time above 40%",
+"grade": "B",
+"yoy": "GAAP +560 bps vs 34.4%",
+"qoq": "+180 bps vs 38.4%",
+"source": "Release (8-K Ex 99.1, 10/21/2026); 'first time above 40%' per Call transcript (Investing.com, AI-assisted, 10/21/2026). Analysis: graded on the guide midpoint (+70 bps); non-GAAP opex $1.004B vs about $1.01B implied by the guide"
+},
+{
+"metric": "December quarter revenue guide",
+"cons": "$8.54B (Yahoo, 24, $8.08B to $9.00B)",
+"actual": "$8.60B +/- $0.40B",
+"grade": "IL",
+"yoy": "+61% vs $5.34B (A2 year-ago)",
+"qoq": "+4.6% vs $8.22B",
+"source": "Release (8-K Ex 99.1, 10/21/2026), Outlook. Analysis: +0.7% vs consensus, below the $8.8B the A2 buyside bar wanted"
+},
+{
+"metric": "December quarter EPS guide",
+"cons": "$2.32 (Yahoo, 25) / $2.26 (Nasdaq, 10)",
+"actual": "$2.33 +/- $0.15 (GAAP and non-GAAP)",
+"grade": "IL",
+"yoy": null,
+"qoq": "+6% vs $2.20",
+"source": "Release (8-K Ex 99.1, 10/21/2026), Outlook"
+}
+],
+"segments": "Systems revenue $5.73B, +35% Q/Q, +62% Y/Y; customer support-related and other $2.49B, +0.6% Q/Q (June $2.47B), +40% Y/Y (Release (8-K Ex 99.1, 10/21/2026), disaggregation table). Regions: China 35% (26% in June, 43% a year ago), Korea 20%, Taiwan 18%, Japan 9%, US 8%, Southeast Asia 6%, Europe 4% (Release (8-K Ex 99.1, 10/21/2026)). Systems mix: memory 46%, foundry 46%, logic and other 8%; DRAM 20% of systems (23% in June), a dollar record; NAND revenue up about 40% Q/Q on conversions to 256 layers and above, early 384-layer spending (Call transcript (Investing.com, AI-assisted, 10/21/2026)). Analysis: China revenue was about $2.88B vs about $1.75B in June, so China supplied about $1.13B of the $1.50B Q/Q increase; A3's assumption that China would hold near 26% and all growth would come from elsewhere was wrong for this quarter."
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "GAAP to non-GAAP gap is small: $11.5M tax expense from a change in tax law, $14.0M EDC liability increases offset by a $12.9M EDC asset gain, $3.0M intangible amortization, $0.5M note discount (Release (8-K Ex 99.1, 10/21/2026), reconciliation). No workforce charges this quarter (June had $2.9M).",
+"organic": "All organic; no acquisitions in the release. Revenue +22% Q/Q and +54% Y/Y (Release (8-K Ex 99.1, 10/21/2026)).",
+"margin_drivers": "Non-GAAP gross margin +40 bps Q/Q to 52.4% 'in spite of headwinds related to customer mix'; levers cited are new products (Akara, Aether), close-to-customer manufacturing and pricing (Call transcript (Investing.com, AI-assisted, 10/21/2026)). Operating margin +180 bps as non-GAAP opex rose 9.6% ($916M to $1.004B) against +22% revenue (Release (8-K Ex 99.1, 10/21/2026)). Analysis: margin rose even with China jumping to 35%, so the China mix this quarter did not hurt the gross line the way A4 framed it.",
+"cash_conversion": "Operating cash flow $3.50B, capex $258M, free cash flow about $3.24B, a quarterly record (Release (8-K Ex 99.1, 10/21/2026) cash flow; record per Call transcript (Investing.com, AI-assisted, 10/21/2026)). Working capital added $535M (June used $860M). Receivables +$319M, inventory +$274M, other current liabilities +$1.38B, deferred revenue $2.66B vs $2.43B; Japan shipments awaiting acceptance $468M vs $490M (Release (8-K Ex 99.1, 10/21/2026)). Capital return $1.35B: $1.02B buybacks and $325M dividends; ASR continuing into December; about $3B left on the authorization; long-term target 85% of FCF (Call transcript (Investing.com, AI-assisted, 10/21/2026)). Quarterly dividend declared rose to $0.33 from $0.26 (Release (8-K Ex 99.1, 10/21/2026)). Analysis: FCF was 117% of non-GAAP net income; capital return was about 42% of FCF, so cash rose $1.85B to $7.45B.",
+"share_count_tax": "Diluted shares 1.2558B vs 1.255B guided; shares outstanding 1.249B vs 1.251B in June (Release (8-K Ex 99.1, 10/21/2026)). Non-GAAP tax rate 16.5% vs 11% in June; Bettinger: 'We expect the tax rate to remain in this range for the December quarter and likely beyond' and asked analysts to update models (Call transcript (Investing.com, AI-assisted, 10/21/2026)). GAAP tax rate about 16.9% ($559M on $3.31B pretax, Release (8-K Ex 99.1, 10/21/2026)). Analysis: at June's 11% rate EPS would have been about $2.35, so the tax step cost about $0.15; it was flagged in July as mid-teens, so it was mostly in the guide.",
+"beat_from": [
+"Revenue",
+"Margin"
+]
 },
 "C3": {
-"guidance": [],
-"withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"guidance": [
+{
+"item": "Revenue, December 2026 quarter",
+"prior": null,
+"new": "$8.60B +/- $400M ($8.20B to $9.00B)",
+"street": "$8.54B (Yahoo, 24, $8.08B to $9.00B)",
+"direction": "New",
+"implied_rest": "Analysis: +4.6% Q/Q. September plus December guide is $16.82B, so the $34.95B FY June 2027 consensus needs about $18.1B in the March and June quarters, about $9.07B a quarter",
+"assumptions": "'this revenue guide would have been a bit higher if not for some near-term supply chain constraints'; revenue that slips 'we will ship that in the March quarter' (Bettinger, Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Gross margin, December quarter",
+"prior": "52.0% +/- 1% (September guide); September actual 52.4%",
+"new": "52.5% +/- 1% (GAAP and non-GAAP)",
+"street": null,
+"direction": "Up",
+"implied_rest": "Analysis: about $4.52B gross profit at the midpoint; meets the A5 bull bar of 52.5% exactly",
+"assumptions": "Near term 'it will bounce around generally where it is'; customer mix a headwind (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Operating margin, December quarter",
+"prior": "39.5% +/- 1% (September guide); actual 40.2%",
+"new": "40.5% +/- 1%",
+"street": null,
+"direction": "Up",
+"implied_rest": "Analysis: operating income about $3.48B, implying opex near $1.03B, up about 3% Q/Q",
+"assumptions": null
+},
+{
+"item": "Diluted EPS, December quarter",
+"prior": "$2.15 +/- $0.15 (September guide); actual $2.20",
+"new": "$2.33 +/- $0.15 (GAAP and non-GAAP, $3.3M reconciling items)",
+"street": "$2.32 (Yahoo, 25) / $2.26 (Nasdaq, 10)",
+"direction": "Up",
+"implied_rest": "Analysis: about $2.92B net income on 1.253B shares, consistent with a 16.5% tax rate",
+"assumptions": "Tax rate stays near 16.5% (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Diluted share count",
+"prior": "1.255B",
+"new": "1.253B",
+"street": null,
+"direction": "Down",
+"implied_rest": "Analysis: first guided share shrink in two quarters, tied to the ongoing ASR",
+"assumptions": "ASR continues through December; start and end dates not disclosed (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "WFE, calendar 2026",
+"prior": "Low $150B range (7/29)",
+"new": "'mid $150 billion range'",
+"street": null,
+"direction": "Up",
+"implied_rest": "Analysis: Lam systems revenue for 2026 guided to grow 'well over 40%', several times the WFE growth",
+"assumptions": null
+},
+{
+"item": "WFE, calendar 2027 (preliminary)",
+"prior": "'Extraordinary setup', DRAM leading; no number",
+"new": "'more than $200 billion of spending, with percentage growth led by DRAM', then leading-edge foundry logic, then NAND; to be refined on the January call",
+"street": null,
+"direction": "New",
+"implied_rest": "Analysis: about +30% on the mid-$150B 2026 figure",
+"assumptions": "'clean room space availability and supply chain constraints for certain components' continue to limit spending; growth rests on 'continued rapid adoption of AI by enterprises and consumers' (Archer, Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Customer support (CSBG) growth",
+"prior": null,
+"new": "More than 30% in calendar 2026, more than 15% in calendar 2027",
+"street": null,
+"direction": "New",
+"implied_rest": "Analysis: CSBG was flat Q/Q in September after +17% in June, so the 2027 rate is half the 2026 rate",
+"assumptions": "Spares largest piece; Equipment Intelligence, performance-based service contracts, NAND upgrades and Reliant demand (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Non-GAAP tax rate",
+"prior": "Mid-teens from September (July call summary)",
+"new": "16.5% in September, same range in December 'and likely beyond'",
+"street": null,
+"direction": "Up",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "China share of revenue, December quarter",
+"prior": "26% (June), 35% (September)",
+"new": "'meaningfully down', driven by domestic Chinese customers; no number",
+"street": null,
+"direction": "Down",
+"implied_rest": null,
+"assumptions": "Multinationals in China expected to stay reasonably strong (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Long-term gross margin",
+"prior": "Mid-50s %",
+"new": "Mid-50s 'over the next several years'",
+"street": null,
+"direction": "Flat",
+"implied_rest": null,
+"assumptions": "New products, close-to-customer manufacturing, pricing (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+},
+{
+"item": "Aether (dry resist) revenue",
+"prior": null,
+"new": "About $2.5B by decade-end, raised",
+"street": null,
+"direction": "Up",
+"implied_rest": null,
+"assumptions": "Per Call transcript (Investing.com, AI-assisted, 10/21/2026) summary; prior figure not stated in our material"
+}
+],
+"withdrawn_or_redefined": "None withdrawn. The 2026 WFE wording moved from 'low' to 'mid' $150B range (Call transcript (Investing.com, AI-assisted, 10/21/2026)).",
+"tone_vs_quarter": "Analysis: the long-range tone was stronger than the quarter. Management put a number on 2027 (more than $200B) for the first time, while the December guide was only in line and explicitly capped by supply. The tone was about limits on supply, not on demand."
 },
 "C4": {
-"pressed": null,
-"deflected": null,
-"new_info": null,
-"nobody_asked": null,
-"my_questions": null
+"pressed": "Supply constraints drew the most questions: Arcuri (UBS) on the timing of the December shortfall, Weathers (Deutsche Bank) on supply-chain actions, Schneider (Goldman Sachs) on 2027 WFE constraints, Rasgon (Bernstein) on unconstrained 2027 demand (Call transcript (Investing.com, AI-assisted, 10/21/2026)). Also the NAND upgrade cycle and CSBG (Weathers, Rasgon, Sur) and China mix (Sankar).",
+"deflected": "Declined to quantify: supply chain cost ('I am not going to put a specific number on it'), unconstrained 2027 demand ('I am not going to put a number on what the unconstrained demand would be'), a precise 2027 WFE ('a little bit early'), SLC NAND share ('too early'), advanced packaging sizing ('We're not prepared to do that today'), ASR dates, and CSBG subcomponents ('we do not specifically give you hard numbers') (Call transcript (Investing.com, AI-assisted, 10/21/2026)). No named bottleneck components and no supplier co-investment commitment.",
+"new_info": "Preliminary 2027 WFE above $200B; 2026 WFE raised to mid $150B; 2026 systems revenue growth 'well over 40%'; CSBG growth above 30% in 2026 and above 15% in 2027; some December revenue moves to March on supply; China down meaningfully in December; tax 16.5% continuing; NAND up about 40% Q/Q with early 384-layer spending; Aether about $2.5B by decade-end; ASR under way with about $3B authorization left; inventory turns 3.4x (Stifel question). The Jefferies exchange cited advanced packaging growth of about 70% for 2026 (Call transcript (Investing.com, AI-assisted, 10/21/2026)).",
+"nobody_asked": "Export controls: neither 'export control' nor 'Entity List' appears in the transcript, despite the about $700M impact cited at the Cantor conference (A4). Nobody asked directly about customer pushouts or the September 'AI pacing' scare. Not covered: why China jumped from 26% to 35% in one quarter, receivables growth, or capital return running below the 85% target (Call transcript (Investing.com, AI-assisted, 10/21/2026); Analysis on the gaps).",
+"my_questions": "Q1 (pushouts and 2027 WFE): partly answered. No pushouts, cuts or pacing were mentioned, and nobody asked; 2027 WFE is a preliminary 'more than $200 billion' vs mid $150B for 2026, limited by clean rooms and components. Q2 (upgrades vs new tools, quarters of conversion left): partly answered. No split given ('we do not specifically give you hard numbers'); Archer said the conversion work finishes 'in 2027' and 'then you just roll to sort of the next upgrade cycle'; CSBG was flat Q/Q. Q3 (China share in December guide, path to mid-50s): partly answered. China 'meaningfully down' in December with no number; mid-50s gross margin 'over the next several years', near term 'bounce around generally where it is', with new products, close-to-customer manufacturing and pricing as the levers; tax 16.5% (Call transcript (Investing.com, AI-assisted, 10/21/2026))."
 },
 "C5": {
-"dropped": null,
-"new_hedges": null,
-"catalyst_wording": null
+"dropped": "'Low $150B' for 2026 WFE replaced by 'mid $150B'. No export-control discussion on the call (the release risk factors still list export controls and entity listings). The July phrase 'extraordinary setup' is not in the summary we read; replaced by a number (Call transcript (Investing.com, AI-assisted, 10/21/2026); Release (8-K Ex 99.1, 10/21/2026)).",
+"new_hedges": "Supply chain constraints and clean room availability as limits on both December revenue and 2027 WFE; 'headwinds related to customer mix' on gross margin; tax 'likely beyond' December; 2027 WFE called preliminary (Call transcript (Investing.com, AI-assisted, 10/21/2026)). Release adds 'supply chain disruptions or manufacturing capacity constraints may limit our ability to manufacture and sell our products' among risk factors (Release (8-K Ex 99.1, 10/21/2026)).",
+"catalyst_wording": "2027 WFE to be refined on the January call; 'the industry is in the early stages of a multi-year investment cycle' (Archer); 'things are going to continue to be constrained, we think, in the next year' (Bettinger) (Call transcript (Investing.com, AI-assisted, 10/21/2026))."
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Record revenue, gross margin and operating margin; operating margin above 40% for the first time (Release (8-K Ex 99.1, 10/21/2026); Call transcript (Investing.com, AI-assisted, 10/21/2026))",
+"Preliminary 2027 WFE above $200B, about 30% over the mid-$150B 2026 figure, which was itself raised from low $150B (Call transcript (Investing.com, AI-assisted, 10/21/2026))",
+"Record free cash flow of about $3.24B; cash up $1.85B to $7.45B; dividend raised 27% to $0.33 (Release (8-K Ex 99.1, 10/21/2026))",
+"December gross margin guided to 52.5% and operating margin to 40.5%, both above September guide levels (Release (8-K Ex 99.1, 10/21/2026))",
+"Deferred revenue up to $2.66B from $2.43B (Release (8-K Ex 99.1, 10/21/2026))"
+],
+"red": [
+"Smallest EPS beat in five prints (about 1%), and the December revenue guide is only 0.7% above consensus (Release (8-K Ex 99.1, 10/21/2026); A2)",
+"Supply constraints cap December revenue and are named as a limit on 2027; no number on the cost or the lost revenue (Call transcript (Investing.com, AI-assisted, 10/21/2026))",
+"China jumped to 35% of revenue from 26% and is guided 'meaningfully down' in December, so the September quarter flattered the run rate (Release (8-K Ex 99.1, 10/21/2026); Call transcript (Investing.com, AI-assisted, 10/21/2026))",
+"CSBG flat Q/Q after +17% in June; CSBG growth guided to slow from above 30% in 2026 to above 15% in 2027 (Release (8-K Ex 99.1, 10/21/2026); Call transcript (Investing.com, AI-assisted, 10/21/2026))",
+"Non-GAAP tax rate up to 16.5% from 11% and expected to stay (Call transcript (Investing.com, AI-assisted, 10/21/2026))"
+]
 },
 "C7": {
-"peers": null,
-"suppliers_customers": null,
-"theme": null,
+"peers": "ASML (10/14) raised its 2026 sales outlook and said planned 2027 and 2028 supply will not fully meet demand; Applied Materials gave no WFE forecast at its 10/13 investor day (A4 sources). Analysis: Lam's 'supply-constrained, demand-strong' message matches ASML's, and its $200B-plus 2027 number gives the sector the figure Applied withheld.",
+"suppliers_customers": "Analysis: Lam named component supply and customer clean room timing as the constraint, which points to equipment-component suppliers and fab construction schedules as the items to watch. Memory makers (DRAM leads 2027 growth) are the customers whose capex plans matter most. No specific supplier or customer was named on the call (Call transcript (Investing.com, AI-assisted, 10/21/2026)).",
+"theme": "Analysis: the sector story moved from 'is AI spending pausing' (9/14 scare) to 'can the supply chain deliver'. Lam saw no demand pause; the stock still fell on the print.",
 "later_this_week": null
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "From A4: (1) 2027 WFE is still a growth year despite the AI-pacing scare; (2) the NAND upgrade cycle cannot keep doubling and needs new capacity plus DRAM/HBM to take over; (3) gross margin can move from 52% toward mid-50s while China shrinks.",
+"verdict": "Strengthened",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Debate 1 settled yes: preliminary 2027 WFE above $200B, led by DRAM, and no pushouts mentioned; the limit is supply, not demand (Call transcript (Investing.com, AI-assisted, 10/21/2026)). Debate 2 partly settled: NAND rose about 40% Q/Q, but CSBG was flat Q/Q; conversions finish in 2027 and roll into the next upgrade cycle; CSBG growth slows to above 15% in 2027 (Call transcript (Investing.com, AI-assisted, 10/21/2026); Release (8-K Ex 99.1, 10/21/2026)). Debate 3 went the other way on China: China rose to 35% yet gross margin still rose to 52.4%, December guided to 52.5%, mid-50s is a multi-year target, and the risk A4 named (tax, supply) is what showed up. Analysis: demand case stronger, near-term revenue conversion weaker than the bull case.",
+"est_changes": [
+"Revenue up"
+],
+"stance": "Watch",
+"trade": "Analysis: no house position recorded (A9 'ours' is null). The after-hours drop to about $244.50 sits inside the 7.2% implied move and just below the $252.35 July print-day close. Wait for the 10/22 close and early sell-side estimate changes for 2027; the useful test is whether the Street raises calendar 2027 revenue toward the $200B-plus WFE number or holds it back for supply."
 },
 "C9": {
-"before": null,
-"at_release": null,
-"end_call": null,
+"before": "$263.45 close 10/20 (prices.json), down 17.4% from $318.84 on 10/9; $260.81 close 10/21, down 1.0% (A2, Nasdaq)",
+"at_release": "Down about 6.2% to 6.8% after hours: $244.66 (-6.19%) and other reports of 6.4% and 6.8% (GuruFocus, StreetInsider, AskTraders reports, 10/21; exact timestamps not given)",
+"end_call": "$244.50, -$16.31 or -6.25% vs the $260.81 close (Investing.com article posted 23:14 UK, 6:14 PM ET, after the call)",
 "next_close": null,
-"implied": null,
-"vs_implied": null,
-"why": null
+"implied": "Plus or minus 7.2% through 10/23 (A2, Cboe ATM straddle)",
+"vs_implied": "In line",
+"why": "Analysis: an in-line December guide after a 1% beat, management saying supply held the guide down, China at a peak share with a decline guided, and a higher tax rate. The $200B-plus 2027 number did not offset these after hours. Based on after-hours prices only; the 10/22 close was not available when this was written."
 },
 "C10": {
 "blank_for_you": [],
@@ -5690,13 +5880,13 @@
 "unverified": []
 },
 "C11": {
-"verify": null,
-"open": null,
-"next_earnings": null,
-"catalysts": null
+"verify": "(1) The transcript source is an AI-assisted Investing.com page whose headline says 'Q1 2026'; check quotes and the NAND +40%, 384-layer, Aether $2.5B and advanced packaging 70% figures against the official replay or a second transcript. (2) The release covers Lam's fiscal Q1 2027 (September 2026 quarter); this note is filed under the team's 'Q3FY26' label. (3) Investing.com gives the 10/21 regular close as $260.52; Nasdaq (A2) gives $260.81. (4) Confirm the 10/22 close and the vs-implied grade.",
+"open": "Size of the December revenue pushed to March; which components are short; China share for December; split of CSBG between upgrades and spares; export-control impact (not discussed); how much of the $200B-plus 2027 WFE Lam can ship given its own supply limits.",
+"next_earnings": "Late January 2027 for the December quarter (Analysis: last year's equivalent was 1/28/2026; date not yet announced in our material)",
+"catalysts": "January call, where management said it will refine the 2027 WFE number; 10-Q for September quarter detail; peer prints and memory-maker capex updates for 2027 (dates not verified here)."
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "Lam beat by about 1% on revenue ($8.22B vs $8.14B) and EPS ($2.20 vs $2.17 to $2.18), and guided December to $8.60B and $2.33, within 1% of the Street, saying supply constraints held the guide down. The new fact is a preliminary 2027 WFE outlook above $200B, about 30% above the mid-$150B now expected for 2026, offset by China jumping to 35% of revenue (guided meaningfully lower in December) and a 16.5% tax rate. Analysis: shares fell about 6.2% to 6.8% after hours to about $244.50, close to the 7.2% implied move; the demand case is stronger, and the open question is how much of it supply lets Lam ship in 2027."
 },
 "transcript_source": null
 },
@@ -9137,7 +9327,7 @@
 "bio": false,
 "source": "ai",
 "doc_url": "https://docs.google.com/document/d/1LvfUJyVXrQ5xS6zY_JuX76sKCznw0D4pFMnuSOrh3BM/edit",
-"updated_at": "2026-10-21T15:43:45-05:00",
+"updated_at": "2026-10-21T17:20:42-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -9642,61 +9832,316 @@
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Revenue",
+"cons": "$28.25B (Yahoo, 27 analysts); Visible Alpha $28.04B; Bloomberg $28.13B per Yahoo Finance; FactSet $28.06B per Electrek",
+"actual": "$28.046B",
+"grade": "IL",
+"yoy": "-0.2% vs $28.095B",
+"qoq": "-0.7% vs $28.236B",
+"source": "Q3 2026 Update, statement of operations"
+},
+{
+"metric": "Non-GAAP EPS (diluted)",
+"cons": "$0.45 (Yahoo, 25 analysts); Visible Alpha $0.44",
+"actual": "$0.48 (non-GAAP net income $1,697M on 3,541M shares)",
+"grade": "B",
+"yoy": "-4% vs $0.50",
+"qoq": "+45% vs $0.33",
+"source": "Q3 2026 Update, GAAP to non-GAAP reconciliation"
+},
+{
+"metric": "GAAP EPS (diluted)",
+"cons": "$0.26 (Hudson Labs)",
+"actual": "$0.22 (net income $787M)",
+"grade": "M",
+"yoy": "-44% vs $0.39",
+"qoq": "-31% vs $0.32 (Q2 included a $1,005M SpaceX gain and a $274M tax item)",
+"source": "Q3 2026 Update, statement of operations"
+},
+{
+"metric": "Total gross margin",
+"cons": "17.7% (Hudson Labs)",
+"actual": "19.6% (gross profit $5,494M; Analysis: computed)",
+"grade": "B",
+"yoy": "+160 bp vs 18.0%",
+"qoq": "+276 bp vs 16.8%",
+"source": "Q3 2026 Update, financial summary and statement of operations"
+},
+{
+"metric": "Automotive revenue",
+"cons": "$19.94B (Visible Alpha via S&P Global)",
+"actual": "$20.560B",
+"grade": "B",
+"yoy": "-3.0% vs $21.205B",
+"qoq": "+0.2% vs $20.516B",
+"source": "Q3 2026 Update, statement of operations"
+},
+{
+"metric": "Automotive gross margin ex regulatory credits",
+"cons": null,
+"actual": "18.1% (GAAP 18.5%)",
+"grade": null,
+"yoy": "+270 bp vs 15.4%",
+"qoq": "+180 bp vs 16.3%",
+"source": "Q3 2026 Update, GAAP to non-GAAP reconciliation. Analysis: above the roughly 17% buy-side bar in A2; no published consensus"
+},
+{
+"metric": "Regulatory credit revenue",
+"cons": null,
+"actual": "$113M",
+"grade": null,
+"yoy": "-73% vs $417M",
+"qoq": "-23% vs $146M",
+"source": "Q3 2026 Update, statement of operations"
+},
+{
+"metric": "Energy gross margin",
+"cons": null,
+"actual": "33.1% (revenue $2,881M, cost $1,927M; Analysis: computed)",
+"grade": null,
+"yoy": "+170 bp vs 31.4%",
+"qoq": "+1,270 bp vs 20.4%",
+"source": "Q3 2026 Update, statement of operations"
+},
+{
+"metric": "Operating expenses",
+"cons": null,
+"actual": "$4,776M (R&D $2,761M, SG&A $2,015M)",
+"grade": null,
+"yoy": "+39% vs $3,430M (R&D +69%)",
+"qoq": "+9.7% vs $4,353M (R&D +16.4%, SG&A +1.7%)",
+"source": "Q3 2026 Update, statement of operations. Analysis: A3 needed opex near flat for $0.45; it rose $423M and margin covered it"
+},
+{
+"metric": "Capex",
+"cons": "Analysis: more than $8.4B a quarter needed in H2 to meet the prior above-$25B 2026 guide (A3); no Street figure",
+"actual": "$4,732M (nine months $13,014M)",
+"grade": "M",
+"yoy": "+110% vs $2,248M",
+"qoq": "-18% vs $5,789M",
+"source": "Q3 2026 Update, cash flow statement. Analysis: graded against the guide math, and the miss is cash-positive"
+},
+{
+"metric": "Free cash flow",
+"cons": "No usable consensus (A2)",
+"actual": "$1,531M (operating cash flow $6,263M)",
+"grade": null,
+"yoy": "-62% vs $3,990M",
+"qoq": "vs -$1,092M",
+"source": "Q3 2026 Update, financial summary"
+},
+{
+"metric": "Deliveries",
+"cons": "461,974 (company-compiled, 24 analysts)",
+"actual": "486,532",
+"grade": "B",
+"yoy": "-2.1% vs 497,099",
+"qoq": "+1.3% vs 480,126",
+"source": "Q3 2026 Update, operational summary (first published 10/2 in 8-K Ex 99.1)"
+},
+{
+"metric": "Storage deployed",
+"cons": "15.9 GWh (company-compiled)",
+"actual": "13.7 GWh",
+"grade": "M",
+"yoy": "+9.6% vs 12.5 GWh",
+"qoq": "+1.5% vs 13.5 GWh",
+"source": "Q3 2026 Update, operational summary"
+},
+{
+"metric": "Active FSD subscriptions",
+"cons": null,
+"actual": "1.74M",
+"grade": null,
+"yoy": "+67% vs 1.04M",
+"qoq": "+18% vs 1.48M",
+"source": "Q3 2026 Update, operational summary"
+}
+],
+"segments": "Automotive revenue $20,560M (+0.2% QoQ, -3.0% YoY), gross profit $3,806M, 18.5% GAAP margin; sales $20,094M, credits $113M, leasing $353M. Energy revenue $2,881M (-8.2% QoQ, -15.6% YoY, partly due to tariff-related customer refunds per the release), gross profit $954M vs $640M in Q2 and $1,073M a year ago. Services and other revenue $4,605M (+0.5% QoQ, +33% YoY), gross profit a record $734M, 15.9% margin. Source: Q3 2026 Update, statement of operations and SI & Other Services slide. Analysis: gross profit rose $743M QoQ; auto added $343M, energy $314M, services $86M"
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "Excluded from non-GAAP: digital asset unrealized gain $288M ($224M net of tax, -$0.06 a share), SpaceX stake unrealized loss $142M ($108M net, +$0.03), certain tax items (Pillar Two accruals) $44M (+$0.01), SBC $1,165M ($982M net, +$0.28). Left in both GAAP and non-GAAP: foreign currency transaction loss $302M (Q2 $312M), inventory write-downs $43M (Q2 $110M), no restructuring (Q3 2025 $238M). Energy revenue was reduced by tariff-related customer refunds, amount not given. Source: Q3 2026 Update, non-GAAP reconciliation, cash flow statement and revenue bridge",
+"organic": "Revenue -0.2% YoY with a positive FX impact of $0.3B, so about -1.2% in constant currency (Analysis: computed from the release's FX figure). Release YoY drivers: lower energy revenue, lower vehicle ASP including mix, lower credits, fewer deliveries; offsets were services growth, FX and higher FSD-driven ancillary sales. Analysis: automotive sales revenue per non-lease delivery was about $41,900 vs $42,340 in Q2 (-1.0%) while cost per non-lease delivery was about $34,550 vs $35,690 (-3.2%), so the auto margin gain came from unit cost and region and product mix, not price",
+"margin_drivers": "Total gross margin 19.6% vs 16.8% in Q2. Release YoY operating income drivers: higher opex (SI and other R&D, SBC including the 2025 CEO award, SG&A), lower credits, lower energy gross profit; offsets were services gross profit, better region and product mix partly offset by lower ASP, lower restructuring, FSD ancillary sales and $0.1B FX. Operating margin 2.6% vs 1.4% in Q2 and 5.8% a year ago. Analysis: energy margin of 33.1% on lower revenue suggests the Q2 vendor cell warranty charge did not recur, but the release does not say so and gives no tariff effect on energy cost",
+"cash_conversion": "Operating cash flow $6,263M vs non-GAAP net income $1,697M. Working capital added about $2.59B: payables and accrued +$3,991M, deferred revenue +$1,255M, offset by prepaid and other assets -$1,818M, receivables -$565M, inventory -$313M (Analysis: summed from the cash flow statement; Q2 working capital added about $1.40B). Days payable 66 vs 58 in Q2. Current deferred revenue rose to $4,661M from $3,427M. D&A $1,852M (+14% QoQ). Analysis: without the working capital inflow, Q3 free cash flow would have been about -$1.06B, close to Q2's -$1.09B. Source: Q3 2026 Update, cash flow statement and balance sheet",
+"share_count_tax": "Diluted shares 3,541M vs 3,540M in Q2 and 3,526M a year ago. Tax provision $152M on $956M pretax income, 15.9% (Q2 15.1%, Q3 2025 29.1%; Analysis: computed), including a $357M deferred tax benefit. Source: Q3 2026 Update, statement of operations and cash flow statement",
+"beat_from": [
+"Margin"
+]
 },
 "C3": {
-"guidance": [],
-"withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"guidance": [
+{
+"item": "Capex 2026",
+"prior": "Above $25B, rising further in H2 (Q2 call)",
+"new": "About $20B, funded primarily from operating cash flow; Taneja: savings from 'managing our capital deployment efficiently'. Said on the call per Shacknews live notes and Yahoo Finance; the release does not restate a capex number (Electrek)",
+"street": null,
+"direction": "Down",
+"implied_rest": "Analysis: nine-month capex $13.01B, so Q4 near $7.0B, up about 48% from Q3's $4.73B but below the more than $8.4B a quarter the prior guide needed",
+"assumptions": "No 2027 figure in the release or the available call notes"
+},
+{
+"item": "Debt funding",
+"prior": "$30B unsecured facilities signed 9/29 ($20B term loan, $8B and $2B revolvers)",
+"new": "Taneja: 'Secured $30 billion of shorter term debt funding for future capex' (Shacknews notes)",
+"street": null,
+"direction": "Flat",
+"implied_rest": "Analysis: total debt and finance leases $9.52B at 9/30 vs $9.34B at 6/30 and recourse debt $2M, so the facilities look undrawn at quarter end; $49M of debt issuance costs paid",
+"assumptions": null
+},
+{
+"item": "Free cash flow 2026",
+"prior": "Under pressure in H2 as capex rises",
+"new": "No numeric guide; Q3 FCF +$1.53B; cash and investments $45.4B (+$1.9B)",
+"street": "No usable consensus",
+"direction": null,
+"implied_rest": "Analysis: nine-month FCF +$1.88B; with Q4 capex near $7.0B and operating cash flow of $4B to $6B, Q4 FCF lands near -$1B to -$3B and the year near breakeven, far better than the roughly -$7B H2 path in A3",
+"assumptions": "Analysis: assumes Q3's $2.6B working capital inflow does not repeat in full"
+},
+{
+"item": "Operating expenses",
+"prior": "To keep rising in 2026 and beyond (Taneja, Q2)",
+"new": "No new guide found; Q3 $4,776M (+9.7% QoQ)",
+"street": null,
+"direction": null,
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Outlook paragraph",
+"prior": "Volume: maximum capacity utilization. Cash: strong balance sheet. Profit: hardware profits 'accompanied by an acceleration of AI, software and fleet-based profits'",
+"new": "Same volume and cash wording. Profit now reads 'acceleration of SI, software and fleet-based profits'. Adds: 'Production has begun for Tesla Semi in Nevada and Optimus in Fremont' and build-out of SI compute, solar, battery material and semiconductor manufacturing 'underway'",
+"street": null,
+"direction": "Flat",
+"implied_rest": null,
+"assumptions": "Fleet allocation language unchanged"
+},
+{
+"item": "Robotaxi expansion",
+"prior": "Seven metros live; Phoenix and Las Vegas in preparation; ramp into more US markets through 2026",
+"new": "Cybercab rides started 9/3 in Austin; nearly 2M cumulative unsupervised miles, up eightfold QoQ; Austin hours 6am to midnight (release). On the call: more Robotaxi cities before year-end; Cybercab beyond Austin with Dallas next (Elluswamy); not yet at the 30-cent-a-mile cost goal (Shacknews notes)",
+"street": null,
+"direction": null,
+"implied_rest": "Analysis: eightfold growth implies about 250,000 cumulative miles at 6/30 and about 1.75M unsupervised miles driven in Q3. No metro count, Phoenix or Las Vegas status, or paid miles in the release text",
+"assumptions": null
+},
+{
+"item": "Cybercab",
+"prior": "Production began in Q2; no volume or paid-service date",
+"new": "In the Austin paid Robotaxi fleet since 9/3; fleet grew tenfold since launch (Musk); customer sales around 2027 (Moravy); mostly a Tesla-owned fleet (Musk). No unit count",
+"street": null,
+"direction": "New",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Optimus",
+"prior": "Production 'later this year' (2026) at Fremont",
+"new": "Production began in Fremont on the high-volume lines, 'first production-quality bots' (release, status Early Ramp). Call: about a year to reach 20,000 units a week, external deliveries end of 2027, AI5 integration about April 2027, demo video in one to two months (Musk, per Shacknews notes)",
+"street": null,
+"direction": "New",
+"implied_rest": "Analysis: the 2026 production promise is met; commercial volume is a 2027 event",
+"assumptions": null
+},
+{
+"item": "Unsupervised FSD in customer cars",
+"prior": null,
+"new": "'Somewhere around Q2 2027' (Elluswamy, per Shacknews notes); EU-wide FSD approval hoped for within months or by Q1 (Musk); FSD now approved in nine EU countries (release)",
+"street": null,
+"direction": "New",
+"implied_rest": null,
+"assumptions": "Regulatory approval outside Tesla's control (Musk)"
+},
+{
+"item": "Semi and Megapack 3 / Megafactory Texas",
+"prior": "Both to start production in 2026",
+"new": "Semi volume production began in Nevada (25,000 capacity); Megafactory Texas began production, planned 50 GWh; first Megapacks with Tesla LFP cells from Nevada shipped (release)",
+"street": null,
+"direction": "Flat",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "SI compute and Austin Fab",
+"prior": null,
+"new": "400 MW of SI training compute by year-end (about 225 MW in Cortex 1 and 2 now); Austin Fab equipment commissioning in 2027 (release); useful chip volume by 2028 (Musk, per notes)",
+"street": null,
+"direction": "New",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Energy gross margin",
+"prior": "Long-term mid-to-low 20s; Q2 20.4%",
+"new": "No new range found; Q3 33.1%; Musk: Megapacks nearly sold out, expects gross margins to rise meaningfully (notes); record order rate and backlog (release)",
+"street": null,
+"direction": null,
+"implied_rest": null,
+"assumptions": null
+}
+],
+"withdrawn_or_redefined": "Capex 2026 guide lowered from above $25B to about $20B on the call. Outlook wording redefined 'AI' as 'SI' (super intelligence). The Q2 seven-metro Robotaxi coverage table and the Phoenix and Las Vegas 'preparations underway' line do not appear in the release text. No numeric guide withdrawn",
+"tone_vs_quarter": "Analysis: tone more confident than Q2 on demand (largest passenger vehicle backlog in four years, Megapacks nearly sold out) and on cash (capex cut, funding mainly from operations), while Musk pushed volume for Optimus, Cybercab sales and unsupervised consumer FSD into 2027 and named battery supply as the limit on vehicle volume"
 },
 "C4": {
-"pressed": null,
-"deflected": null,
-"new_info": null,
-"nobody_asked": null,
-"my_questions": null
+"pressed": "No published transcript was found when this note was written (10/21 evening). This section works from the release and Shacknews live call notes (paraphrased), with one Taneja quote via Yahoo Finance. Retail questions covered Cybercab expansion, Optimus training, unsupervised FSD timing, Robotaxi unit cost and production limits. Sellside: RBC asked about FSD attach rate (answer 30% to 40%, above other automakers, speaker not recorded); another analyst asked whether Tesla could be a victim of its own success and whether competition will be deflationary",
+"deflected": "Questions on a SpaceX merger were not allowed (Shacknews notes). The notes record no answer to the competition and deflation question. No 2027 capex figure and no Robotaxi metro count appear in the notes",
+"new_info": "2026 capex about $20B (from above $25B), funded mainly from operating cash flow; Robotaxi in more cities before year-end and Cybercab in Dallas next; Cybercab customer sales around 2027; Optimus about a year to 20,000 units a week, external deliveries end of 2027, AI5 about April 2027; unsupervised consumer FSD around Q2 2027; Terafab useful chip volume by 2028; 5M vehicles a year by about 2030 (Musk); tariff refund money being used to expand US manufacturing (Taneja)",
+"nobody_asked": "In the available notes, nobody asked about the Q2 energy vendor cell warranty, the Q3 opex step-up or the 2027 opex path, 2027 capex, timing of term loan draws, paid Robotaxi miles, safety monitor removal by metro, or Phoenix and Las Vegas",
+"my_questions": "Q1 (capex): partly answered. Q3 capex $4.73B (release) and the 2026 guide cut to about $20B (call); no split by AI compute, chip fab, solar, vehicles and Optimus, no 2027 number, no term loan draw plan. Q2 (margin and energy): partly answered. Auto margin ex credits 18.1%; the release credits better region and product mix offset by lower ASP (Analysis: cost per car fell about 3.2% QoQ while revenue per car fell about 1.0%). The inventory release effect is not quantified. Warranty closure not addressed; Megafactory Texas has started production (50 GWh planned) but no volume timing. Q3 (autonomy): partly answered. Cybercabs are in paid service in Austin since 9/3 with no unit count; Optimus production began in Fremont in Q3. No count of metros without safety monitors and no paid miles figure, only cumulative unsupervised miles near 2M"
 },
 "C5": {
-"dropped": null,
-"new_hedges": null,
-"catalyst_wording": null
+"dropped": "The Q2 'Announced Robotaxi Coverage' table (seven metros) and the Phoenix and Las Vegas 'preparations underway' line are not in the release text as extracted; the release only names Austin. The above-$25B capex figure is not repeated",
+"new_hedges": "'Battery availability continued to be the limiting factor in increasing auto volumes'. Musk tempers Optimus external delivery expectations to end of 2027 and says EU FSD approval timing is not fully in Tesla's control (notes). Robotaxi cost not yet at the 30-cent goal",
+"catalyst_wording": "Optimus moved from 'production later this year' to 'production began', with 'first production-quality bots'. Semi moved from 'on schedule' to 'began volume production'. Megafactory Texas 'began production'. New dated items: Austin Fab commissioning in 2027, 400 MW compute by year-end, unsupervised consumer FSD 'somewhere around Q2 2027' (call)"
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Non-GAAP EPS $0.48 vs $0.45 consensus, +45% QoQ",
+"Total gross margin 19.6% vs 17.7% expected; auto margin ex credits 18.1% vs 16.3% in Q2 with credits down to $113M",
+"Energy gross margin 33.1% vs 20.4% in Q2 on lower revenue",
+"Free cash flow +$1.53B vs -$1.09B in Q2; cash and investments $45.4B",
+"2026 capex cut to about $20B from above $25B (call)",
+"Cybercabs in paid Robotaxi service in Austin; Optimus and Semi production started; unsupervised miles up eightfold QoQ",
+"Services and other gross profit a record $734M; FSD subscriptions 1.74M, +67% YoY"
+],
+"red": [
+"Opex +9.7% QoQ and +39% YoY, R&D +69% YoY; operating margin 2.6%",
+"GAAP EPS $0.22 vs $0.26 expected, -44% YoY",
+"Energy revenue -16% YoY and storage 13.7 GWh vs 15.9 GWh expected",
+"Analysis: free cash flow relied on about $2.6B of working capital inflow; ex working capital it was about -$1.06B",
+"Battery supply named as the limit on vehicle volume",
+"Optimus external deliveries, Cybercab customer sales and unsupervised consumer FSD all dated 2027; no Robotaxi metro count or paid miles"
+]
 },
 "C7": {
 "peers": null,
-"suppliers_customers": null,
-"theme": null,
+"suppliers_customers": "Analysis: battery cell suppliers matter more now that Tesla names battery availability as the volume limit; Megapack demand tied to data center power per the release",
+"theme": "Analysis: the release ties storage demand to SI and data center infrastructure ('critical to data center uptime'), and a capex cut runs against the AI capex increases most of the theme has shown this year",
 "later_this_week": null
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "No team thesis on file (A9 'ours' is null). Part A leans: modest margin recovery; balance sheet covers capex but a capex jump is the main risk; skeptical on near-term autonomy scale",
+"verdict": "Strengthened",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Margins: settled above our modest-recovery lean. Auto ex credits 18.1% vs 16.3%, credits $113M vs $146M, energy margin 33.1% vs 20.4%; warranty closure not confirmed; opex rose to $4.78B, against what A3 needed, but gross profit rose $743M. Capex and cash: settled in favour of cash. Q3 capex $4.73B vs the more than $8.4B a quarter the old guide needed, 2026 cut to about $20B, FCF +$1.53B, facilities undrawn; no 2027 number, so that risk is open. Autonomy and robots: mixed, skeptical lean intact on scale. Cybercabs are in paid service and Optimus production started (both new), but no metro count or paid miles, and volume dates moved to 2027. Analysis: the verdict applies to the margin and cash parts of the Part A lean",
+"est_changes": [
+"EPS up"
+],
+"stance": "Watch",
+"trade": "Analysis: no trade on this note. The stock traded near $380 during the call, -1.7% vs the $386.47 close and inside the 5.5% implied move; wait for the 10/22 close and a transcript before acting"
 },
 "C9": {
-"before": null,
+"before": "$386.47, 10/21 close, +3.4% on the day (A2, Nasdaq). prices.json closes run 10/9 to 10/20, ending at $373.71, and hold no 10/21 or later close",
 "at_release": null,
-"end_call": null,
+"end_call": "Not captured. Shacknews notes put the stock at $386 at the 5:31 PM ET call start and $380 during Musk's opening remarks (-1.7% vs close); Yahoo Finance called after-hours trading volatile",
 "next_close": null,
-"implied": null,
+"implied": "Plus or minus 5.5% through 10/23 ($385 straddle $21.35), about $365 to $408 off the $386.47 close",
 "vs_implied": null,
-"why": null
+"why": "Analysis: the 10/22 close was not available when this note was written, so no grade. The intra-call print near $380 sits inside the implied range"
 },
 "C10": {
 "blank_for_you": [],
@@ -9707,13 +10152,13 @@
 "unverified": []
 },
 "C11": {
-"verify": null,
-"open": null,
+"verify": "The capex cut to about $20B rests on live call notes (Shacknews) and Yahoo Finance; check the transcript for exact wording and whether it is a 2026 figure. Also verify: the Optimus '20,000 units a week' figure in the notes; what lifted energy margin to 33.1% (warranty reversal, tariff refunds, mix); the +$1.23B jump in current deferred revenue; the +$3.15B rise in other non-current assets; the Robotaxi metro list; and any facility draws after 9/30, in the 10-Q",
+"open": "2027 capex; Q3 paid Robotaxi miles; metros without safety monitors; Phoenix and Las Vegas status; Cybercab unit count; whether the energy warranty issue is closed; the opex path after a +$423M QoQ step; how much of Q3 FCF reverses in Q4",
 "next_earnings": null,
-"catalysts": null
+"catalysts": "10/22 close vs the 5.5% implied move; published transcript and 10-Q; Robotaxi in more cities before year-end and Cybercab in Dallas; Optimus demo video in one to two months (Musk); EU-wide FSD approval hoped for by Q1; 400 MW SI compute by year-end; AI5 about April 2027; unsupervised consumer FSD around Q2 2027; Austin Fab commissioning in 2027"
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "Q3 non-GAAP EPS of $0.48 beat the $0.45 consensus on in-line revenue of $28.05B because gross margin rose to 19.6% (auto ex credits 18.1%, energy 33.1%), which absorbed a 9.7% rise in opex. Free cash flow turned positive at $1.53B, mostly from a $2.6B working capital inflow, and on the call the CFO cut 2026 capex to about $20B from above $25B, per live notes since the release does not restate it. Analysis: margins and cash came in better than the Part A risks, but Optimus external deliveries, Cybercab sales and unsupervised consumer FSD are now dated 2027, and the stock traded near $380 during the call, inside the 5.5% implied move, so wait for the 10/22 close."
 },
 "transcript_source": null
 },
@@ -9784,8 +10229,8 @@
 "priority": "1",
 "bio": false,
 "source": "ai",
-"doc_url": null,
-"updated_at": "2026-10-21T15:17:17-05:00",
+"doc_url": "https://docs.google.com/document/d/None/edit",
+"updated_at": "2026-10-21T17:20:39-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -10215,61 +10660,238 @@
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Revenue Q3",
+"cons": "$5.93B (Yahoo, 23); Hudson Labs $5.908B; guide $5.65B to $6.15B, midpoint $5.90B (A2/A3)",
+"actual": "$6.055B, $125M (2.1%) above the $5.93B Street and $155M above the guide midpoint, below the $6.15B top",
+"grade": "B",
+"yoy": "+27.7% vs $4.742B",
+"qoq": "+10.8% vs $5.463B",
+"source": "Q3 2026 release, income statement"
+},
+{
+"metric": "Diluted EPS Q3 (GAAP)",
+"cons": "$2.40 (Nasdaq, 9); $2.43 (Yahoo, 21); $2.42 (Hudson Labs); guide $2.23 to $2.57 (A2/A3)",
+"actual": "$2.62, above the $2.57 top of the range for a third straight quarter; includes a 1-cent reduction not in guidance",
+"grade": "B",
+"yoy": "+77% vs $1.48",
+"qoq": "+22% vs $2.14",
+"source": "Q3 2026 release, headline and income statement"
+},
+{
+"metric": "Gross margin Q3",
+"cons": "61.8% (Hudson Labs, A3)",
+"actual": "64.2% ($3,887M on $6,055M)",
+"grade": "B",
+"yoy": "+680bp vs 57.4%",
+"qoq": "+280bp vs 61.4%",
+"source": "Q3 2026 release, income statement"
+},
+{
+"metric": "Operating profit Q3",
+"cons": null,
+"actual": "$2,874M, 47.5% margin",
+"grade": null,
+"yoy": "+73% vs $1,663M (Q3 2025 included $85M restructuring/other)",
+"qoq": null,
+"source": "Q3 2026 release, earnings summary and income statement"
+},
+{
+"metric": "Effective tax rate Q3",
+"cons": "About 13% (company, Q2 call; A3)",
+"actual": "13.5% ($380M on $2,805M pretax); operating-tax rate 13.9% ($390M) before a $10M discrete benefit",
+"grade": "M",
+"yoy": "13.9% in Q3 2025 ($220M on $1,584M)",
+"qoq": "11.5% in Q2 2026 (A3)",
+"source": "Q3 2026 release, income statement and tax supplement"
+},
+{
+"metric": "Revenue Q4 guide midpoint",
+"cons": "$5.75B (Yahoo, 24, A2); LSEG $5.73B (Reuters)",
+"actual": "$5.80B to $6.30B, midpoint $6.05B, 5.2% above Yahoo Street",
+"grade": "B",
+"yoy": "+36.8% vs $4.423B in Q4 2025",
+"qoq": "-0.1% vs $6.055B Q3 actual",
+"source": "Q3 2026 release, CEO comments"
+},
+{
+"metric": "Diluted EPS Q4 guide midpoint",
+"cons": "$2.28 (Yahoo, 21); $2.21 (Nasdaq, 8) (A2)",
+"actual": "$2.45 to $2.79, midpoint $2.62; the low end is above both Street figures",
+"grade": "B",
+"yoy": null,
+"qoq": "Flat vs $2.62 Q3 actual",
+"source": "Q3 2026 release, CEO comments"
+},
+{
+"metric": "Free cash flow TTM",
+"cons": null,
+"actual": "$8.422B (40.6% of revenue), incl. $1.104B CHIPS proceeds; Q3 alone $2.956B",
+"grade": null,
+"yoy": "+249% vs $2.415B",
+"qoq": "vs $6.5B TTM at Q2 (A4)",
+"source": "Q3 2026 release, non-GAAP reconciliation"
+}
+],
+"segments": "Analog $4,911M, +32% YoY and +12.5% QoQ (vs $4,365M), operating margin 51.0% vs 39.8% a year ago; Street had about $4.80B per Barchart/Zacks (A3), so analog beat. Embedded Processing $858M, +21% YoY and +8.9% QoQ (vs $788M), operating margin 26.5% vs 15.2%. Other $286M, -6% YoY and -7.7% QoQ (Q3 2026 release, segment results). End markets per Ilan on the call: industrial up more than 40% YoY and about 10% QoQ; automotive up mid-teens YoY and about 10% QoQ; data center up about 95% YoY and about 20% QoQ, now about 13% of revenue; personal electronics about flat YoY and up upper-single digits QoQ; communications equipment up YoY and QoQ (Investing.com and Gloomberb transcripts)."
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "Release says EPS included a 1-cent reduction not in original guidance; the release does not name it. The tax line shows a $10M discrete tax benefit (Q3 2025: $29M benefit and $85M restructuring/other). Acquisition charges $7M (Q3 2026 release). Analysis: no material one-time help in the quarter; the beat is operating.",
+"organic": "All growth is organic; Silicon Labs has not closed (close expected H1 2027 per A4). Revenue +28% YoY, +11% QoQ (release). Pricing: Ilan described 'a little bit of an uptick, not very significant for this year' in H2 after flat pricing in H1, mostly analog, where some customers sought urgent supply (Gloomberb transcript). Analysis: Q3 growth is mostly units.",
+"margin_drivers": "Gross margin 64.2%, +280bp QoQ; incremental gross margin about 90% QoQ ($535M of gross profit on $592M of added revenue) and 89% YoY (release math). Knecht credited higher revenue first, then pricing, factory loadings and product and end-market mix (transcripts). Depreciation $555M vs $547M in Q2 and $497M a year ago (release, cash flow). Opex came in under the 'about flat' guide: R&D $530M vs $535M, SG&A $476M vs $490M, acquisition charges $7M vs $17M; OI&E $72M vs $69M; interest $141M as guided (release vs A3). Embedded gross margin up about 10 points in a year per Ilan (Gloomberb transcript).",
+"cash_conversion": "Operating cash flow $3,419M, 141% of net income, helped by a $319M rise in income taxes payable; capex $463M (vs $1,197M a year ago); no CHIPS proceeds in the quarter, $79M ITC benefit (release). TTM: OCF $9.896B, capex $2.578B, CHIPS proceeds $1.104B plus $469M ITC (CFO called it $1.6B of CHIPS incentives), FCF $8.422B. Inventory $4,672M, up $67M QoQ, 194 days, down 2 (release; transcripts). Cash and short-term investments $8.142B; debt $13.555B on the balance sheet after a $500M repayment (CFO cited $13.65B at a 4.11% weighted coupon). Dividends $1,298M, buybacks $48M. Dividend raised 7% to $1.52 per quarter, the 23rd annual increase (transcripts; not in the release). Analysis: TTM FCF is about $9.14 per diluted share, above the $8 FY26 target cited in A4, with about $1.70 of that from CHIPS.",
+"share_count_tax": "Diluted shares 921M vs 920M in Q2 and 914M a year ago (release). Effective tax 13.5% vs about 13% guided; operating-tax rate 13.9% (release). Analysis: the tax rate above guide cost about 1.5 cents; share count was neutral.",
+"beat_from": [
+"Revenue",
+"Margin"
+]
 },
 "C3": {
-"guidance": [],
-"withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"guidance": [
+{
+"item": "Revenue Q4",
+"prior": "Not guided (A3)",
+"new": "$5.80B to $6.30B, midpoint $6.05B (release)",
+"street": "$5.75B (Yahoo, 24, $5.19B to $6.06B); LSEG $5.73B (Reuters)",
+"direction": "New",
+"implied_rest": "Analysis: midpoint is -0.1% QoQ vs Q4 2025's -6.7% fall, $200M above the $5.85B buy-side bar in A2 and $300M above Street. Implied FY26 revenue about $22.39B ($4.825B + $5.463B + $6.055B + $6.05B) vs $21.97B Street, about +1.9%.",
+"assumptions": "Ilan said TI does not guide by market; data center is growing and not seasonal, industrial strength in aerospace and defense, energy infrastructure, test and measurement and robotics, and auto customers 'waking up' in Q3 may continue into Q4 (Gloomberb transcript)."
+},
+{
+"item": "Diluted EPS Q4",
+"prior": "Not guided (A3)",
+"new": "$2.45 to $2.79, midpoint $2.62 (release)",
+"street": "$2.28 (Yahoo, 21); $2.21 (Nasdaq, 8)",
+"direction": "New",
+"implied_rest": "Analysis: H2 at midpoint $5.24 vs Street H2 $4.67 to $4.71; FY26 about $9.06 ($3.82 H1 + $2.62 + $2.62) vs $8.49 to $8.53 Street, about +6.5%.",
+"assumptions": "Q4 gross margin roughly comparable to Q3; opex flat to slightly up; acquisition charges and OI&E similar to Q3; tax about 13% (transcripts)."
+},
+{
+"item": "Effective tax rate Q4",
+"prior": "About 13% for Q3 (A3); Q3 actual 13.5%",
+"new": "About 13% (CFO, transcripts)",
+"street": null,
+"direction": "Flat",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Effective tax rate 2027",
+"prior": null,
+"new": "13% to 14% (CFO, transcripts)",
+"street": null,
+"direction": "New",
+"implied_rest": "Analysis: each point is about 3 cents a quarter at current profit (A3 rule of thumb).",
+"assumptions": null
+},
+{
+"item": "Opex, acquisition charges, OI&E Q4",
+"prior": "Q3 'about flat with Q2' (A3)",
+"new": "Opex flat to slightly up QoQ; acquisition charges and OI&E similar to Q3 ($7M and $72M) (transcripts)",
+"street": null,
+"direction": "Up",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Gross margin Q4",
+"prior": "Not guided; Street 61.8% for Q3 (A3)",
+"new": "Roughly comparable to Q3's 64.2% (CFO answer to Joe Moore, Gloomberb transcript)",
+"street": null,
+"direction": "New",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "Gross margin fall-through",
+"prior": "70% to 85% excluding depreciation, called a 'placeholder' (A3)",
+"new": "75% to 85% excluding depreciation, YoY basis, for long-term modeling (CFO, transcripts)",
+"street": null,
+"direction": "Redefined",
+"implied_rest": "Analysis: the low end moved up 5 points and is now framed as YoY; Q3 ran about 89% YoY including depreciation.",
+"assumptions": null
+},
+{
+"item": "Capex FY26",
+"prior": "$2B to $3B, not biased to the low end (A3)",
+"new": "$2B to $3B, possibly toward the high end if tool deliveries go to plan (transcripts)",
+"street": null,
+"direction": "Up",
+"implied_rest": "Analysis: Q3 capex was only $463M, so the high end requires a large Q4 step-up; back-end tool lead times are the risk to that.",
+"assumptions": "Back-end tool lead times are extending; long-lead clean room work is complete (Gloomberb transcript)."
+},
+{
+"item": "Capex 2027",
+"prior": "Deferred to February (A3)",
+"new": "Still not quantified; framework of a lower plan for about 10% growth and a higher plan for mid-teens growth, details in February (Beckman, Gloomberb transcript)",
+"street": null,
+"direction": "New",
+"implied_rest": null,
+"assumptions": "TI says it has reserved tool slots for 2027 and beyond (Investing.com transcript)."
+}
+],
+"withdrawn_or_redefined": "The 70% to 85% fall-through 'placeholder' became a 75% to 85% YoY long-term modeling range (transcripts). Nothing withdrawn.",
+"tone_vs_quarter": "Ilan: 'We are seeing broad demand with revenue growth across all end markets and regions' (Investing.com transcript); described secular content growth on top of a cyclical recovery, industrial back to its Q3 2022 revenue level, and 'not seeing any slowdown' in data center (Gloomberb transcript). Analysis: the tone matches the numbers; the cautions are about supply (back-end tools, outside assembly partners) rather than demand."
 },
 "C4": {
-"pressed": null,
-"deflected": null,
-"new_info": null,
-"nobody_asked": null,
-"my_questions": null
+"pressed": "Joe Moore (Morgan Stanley) on the 90% incremental gross margin and its sustainability; Stacy Rasgon (Bernstein) on what is embedded in a flat, above-seasonal Q4 and on capex; Chris Caso (Wolfe) on cyclical vs secular industrial; Harlan Sur (J.P. Morgan) on book-to-bill and 2027 pricing; William Stein (Truist) on customer kitting and inventory; Nabil Aziz (Rothschild) on share and tool bottlenecks; Joe Quatrochi (Wells Fargo) on auto inventory; Tore Svanberg (Stifel) and Vijay Rakesh (Mizuho) on data center breadth and 2027 (transcripts).",
+"deflected": "No book-to-bill figure (Sur). Market share: 'we don't like to measure it' (Aziz). Tool gating: 'I don't want to talk about gating items' (Aziz). Q4 by market: TI does not guide by market (Rasgon). 2027 pricing size deferred to the January call and 2027 capex to February (Gloomberb transcript).",
+"new_info": "Q4 gross margin roughly in line with Q3; fall-through range raised to 75% to 85%; 2027 tax 13% to 14%; capex toward the high end of $2B to $3B; 2027 capex framed at about 10% vs mid-teens growth scenarios; data center about 13% of revenue and about 10,000 generic part numbers; industrial at a new peak vs Q3 2022; embedded gross margin up about 10 points in a year; hybrid and powertrain auto growing about twice the company rate; a new Malaysia assembly and test site ramping; TI is not getting as much back-end capacity as it wants from outside partners; dividend to $1.52 (transcripts).",
+"nobody_asked": "Silicon Labs deal status, funding and close timing (only mentioned as adding a clean room); buybacks ($48M in Q3); distributor and channel inventory; when depreciation turns down; the 1-cent reduction named in the release (Gloomberb transcript notes these were not covered).",
+"my_questions": "Transcript status: no company transcript was in the material; this note works from two published third-party versions (Investing.com summary and the Gloomberb transcript, which is auto-generated from the webcast and misspells some names; Benzinga's transcript returned 403). Q1 (orders ahead of price hikes, channel inventory): partly answered. No one asked about pull-ins directly and channel inventory was not discussed. Ilan said auto customers 'have not kept a lot of inventory' and 'I don't see any inventory buildup'; on kitting, the situation is 'not comparable to COVID yet'; Beckman said backlog is consistent with demand and lead times 'ticked a little bit higher'. Q2 (points of growth from price, 2027 contracts): partly answered. H2 pricing was 'a little bit of an uptick, not very significant for this year', mostly analog; 2027 talks are underway and tied to supply guarantees, with details in January; no points quantified and no analog vs embedded split. Q3 (depreciation turn, capex trigger, buybacks with Silicon Labs): partly answered on capex (toward the high end for 2026; 2027 lower plan at about 10% growth, higher plan at mid-teens). Depreciation timing, buybacks and Silicon Labs funding were not addressed."
 },
 "C5": {
-"dropped": null,
-"new_hedges": null,
-"catalyst_wording": null
+"dropped": "The 'placeholder' label on the 70% to 85% fall-through (now 75% to 85%). July's caution that personal electronics would be held back by memory shortages (A3) gave way to personal electronics up upper-single digits QoQ (transcripts).",
+"new_hedges": "Back-end tool lead times extending and outside assembly and test partners not supplying as much capacity as TI wants; the high end of 2026 capex is conditional on tool deliveries; customer shortages are 'not comparable to COVID yet', with 'yet' added (Gloomberb transcript).",
+"catalyst_wording": "2027 pricing details on the January call; 2027 capex on the February call; Silicon Labs framed only as adding a clean room to move foundry products in house (transcripts)."
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Q4 revenue midpoint $6.05B vs $5.75B Street, flat QoQ against a normal seasonal decline (release; A2)",
+"Q4 EPS low end $2.45 above the $2.28 Yahoo Street (release; A2)",
+"Gross margin 64.2% vs 61.8% Street, about 90% incremental QoQ, and guided roughly flat in Q4 (release; transcripts)",
+"Growth broad: industrial +40% YoY, data center about +95%, auto mid-teens, Analog +32% and Embedded +21% (release; transcripts)",
+"TTM FCF $8.4B vs $2.4B a year ago; dividend up 7% to $1.52 (release; transcripts)",
+"Opex and acquisition charges below guide (release vs A3)",
+"Inventory days 194, down 2; Ilan sees no inventory build at auto customers (release; transcripts)"
+],
+"red": [
+"No book-to-bill, no channel inventory data and no direct answer on orders placed ahead of price increases (transcripts)",
+"Back-end capacity tight: tool lead times extending and outside partners short of TI's needs (Gloomberb transcript)",
+"Effective tax 13.5% vs about 13% guided; 2027 guided 13% to 14% (release; transcripts)",
+"Depreciation still rising: $555M vs $497M a year ago (release)",
+"Buybacks $48M in the quarter, TTM $636M vs $1,611M; Silicon Labs funding not discussed (release; transcripts)",
+"Stock moved little after hours on a large beat and raise, roughly flat to +0.6% (Investing.com; Benzinga)",
+"Other segment -6% YoY; release does not identify the 1-cent reduction (release)"
+]
 },
 "C7": {
-"peers": null,
-"suppliers_customers": null,
-"theme": null,
+"peers": "Analysis: TI's comments point to industrial and auto analog recovering broadly, with industrial at a new revenue peak and auto customers under-inventoried, which reads positively for analog and MCU peers (ADI, Microchip, NXP, ON, STMicro, Infineon) that have not yet reported in our material.",
+"suppliers_customers": "Back-end assembly and test tool lead times are extending and outside OSAT partners are not providing as much capacity as TI wants; TI is ramping a new Malaysia assembly and test site (Gloomberb transcript).",
+"theme": "Data center power is now about 13% of TI revenue, up about 95% YoY, and TI sees no slowdown; China auto exports and hybrid/powertrain content are a second driver (transcripts).",
 "later_this_week": null
 },
 "C8": {
-"thesis_in": null,
-"verdict": null,
+"thesis_in": "A4 leaned toward a real industrial and data center upcycle rather than restocking or pull-ins, with the Q4 guide as the test; pricing to show first in Q4; margins rising as capex falls, with the Silicon Labs deal and buybacks as open cash items.",
+"verdict": "Strengthened",
 "same_as_b7": null,
-"changed": null,
-"est_changes": [],
-"stance": null,
-"trade": null
+"changed": "Analysis: Debate 1 (demand quality) leans further to real. The Q4 midpoint is flat QoQ at $6.05B, well above the $5.85B bar, growth is broad by market and region, TI inventory days fell and auto customers hold little inventory. It is not settled, because pull-ins and channel inventory were not addressed and lead times are still rising. Debate 2 (pricing) is still open: H2 price was 'not very significant', so the Q3 beat is volume, and 2027 contracts are deferred to January; price is upside not yet in the numbers. Debate 3 (margins and cash) settled positive on margin: 64.2% vs 61.8% Street, guided flat in Q4, fall-through floor raised to 75%, TTM FCF about $9.14 per share. Cash use stays open: buybacks $48M and no Silicon Labs funding update.",
+"est_changes": [
+"Revenue up",
+"EPS up"
+],
+"stance": "Watch",
+"trade": "Analysis: the team holds no recorded view on TXN (A9 'ours' is null). The stock moved less than 1% after hours on a print above the A5 bull case, which says much of it was priced after a 64% run this year. Watch for the next-day close against the 7.3% implied move and for the January call, where 2027 pricing and any sign of order pull-ins become the test."
 },
 "C9": {
-"before": null,
-"at_release": null,
+"before": "$277.78 close on 10/20 (prices.json); $284.65 close on 10/21, +2.5% on the day (Investing.com); A2 had $285.145 at 3:48 PM ET",
+"at_release": "After-hours reads conflict: +0.61% to $286.40 (Investing.com), +0.33% to $285.60 (Benzinga), about +2% (GuruFocus), -0.3% (AskTraders)",
 "end_call": null,
 "next_close": null,
-"implied": null,
-"vs_implied": null,
-"why": null
+"implied": "Plus or minus 7.3% through 10/23 ($285 straddle about $20.75; A2); team sheet 6.81%",
+"vs_implied": "Smaller",
+"why": "Analysis: based on after-hours quotes only (next close not yet available), the move is under 1% against a 7.3% implied and a 9.5% average absolute move on the last four prints. The stock ran +2.5% into the print and 64% year to date, so a beat and a strong guide appear to have been expected. Recheck against the 10/22 close."
 },
 "C10": {
 "blank_for_you": [],
@@ -10280,13 +10902,13 @@
 "unverified": []
 },
 "C11": {
-"verify": null,
-"open": null,
-"next_earnings": null,
-"catalysts": null
+"verify": "1) Call quotes and analyst names come from third-party transcripts (Gloomberb is auto-generated and misspells names; Benzinga's version reportedly names a different CEO); check against the TI replay. 2) Dividend increase to $1.52 is from the call, not the release. 3) Debt: balance sheet carrying value $13.555B vs $13.65B cited on the call (likely principal). 4) What the 1-cent reduction in EPS was; the release shows a $10M discrete tax benefit. 5) Consensus figures vary by feed (Q3 EPS $2.40 to $2.43; Q4 revenue $5.73B to $5.75B).",
+"open": "Size of 2027 price increases and analog vs embedded split; whether customers are ordering ahead of price increases (channel and distributor inventory); when depreciation peaks; 2027 capex level; Silicon Labs close and funding, and buyback pace until then; whether back-end tool supply limits 2027 growth.",
+"next_earnings": "Q4 2026 results expected late January 2027 (TI reported Q4 2025 on 1/27/2026; no date announced in our material)",
+"catalysts": "January call: 2027 pricing; February capital management call: 2027 capex; Silicon Labs close expected H1 2027 (A4); peer analog and MCU reports over the next two weeks."
 },
 "C12": {
-"bottom_line": null
+"bottom_line": "TI beat on every line: Q3 revenue $6.06B vs $5.93B Street, EPS $2.62 vs $2.40 to $2.43 and above the top of its range, and gross margin 64.2% vs 61.8%, driven by volume rather than price. The Q4 guide midpoint of $6.05B and $2.62 is flat with Q3, about 5% above the $5.75B revenue Street and 15% above the $2.28 EPS Street, implying FY26 EPS near $9.06 vs $8.49 to $8.53. Analysis: this clears the bull case in Part A, but the stock moved under 1% after hours, so the open tests are whether 2027 pricing (due in January) and channel data show real demand rather than orders placed ahead of price increases."
 },
 "transcript_source": null
 },
