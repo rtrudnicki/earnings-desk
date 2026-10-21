@@ -5371,24 +5371,24 @@
 "event": "MBA Mortgage Applications",
 "period": "week ending Oct 16",
 "consensus": null,
-"actual": null,
-"prior": "-2.7% w/w; 30-year contract rate 7.5%",
+"actual": "-5.3% w/w; 30-year contract rate 7.41%",
+"prior": "-2.7% w/w; 30-year contract rate 7.50%",
 "unit": "% w/w",
 "surprise": null,
-"read": "No consensus found; with the 30-year rate near 7.5%, another drop would add to a run of record-weak housing data.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "No consensus found; a seventh straight weekly drop, with purchase applications down 7.3%, even as the 30-year rate eased to 7.41%, so housing demand is still contracting.",
+"source_url": "https://tradingeconomics.com/united-states/mortgage-applications"
 },
 {
 "time_ct": "09:30",
 "event": "EIA Weekly Petroleum Status Report, crude oil stocks change",
 "period": "week ending Oct 16",
-"consensus": null,
-"actual": null,
+"consensus": "-0.8M bbl",
+"actual": "-3.061M bbl",
 "prior": "-8.557M bbl",
 "unit": "M bbl",
-"surprise": null,
-"read": "No consensus found in a source I opened; with Brent near $109, another large draw would feed the energy-inflation worry.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"surprise": "-2.261M bbl",
+"read": "A bigger crude draw than expected plus a 2.95M bbl gasoline draw (vs -0.4M expected) is a tight-supply print that supports oil and the energy-inflation worry; the 1.68M bbl distillate build is the one offset.",
+"source_url": "https://tradingeconomics.com/united-states/crude-oil-stocks-change"
 },
 {
 "time_ct": "12:00",
@@ -5399,77 +5399,69 @@
 "prior": "5.420% high yield",
 "unit": "% yield",
 "surprise": null,
-"read": "No consensus found; with the 10-year at about 5.12%, a weak tail would push long yields back up.",
-"source_url": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178"
+"read": "No consensus found; with the 10-year above 5%, a weak tail would push long yields back up.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
 "time_ct": "18:50",
 "event": "Japan Trade Balance (released Tuesday evening CT, Wednesday morning Tokyo)",
 "period": "September",
-"consensus": "-\u00a5250B",
-"actual": null,
+"consensus": "-\u00a5181B",
+"actual": "-\u00a5536.6B",
 "prior": "-\u00a51,105.6B",
 "unit": "\u00a5 bn",
-"surprise": null,
-"read": "Actual not confirmed in a source I opened; a small print for US futures either way.",
-"source_url": "https://www.kaohooninternational.com/economics/592811"
+"surprise": "-\u00a5355.6B",
+"read": "A wider deficit than expected as exports slowed to +16.7% y/y (vs +20.1% expected) while energy-heavy imports rose 18.9%; a small print for US markets but another sign the oil shock is draining importers.",
+"source_url": "https://tradingeconomics.com/japan/balance-of-trade"
 }
 ],
 "read": {
-"bias": "higher",
+"bias": "chop",
 "confidence": "low",
-"call": "A light US data day leaves the tape on earnings: Nasdaq futures lead on SpaceX's beat, but oil near $109 Brent and 5%+ long yields cap the upside until Tesla and Meta report after the close.",
-"swing": "Tesla and Meta results after the close (the start of Big Tech earnings), then oil and the 12:00 CT 20-year auction intraday.",
+"call": "No top-tier US data today, and the Fed is in its pre-meeting blackout, so markets are left with oil inventories and the 20-year auction; a larger than expected crude and gasoline draw leans toward higher yields, but not enough to set a direction.",
+"swing": "The 12:00 CT 20-year bond auction: a weak tail would push long yields higher on top of the energy-inflation worry",
 "drivers": [
-"SpaceX beat its first quarter as a public company and rose about 6% after hours; Musk said SpaceX and Tesla have special committees discussing a merger.",
-"Netflix fell premarket after a revenue guide miss and lower ad revenue guidance.",
-"Brent up about 1% to near $109.9 and WTI near $98.9 on Saudi infrastructure and Red Sea shipping risk.",
-"10-year Treasury yield about 5.12%, down 2 bp, after weak housing data and the CoreWeave credit scare lifted demand for safe assets.",
-"UK CPI beat (3.5% vs 3.4%) adds to the energy-driven global inflation story."
+"Oil supply: EIA crude draw of 3.06M bbl vs 0.8M expected, and gasoline -2.95M vs -0.4M",
+"Long-end Treasury demand at the 20-year reopening, with the 10-year above 5%",
+"Global inflation spillover: UK CPI 3.5% vs 3.4% expected, services 3.7%",
+"Fed blackout ahead of the October 27-28 FOMC, so no policy guidance today"
 ]
 },
 "what_mattered": [
 {
-"headline": "Futures tilt higher, led by tech",
-"fact": "At 5:35 a.m. ET Nasdaq 100 futures were +0.50%, S&P 500 +0.22%, Dow +0.01%; a later read had Nasdaq +0.9%.",
-"implication": "Tech earnings are carrying the open; small caps (Russell futures -0.3%) are not joining, which says rates still bite.",
-"source_url": "https://www.tipranks.com/news/stock-market-today-oct-21-futures-rise-on-latest-earnings-spacex-stock-soars-on-q3-beat-and-merger-talks"
+"headline": "Oil and gasoline stocks drew more than expected",
+"fact": "Crude -3.061M bbl vs -0.8M expected; gasoline -2.952M vs -0.4M; distillates +1.675M vs -1.2M",
+"implication": "Tight product supply keeps gasoline prices and the energy-inflation story firm into next week's Fed meeting.",
+"source_url": "https://tradingeconomics.com/united-states/crude-oil-stocks-change"
 },
 {
-"headline": "SpaceX beat and merger talk with Tesla",
-"fact": "SpaceX shares rose about 6% after hours on better-than-expected results, citing $6.7 billion of added revenue year over year; both companies formed special committees on a possible merger.",
-"implication": "Raises the stakes on Tesla's print tonight and keeps the market's attention on mega-cap tech.",
-"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html"
+"headline": "Mortgage demand fell for a seventh straight week",
+"fact": "Applications -5.3% w/w, purchase -7.3%, 30-year contract rate 7.41% from 7.50%",
+"implication": "Housing is shrinking at current rates even with a small rate dip, a growth drag the Fed has to weigh against inflation.",
+"source_url": "https://tradingeconomics.com/united-states/mortgage-applications"
 },
 {
-"headline": "UK inflation jumps more than expected",
-"fact": "CPI 3.5% in September vs 3.4% expected and 3.1% in August; core 2.8%, services 3.7%.",
-"implication": "Energy pass-through is broadening abroad; supports the case that central banks lean hawkish (ECB already at 2.50% after two hikes, December hike expected).",
+"headline": "UK inflation beat on both headline and core",
+"fact": "CPI 3.5% vs 3.4% expected (prior 3.1%); core 2.8% vs 2.7%",
+"implication": "Energy pass-through into services is showing up abroad too, which supports the higher-for-longer pricing in global bonds.",
 "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
 },
 {
-"headline": "Oil grinds higher",
-"fact": "Brent +1.01% to $109.89, WTI +1.12% to $98.92 on Saudi infrastructure and Red Sea shipping risks.",
-"implication": "Keeps headline inflation and hike odds in play ahead of next week's FOMC.",
-"source_url": "https://www.tipranks.com/news/stock-market-today-oct-21-futures-rise-on-latest-earnings-spacex-stock-soars-on-q3-beat-and-merger-talks"
-},
-{
-"headline": "Housing slump trims Fed hike odds",
-"fact": "September pending home sales fell 7.3% to a record low 66; NAHB index 29 (lowest since June 2012, 31 expected); FedWatch hike odds for Oct 28 fell to 15.5% from 18.8%.",
-"implication": "Weak housing is the counterweight to hot energy inflation; it argues for a Fed pause.",
-"source_url": "https://en.sedaily.com/international/2026/10/21/ai-pullback-housing-slump-strengthen-case-for-fed-pause"
+"headline": "Japan's trade deficit came in much wider than expected",
+"fact": "-\u00a5536.6B vs -\u00a5181B expected; exports +16.7% y/y vs +20.1% expected",
+"implication": "Slowing export growth plus a costly oil bill is a mild global-demand warning.",
+"source_url": "https://tradingeconomics.com/japan/balance-of-trade"
 }
 ],
 "look_at": [
-"Tesla and Meta after the close: they open Big Tech earnings and decide whether this morning's Nasdaq lead holds into Thursday.",
-"The 12:00 CT 20-year auction against a 5.42% prior: a weak result would push long yields back toward their highs and hit rate-sensitive stocks.",
-"The 09:30 CT EIA crude report after an 8.6M barrel draw last week, with Brent near $110.",
-"Whether small caps keep lagging (Russell futures -0.3%): breadth tells you if this is a rates problem or just a tech day.",
-"Thursday's jobless claims (prior 199k) are the next real US data point before the Oct 27-28 FOMC."
+"The 12:00 CT 20-year auction result against the 5.420% prior high yield, for a tail that would lift long yields.",
+"Gasoline futures after the 2.95M bbl gasoline draw, since pump prices feed straight into the next CPI.",
+"Homebuilder and housing-linked stocks after a seventh weekly drop in mortgage applications.",
+"Fed-funds futures for the October 27-28 meeting, now that the blackout leaves data and oil as the only inputs."
 ],
 "fed": {
 "next_meeting": "2026-10-28",
-"market_pricing": "CME FedWatch (Oct 20): 84.5% hold, 15.5% 25 bp hike at the Oct 27-28 meeting; target range 3.75-4.00%.",
+"market_pricing": null,
 "speakers_today": []
 },
 "snapshot": [],
@@ -5478,11 +5470,15 @@
 "slot": "morning",
 "at": "2026-10-21T05:32:55-05:00",
 "rows": 6
+},
+{
+"slot": "midday",
+"at": "2026-10-21T09:46:30-05:00",
+"rows": 6
 }
 ],
 "themes": [
-"Energy inflation versus a housing slump: UK CPI at 3.5% and Brent near $110 push for tighter policy, while record-low pending home sales (66) pulled Fed hike odds down to 15.5% from 18.8%.",
-"Big Tech earnings start with SpaceX's beat and the SpaceX-Tesla merger committees, with Nasdaq futures up 0.5-0.9% against a flat Dow."
+"Energy pass-through is spreading beyond the US: UK services inflation rose to 3.7% from 3.4% and headline CPI to 3.5%, while US gasoline stocks drew 2.95M bbl against 0.4M expected."
 ]
 }
 }
