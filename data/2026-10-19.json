@@ -2433,18 +2433,18 @@
 "Day": "Wed",
 "Ticker": "TSLA",
 "EPS Est": "$0.44",
-"EPS Actual": "",
-"EPS Surprise": "",
+"EPS Actual": "$0.48",
+"EPS Surprise": "9.8%",
 "Rev Est ($B)": "$28.0",
-"Rev Actual ($B)": "",
-"Rev Surprise": "",
-"Guidance vs Street": "",
+"Rev Actual ($B)": "$28.0",
+"Rev Surprise": "0.1%",
+"Guidance vs Street": "None",
 "Key KPI to Check": "Margin; capex",
-"KPI Result": "",
+"KPI Result": "GAAP gross margin 19.6% vs 17.7% consensus; GAAP EPS $0.22 vs $0.26; opex +39% YoY, op margin 2.6%; energy revenue -16%; FCF $1.5B; FSD attach over 75% in North America",
 "Implied Move": "5.6%",
 "Actual Move (T+1)": "",
 "Move / Implied": "",
-"Verdict": "",
+"Verdict": "Mixed",
 "Takeaway (why it moved, what changes)": "https://docs.google.com/document/d/1FPVEfuREP4kEDZPhxHsxYz4zZulHc9fers7VLaprZn8/edit",
 "_row": 34
 },
@@ -8326,7 +8326,7 @@
 "bio": false,
 "source": "ai",
 "doc_url": "https://docs.google.com/document/d/1LvfUJyVXrQ5xS6zY_JuX76sKCznw0D4pFMnuSOrh3BM/edit",
-"updated_at": "2026-10-21T15:14:56-05:00",
+"updated_at": "2026-10-21T15:43:45-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -8953,12 +8953,12 @@
 "filing_url": null
 },
 "sheet_row": {
-"eps_actual": null,
-"rev_actual": null,
-"guidance_vs_street": null,
-"kpi_result": null,
+"eps_actual": "0.48",
+"rev_actual": "28.046",
+"guidance_vs_street": "None",
+"kpi_result": "GAAP gross margin 19.6% vs 17.7% consensus; GAAP EPS $0.22 vs $0.26; opex +39% YoY, op margin 2.6%; energy revenue -16%; FCF $1.5B; FSD attach over 75% in North America",
 "actual_move": null,
-"verdict": null,
+"verdict": "Mixed",
 "takeaway": null
 }
 },
