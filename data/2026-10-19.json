@@ -2381,14 +2381,14 @@
 "Rev Est ($B)": "$16.8",
 "Rev Actual ($B)": "$17.1",
 "Rev Surprise": "1.6%",
-"Guidance vs Street": "In line",
+"Guidance vs Street": "Raised",
 "Key KPI to Check": "FY guide",
-"KPI Result": "Software +8% (+9% cc), Transaction Processing +9%, Red Hat +11%; FY cc growth 4-5% kept; FCF now up more than $1B (was about $1B)",
+"KPI Result": "Software +8% (+9% cc) vs Street +5.7%; TP +9% vs -5.1%",
 "Implied Move": "6.8%",
 "Actual Move (T+1)": "",
 "Move / Implied": "",
 "Verdict": "Clean beat",
-"Takeaway (why it moved, what changes)": "https://docs.google.com/document/d/1Q6E1rp9l4oqOIlvhDzO4Dvqw_kZ4_TaorZk_LLVI8Vg/edit",
+"Takeaway (why it moved, what changes)": "Software and Transaction Processing beat by wide margins and the FCF guide rose, but the 4% to 5% revenue range was only held and gross margin missed, so the pop stayed inside the 7.2% implied move.",
 "_row": 31
 },
 "LRCX": {
@@ -2414,19 +2414,19 @@
 "Day": "Wed",
 "Ticker": "META",
 "EPS Est": "$9.14",
-"EPS Actual": "$7.40",
-"EPS Surprise": "(19.0%)",
+"EPS Actual": "3.83 (7.40 ex-charge)",
+"EPS Surprise": "#VALUE!",
 "Rev Est ($B)": "$63.3",
 "Rev Actual ($B)": "$64.6",
 "Rev Surprise": "2.0%",
 "Guidance vs Street": "Raised",
 "Key KPI to Check": "Capex guide; Q4 rev guide",
-"KPI Result": "EPS $7.40 excludes the $9.89B state AG charge (GAAP $3.83); Q4 revenue guide $73-76B vs $73.75B Street; FY capex $135-145B; FCF -$2.1B; new non-voting Class C stock",
+"KPI Result": "Impressions +10%, price per ad +14%, DAP 3.64B +3%; FCF -$2.12B",
 "Implied Move": "3.2%",
 "Actual Move (T+1)": "",
 "Move / Implied": "",
 "Verdict": "Mixed",
-"Takeaway (why it moved, what changes)": "https://docs.google.com/document/d/1fb_Ffl_624V3at4Sz2Ws8K3WXGmqWySLC6CUeq7SWAw/edit",
+"Takeaway (why it moved, what changes)": "Revenue beat the top of the guide and the Q4 range came in above Street (stock +2.8% after hours at 6:06 PM ET), but EPS missed even ex-charge, FCF went negative, and a new non-voting Class C stock gives Meta an equity channel to fund the AI build.",
 "_row": 33
 },
 "TSLA": {
@@ -4162,9 +4162,9 @@
 "call_time_et": "5:00 PM",
 "priority": "1",
 "bio": false,
-"source": "typed",
+"source": "scan",
 "doc_url": "https://docs.google.com/document/d/1njOrx2upzEQIC0gImeF9eaOcnarCAmWI__p9-3Rfjts/edit",
-"updated_at": "2026-10-21T15:17:17-05:00",
+"updated_at": "2026-10-21T17:08:27-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -4576,35 +4576,175 @@
 },
 "B": {
 "B1": {
-"rows": [],
+"rows": [
+{
+"line": "Revenue $17.10B (+5%, +6% cc) vs $16.832B team sheet / $16.84B Yahoo (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+$0.27B, +1.6% vs $16.832B",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Operating EPS $2.95 (+12%) vs $2.863 team sheet (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+$0.09, +3.0%",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "GAAP EPS $2.31 (+26%) vs about $2.20 implied in Part A, unsourced (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "about +$0.11 vs an unsourced estimate",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Software $7.80B (+8%, +9% cc) vs $7.62B Zacks (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+$0.18B, +2.4%",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Transaction Processing +9% (+10% cc) vs -5.1% Zacks (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+14 pts",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Hybrid Cloud (Red Hat) +11% vs +9.2% Zacks (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+1.8 pts",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Automation -3% vs +4.7% Zacks; Data +19% vs +14.2% Zacks (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "Automation -7.7 pts, Data +4.8 pts",
+"grade": null,
+"reaction": null
+},
+{
+"line": "Consulting $5.34B (flat, +2% cc) vs $5.35B Zacks (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "-$0.02B, -0.3%",
+"grade": "IL",
+"reaction": null
+},
+{
+"line": "Infrastructure $3.71B (+4%) vs $3.58B Zacks; IBM Z -20%, Distributed +31% (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+$0.13B, +3.5%",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Operating gross margin 58.5% (-20 bps) vs 59.1% consensus (consensus per news coverage via web search, source not fetched) (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "-60 bps",
+"grade": "M",
+"reaction": null
+},
+{
+"line": "Operating pre-tax margin 19.3% (+70 bps) vs guide 'similar to Q2' 19.2% (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "+10 bps vs Q2",
+"grade": "IL",
+"reaction": null
+},
+{
+"line": "FCF Q3 $3.0B, YTD $7.8B; FY now up more than $1B (was about $1B) (IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS)",
+"delta": "FY FCF guide raised",
+"grade": "B",
+"reaction": null
+}
+],
 "release_gap": null,
-"move_at_release": null,
-"vs_implied": null
+"move_at_release": "Peaked +3.7% within 14 minutes of the release (StockTitan, https://www.stocktitan.net/news/IBM/ibm-releases-third-quarter-d724fjiu9k24.html); news coverage said +4% to +6% after hours (web search summary of CNBC/Seeking Alpha, not fetched)",
+"vs_implied": "Smaller"
 },
 "B2": {
-"log": [],
+"log": [
+{
+"t": null,
+"note": "Expectations: 4-5% Rev growth / +100 bp Pre-tax margins / \u2191\u2191 FCF growth above $1B",
+"tag": "guidance"
+},
+{
+"t": null,
+"note": "Asia-Pacific driving growth (10%)",
+"tag": null
+},
+{
+"t": null,
+"note": "securely, efficiently, effective AI deployment is the key to them, not making more models etc",
+"tag": "AI"
+},
+{
+"t": null,
+"note": "Quantum is moving -> 7,500 gates, 100k circuits/s, x19 improvements",
+"tag": "quantum"
+},
+{
+"t": null,
+"note": "-> 16 enterprise engagements in Quantum including AT&T + GM",
+"tag": "quantum"
+},
+{
+"t": null,
+"note": "2/3 of slipped deals from Q2 closed!",
+"tag": "key"
+},
+{
+"t": null,
+"note": "Quantum is what they want for next long-term growth -> Dec. 10 Quantum Day",
+"tag": "quantum"
+}
+],
 "three_messages": []
 },
 "B3": {
 "nq": null,
-"fy": null,
-"direction": null,
-"assumptions": null,
-"tone": null,
-"must_go_right": null
+"fy": "Constant currency revenue growth 4% to 5% held; currency neutral at current rates; FCF now up more than $1B y/y (was about $1B). Source: release, Full-Year 2026 Expectations. No transcript found, so the call wording on software, margin and segments is not checked",
+"direction": "Up",
+"assumptions": "Currency neutral to growth for the year at current FX rates (release)",
+"tone": "Conservative",
+"must_go_right": "Analysis: 9M revenue $50.18B (Q1 $15.92B + Q2 $17.16B + Q3 $17.10B, release and Part A), so the 4% to 5% range needs Q4 $20.05B to $20.73B, about +1.9% to +5.3% on Q4 2025 of about $19.68B; FCF needs Q4 above $7.9B (FY above $15.7B less YTD $7.8B)"
 },
 "B4": {
-"qa": [],
-"pressed": null,
+"qa": [
+{
+"t": null,
+"analyst": null,
+"firm": null,
+"q": "Why 4-5% year not changed rev on higher End?",
+"real_q": null,
+"a": "Normal 3Q cycle, high digit TP performance. $3-5 Software / $1 of mainframe. Added $250m from slipped Q2 deals which is why the TP was showed \u2191\u2191. Guide is Cautious low-end feel comfortable w/ $32B in revenue -> This is good",
+"answered": "D",
+"tag": "good"
+},
+{
+"t": null,
+"analyst": null,
+"firm": null,
+"q": "Long-term target is double-digits in Software + M and A",
+"real_q": null,
+"a": "Comfortable hitting that goal w/ M+A",
+"answered": "D",
+"tag": null
+},
+{
+"t": null,
+"analyst": null,
+"firm": null,
+"q": "AI Spend ROI?",
+"real_q": null,
+"a": "There is no question to ask that what we're trying to give in AI is real, that said people underplaying how hard it is to redesign workflows to capture AI benefits. He thinks this is a tailwind for IBM.",
+"answered": "D",
+"tag": null
+}
+],
+"pressed": "Why the 4-5% was not raised toward the higher end",
 "nobody_asked": null,
 "my_questions_answered": null
 },
 "B5": {
-"confidence": null,
-"specificity": null,
-"defensiveness": null,
+"confidence": "4",
+"specificity": "3",
+"defensiveness": "2",
 "vs_last": null,
-"hedges": null,
+"hedges": "Guide is Cautious low-end; conservative b/c they know the Q2 downturn could happen again",
 "who_answered": null
 },
 "B6": {
@@ -4614,53 +4754,212 @@
 "verdict": null,
 "stance": null,
 "expected_move": null,
-"why": null,
+"why": "Overall seems pretty mid nothing special here they said they're confident in hitting their target, but conservative b/c they know the Q2 downturn could happen again. Sold Position for ~7% gain and out for now. -> nothing exciting.",
 "move_end_of_call": null,
 "agrees": null
 },
 "confidence": {
-"<field path e.g. B4.qa[2].a>": null
+"B2.log[0].note": 0.85,
+"B2.log[1].note": 0.8,
+"B2.log[2].note": 0.75,
+"B2.log[3].note": 0.6,
+"B2.log[4].note": 0.8,
+"B2.log[5].note": 0.85,
+"B2.log[6].note": 0.8,
+"B4.qa[0].q": 0.75,
+"B4.qa[0].a": 0.7,
+"B4.qa[1].q": 0.8,
+"B4.qa[1].a": 0.75,
+"B4.qa[2].q": 0.75,
+"B4.qa[2].a": 0.7,
+"B4.qa[0].answered": 0.6,
+"B4.qa[1].answered": 0.6,
+"B4.qa[2].answered": 0.5,
+"B4.qa[0].tag": 0.8,
+"B4.pressed": 0.5,
+"B5.confidence": 0.5,
+"B5.specificity": 0.4,
+"B5.defensiveness": 0.4,
+"B5.hedges": 0.6,
+"B7.why": 0.75,
+"B7.move_end_of_call": 0.4
 },
-"unreadable": []
+"unreadable": [
+"B2.log[3].note",
+"B4.qa[0].a"
+]
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Revenue",
+"cons": "$16.832B (team sheet); $16.84B Yahoo",
+"actual": "$17.10B",
+"grade": "B",
+"yoy": "+5% (+6% cc) vs $16.33B",
+"qoq": "-0.3% vs $17.16B Q2",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Operating EPS",
+"cons": "$2.863 (team sheet); $2.87-$2.88 feeds",
+"actual": "$2.95",
+"grade": "B",
+"yoy": "+12% vs $2.65",
+"qoq": "+0.7% vs $2.93",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "GAAP EPS (continuing ops)",
+"cons": null,
+"actual": "$2.31",
+"grade": null,
+"yoy": "+26%",
+"qoq": "+1.8% vs $2.27",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Software",
+"cons": "$7.62B (Zacks)",
+"actual": "$7.80B",
+"grade": "B",
+"yoy": "+8% (+9% cc)",
+"qoq": "+0.6% vs $7.76B",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Consulting",
+"cons": "$5.35B (Zacks)",
+"actual": "$5.34B",
+"grade": "IL",
+"yoy": "flat (+2% cc)",
+"qoq": "flat vs $5.33B",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Infrastructure",
+"cons": "$3.58B (Zacks)",
+"actual": "$3.71B",
+"grade": "B",
+"yoy": "+4% (+5% cc)",
+"qoq": "-3.5% vs $3.84B",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Operating gross margin",
+"cons": "59.1% (news coverage via web search, unfetched)",
+"actual": "58.5%",
+"grade": "M",
+"yoy": "-20 bps",
+"qoq": null,
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Operating pre-tax margin",
+"cons": "Guide: similar to Q2 19.2%",
+"actual": "19.3%",
+"grade": "IL",
+"yoy": "+70 bps",
+"qoq": "+10 bps",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"metric": "Free cash flow",
+"cons": null,
+"actual": "$3.0B Q3; $7.8B YTD",
+"grade": null,
+"yoy": null,
+"qoq": "+$0.5B vs $2.5B Q2",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+}
+],
+"segments": "Software: Hybrid Cloud +11%, Automation -3%, Data +19% (+20% cc), Transaction Processing +9% (+10% cc); segment profit margin 35.0% vs 32.9%. Consulting: Strategy and Technology +2%, Intelligent Operations -2%. Infrastructure: Hybrid Infrastructure +8%, IBM Z -20%, Distributed +31%, Support -3%. Financing $0.19B -4%. Source: IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS and StockTitan, https://www.stocktitan.net/news/IBM/ibm-releases-third-quarter-d724fjiu9k24.html"
 },
 "C2": {
 "one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"organic": "Analysis: 2026 acquisitions reached $11.4B YTD (release), including Confluent per Part A, so part of software's +8% is inorganic; the release gives no organic split",
+"margin_drivers": "Operating pre-tax margin +70 bps y/y to 19.3% with operating gross margin -20 bps to 58.5%, so the gain came from expense productivity, not mix. Software segment margin 35.0% vs 32.9% (release; StockTitan)",
+"cash_conversion": "Q3 FCF $3.0B on operating cash flow $4.0B; YTD FCF $7.8B vs H1 $4.8B (release; Part A)",
+"share_count_tax": "Diluted shares 953.5M vs about 956M in Q2 (release; Part A estimate). Tax rate not checked",
+"beat_from": [
+"Revenue",
+"Margin"
+]
 },
 "C3": {
-"guidance": [],
+"guidance": [
+{
+"item": "FY26 revenue growth, constant currency",
+"prior": "4% to 5%; low end the base case",
+"new": "4% to 5% held; currency neutral",
+"street": "$70.38B, +4.2% (Yahoo, pre-print)",
+"direction": "Flat",
+"implied_rest": "Analysis: 9M $50.18B, so Q4 $20.05B to $20.73B (+1.9% to +5.3% vs about $19.68B); Street Q4 $20.47B sits in the upper half",
+"assumptions": "Currency neutral at current rates (release)"
+},
+{
+"item": "FY26 free cash flow",
+"prior": "Up about $1B vs $14.7B",
+"new": "Up more than $1B",
+"street": "No public consensus",
+"direction": "Up",
+"implied_rest": "Analysis: FY above $15.7B less YTD $7.8B, so Q4 above $7.9B",
+"assumptions": null
+},
+{
+"item": "FY26 operating pre-tax margin",
+"prior": "Up about 100 bps",
+"new": "Up about 100 bps (Thomas's page; not in release text fetched)",
+"street": null,
+"direction": "Flat",
+"implied_rest": null,
+"assumptions": null
+},
+{
+"item": "FY26 software growth",
+"prior": "6% to 8%",
+"new": null,
+"street": null,
+"direction": null,
+"implied_rest": "Analysis: 9M software $22.61B ($14.81B H1 + $7.80B); unverified update, transcript not found",
+"assumptions": null
+}
+],
 "withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"tone_vs_quarter": "Revenue range held at 4% to 5% after a quarter that beat on revenue and grew 6% cc; FCF raised. Thomas heard the guide as cautious, low end"
 },
 "C4": {
-"pressed": null,
+"pressed": "Why the 4% to 5% was not lifted toward the high end (Thomas's page)",
 "deflected": null,
-"new_info": null,
+"new_info": "Per Thomas's page: about $250M from slipped Q2 deals landed in Q3 and drove Transaction Processing; two thirds of slipped deals closed; 16 enterprise quantum engagements incl. AT&T and GM; Quantum Day Dec 10. Per CNBC (web search summary, not fetched): Kavanaugh said AI was about 30% of consulting revenue and 35% of backlog",
 "nobody_asked": null,
-"my_questions": null
+"my_questions": "Part A Q1 (slipped deals, TP): partly answered, TP +9% (release) and $250M from slipped deals (Thomas's page). Q2 (memory costs, Distributed margin) and Q3 (FCF bridge) not on his pages; FCF guide raised (release)"
 },
 "C5": {
 "dropped": null,
 "new_hedges": null,
-"catalyst_wording": null
+"catalyst_wording": "FCF wording moved from 'about $1 billion' to 'more than $1 billion' (release vs Q2 release)"
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Transaction Processing +9% vs Street -5.1% (release)",
+"Software +8% vs Street +5.7% (release)",
+"FY FCF guide raised to more than $1B (release)",
+"Distributed Infrastructure +31% (release)"
+],
+"red": [
+"Operating gross margin 58.5% below 59.1% consensus, -20 bps y/y (release)",
+"Automation -3% (release)",
+"IBM Z -20% on the z17 lap (release)",
+"Consulting flat, +2% cc, still below the guided low-to-mid single digit pickup (release)",
+"Debt $63.8B, cash $11.1B after $11.4B of acquisitions (release)"
+]
 },
 "C7": {
 "peers": null,
 "suppliers_customers": null,
-"theme": null,
+"theme": "Analysis: IBM framed AI as a budget tailwind for software after blaming AI hardware spending for Q2; TP +9% argues the Q2 slip was timing",
 "later_this_week": null
 },
 "C8": {
@@ -4673,32 +4972,116 @@
 "trade": null
 },
 "C9": {
-"before": null,
-"at_release": null,
+"before": "$251.06, 10/21 close (Part A, Nasdaq)",
+"at_release": "Peaked +3.7% within 14 minutes (StockTitan, https://www.stocktitan.net/news/IBM/ibm-releases-third-quarter-d724fjiu9k24.html)",
 "end_call": null,
 "next_close": null,
-"implied": null,
-"vs_implied": null,
-"why": null
+"implied": "\u00b17.2% (Part A, Cboe straddle)",
+"vs_implied": "Smaller",
+"why": "Analysis: a clean software beat was offset by a held revenue range and a gross margin miss after a 22% rally into the print"
 },
 "C10": {
-"blank_for_you": [],
-"missed": [],
+"blank_for_you": [
+"B5.vs_last",
+"B7.verdict",
+"B7.stance",
+"B7.expected_move",
+"B7.agrees",
+"B6 (no quotes written)",
+"B4 analyst names and firms",
+"C8",
+"C12"
+],
+"missed": [
+{
+"t": null,
+"item": "Operating gross margin 58.5% missed the 59.1% consensus and fell 20 bps y/y while pre-tax margin rose 70 bps (release)",
+"impact": "high"
+},
+{
+"t": null,
+"item": "Software +8% and Transaction Processing +9% vs Street +5.7% and -5.1%; the FY software 6% to 8% range update was not captured",
+"impact": "high"
+},
+{
+"t": null,
+"item": "FCF $3.0B in Q3, $7.8B YTD; Q4 needs above $7.9B (release)",
+"impact": "medium"
+},
+{
+"t": null,
+"item": "Distributed +31%, IBM Z -20%, Infrastructure +4% (release)",
+"impact": "medium"
+},
+{
+"t": null,
+"item": "AI about 30% of consulting revenue and 35% of backlog (Kavanaugh per CNBC, unfetched); Consulting flat",
+"impact": "medium"
+},
+{
+"t": null,
+"item": "Automation -3% (release)",
+"impact": "low"
+},
+{
+"t": null,
+"item": "Debt up $2.6B YTD to $63.8B; acquisitions $11.4B YTD (release)",
+"impact": "low"
+}
+],
 "disagreements": [],
 "answered_followups": [],
-"model_inputs_changed": [],
-"unverified": []
+"model_inputs_changed": [
+{
+"input": "FY26 free cash flow",
+"old": "Up about $1B (about $15.7B)",
+"new": "Up more than $1B",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"input": "Diluted shares",
+"old": "About 956M (Analysis)",
+"new": "953.5M weighted average Q3",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"input": "Debt and cash",
+"old": "Debt $62.0B incl. $13.0B Financing; cash and marketable securities $8.2B; acquisitions $10.5B",
+"new": "Debt $63.8B incl. $12.7B Financing; cash, restricted cash and marketable securities $11.1B; acquisitions $11.4B YTD",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+},
+{
+"input": "Segment base",
+"old": "Q2: Software $7.76B, Consulting $5.33B, Infrastructure $3.84B, Financing $0.19B",
+"new": "Q3: Software $7.80B, Consulting $5.34B, Infrastructure $3.71B, Financing $0.19B; total $17.10B",
+"source": "IBM Q3 2026 release, https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+}
+],
+"unverified": [
+"Asia-Pacific driving growth (10%)",
+"Quantum: 7,500 gates, 100k circuits/s, x19 improvements",
+"16 enterprise quantum engagements including AT&T and GM",
+"2/3 of slipped Q2 deals closed",
+"$250m from slipped Q2 deals added to TP",
+"$3-5 software per $1 of mainframe",
+"'feel comfortable w/ $32B in revenue' (figure unclear)",
+"Dec. 10 Quantum Day",
+"+100 bp pre-tax margin guide (not in fetched release text)",
+"Comfortable hitting double-digit software with M+A",
+"AI spend ROI answer",
+"No transcript found; every B2 and B4 line is from handwriting alone"
+]
 },
 "C11": {
-"verify": null,
-"open": null,
+"verify": "Transcript: the $250M slipped-deal number, the 2/3 count, the $32B figure, the software 6% to 8% range, and the 100 bps margin guide",
+"open": "Gross margin direction in Q4 with Distributed growth and memory costs; consulting pickup",
 "next_earnings": null,
-"catalysts": null
+"catalysts": "Quantum Day Dec 10 (Thomas's page); dividend $1.69 payable Dec 10, record Nov 10 (release)"
 },
 "C12": {
 "bottom_line": null
 },
-"transcript_source": null
+"transcript_source": "none"
 },
 "D": {
 "D1": {
@@ -4748,13 +5131,15 @@
 },
 "sheet_row": {
 "eps_actual": "2.95",
-"rev_actual": "17.1",
-"guidance_vs_street": "In line",
-"kpi_result": "Software +8% (+9% cc), Transaction Processing +9%, Red Hat +11%; FY cc growth 4-5% kept; FCF now up more than $1B (was about $1B)",
+"rev_actual": "17.10",
+"guidance_vs_street": "Raised",
+"kpi_result": "Software +8% (+9% cc) vs Street +5.7%; TP +9% vs -5.1%",
 "actual_move": null,
 "verdict": "Clean beat",
-"takeaway": null
-}
+"takeaway": "Software and Transaction Processing beat by wide margins and the FCF guide rose, but the 4% to 5% revenue range was only held and gross margin missed, so the pop stayed inside the 7.2% implied move."
+},
+"pages_read": 2,
+"summary": "IBM Q3FY26: rev $17.10B vs $16.83B, op EPS $2.95 vs $2.86, software +8%, FY rev held, FCF raised; 2 pages transcribed, no transcript found"
 },
 {
 "ticker": "LRCX",
@@ -5381,9 +5766,9 @@
 "call_time_et": "4:30 PM",
 "priority": "1",
 "bio": false,
-"source": "typed",
+"source": "scan",
 "doc_url": "https://docs.google.com/document/d/1S0mcI6TUhgaMijhg8XW2xN5_S7d448Voc-9TlGIj4aQ/edit",
-"updated_at": "2026-10-21T15:21:00-05:00",
+"updated_at": "2026-10-21T17:08:46-05:00",
 "O": {
 "O1": {
 "business": null,
@@ -5779,22 +6164,114 @@
 },
 "B": {
 "B1": {
-"rows": [],
-"release_gap": null,
+"rows": [
+{
+"line": "Revenue $64.60B (+26% reported and constant currency)",
+"delta": "+$1.19B / +1.9% vs $63.41B Yahoo; +2.0% vs team sheet $63.312B; above the $64B top of the guide",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Diluted EPS $3.83 GAAP",
+"delta": "-$1.63 vs $5.46 Yahoo; -$1.15 vs $4.98 Nasdaq",
+"grade": "M",
+"reaction": null
+},
+{
+"line": "Diluted EPS $7.40 excluding the $9.89B legal charge (company figure)",
+"delta": "-$1.74 / -19% vs team sheet $9.138; below the $8.7 to $9.4 ex-charge range in Part A",
+"grade": "M",
+"reaction": null
+},
+{
+"line": "Q4 revenue guide $73B to $76B (midpoint $74.5B, +24.4% vs $59.89B)",
+"delta": "Midpoint +$0.75B / +1.0% vs $73.75B Street",
+"grade": "B",
+"reaction": null
+},
+{
+"line": "Legal charge $9.89B (52 state AGs; payments up to about $18.59B)",
+"delta": "In line with the ~$10B flagged 8/26",
+"grade": "IL",
+"reaction": null
+},
+{
+"line": "FY26 total expenses $175B to $179B (from $165B to $169B)",
+"delta": "+$10B, the charge taken in; flat ex-charge",
+"grade": null,
+"reaction": null
+},
+{
+"line": "FY26 capex $135B to $145B (from $130B to $145B); Q3 capex $34.91B",
+"delta": "Low end +$5B; Q3 $34.91B is below the $39.5B to $47.0B a quarter Part A derived",
+"grade": null,
+"reaction": null
+},
+{
+"line": "Ad impressions +10%, price per ad +14%; DAP 3.64B +3%",
+"delta": "Impressions slowed from +14% in Q2; price up from +12%",
+"grade": null,
+"reaction": null
+},
+{
+"line": "Free cash flow -$2.12B; operating cash flow $32.79B",
+"delta": "vs +$0.78B in Q2 2026",
+"grade": null,
+"reaction": null
+},
+{
+"line": "New non-voting Class C stock; one Class C share dividend per A/B share (effective 1/19/2027), trades like a two-for-one split",
+"delta": "New",
+"grade": null,
+"reaction": null
+}
+],
+"release_gap": "Release 8-K filed 10/21/2026 after the close (items 1.01, 2.02, 8.01, 9.01); exact release time not verified",
 "move_at_release": null,
 "vs_implied": null
 },
 "B2": {
-"log": [],
+"log": [
+{
+"t": null,
+"note": "10M Muse Personal Agents in US + Canada. Used for Shopping mostly \u2192 Avg. Rev. \u2191\u2191",
+"tag": null
+},
+{
+"t": null,
+"note": "Revenues Growed in Family of APPs but Margins Compressed and Income from Operations is Down",
+"tag": null
+},
+{
+"t": null,
+"note": "Working on larger frontier models + smaller ones too",
+"tag": null
+},
+{
+"t": null,
+"note": "Adding Muse to meta glasses",
+"tag": null
+},
+{
+"t": null,
+"note": "Driving up # of Instagram Reels <1 Day old reccomended",
+"tag": null
+},
+{
+"t": null,
+"note": "Opportunity to extend Muse to small Businesses \u21b3 Use companies that already use Instagram Facebook etc.",
+"tag": null
+}
+],
 "three_messages": []
 },
 "B3": {
-"nq": null,
-"fy": null,
-"direction": null,
-"assumptions": null,
+"nq": "Q4 2026 revenue $73B to $76B; FX about a 1% headwind; Q4 tax rate 15% to 17% (release, CFO Outlook Commentary; call wording not verified, no transcript)",
+"fy": "FY26 total expenses $175B to $179B incl. the $9.9B charge; operating income above 2025 excluding the charge; Reality Labs losses $18B to $19B; capex $135B to $145B. 2027: no revenue outlook, 'strong overall revenue growth throughout 2027', aggressive investment continues, Reality Labs losses narrowing to about $15B (release)",
+"direction": "Up",
+"assumptions": "FX about a 1% headwind; tax rate absent changes to the tax landscape (release)",
 "tone": null,
-"must_go_right": null
+"must_go_right": "Analysis: Q4 needs $73B+ revenue against implied Q4 expenses of $47.9B to $51.9B and implied Q4 capex of $49.2B to $59.2B"
 },
 "B4": {
 "qa": [],
@@ -5808,7 +6285,7 @@
 "defensiveness": null,
 "vs_last": null,
 "hedges": null,
-"who_answered": null
+"who_answered": "Mark Z. (opening statement)"
 },
 "B6": {
 "quotes": []
@@ -5822,48 +6299,219 @@
 "agrees": null
 },
 "confidence": {
-"<field path e.g. B4.qa[2].a>": null
+"B2.log[0].note": "0.8",
+"B2.log[1].note": "0.85",
+"B2.log[2].note": "0.75",
+"B2.log[3].note": "0.9",
+"B2.log[4].note": "0.8",
+"B2.log[5].note": "0.8",
+"B5.who_answered": "0.9"
 },
-"unreadable": []
+"unreadable": [
+"B2.log[0].note",
+"B2.log[2].note"
+]
 },
 "C": {
 "C1": {
-"headline": [],
-"segments": null
+"headline": [
+{
+"metric": "Revenue",
+"cons": "$63.41B (Yahoo, 49); team sheet $63.312B",
+"actual": "$64.60B",
+"grade": "B",
+"yoy": "+26% ($51.24B)",
+"qoq": "+6.3% ($60.80B)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Diluted EPS (GAAP)",
+"cons": "$5.46 (Yahoo, 44) / $4.98 (Nasdaq, 12)",
+"actual": "$3.83",
+"grade": "M",
+"yoy": "+265% ($1.05, 2025 one-time tax charge)",
+"qoq": "-38% ($6.18)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Diluted EPS ex legal charge",
+"cons": "$9.138 team sheet (basis unconfirmed)",
+"actual": "$7.40",
+"grade": "M",
+"yoy": null,
+"qoq": null,
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Income from operations / margin",
+"cons": null,
+"actual": "$12.99B / 20% ($22.88B / 35% ex-charge)",
+"grade": null,
+"yoy": "-37% (+11% ex-charge) vs $20.54B / 40%",
+"qoq": null,
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Ad revenue",
+"cons": null,
+"actual": "$63.06B",
+"grade": null,
+"yoy": "+26% ($50.08B)",
+"qoq": "+6.2% ($59.36B)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Ad impressions / price per ad",
+"cons": null,
+"actual": "+10% / +14%",
+"grade": null,
+"yoy": null,
+"qoq": "Q2 was +14% / +12%",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "DAP",
+"cons": null,
+"actual": "3.64B",
+"grade": null,
+"yoy": "+3%",
+"qoq": "+1.1% (3.60B)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Capex incl. finance lease principal",
+"cons": null,
+"actual": "$34.91B",
+"grade": null,
+"yoy": "+81% ($19.37B)",
+"qoq": "+12% ($31.08B)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"metric": "Free cash flow",
+"cons": null,
+"actual": "-$2.12B",
+"grade": null,
+"yoy": "vs $10.63B",
+"qoq": "vs $0.78B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+}
+],
+"segments": "Family of Apps revenue $64.16B (+26%), operating income $17.12B vs $24.97B (the $9.89B charge sits in G&A). Reality Labs revenue $0.44B (-6%), operating loss $4.13B vs $4.43B; nine-month RL loss $12.78B. Other revenue $1.10B vs $0.69B (release, segment table)"
 },
 "C2": {
-"one_time": null,
-"organic": null,
-"margin_drivers": null,
-"cash_conversion": null,
-"share_count_tax": null,
-"beat_from": []
+"one_time": "$9.89B legal charge in G&A (52 state AGs, teen mental health; payments up to about $18.59B). Ex-charge: operating income $22.88B, EPS $7.40, tax rate 17% vs 24% reported (release)",
+"organic": "Revenue +26% reported and constant currency; no acquisitions disclosed (release)",
+"margin_drivers": "Costs +68% incl. the charge. Cost of revenue $13.37B (+45%), R&D $20.05B (+32%), marketing $3.33B (+17%), G&A $14.86B incl. charge vs $3.51B. Ex-charge costs $41.72B (+36%) vs revenue +26%, so the ex-charge margin fell to 35% from 40% (release income statement; analysis on the ex-charge math)",
+"cash_conversion": "Operating cash flow $32.79B, capex $34.91B, FCF -$2.12B; nine-month FCF $11.05B vs $29.51B. Cash and securities $82.45B vs $90.26B at 6/30; long-term debt $80.92B vs $83.66B; no buybacks; dividends $1.36B (release)",
+"share_count_tax": "Diluted shares 2,573M (2,566M in Q2). Tax rate 24% reported, 17% ex-charge, vs 15% to 17% guided (release)",
+"beat_from": [
+"Revenue"
+]
 },
 "C3": {
-"guidance": [],
-"withdrawn_or_redefined": null,
-"tone_vs_quarter": null
+"guidance": [
+{
+"item": "Revenue Q4",
+"prior": "Not guided",
+"new": "$73B to $76B; FX about 1% headwind",
+"street": "$73.75B (Yahoo, 47)",
+"direction": "New",
+"implied_rest": "Midpoint $74.5B = +24.4% vs $59.89B; FY26 $254.7B to $257.7B vs Street $254.23B (analysis: nine-month $181.71B plus the range)",
+"assumptions": "FX about a 1% headwind (release)"
+},
+{
+"item": "Total expenses FY26",
+"prior": "$165B to $169B",
+"new": "$175B to $179B",
+"street": null,
+"direction": "Up",
+"implied_rest": "Analysis: nine-month $127.08B leaves $47.9B to $51.9B for Q4 vs $41.7B ex-charge in Q3",
+"assumptions": "Raise incorporates the $9.9B Q3 legal charge (release)"
+},
+{
+"item": "Operating income FY26",
+"prior": "Above 2025 ($83.28B)",
+"new": "Above 2025 excluding the Q3 legal charge",
+"street": null,
+"direction": "Redefined",
+"implied_rest": "Analysis: Q4 $21.1B to $28.1B; FY GAAP $75.7B to $82.7B (below 2025), ex-charge $85.6B to $92.6B",
+"assumptions": null
+},
+{
+"item": "Capex FY26 incl. finance lease principal",
+"prior": "$130B to $145B",
+"new": "$135B to $145B",
+"street": null,
+"direction": "Up",
+"implied_rest": "Analysis: nine-month $85.82B ($83.06B purchases plus $2.77B lease principal) leaves $49.2B to $59.2B for Q4 vs $34.91B in Q3",
+"assumptions": null
+},
+{
+"item": "Reality Labs operating loss FY26",
+"prior": "Not guided",
+"new": "$18B to $19B, down vs 2025",
+"street": null,
+"direction": "New",
+"implied_rest": "Analysis: nine-month $12.78B leaves $5.2B to $6.2B for Q4 vs $4.13B in Q3",
+"assumptions": null
+},
+{
+"item": "Tax rate",
+"prior": "15% to 17% rest of 2026",
+"new": "Q4 15% to 17%",
+"street": null,
+"direction": "Flat",
+"implied_rest": "Q3 was 24% reported, 17% ex-charge",
+"assumptions": "Absent changes to the tax landscape (release)"
+},
+{
+"item": "2027",
+"prior": null,
+"new": "No revenue outlook; 'strong overall revenue growth throughout 2027'; aggressive investment; budget and capacity plans still in development; RL losses about $15B",
+"street": "FY27 revenue $307.1B (+20.8%, Yahoo, 60)",
+"direction": "New",
+"implied_rest": null,
+"assumptions": null
+}
+],
+"withdrawn_or_redefined": "The 'operating income above 2025' promise is now explicitly ex-charge (release, CFO Outlook Commentary)",
+"tone_vs_quarter": "Analysis from the release only: no 2027 capex number on a Q3 print where Meta has framed next-year capex before; the wording says still developing budget and capacity plans and keeps investing aggressively"
 },
 "C4": {
 "pressed": null,
 "deflected": null,
-"new_info": null,
+"new_info": "From the release (call transcript not available): new non-voting Class C stock for capital raising, employee comp and acquisitions, paid as a one-share dividend (trades like a 2-for-1 split) after 1/19/2027, alongside a Founder Alignment Agreement with Zuckerberg dated 10/20/2026; RL losses guided to about $15B in 2027; Muse Wonder named as the first frontier model (8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm); 8-K Ex 10.1 Founder Alignment Agreement (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta10202026-ex101.htm))",
 "nobody_asked": null,
-"my_questions": null
+"my_questions": "Part A Q1 (2027 capex, off-balance-sheet): release gives no 2027 capex number and no JV figure; Q4 capex implied $49.2B to $59.2B. Q2 (Muse users, revenue): release gives none; Thomas's page has 10M Muse personal agents in US + Canada (unverified). Q3 (teen settlement): charge $9.89B on payments up to $18.59B; operating income promise kept ex-charge only; youth trials still scheduled in coming months; no under-18 time-spent data (8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm))"
 },
 "C5": {
-"dropped": null,
-"new_hedges": null,
-"catalyst_wording": null
+"dropped": "The plain 'operating income above 2025' (now ex-charge only)",
+"new_hedges": "Youth-related trials scheduled in the coming months in the US; 'investments will take longer to generate returns than those in our core business' on MSL (release)",
+"catalyst_wording": "'sustain strong overall revenue growth throughout 2027' with no number (release)"
 },
 "C6": {
-"green": [],
-"red": []
+"green": [
+"Revenue $64.60B, above the $64B top of the guide and +1.9% vs Street; growth +26% vs a 19% to 25% guide",
+"Q4 guide midpoint $74.5B above $73.75B Street",
+"Price per ad +14%, up from +12%",
+"Legal charge landed at $9.89B, in line; operating income promise kept ex-charge",
+"Q3 capex $34.91B, below the run rate the FY range implied"
+],
+"red": [
+"EPS $3.83 GAAP and $7.40 ex-charge both below consensus; ex-charge margin 35% vs 40%",
+"FCF -$2.12B; cash down $7.8B in the quarter, no buybacks",
+"Implied Q4 capex $49.2B to $59.2B, low end raised",
+"Impressions +10%, slowing from +14%",
+"Class C non-voting stock: a standing equity channel to fund the build (dilution) and a governance step locking in founder control",
+"No 2027 capex or expense framing",
+"More youth trials scheduled; settlement up to $18.59B"
+]
 },
 "C7": {
-"peers": null,
-"suppliers_customers": null,
-"theme": null,
+"peers": "Analysis: price per ad +14% with impressions +10% reads as a firm ad-pricing market for GOOGL, AMZN ads, PINS, SNAP",
+"suppliers_customers": "Analysis: implied Q4 capex of $49.2B to $59.2B (vs $34.91B in Q3) supports AI hardware and networking suppliers (NVDA, AVGO, ANET) into year end",
+"theme": "Analysis: hyperscaler spend now running ahead of cash flow (negative FCF) and funded by debt and, from 2027, a new equity class",
 "later_this_week": null
 },
 "C8": {
@@ -5876,32 +6524,172 @@
 "trade": null
 },
 "C9": {
-"before": null,
+"before": "$697.52, 10/21 close (Nasdaq)",
 "at_release": null,
-"end_call": null,
+"end_call": "$716.79, +2.76% after hours at 6:06 PM ET 10/21 (after the call; end-of-call print not verified) (Nasdaq quote API 6:06 PM ET 10/21 (https://api.nasdaq.com/api/quote/META/info?assetclass=stocks))",
 "next_close": null,
-"implied": null,
+"implied": "+/-7.0% (Part A, ATM straddle through 10/23)",
 "vs_implied": null,
-"why": null
+"why": "Analysis: the revenue beat and a Q4 range above Street outweighed the EPS miss and negative FCF in early trade; Class C and 2027 capex silence are the unpriced items for the call and the next session"
 },
 "C10": {
-"blank_for_you": [],
-"missed": [],
+"blank_for_you": [
+"B2.three_messages",
+"B4 (no Q&A page scanned)",
+"B5 tone ratings",
+"B6 quotes",
+"B7 your call",
+"C8 thesis check",
+"C12 bottom line"
+],
+"missed": [
+{
+"t": null,
+"item": "New non-voting Class C stock (capital raising, comp, acquisitions), one-share dividend trading like a 2-for-1 split after 1/19/2027, plus a Founder Alignment Agreement (release; Ex 10.1)",
+"impact": "high"
+},
+{
+"t": null,
+"item": "EPS missed on both bases: $3.83 GAAP vs $5.46, $7.40 ex-charge vs $9.138 team sheet",
+"impact": "high"
+},
+{
+"t": null,
+"item": "FCF -$2.12B; cash down to $82.45B from $90.26B",
+"impact": "high"
+},
+{
+"t": null,
+"item": "Q4 revenue guide $73B to $76B, midpoint above the $73.75B Street",
+"impact": "high"
+},
+{
+"t": null,
+"item": "FY capex low end raised to $135B; implied Q4 capex $49.2B to $59.2B; no 2027 capex framing",
+"impact": "high"
+},
+{
+"t": null,
+"item": "Ad impressions slowed to +10% (from +14%); price per ad +14%",
+"impact": "medium"
+},
+{
+"t": null,
+"item": "Ex-charge operating income $22.88B, up 11%; your 'Income from Operations is Down' is the GAAP figure",
+"impact": "medium"
+},
+{
+"t": null,
+"item": "Youth-related trials scheduled in coming months; settlement payments up to $18.59B",
+"impact": "medium"
+},
+{
+"t": null,
+"item": "Reality Labs loss $18B to $19B for FY26 and about $15B in 2027",
+"impact": "low"
+},
+{
+"t": null,
+"item": "Headcount 66,775, -15% YoY",
+"impact": "low"
+}
+],
 "disagreements": [],
 "answered_followups": [],
-"model_inputs_changed": [],
-"unverified": []
+"model_inputs_changed": [
+{
+"input": "Q3 revenue guide",
+"old": "$61B to $64B",
+"new": "Actual $64.60B; Q4 guide $73B to $76B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "FY26 total expenses guide",
+"old": "$165B to $169B",
+"new": "$175B to $179B (incl. $9.9B charge)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "FY26 operating income",
+"old": "Above 2025 ($83.28B)",
+"new": "Above 2025 excluding the Q3 legal charge",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "FY26 capex guide",
+"old": "$130B to $145B; H1 $50.92B",
+"new": "$135B to $145B; Q3 $34.91B; nine-month $85.82B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Tax rate",
+"old": "15% to 17%; Q2 16%",
+"new": "Q3 24% (17% ex-charge); Q4 15% to 17%",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Q3 legal charge",
+"old": "About $10B; settlement up to $16.68B to $18B",
+"new": "$9.89B; payments up to about $18.59B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Revenue base",
+"old": "Q2 $60.80B; ads $59.36B; FoA other $1.01B; RL $0.43B",
+"new": "Q3 $64.60B; ads $63.06B; other $1.10B; RL $0.44B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Ad drivers",
+"old": "Impressions +14%, price +12%; DAP 3.60B",
+"new": "Impressions +10%, price +14%; DAP 3.64B (+3%)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Reality Labs operating loss",
+"old": "$4.62B Q2; $8.65B H1",
+"new": "$4.13B Q3; $12.78B nine-month; FY26 $18B to $19B; 2027 about $15B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Diluted shares",
+"old": "2,566M",
+"new": "2,573M; Class C dividend from 1/2027 doubles share count (split-equivalent)",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Cash and debt",
+"old": "Cash and securities $90.26B; LTD $83.66B",
+"new": "Cash and securities $82.45B; LTD $80.92B",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+},
+{
+"input": "Headcount",
+"old": "75,472",
+"new": "66,775",
+"source": "8-K Ex 99.1, 10/21/2026 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm)"
+}
+],
+"unverified": [
+"B2.log[0] 10M Muse Personal Agents in US + Canada, used mostly for shopping, avg. revenue up (no transcript)",
+"B2.log[2] larger frontier models + smaller ones (release confirms only 'Muse Wonder, our first frontier model')",
+"B2.log[3] Muse added to Meta glasses",
+"B2.log[4] more Instagram Reels under 1 day old recommended",
+"B2.log[5] extending Muse to small businesses already on Instagram / Facebook",
+"B3 call wording (filled from the release, not the call)",
+"C9.end_call is a 6:06 PM ET after-hours quote, not an end-of-call print"
+]
 },
 "C11": {
-"verify": null,
-"open": null,
-"next_earnings": null,
-"catalysts": null
+"verify": "Transcript once posted on investor.atmeta.com: Muse user and agent numbers, any 2027 capex or expense framing, Class C questions. 10-Q: settlement payment schedule and how much of the $18.59B is still contingent; why long-term debt fell to $80.92B from $83.66B",
+"open": "2027 capex and expense growth; how much Class C equity Meta intends to issue and when; Q4 capex step-up to $49B to $59B; impressions slowdown vs teen limits",
+"next_earnings": "Q4 2026, date not announced (Q4 2025 was reported 1/28/2026 per EDGAR 8-K list)",
+"catalysts": "Class C charter effective 1/19/2027 and the stock dividend after it; US youth-related trials in the coming months (release)"
 },
 "C12": {
 "bottom_line": null
 },
-"transcript_source": null
+"transcript_source": "none"
 },
 "D": {
 "D1": {
@@ -5950,14 +6738,16 @@
 "filing_url": null
 },
 "sheet_row": {
-"eps_actual": "7.40",
-"rev_actual": "64.601",
+"eps_actual": "3.83 (7.40 ex-charge)",
+"rev_actual": "64.60",
 "guidance_vs_street": "Raised",
-"kpi_result": "EPS $7.40 excludes the $9.89B state AG charge (GAAP $3.83); Q4 revenue guide $73-76B vs $73.75B Street; FY capex $135-145B; FCF -$2.1B; new non-voting Class C stock",
+"kpi_result": "Impressions +10%, price per ad +14%, DAP 3.64B +3%; FCF -$2.12B",
 "actual_move": null,
 "verdict": "Mixed",
-"takeaway": null
-}
+"takeaway": "Revenue beat the top of the guide and the Q4 range came in above Street (stock +2.8% after hours at 6:06 PM ET), but EPS missed even ex-charge, FCF went negative, and a new non-voting Class C stock gives Meta an equity channel to fund the AI build."
+},
+"pages_read": 1,
+"summary": "META Q3FY26: 1 opening-remarks page transcribed; release beat on revenue ($64.60B), EPS miss ($3.83 GAAP, $7.40 ex-charge), Q4 guide $73-76B above Street, Class C stock new; no transcript yet."
 },
 {
 "ticker": "NFLX",
