@@ -11013,59 +11013,59 @@
 "event": "S&P Global US Manufacturing PMI (flash)",
 "period": "October",
 "consensus": "55.5",
-"actual": null,
+"actual": "56.0",
 "prior": "55.9",
 "unit": "index",
-"surprise": null,
-"read": "Consensus is a small step down from September's final 55.9 (Investing.com 55.5, FXStreet 55.6); the prices-charged and supplier-delivery lines matter more than the headline with oil above $110.",
-"source_url": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178"
+"surprise": "+0.5 pts",
+"read": "A 53-month high and a beat: factory hiring was the strongest since March 2012 and supplier delivery times lengthened the most since July 2022, which is the oil-shock supply signal rather than clean demand strength.",
+"source_url": "https://tradingeconomics.com/united-states/manufacturing-pmi"
 },
 {
 "time_ct": "08:45",
 "event": "S&P Global US Services PMI (flash)",
 "period": "October",
 "consensus": "58.0",
-"actual": null,
+"actual": "57.9",
 "prior": "58.8",
 "unit": "index",
-"surprise": null,
-"read": "Services is the bigger swing: a slide well under 58 (FXStreet has 57.9) would extend Thursday's bond rally, a hold near 59 keeps the December hike fully priced.",
-"source_url": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178"
+"surprise": "-0.1 pts",
+"read": "In line on the headline, but new business grew at the fastest pace since March 2022 and services selling-price inflation hit its highest since August 2022 on fuel, wages, utilities and insurance, so the inflation read is hawkish even as activity cools.",
+"source_url": "https://tradingeconomics.com/united-states/services-pmi"
 },
 {
 "time_ct": "08:45",
 "event": "S&P Global US Composite PMI Output Index (flash)",
 "period": "October",
 "consensus": "57.6",
-"actual": null,
+"actual": "57.6",
 "prior": "58.4",
 "unit": "index",
-"surprise": null,
-"read": "September's 58.4 was a 62-month high; only one calendar (Kaohoon) prints a composite consensus, so treat 57.6 as soft.",
-"source_url": "https://www.kaohooninternational.com/economics/592811"
+"surprise": "0.0 pts",
+"read": "Off September's five-year high but still among the strongest readings since 2011, with the composite new-orders gauge at 58.2, the highest since March 2022, and selling prices rising at the sharpest pace since August 2022.",
+"source_url": "https://investinglive.com/news/us-s-p-global-flash-october-services-pmi-57-9-vs-58-0-expected/"
 },
 {
 "time_ct": "09:00",
 "event": "University of Michigan Index of Consumer Sentiment (final)",
 "period": "October",
 "consensus": "46.3",
-"actual": null,
+"actual": "48.0",
 "prior": "46.3",
 "unit": "index",
-"surprise": null,
-"read": "Consensus is flat on the 46.3 preliminary, itself down from 48.1 in September; gasoline near $100 WTI and the equity drawdown argue for a downward revision rather than up.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"surprise": "+1.7 pts",
+"read": "Revised up from the 46.3 preliminary to sit a tenth below September's 48.1, so the month was flat rather than a fresh low; the director says purchasing power still dominates and sentiment is 10% below a year ago.",
+"source_url": "https://www.sca.isr.umich.edu/"
 },
 {
 "time_ct": "09:00",
 "event": "University of Michigan Current Economic Conditions (final)",
 "period": "October",
 "consensus": null,
-"actual": null,
+"actual": "46.7",
 "prior": "44.7",
 "unit": "index",
 "surprise": null,
-"read": "No consensus found; the preliminary 44.7 was a six-point drop from September's 50.9.",
+"read": "No consensus found; revised up two points from the preliminary 44.7 but still down from September's 50.9 because buying conditions for durables fell about 18% on higher rates and affordability.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -11073,11 +11073,11 @@
 "event": "University of Michigan Index of Consumer Expectations (final)",
 "period": "October",
 "consensus": null,
-"actual": null,
+"actual": "48.8",
 "prior": "47.3",
 "unit": "index",
 "surprise": null,
-"read": "No consensus found; expectations rose to 47.3 preliminary from 46.3 in September while current conditions fell.",
+"read": "No consensus found; revised up from the preliminary 47.3 and above September's 46.3, so the whole upward revision came from the forward-looking half of the survey.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -11085,24 +11085,24 @@
 "event": "University of Michigan Year-Ahead Inflation Expectations (final)",
 "period": "October",
 "consensus": "4.7%",
-"actual": null,
+"actual": "4.7%",
 "prior": "4.7%",
 "unit": "%",
-"surprise": null,
-"read": "Held at 4.7% preliminary, up from 4.6% in September; an upward revision toward 5% with Brent at $114 is the hawkish tail the Fed cannot answer during blackout.",
-"source_url": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178"
+"surprise": "0.0 pp",
+"read": "Confirmed at 4.7%, up from 4.6% in September and the highest since May, against 3.4% in February before the Iran conflict began; no upward revision toward 5%, which takes the worst hawkish tail off the table for today.",
+"source_url": "https://www.sca.isr.umich.edu/"
 },
 {
 "time_ct": "09:00",
 "event": "University of Michigan Long-Run (5-10 year) Inflation Expectations (final)",
 "period": "October",
 "consensus": "3.5%",
-"actual": null,
+"actual": "3.5%",
 "prior": "3.5%",
 "unit": "%",
-"surprise": null,
-"read": "Preliminary 3.5% was a tick above September's 3.4%; the long-run series is the one the Fed cites, so any move matters more than the headline.",
-"source_url": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178"
+"surprise": "0.0 pp",
+"read": "Confirmed at 3.5%, up from 3.4% in September and the highest since May, well above the 2024 range of 2.8% to 3.2%; a second straight monthly rise in the series the Fed cites keeps December live regardless of the sentiment headline.",
+"source_url": "https://www.sca.isr.umich.edu/"
 },
 {
 "time_ct": "18:30",
@@ -11118,139 +11118,133 @@
 }
 ],
 "read": {
-"bias": "lower",
-"confidence": "low",
-"call": "Thursday's AI-capex break (Nasdaq -2.6%, chips -6.7%) followed through across Asia and oil is at a five-month high, so the path of least resistance is lower again unless a soft flash PMI lets the bond rally carry stocks.",
-"swing": "The 08:45 CT S&P Global flash services PMI: a miss below 58 with cooler prices charged extends the Treasury rally and gives beaten-down tech a bid; a hot print with firm prices re-prices the December hike and keeps selling going.",
+"bias": "higher",
+"confidence": "medium",
+"call": "The US prints landed on consensus for activity but hot on prices, so yields drift back up from Thursday's sub-5% low and the December hike stays priced at roughly three in four rather than being unwound.",
+"swing": "Oil: Brent at $114 after the Saudi shipping attacks is doing more to the long end than any print today, and a slide back under $110 would extend Thursday's bond rally instead of reversing it.",
 "drivers": [
-"AI trade cracking: Meta reported its first cash outflow in over a decade on AI spending and fell about 7%; the Philadelphia semiconductor index dropped 6.7%, its worst day since June, and Nvidia lost about 4%.",
-"Biggest Treasury rally in roughly three years: the 10-year fell about 15 to 19 bp to the mid-4.9s, first close below 5% since late September, with the 2-year near 4.64% and the 30-year near 5.29%.",
-"Oil: Brent settled near $113 (+4%) on Houthi drone strikes on Aramco's Shaybah field and Dammam airport, and trades near $114 this morning; WTI is back above $100.",
-"Fed in blackout (Oct 17 to 29) ahead of the Oct 27-28 meeting: hold is 92% priced, a December hike about 76% on Kalshi and 83% on FedWatch, and every one of 100 Reuters-polled economists expects a December hike.",
-"Asia followed Wall Street down: Kosdaq -3.5%, Kospi -2.2%, Nikkei -1.4%, Shanghai -1.3%, with Samsung and SoftBank leading; gold slipped below $4,000 for the first time since July."
+"US flash composite 57.6 matched the one consensus available, manufacturing beat at a 53-month high 56.0 and services was in line at 57.9, so there is no growth-scare in the US to pair with Thursday's AI capex selloff.",
+"Selling prices in the US survey rose at the fastest pace since August 2022 and services inflation hit a 26-month high on fuel, wages and insurance, which is the line the Fed will read during blackout.",
+"Michigan inflation expectations were confirmed at 4.7% one-year and 3.5% long-run, both the highest since May and rising for a second month, with no upward revision; sentiment itself revised up to 48.0.",
+"Europe missed (eurozone composite 51.9 vs 52.7, France 48.4) while the UK beat at 53.1, which keeps the dollar bid at about 101.7 on the index despite the Treasury rally.",
+"Fed futures at 10:25 ET: 10% for a hike on October 28, about 75% for at least one hike by December 9 and 7.5% for two; the 10-year is back near 4.97-5.00% after closing at 4.952% Thursday."
 ]
 },
 "what_mattered": [
 {
-"headline": "Meta and the chips reignited the AI-spending doubt and took the Nasdaq to its worst day since June",
-"fact": "S&P 500 -1.19% to 7,664.77, Nasdaq -2.58% to 26,008.86, Dow +0.03% to 52,873.60; Philadelphia semiconductor index -6.7%; Meta about -7% after reporting its first cash outflow in over a decade and a 2-for-1 split with non-voting shares to fund AI; Tesla -3% despite a $0.48 vs $0.44 EPS beat.",
-"implication": "The market is now pricing the cost of the AI buildout (debt, cash burn) rather than the revenue; with the index 25% below its June high for chips, dip-buying is no longer automatic and Friday's open is about whether Thursday was a flush or a trend change.",
-"source_url": "https://www.thestandard.com.hk/finance/article/346283/SP-500-Nasdaq-end-sharply-lower-as-revived-AI-doubts-ignite-tech-selloff"
+"headline": "US flash PMIs: activity holds near a five-year high, prices accelerate",
+"fact": "Composite 57.6 (prior 58.4), manufacturing 56.0 vs 55.5 expected, services 57.9 vs 58.0; selling prices up at the sharpest pace since August 2022 and composite new orders 58.2, the highest since March 2022.",
+"implication": "No growth excuse for the Fed to skip December; the hawkish detail is in prices and supplier delays, not the headline, so the bond rally of Thursday looks like an AI-capex and positioning move rather than a data move.",
+"source_url": "https://investinglive.com/news/us-s-p-global-flash-october-services-pmi-57-9-vs-58-0-expected/"
 },
 {
-"headline": "Treasuries caught the rotation out of tech: 10-year back below 5%",
-"fact": "10-year around 4.96% (-15 to -19 bp depending on the print), 2-year about 4.635%, 30-year about 5.286%; the 10-year peaked at 5.31% on Oct 5 and sat at 5.13% on Oct 21. French 10-year spread to Bunds widened past 170 bp, adding safe-haven flow.",
-"implication": "A sub-5% 10-year with a December hike still 76-83% priced is the market saying growth risk now outweighs inflation risk; today's PMI and Michigan inflation expectations decide whether that holds or snaps back.",
-"source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+"headline": "Michigan sentiment revised up, inflation expectations confirmed at five-month highs",
+"fact": "Final sentiment 48.0 vs 46.3 expected and 46.3 preliminary; current conditions 46.7, expectations 48.8; year-ahead inflation 4.7% and 5-10 year 3.5%, both up for a second month.",
+"implication": "The consumer is not collapsing but is paying for the oil shock in expectations; 3.5% long-run is above the entire 2024 range and is the number the Fed cites, so this print does nothing to loosen the December pricing.",
+"source_url": "https://www.sca.isr.umich.edu/"
 },
 {
-"headline": "Oil at a five-month high after Houthi strikes inside Saudi Arabia",
-"fact": "Brent +4% to settle near $113.17 Thursday, $114.47 (+1.2%) at 06:39 GMT Friday; WTI $100.84. Drone strike on Aramco's Shaybah field killed two (operations unaffected), an attack hit Dammam's King Fahd airport, Aramco evacuated its Dhahran HQ; Libyan output cut by a valve shutdown. Brent is on track for a third weekly gain.",
-"implication": "Energy is the one input that can push Michigan's inflation expectations and the PMI prices lines higher at the same time the growth trade is breaking, which is the stagflation mix the Fed cannot talk its way out of during blackout.",
-"source_url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html"
+"headline": "Thursday's Treasury rally: 10-year below 5% for the first time, biggest one-day drop since March 2023",
+"fact": "10-year fell 19.3 bp to 4.952% and the 2-year 10.7 bp to 4.716% on Thursday as the Nasdaq lost 2.6% on AI spending fears; Friday morning the 10-year was back near 4.97-5.00%.",
+"implication": "The rally was driven by equities and positioning, not by softer data, so today's in-line prints argue for partial retracement; watch whether the 10-year can hold under 5% into the close.",
+"source_url": "https://fattail.ai/will-cd-rates-go-up/"
 },
 {
-"headline": "Jobless claims fell to 194k, near multi-decade lows",
-"fact": "Initial claims 194,000 for the week ending Oct 17 (consensus 200k, prior revised up to 200k); 4-week average 197,750; continuing claims 1,728,000 (+25k), insured unemployment rate 1.1%.",
-"implication": "No labor-market excuse for the Fed to pause its hiking bias; the growth scare is an equity and capex story, not a jobs story, which is why bonds rallied on risk-off rather than on data.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
+"headline": "Fed pricing: October hold, December hike still the base case",
+"fact": "Investing.com's Fed Rate Monitor at 10:25 ET: 89.7% hold on October 28; by December 9, 24.9% hold, 67.6% one hike to 4.00-4.25%, 7.5% two hikes. A Reuters poll had all 100 economists expecting a December hike.",
+"implication": "The December hike is about three-quarters priced after the data, down from 82.8% on October 20; the room to move is in the two-hike tail, which today's price data keep alive.",
+"source_url": "https://www.investing.com/central-banks/fed-rate-monitor"
 },
 {
-"headline": "Japan core inflation back above the BoJ target",
-"fact": "September core CPI 2.1% y/y (consensus 2.1%, prior 1.7%); core-core 2.4% vs 2.3% expected; headline 2.1%. USD/JPY dipped to about 156.25 then 157.00; BoJ at 1.25%, expected to hold Oct 29-30, December hike to 1.50% widely expected.",
-"implication": "A stronger yen and a BoJ December hike are a second source of carry-unwind pressure on US tech at exactly the wrong moment; the Fed and BoJ are now both leaning hawkish into year-end.",
-"source_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-as-chip-rout-spreads/"
+"headline": "Oil: Brent holds $114 after Saudi product-export restrictions and Houthi attacks",
+"fact": "Brent about $114 and WTI about $100.90 Friday morning, up 4% Thursday after Saudi Arabia restricted refined-product shipments.",
+"implication": "Fuel is the input the US services survey named first for its price surge, so oil is now the transmission channel from the Gulf conflict to the December decision.",
+"source_url": "https://www.mitrade.com/insights/more/Central-Banks/fed-october-hold-december-hike-20261022J1428"
 },
 {
-"headline": "Europe split: Eurozone PMI missed, UK PMI beat",
-"fact": "Eurozone flash composite 51.9 vs 52.7 expected (prior 53.1), services 51.7, manufacturing 52.4; Germany 52.8 vs 53.3. UK composite 53.1 vs 51.8 (prior 52.0), manufacturing 52.8 vs 51.7. UK retail sales -0.4% m/m vs -0.2%.",
-"implication": "Eurozone growth slowing to a 0.3% quarterly pace with oil at $114 leaves the ECB boxed; it is a mild dollar positive and takes some pressure off US yields at the margin.",
+"headline": "Europe's flash PMIs miss, UK beats",
+"fact": "Eurozone composite 51.9 vs 52.7 expected (services 51.7, manufacturing 52.4), France 48.4 vs 50.3; UK composite 53.1 vs 51.8, strongest since February.",
+"implication": "The growth gap widens in the dollar's favour even on a day US yields are falling, keeping the index near 101.7 and the euro under 1.12.",
 "source_url": "https://www.fxstreet.com/news/eurozone-hcob-composite-pmi-declines-to-519-in-october-vs-527-expected-202610230806"
-},
-{
-"headline": "Conference Board leading index stopped falling",
-"fact": "September LEI 0.0% m/m at 99.6 (prior -0.1%), six-month change +0.6%; Atlanta Fed GDPNow for Q3 at 3.5% as of Oct 20 (from 3.6%), with inventories still about half the headline and net exports a 2.7 pp drag; first official Q3 GDP print is Oct 29.",
-"implication": "Hard data still says 3%-plus growth, so the bond rally is a positioning and AI-capex story more than a macro one; GDPNow updates again Oct 27.",
-"source_url": "https://www.conference-board.org/topics/us-leading-indicators"
 }
 ],
 "look_at": [
-"08:45 CT flash PMIs: read the services prices-charged and new-orders lines before the headline; cooler prices plus a softer headline is the combination that lets the bond rally spill into a tech bounce.",
-"09:00 CT Michigan final: watch long-run inflation expectations (3.5% prelim, up from 3.4%) and year-ahead (4.7%); any upward revision with Brent at $114 is a direct hit to the 'growth scare beats inflation' trade.",
-"Chips at the open: the Philadelphia semiconductor index is 25% off its June high after a 6.7% day; whether Nvidia and the Korean names (Samsung -5%, Kioxia -7% overnight) get bought in the first hour tells you if Thursday was a flush.",
-"The 10-year around 4.96 to 4.98%: a hold below 5% into the weekend with a December hike still three-quarters priced is unstable; one of the two has to give next week when the Fed meets Oct 27-28.",
-"American Express reports before the open (consensus EPS clusters near $4.5); it is the day's only large-cap print and the cleanest read on the high-end consumer after Michigan current conditions fell six points in October."
+"The 10-year into the close: it finished Thursday at 4.952% and is back near 4.97-5.00% after the prints, so a close under 5% means the AI-capex bid for bonds is outlasting the inflation data.",
+"Brent against $110 and $114: the services survey blamed fuel first for the fastest selling-price rise since 2022, so oil is the swing for December pricing, not the next data point.",
+"December pricing on Fed Rate Monitor after the US close: 67.6% one hike and 7.5% two at 10:25 ET; the two-hike tail is what should move if the prices-charged detail gets traded.",
+"Whether the Nasdaq extends Thursday's 2.6% drop; a second down day would re-run the growth-scare trade and pull yields lower against the data.",
+"Next week: the FOMC holds October 27-28 (no projections) with the market at 10% for a hike, and third-quarter GDP, PCE and payrolls follow, so today's prints set the tone but not the level."
 ],
 "fed": {
 "next_meeting": "2026-10-28",
-"market_pricing": "Target range 3.75-4.00% (effective 3.88%). Oct 28: hold about 92% (Kalshi 92%, Polymarket 93.5%, futures 92%), 25 bp hike 6-8%, cut about 1%. December: hike about 76% on Kalshi (cumulative), about 83% on CME FedWatch as of Oct 20; Reuters poll Oct 16-20 had 94 of 100 economists expecting an October hold and 100 of 100 expecting a December hike. Oct 28 decision 13:00 CT, Chair Warsh presser 13:30 CT.",
+"market_pricing": "Fed Rate Monitor at 10:25 ET: hold 89.7% on October 28 (target 3.75-4.00%); December 9: 24.9% hold, 67.6% one hike to 4.00-4.25%, 7.5% two hikes. Fed funds futures at 8:45 ET: 81% cumulative for a hike by December.",
 "speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7688.5,
-"change_pct": -0.21
+"value": 7661.75,
+"change_pct": -0.55
 },
 {
 "label": "Nasdaq futures",
-"value": 29144.5,
-"change_pct": 0.01
+"value": 29193.5,
+"change_pct": 0.18
 },
 {
 "label": "Russell 2000 futures",
-"value": 2781.9,
-"change_pct": -0.51
+"value": 2767.8,
+"change_pct": -1.01
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7663.43,
-"change_pct": -1.21
+"value": 7645.56,
+"change_pct": -0.23
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 26008.86,
-"change_pct": -2.6
+"value": 26064.46,
+"change_pct": 0.21
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": -3.75
+"change_pct": 0.89
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": -2.79
+"change_pct": 0.57
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.74,
-"change_pct": 0.13
+"value": 101.76,
+"change_pct": 0.15
 },
 {
 "label": "WTI crude $",
-"value": 101.1,
-"change_pct": 1.64
+"value": 102.57,
+"change_pct": 3.12
 },
 {
 "label": "Brent crude $",
-"value": 109.91,
-"change_pct": -2.88
+"value": 111.51,
+"change_pct": -1.47
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.13,
-"change_pct": 12.09
+"value": 3.06,
+"change_pct": 9.37
 },
 {
 "label": "Gold $",
-"value": 4037.6,
-"change_pct": -0.56
+"value": 4006.9,
+"change_pct": -1.32
 },
 {
 "label": "Bitcoin $",
-"value": 81613.58,
-"change_pct": 0.37
+"value": 81626.35,
+"change_pct": 0.39
 },
 {
 "label": "Nikkei 225",
@@ -11264,18 +11258,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6048.01,
-"change_pct": -0.64
+"value": 6028.55,
+"change_pct": -0.96
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 151.64,
-"change_pct": -0.75
+"value": 148.62,
+"change_pct": -1.99
 },
 {
 "label": "VIX",
-"value": 19.56,
-"change_pct": 2.79
+"value": 20.23,
+"change_pct": 6.31
 },
 {
 "label": "2Y Treasury yield %",
@@ -11288,13 +11282,18 @@
 "slot": "morning",
 "at": "2026-10-23T05:36:11-05:00",
 "rows": 12
+},
+{
+"slot": "midday",
+"at": "2026-10-23T09:48:20-05:00",
+"rows": 12
 }
 ],
 "themes": [
-"The December hike is no longer a lock in the market even as it is unanimous among economists: 100 of 100 in the Reuters poll expect it, yet futures slipped to roughly 76-83% as the 10-year broke below 5% on Thursday.",
-"AI capex has turned from a growth story into a funding story: Meta's first cash outflow in over a decade and a 6.7% drop in the semiconductor index moved $130B-scale value out of software and chips in a day.",
-"Oil and bonds are telling opposite stories: Brent at $114 argues for higher inflation expectations while the 10-year at 4.96% argues for a growth scare, and today's Michigan expectations and PMI prices lines are the first data that can settle it."
+"Growth is not the problem: the US composite PMI at 57.6 sits near a five-year high while Europe's slips to 51.9, so Thursday's sub-5% 10-year was an equity and positioning move, not a data move.",
+"Inflation expectations are ratcheting with oil: Michigan's long-run 3.5% and one-year 4.7% are both five-month highs and above the whole 2024 range, while services firms report the fastest price rises since August 2022.",
+"The December hike is priced but not settled: three-quarters odds and a 7.5% two-hike tail with Brent at $114 means the next 10 dollars in oil, not the next print, decides how far the Fed goes."
 ],
-"snapshot_at": "2026-10-23T05:36:14-05:00"
+"snapshot_at": "2026-10-23T09:48:23-05:00"
 }
 }
