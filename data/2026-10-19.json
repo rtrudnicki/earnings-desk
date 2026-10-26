@@ -10997,28 +10997,40 @@
 "source_url": "https://www.investing.com/economic-calendar/"
 },
 {
+"time_ct": "06:00",
+"event": "CBI Distributive Trades Survey, retail sales balance (UK)",
+"period": "October",
+"consensus": "-47",
+"actual": "-10",
+"prior": "-55",
+"unit": "balance",
+"surprise": "+37 pt",
+"read": "UK retail sales fell at the slowest annual pace in 18 months and beat consensus by a wide margin, though the CBI still called the outlook fragile on cautious households and higher fuel costs; a mild plus for sterling into Wednesday's UK Budget, minor for US futures.",
+"source_url": "https://tradingeconomics.com/united-kingdom/cbi-distributive-trades"
+},
+{
 "time_ct": "07:30",
 "event": "Chicago Fed National Activity Index",
 "period": "September",
-"consensus": null,
-"actual": null,
-"prior": "-0.04",
+"consensus": "-0.10",
+"actual": "+0.07",
+"prior": "-0.08 (revised from -0.04)",
 "unit": "index",
-"surprise": null,
-"read": "No consensus found (TradingEconomics' own model forecast is -0.10); a reading near zero says growth was running at trend in September, consistent with a 3%-plus GDPNow tracking.",
-"source_url": "https://tradingeconomics.com/united-states/chicago-fed-national-activity-index"
+"surprise": "+0.17 pt",
+"read": "Activity moved back above trend in September and the three-month average rose to +0.03 from +0.01, consistent with the 3.5% GDPNow tracking for the third quarter and giving the Fed no growth reason to drop its December hike talk; August was revised down to -0.08.",
+"source_url": "https://www.investing.com/economic-calendar/chicago-fed-national-activity-523"
 },
 {
 "time_ct": "09:30",
 "event": "Texas Manufacturing Outlook Survey, general business activity index (Dallas Fed)",
 "period": "October",
-"consensus": "7",
-"actual": null,
+"consensus": "8.8",
+"actual": "13.4",
 "prior": "9.8",
 "unit": "index",
-"surprise": null,
-"read": "The only US survey of the day; the prices-paid and wages lines matter more than the headline with oil above $100 and the Fed debating a December hike.",
-"source_url": "https://tradingeconomics.com/united-states/dallas-fed-manufacturing-index"
+"surprise": "+4.6 pt",
+"read": "Headline beat but the growth lines cooled (production 15.8 from 29.5, new orders 9.3 from 30.7, employment 11.6 from 15.1) while raw materials prices paid rose to 55.3 from 52.2 and prices received to 29.9 from 27.6, so the print reads as slower growth with hotter input costs, which is the mix that keeps a December hike on the table; company outlook jumped to 16.1 and future activity to 38.1.",
+"source_url": "https://www.dallasfed.org/research/surveys/tmos/2026/2610"
 },
 {
 "time_ct": "10:30",
@@ -11033,6 +11045,18 @@
 "source_url": "https://www.investing.com/economic-calendar/"
 },
 {
+"time_ct": "10:30",
+"event": "13-week and 26-week bill auctions (Treasury)",
+"period": "Oct 26 auction",
+"consensus": null,
+"actual": null,
+"prior": "4.095% (13-week, bid-to-cover 2.77), 4.220% (26-week, bid-to-cover 2.84)",
+"unit": "% high rate",
+"surprise": null,
+"read": "No consensus for an auction; results were not yet posted on the TreasuryDirect feed or the auction trackers at midday, so the row stays open; bill rates above the 3.75% to 4.00% funds range show the front end still pricing the December hike.",
+"source_url": "https://saferate.com/treasury/auctions"
+},
+{
 "time_ct": "12:00",
 "event": "2-year note auction (Treasury)",
 "period": "Oct 26 auction",
@@ -11043,130 +11067,141 @@
 "surprise": null,
 "read": "First coupon supply of the week two days before the Fed; a tail would say buyers want more premium for hike risk, a stop-through says the pause is trusted.",
 "source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "12:00",
+"event": "2-year note auction, $69 billion (Treasury)",
+"period": "Oct 26 auction",
+"consensus": null,
+"actual": null,
+"prior": "4.787% high yield, bid-to-cover 2.63, indirects 57.8%",
+"unit": "% high yield",
+"surprise": null,
+"read": "No consensus for an auction; first coupon supply of the week two days before the Fed with the 2-year near 4.69%; a tail would say buyers want more premium for hike risk, a stop-through says the pause is trusted, and Treasury has flagged a possible unscheduled 5-year reopening depending on this high yield.",
+"source_url": "https://www.tftc.io/treasury-auctions"
 }
 ],
 "read": {
-"bias": "chop",
-"confidence": "medium",
-"call": "A near-empty US calendar and a Fed in blackout leave the tape to oil headlines and positioning before Wednesday's decision and the Alphabet and Microsoft prints, so expect a firm Dow and S&P with tech lagging rather than a trend day.",
-"swing": "Oil and Iran headlines: Brent back above Friday's $116.72 settle would reverse the overnight relief bid, a further slide toward $105 would extend it.",
+"bias": "higher",
+"confidence": "low",
+"call": "Stocks hold a modest gain into the close on easing oil and the Anthropic filing, with the morning's US prints (activity back above trend, a Dallas Fed beat with hotter prices) confirming rather than changing the hold-now, hike-in-December setup for Wednesday.",
+"swing": "The 12:00 CT 2-year note auction: a tail of more than a basis point would lift front-end yields and knock the equity bid two days before the Fed.",
 "drivers": [
-"Trump said 'there will not be a strike today' on Iran; WTI fell about 2.5% to near $100.80 and Brent to near $109.50 after a 6% weekly gain.",
-"Futures were mixed in European hours: Dow +0.32% near 52,560, S&P 500 +0.14% near 7,670, Nasdaq 100 -0.13% near 29,080.",
-"The 10-year yield sits at 4.967%, near a one-month low after the 5.364% peak on October 7; lower yields help duration-sensitive sectors but tech is still carrying the AI capex worry.",
-"CME FedWatch prices a 90.6% hold on Wednesday and a 79.7% chance of a hike on December 9, so the statement wording and Chair Warsh's press conference are the week's rate event, not today.",
-"Germany's ifo beat at 90.2 versus 90.0 kept European equities bid (Stoxx 600 +0.3%)."
+"Oil easing: Brent back below $110 and December WTI near $100.60 after Friday's six-month high on Houthi attacks in Saudi Arabia.",
+"Rates steady: the 10-year near 4.97% and the 2-year near 4.69% with the Fed hold on Wednesday priced at roughly 90% and a December hike at 79% to 84%.",
+"Data mix: Chicago Fed +0.07 and Dallas Fed 13.4 say growth is at trend, but Texas prices paid at 55.3 keeps the inflation side of the hike debate alive.",
+"Tech week: Anthropic's S-1 and Meta's up-to-$95 billion raise set up Alphabet and Microsoft on Wednesday, with the ten largest S&P 500 names lagging the index this morning."
 ]
 },
 "what_mattered": [
 {
-"headline": "Trump rules out an immediate Iran strike; oil retreats from six-month highs",
-"fact": "WTI near $100.80, down 2.5%; Brent near $109.50 against a $116.72 Friday settle (highest since late April) after a 6% weekly gain; Qatari mediators are in Tehran while Houthi attacks on Saudi airports and oil sites continued over the weekend.",
-"implication": "Takes the sharpest edge off the inflation scare into Thursday's PCE and Q3 GDP, but strike plans are reported for after the November 3 midterms, so the oil premium is deferred rather than gone.",
-"source_url": "https://www.tradingkey.com/analysis/commodities/oil/262238566-trump-iran-oil-drops-wti-2-percent-brent-below-110-tradingkey"
+"headline": "Texas factories: slower growth, hotter prices",
+"fact": "Dallas Fed general business activity 13.4 vs 8.8 consensus and 9.8 prior; production fell to 15.8 from 29.5, new orders to 9.3 from 30.7, prices paid rose to 55.3 from 52.2.",
+"implication": "A headline beat built on outlook rather than output, with input costs rising again under oil above $100; this is the mix a hawkish Fed cites for a December move.",
+"source_url": "https://www.dallasfed.org/research/surveys/tmos/2026/2610"
 },
 {
-"headline": "Second straight losing week for the S&P 500 and Nasdaq on AI spending worries and $100 oil",
-"fact": "Friday: Dow -652.82 points (-1.23%) to 52,215.16, S&P 500 -0.52%, Nasdaq -0.21% to 25,955.34; the Dow still logged a third weekly gain while the S&P and Nasdaq fell on the week.",
-"implication": "The rotation out of AI names into everything else is the market's working theme into mega-cap earnings; Deutsche Bank says the reaction to capex plans 'could rival Wednesday's FOMC for top billing'.",
-"source_url": "https://www.spreadex.com/financials/news-analysis/spreadex-market-update/26-10-2026"
+"headline": "National activity back above trend",
+"fact": "Chicago Fed National Activity Index +0.07 in September vs -0.10 expected; August revised to -0.08 from -0.04; three-month average +0.03.",
+"implication": "Growth near trend through the quarter supports the 3.5% GDPNow nowcast ahead of Thursday's advance third-quarter GDP and removes any growth argument for the Fed to soften its tone.",
+"source_url": "https://www.investing.com/economic-calendar/chicago-fed-national-activity-523"
 },
 {
-"headline": "Treasuries rallied for a second week, 10-year back under 5%",
-"fact": "10-year yield 4.967%, near a one-month low, versus a 24-year high of 5.364% on October 7; dollar index 101.7, spot gold $4,011 near its lowest since mid-July.",
-"implication": "The bond market is trading the growth-scare side of the AI selloff more than the hike side, which is why October hike odds collapsed to about 9% while December stays near 80%.",
-"source_url": "https://fxstreet.com/news/us-dollar-index-falls-to-near-10150-amid-fed-rate-pause-odds-easing-safe-haven-demand-202610260532"
+"headline": "UK retail gauge jumps",
+"fact": "CBI retail sales balance -10 in October vs -47 consensus and -55 in September, the slowest decline in 18 months.",
+"implication": "A rare consumer upside in the UK two days before the Budget, though the CBI still calls spending cautious under higher fuel costs.",
+"source_url": "https://tradingeconomics.com/united-kingdom/cbi-distributive-trades"
 },
 {
-"headline": "Germany's ifo beat for a second month",
-"fact": "Business climate 90.2 in October versus 90.0 consensus and 89.9 in September; expectations improved, the current-situation assessment slipped.",
-"implication": "Supports a steady ECB on Thursday (hold at 2.50% deposit rate expected) and gives European cyclicals a modest tailwind into the US open.",
-"source_url": "https://www.ifo.de/en/survey/ifo-business-climate-index"
+"headline": "Stocks up, oil down into Fed week",
+"fact": "S&P 500 up about 0.8% near 7,689 by mid-morning, Nasdaq up about 1.1%, 10-year yield 4.97%, December WTI down about 2.6% near $100.60, Brent below $110.",
+"implication": "Friday's oil-driven selloff is being unwound as Middle East supply fears ease; the Fed decision Wednesday and Alphabet and Microsoft results the same day are the week's real tests.",
+"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
 },
 {
-"headline": "China's Fifth Plenum opens in Beijing, runs through Thursday",
-"fact": "Fifth plenary session of the 20th Central Committee, October 26 to 29; markets want language on consumption, fiscal support and local-government debt.",
-"implication": "Expect direction not detail; a communique with stronger consumption language would help commodities and the yuan late in the week, a quiet one changes nothing.",
-"source_url": "https://investinglive.com/news/china-s-fifth-plenum-set-for-october-26-29-as-markets-watch-for-economic-signals/"
+"headline": "December hike stays the base case",
+"fact": "CME FedWatch prices about a 79% chance of a December hike (84% per Investing.com's week-ahead), with roughly a 9% to 10% chance of a hike this Wednesday.",
+"implication": "The meeting itself is a hold; the press conference language on December and Thursday's PCE (core nowcast 3.1% y/y) decide whether the front end reprices.",
+"source_url": "https://www.fxstreet.com/news/united-states-dollar-index-nears-10200-as-traders-brace-for-central-bank-decisions-202610261342"
 }
 ],
 "look_at": [
-"Brent against the $116.72 Friday settle and WTI against $100: the no-strike relief is the only overnight catalyst, and a reversal would put the inflation trade straight back on before Thursday's PCE.",
-"The Dallas Fed survey at 9:30 CT, specifically prices paid, wages and the six-month outlook, as the lone US read on how $100 oil is feeding into costs.",
-"The 12:00 CT 2-year auction (prior high yield 4.787%): a tail two days before the Fed says the market wants more compensation for December hike risk.",
-"The 10-year around 4.97%: holding under 5% keeps the rotation out of AI names orderly, a push back above it hits long-duration tech first.",
-"Nucor, Cadence Design and Welltower report after the close; the week's real tests are Alphabet and Microsoft on Wednesday and Amazon on Thursday, so today is positioning, not resolution."
+"The 2-year note auction at 12:00 CT: compare the high yield to the when-issued level and the 2.63 bid-to-cover from September; a tail says the market wants more premium for a December hike.",
+"Oil through the afternoon: Brent holding below $110 is what let stocks bounce, so a turn back up on Middle East headlines would undo the morning gain and push the 10-year back toward 5%.",
+"Front-end pricing into Wednesday: December hike odds near 79% to 84% leave room to move on Warsh's press conference and on Thursday's PCE, where the core nowcast is 3.1% year over year.",
+"Tuesday's $70 billion 5-year auction and the Richmond Fed survey, which will test whether the Dallas Fed's rising prices-paid line is a Texas oil story or a national one.",
+"The ten largest S&P 500 stocks are lagging the index today ahead of Alphabet and Microsoft on Wednesday; breadth, not the headline index, is the tell for the tech earnings tape."
 ],
 "fed": {
 "next_meeting": "2026-10-28",
-"market_pricing": "CME FedWatch: 90.6% probability the Fed holds at 3.75% to 4.00% on October 28 (after the 25 bp hike on September 16); 79.7% chance of a hike at the December 8 to 9 meeting (Spreadex quotes 77%). No projections at this meeting; Chair Warsh's press conference is 13:30 CT Wednesday.",
+"market_pricing": "Hold at 3.75% to 4.00% on Oct 28 priced at roughly 90% (about 9% to 10% chance of a hike); December hike priced at 79% (CME FedWatch via FXStreet) to 84% (Investing.com week-ahead); Reuters poll: 94 of 100 economists expect a hold this week and all 100 expect a December hike.",
 "speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7676.0,
+"value": 7716.25,
 "change_pct": null
 },
 {
 "label": "Nasdaq futures",
-"value": 29158.0,
+"value": 29393.0,
 "change_pct": null
 },
 {
 "label": "Russell 2000 futures",
-"value": 2790.9,
+"value": 2806.3,
 "change_pct": null
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7623.68,
-"change_pct": -0.52
+"value": 7690.69,
+"change_pct": 0.88
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25955.34,
-"change_pct": -0.21
+"value": 26250.38,
+"change_pct": 1.14
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": 0.71
+"change_pct": -0.48
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 0.53
+"change_pct": -0.58
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.84,
+"value": 102.0,
 "change_pct": null
 },
 {
 "label": "WTI crude $",
-"value": 101.26,
+"value": 100.6,
 "change_pct": null
 },
 {
 "label": "Brent crude $",
-"value": 110.14,
+"value": 109.62,
 "change_pct": null
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.01,
+"value": 3.0,
 "change_pct": null
 },
 {
 "label": "Gold $",
-"value": 4029.9,
+"value": 4031.5,
 "change_pct": null
 },
 {
 "label": "Bitcoin $",
-"value": 80294.19,
-"change_pct": 0.34
+"value": 80145.07,
+"change_pct": 0.15
 },
 {
 "label": "Nikkei 225",
@@ -11180,18 +11215,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6095.16,
-"change_pct": 0.44
+"value": 6120.45,
+"change_pct": 0.86
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 149.54,
-"change_pct": -1.38
+"value": 150.04,
+"change_pct": 0.33
 },
 {
 "label": "VIX",
-"value": 19.48,
-"change_pct": 0.15
+"value": 18.33,
+"change_pct": -5.76
 }
 ],
 "runs": [
@@ -11199,13 +11234,17 @@
 "slot": "morning",
 "at": "2026-10-26T05:35:43-05:00",
 "rows": 6
+},
+{
+"slot": "midday",
+"at": "2026-10-26T09:50:10-05:00",
+"rows": 6
 }
 ],
 "themes": [
-"The October hike that was 70% priced in late September is now a 9% tail and the question has moved to December at about 80%, so Wednesday is about the statement's bias, not the decision.",
-"Oil at $100 WTI is now a bigger inflation input than wages: Brent gained 6% last week to a six-month high and is the swing for Thursday's PCE read (Cleveland Fed nowcast core 3.1% y/y vs 3.0% prior).",
-"The AI capex payback debate has become a market-wide driver: the S&P and Nasdaq fell for a second week and strategists put Wednesday's mega-cap capex guidance on par with the FOMC."
+"The growth-versus-prices split inside the December hike debate sharpened today: Dallas Fed production fell to 15.8 from 29.5 while prices paid rose to 55.3, so the case for a hike is now resting on input costs, not on overheating demand.",
+"Activity is not slowing enough to stop the Fed: the Chicago Fed index at +0.07 and GDPNow at 3.5% for the third quarter leave the hold-then-hike path intact two days before the meeting."
 ],
-"snapshot_at": "2026-10-26T05:35:45-05:00"
+"snapshot_at": "2026-10-26T09:50:13-05:00"
 }
 }
