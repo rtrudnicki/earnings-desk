@@ -51,10 +51,12 @@ function safeNext(v) {
   return s.startsWith("/") && !s.startsWith("//") ? s : "/";
 }
 
-function cookie(req, name) {
-  const all = req.headers.get("cookie") || "";
-  const m = all.match(new RegExp("(?:^|;\s*)" + name + "=([^;]+)"));
-  return m ? m[1] : "";
+function cookie(req, name) {                                                  // split, never a regex: escapes get lost between Python and JS
+  for (const part of (req.headers.get("cookie") || "").split(";")) {
+    const i = part.indexOf("=");
+    if (i > 0 && part.slice(0, i).trim() === name) return part.slice(i + 1).trim();
+  }
+  return "";
 }
 
 async function token(user, pass, at) {
