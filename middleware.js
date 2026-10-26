@@ -18,9 +18,10 @@ export default async function middleware(req) {
   if (path === "/login" && req.method === "POST") {
     let form;
     try { form = await req.formData(); } catch (e) { return redirect("/login.html?err=1"); }
-    const u = String(form.get("user") || ""), p = String(form.get("pass") || "");
+    const u = String(form.get("user") || "").trim().toLowerCase(), p = String(form.get("pass") || "");
     const next = safeNext(form.get("next"));
-    if (u.length === user.length && p.length === pass.length && safeEqual(u, user) && safeEqual(p, pass)) {
+    const want = user.trim().toLowerCase();                                      // the team name is not a secret: phones capitalise it
+    if (u.length === want.length && p.length === pass.length && safeEqual(u, want) && safeEqual(p, pass)) {
       const at = String(Math.floor(Date.now() / 1000));
       return redirect(next, `${COOKIE}=${at}.${await token(user, pass, at)}; Path=/; Max-Age=${MAX_AGE}; HttpOnly; Secure; SameSite=Lax`);
     }
