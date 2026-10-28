@@ -14405,35 +14405,35 @@
 "event": "MBA Weekly Mortgage Applications Survey (market composite index, w/w)",
 "period": "week ending October 23",
 "consensus": null,
-"actual": null,
+"actual": "+3.4% w/w",
 "prior": "-5.3% w/w",
 "unit": "w/w %",
 "surprise": null,
-"read": "No consensus found; with the 30-year contract rate at 7.41% last week, another drop in purchase applications would confirm housing is absorbing the Fed's September hike.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"read": "No consensus found; applications rebounded as the 30-year contract rate slipped to 7.37% from 7.41%, purchases up 4% on the week but still 18% below a year ago, so housing is stabilizing at a low level rather than rolling over further.",
+"source_url": "https://www.housingwire.com/articles/mba-applications-rebound-3-4/"
 },
 {
 "time_ct": "07:30",
 "event": "Advance International Trade in Goods (Census, Advance Economic Indicators Report)",
 "period": "September",
-"consensus": "-$130.4B",
-"actual": null,
-"prior": "-$132.6B (August advance; calendars show -$132.1B after the full report)",
+"consensus": "-$130.2B (Reuters poll; some calendars -$130.4B)",
+"actual": "-$134.9B",
+"prior": "-$132.1B (August, revised from -$132.6B advance)",
 "unit": "$B",
-"surprise": null,
-"read": "A deficit near $130B keeps net exports a drag in tomorrow's Q3 GDP advance; a narrower gap than consensus would nudge GDPNow (3.4%) up.",
+"surprise": "-$4.7B",
+"read": "The deficit widened to the largest since March 2025 instead of narrowing, with imports up $8.1B on a record 7.5% jump in capital goods tied to AI equipment, so net exports drag harder on tomorrow's Q3 GDP advance and the GDPNow update should tick down from 3.4%.",
 "source_url": "https://www.census.gov/econ/indicators/advance_report.pdf"
 },
 {
 "time_ct": "07:30",
 "event": "Advance Wholesale Inventories (m/m)",
 "period": "September",
-"consensus": "+0.5% m/m (Investing.com; TradingEconomics shows +0.3%)",
-"actual": null,
-"prior": "+0.5% m/m (August, revised October 26; the advance read was +0.7%)",
+"consensus": "+0.5% m/m (Investing.com; TradingEconomics showed +0.3%)",
+"actual": "+0.6% m/m",
+"prior": "+0.5% m/m (August, unrevised)",
 "unit": "m/m %",
-"surprise": null,
-"read": "Inventories have been building for three months; another +0.5% supports Q3 GDP arithmetic but means less restocking to lean on in Q4.",
+"surprise": "+0.1 pp",
+"read": "A fourth straight monthly build to $1,011.5B (up 7.4% y/y) partly offsets the wider trade gap in the Q3 GDP arithmetic, but inventories this high leave less restocking to lean on in Q4.",
 "source_url": "https://www.census.gov/econ/indicators/advance_report.pdf"
 },
 {
@@ -14441,35 +14441,35 @@
 "event": "Advance Retail Inventories (m/m)",
 "period": "September",
 "consensus": null,
-"actual": null,
-"prior": "+0.3% m/m (August; ex-autos 0.0%)",
+"actual": "+0.3% m/m",
+"prior": "+0.3% m/m (August, revised up from +0.2%)",
 "unit": "m/m %",
 "surprise": null,
-"read": "No consensus found for the headline; TradingEconomics shows -0.1% for ex-autos. A second input to tomorrow's GDP advance, not a market mover on its own.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "No consensus found; a steady +0.3% to $885.3B with August revised up is a small positive input to tomorrow's GDP advance, not a market mover.",
+"source_url": "https://www.census.gov/econ/indicators/advance_report.pdf"
 },
 {
 "time_ct": "07:30",
 "event": "UK Autumn Budget (Chancellor John Healey, first budget)",
 "period": "fiscal year 2026-27",
-"consensus": null,
-"actual": null,
-"prior": null,
+"consensus": "about \u00a315B fiscal headroom (Reuters economist poll)",
+"actual": "\u00a315B headroom (from \u00a323.6B in March); no broad tax rises; 2027 growth cut to 1.0% from 1.6%; 10-year gilt 5.34%, down 1.4 bp on the day",
+"prior": "\u00a323.6B headroom (March OBR forecast)",
 "unit": "event",
 "surprise": null,
-"read": "Gilts sold at the highest yield since 2008 on the eve of it (10-year near 5.36%); the market wants roughly \u00a315B of rebuilt headroom and small targeted tax rises, and a miss would push long-end yields up globally into the Fed.",
-"source_url": "https://www.fxstreet.com/analysis/investors-brace-for-smooth-sailing-fiscal-event-but-any-relief-in-sterling-and-gilts-to-be-short-lived-202610280659"
+"read": "Headroom landed on the \u00a315B the market asked for and gilts took it calmly (10-year 5.34%, sterling flat near 1.328), so the UK is not the source of a global long-end selloff into the Fed today; the cost was \u00a314B of extra debt interest this year and a 1.0% 2027 growth forecast.",
+"source_url": "https://investinglive.com/news/uk-budget-growth-forecasts-cut-as-healey-unveils-15-billion-fiscal-buffer/"
 },
 {
 "time_ct": "08:45",
 "event": "Bank of Canada interest rate decision and Monetary Policy Report",
 "period": "October meeting",
 "consensus": "2.50% (25 bp hike)",
-"actual": null,
+"actual": "2.50% (25 bp hike)",
 "prior": "2.25%",
 "unit": "%",
-"surprise": null,
-"read": "Markets price about an 81% chance of the first hike in a year and 19 of 34 economists expect it; a hike sets the tone for a G7 central bank tightening into $115 oil hours before the Fed.",
+"surprise": "0 bp",
+"read": "First hike since July 2023, as expected, with Macklem saying there could be a need to raise further but the bank will proceed carefully; the MPR has inflation near 3% through much of 2027 on oil, so a G7 central bank is now tightening into $111 Brent hours before the Fed.",
 "source_url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
 },
 {
@@ -14477,15 +14477,15 @@
 "event": "EIA Weekly Petroleum Status Report, commercial crude inventories change",
 "period": "week ending October 23",
 "consensus": "+0.1M bbl",
-"actual": null,
+"actual": "-1.89M bbl",
 "prior": "-3.06M bbl",
 "unit": "M bbl",
-"surprise": null,
-"read": "API showed a 2.03M bbl draw overnight; with Brent above $115 another draw feeds the inflation worry the Fed is meeting about.",
-"source_url": "https://www.eia.gov/petroleum/supply/weekly/"
+"surprise": "-2.0M bbl",
+"read": "A second weekly draw against a flat consensus, close to the API's 2.03M bbl draw, keeps crude stocks below the five-year average with Brent near $111 and feeds the inflation worry the Fed is meeting about.",
+"source_url": "https://www.investing.com/economic-calendar/eia-crude-oil-inventories-75"
 },
 {
-"time_ct": "09:30",
+"time_ct": "10:30",
 "event": "Atlanta Fed GDPNow, Q3 2026 nowcast update (after the trade and inventory data; timing approximate)",
 "period": "Q3 2026",
 "consensus": null,
@@ -14493,8 +14493,8 @@
 "prior": "3.4% (October 27 update, from 3.5%)",
 "unit": "% q/q SAAR",
 "surprise": null,
-"read": "Last pre-release nowcast before tomorrow's GDP advance, where the calendar consensus is 3.1%; the Atlanta Fed page itself would not render, prior taken from TradingEconomics.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "Not yet posted as of 09:50 CT; the wider $134.9B goods deficit argues for a cut to the net-exports contribution (already -2.7 pp) that the +0.6% wholesale and +0.3% retail inventory builds only partly offset, ahead of tomorrow's GDP advance where consensus is 3.1-3.2%.",
+"source_url": "https://www.atlantafed.org/research-and-data/data/gdpnow/current-and-past-gdpnow-commentaries"
 },
 {
 "time_ct": "10:30",
@@ -14517,8 +14517,8 @@
 "prior": "3.75%-4.00% (raised 25 bp on September 16, vote 12-0)",
 "unit": "% range",
 "surprise": null,
-"read": "CME FedWatch prices about 90% hold and 7-10% hike; the statement's inflation language and any dissent for a hike are what move the December pricing (75-84% hike).",
-"source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+"read": "CME FedWatch prices a 90.6% hold and a 76.5% December hike; the statement's inflation language and any dissent for a hike are what move December pricing, with the 2-year at 4.75% and the 10-year at 5.01% going in.",
+"source_url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
 },
 {
 "time_ct": "13:30",
@@ -14529,134 +14529,129 @@
 "prior": null,
 "unit": "event",
 "surprise": null,
-"read": "Warsh has avoided forward signals; with September CPI at 3.7% y/y and 0.6% m/m, the question is whether he pre-commits to December or keeps it data dependent six days before the midterms.",
+"read": "Warsh has avoided forward signals; with September CPI at 3.7% y/y and 0.6% m/m, the Bank of Canada having just hiked on oil, and the midterms six days out, the question is whether he pre-commits to December or keeps it data dependent.",
 "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
 }
 ],
 "read": {
 "bias": "chop",
 "confidence": "medium",
-"call": "Futures sit near flat into a Fed hold that everyone expects, so the day trades on Warsh's December tone at 13:30 CT and on Alphabet and Microsoft after the close, with $115 Brent and a 5% 10-year capping any rally.",
-"swing": "Warsh's press conference: a pre-commitment to a December hike or a hawkish dissent in the statement takes stocks lower; a data-dependent hold with no new guidance lets tech lead higher into the prints.",
+"call": "Markets hold near flat and yields drift higher into a 13:00 CT hold, with the morning data (wider trade gap, oil draw, Bank of Canada hike) leaning hawkish at the margin but nothing that decides the day before Warsh speaks.",
+"swing": "Warsh's press conference at 13:30 CT: an explicit nod to December (priced 76.5%) sends the 2-year through 4.75% and stocks lower; a data-dependent dodge gives the relief bid.",
 "drivers": [
-"The Fed holds at 3.75%-4.00% after the September hike; the debate is December, priced 75-84% for a hike.",
-"Brent above $115 (four-year highs, up 19% in a month) on Houthi strikes on Saudi energy sites, Hormuz tanker attacks and reports the US is preparing Gulf states for a new campaign against Iran after the midterms.",
-"10-year Treasury near 5.01% and 2-year near 4.75%; the dollar index above 102 and gold near $4,060.",
-"Bank of Canada expected to hike to 2.50% at 08:45 CT, and Australia's hot Q3 CPI overnight firmed an RBA hike next week: a global re-tightening tape.",
-"Alphabet and Microsoft report after the close; Tuesday's tech rally (Nasdaq +1.18%, semis +3.6%) rode SK Hynix, Broadcom's $63B Anthropic-linked financing and Meta's $25B share offering."
+"Goods deficit widened to $134.9B (largest since March 2025) on a record 7.5% jump in capital goods imports, a drag on tomorrow's Q3 GDP advance but a sign AI capex is still running hot.",
+"Inventories built again (wholesale +0.6%, retail +0.3%), cushioning the GDP math and keeping the GDPNow update near the mid-3s.",
+"Bank of Canada hiked 25 bp to 2.50%, the first in three years, citing oil and inflation near 3% through 2027: a G7 peer tightening on the same shock the Fed faces.",
+"UK budget passed quietly (\u00a315B headroom, 10-year gilt 5.34%, down 1.4 bp), removing a feared global long-end shock for today.",
+"EIA crude drew 1.89M bbl against a flat consensus with Brent near $111; the oil-driven inflation story is not fading into the Fed.",
+"CME FedWatch: 90.6% hold today, 76.5% hike on December 9; 10-year 5.01%, 2-year 4.75% pre-decision."
 ]
 },
 "what_mattered": [
 {
-"headline": "Oil back above $115 on Saudi refinery attack and Iran campaign reports",
-"fact": "Brent $114.72-$115.59, up about 0.7% on the day, +19.3% over one month and +78% over one year; WTI about $101.",
-"implication": "Energy was 20.4% y/y in the September CPI already; a further leg keeps headline inflation near 4% and makes a December Fed hike the base case rather than the risk case.",
-"source_url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+"headline": "Goods trade deficit widened instead of narrowing",
+"fact": "-$134.9B in September vs -$130.2B expected and -$132.1B in August; imports $344.1B (+$8.1B), capital goods imports up 7.5% to a record",
+"implication": "Net exports drag harder on tomorrow's Q3 GDP advance; the import surge is AI equipment, so the deficit is a capex signal, not a demand-weakness signal.",
+"source_url": "https://www.census.gov/econ/indicators/advance_report.pdf"
 },
 {
-"headline": "Australia Q3 CPI ran hot, RBA hike next week firms",
-"fact": "Headline CPI +1.3% q/q vs 1.2% expected; trimmed mean 3.7% y/y vs 3.6% expected; September monthly CPI 4.3% y/y.",
-"implication": "Another developed-market central bank hiking into an energy shock; it adds to the global long-end selloff that has the US 10-year at 5%.",
-"source_url": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/"
+"headline": "Bank of Canada hikes for the first time since July 2023",
+"fact": "Policy rate 2.25% to 2.50%, as 81% of the market expected; inflation 3.1% now, projected near 3% through much of 2027; Brent averaging about $125 in October per the bank",
+"implication": "A G7 central bank judged the oil shock worth tightening into, hours before the Fed; Macklem left the door open to more while promising to proceed carefully.",
+"source_url": "https://www.bnnbloomberg.ca/business/economics/2026/10/28/bank-of-canada-raises-key-interest-rate-says-another-hike-possible/"
 },
 {
-"headline": "Tuesday's data came in strong ahead of the Fed",
-"fact": "September durable goods orders +1.8% vs +1.5% consensus; Conference Board consumer confidence 91.7 vs 81 consensus and 84.2 prior; new home sales 676k vs 650k consensus; GDPNow 3.4% for Q3.",
-"implication": "The growth side gives the Fed no reason to soften; the hawkish-hold case for today is built on demand that is not slowing.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"headline": "UK budget lands on the number gilts wanted",
+"fact": "\u00a315B headroom (vs \u00a323.6B in March), 2027 growth cut to 1.0% from 1.6%, \u00a314B extra debt interest this year; 10-year gilt 5.34%, down 1.4 bp, sterling 1.3284",
+"implication": "The feared long-end selloff out of London did not happen, so the Fed decision carries the global rates tape alone today.",
+"source_url": "https://investinglive.com/news/uk-budget-growth-forecasts-cut-as-healey-unveils-15-billion-fiscal-buffer/"
 },
 {
-"headline": "Tech led Tuesday's close on AI financing news",
-"fact": "Nasdaq +1.18%, S&P 500 +0.6%, Dow +0.03%, Philadelphia semiconductor index +3.6%; Broadcom +4% on a $63B bank financing tied to Anthropic, CoreWeave +7.9%, Meta's $25B share sale five times oversubscribed.",
-"implication": "The AI capex trade is absorbing equity and debt supply without strain, which is why Nasdaq futures hold green into a hawkish Fed day.",
-"source_url": "https://www.fxstreet.com/news/dow-jones-futures-decline-ahead-of-fed-decision-big-tech-earnings-202610280856"
-},
-{
-"headline": "Gilts priced the UK budget at a 2008-era cost of funds",
-"fact": "The five-year gilt auction on budget eve cleared at the highest yield since 2008; the 10-year gilt is near 5.36%.",
-"implication": "Healey's first budget this afternoon is a global long-end event; thin headroom or soft tax measures would push yields up across markets before the Fed statement.",
-"source_url": "https://www.cityam.com/government-issues-debt-at-highest-interest-rate-since-financial-crisis-on-eve-of-budget/"
+"headline": "Crude draws again, mortgage applications bounce",
+"fact": "EIA crude -1.89M bbl vs +0.1M consensus (second weekly draw); MBA applications +3.4% w/w with the 30-year rate at 7.37%",
+"implication": "Oil stocks keep tightening with Brent near $111, while housing finds a floor at a depressed level rather than cracking further after the September hike.",
+"source_url": "https://www.investing.com/economic-calendar/eia-crude-oil-inventories-75"
 }
 ],
 "look_at": [
-"Fed statement at 13:00 CT: look for the word 'elevated' on inflation again, any vote for a hike, and whether the easing-bias sentence is gone; those three lines set the December pricing.",
-"Warsh at 13:30 CT: whether he names oil as the reason to stay data dependent or treats the 0.6% m/m September CPI as broad; the 2-year at 4.75% moves on that distinction.",
-"Bank of Canada at 08:45 CT: a hike to 2.50% plus a raised inflation forecast in the MPR is the global template for what the Fed does in December.",
-"Goods trade and inventories at 07:30 CT: they decide whether GDPNow holds 3.4% into tomorrow's Q3 advance where the calendar consensus is 3.1% with Q3 core PCE at 2.3%.",
-"Alphabet and Microsoft after the close: cloud growth and capex guidance decide whether Tuesday's AI-financing rally has a second day regardless of the Fed."
+"The GDPNow update (due after the morning data, not posted at 09:50 CT): how much the $134.9B deficit cuts from 3.4% sets the bar for tomorrow's GDP advance at 3.1-3.2% consensus.",
+"The FOMC statement at 13:00 CT for the inflation sentence and the vote count; any dissent in favour of a hike is the hawkish tell on December.",
+"Warsh at 13:30 CT on whether December is pre-committed or data dependent; the 2-year at 4.75% is the gauge, a move above it means the market took it as a signal.",
+"Brent near $111 and WTI after the draw; a push higher through the presser makes any 'transitory oil' language from Warsh harder to hold.",
+"Microsoft and Alphabet report after the close: the capital goods import record says AI capex is still accelerating, and their capex guides either confirm it or mark the top."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "About 90% hold today (7-10% hike), 0% cut; December 25 bp hike priced 75-84% per CME FedWatch as reported by FXStreet, Yahoo Finance and Forbes; the CME page itself timed out.",
+"market_pricing": "CME FedWatch 90.6% hold today (3.75%-4.00%), about 9% chance of a 25 bp hike; 76.5% probability of a 25 bp hike on December 9; roughly three hikes priced over the next 12 months",
 "speakers_today": [
-"Chair Kevin Warsh, post-meeting press conference 13:30 CT (blackout period; no other Fed speakers)"
+"Chair Kevin Warsh, post-meeting press conference, 13:30 CT"
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7767.75,
-"change_pct": 0.12
+"value": 7763.25,
+"change_pct": 0.06
 },
 {
 "label": "Nasdaq futures",
-"value": 29929.75,
-"change_pct": 0.39
+"value": 29813.25,
+"change_pct": 0.0
 },
 {
 "label": "Russell 2000 futures",
-"value": 2822.6,
-"change_pct": -0.21
+"value": 2826.7,
+"change_pct": -0.06
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7722.6,
-"change_pct": 0.6
+"value": 7727.85,
+"change_pct": 0.07
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 26477.81,
-"change_pct": 1.18
+"value": 26448.63,
+"change_pct": -0.11
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": 0.14
+"change_pct": 0.54
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 0.08
+"change_pct": 0.23
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.4,
-"change_pct": 0.08
+"value": 102.38,
+"change_pct": 0.06
 },
 {
 "label": "WTI crude $",
-"value": 101.57,
-"change_pct": 1.67
+"value": 102.43,
+"change_pct": 2.53
 },
 {
 "label": "Brent crude $",
-"value": 111.14,
-"change_pct": -2.41
+"value": 111.75,
+"change_pct": -1.87
 },
 {
 "label": "Nat gas (Henry Hub) $",
 "value": 3.06,
-"change_pct": 13.42
+"change_pct": 13.61
 },
 {
 "label": "Gold $",
-"value": 4059.8,
-"change_pct": -0.36
+"value": 4050.5,
+"change_pct": -0.59
 },
 {
 "label": "Bitcoin $",
-"value": 81464.72,
-"change_pct": 0.82
+"value": 80482.21,
+"change_pct": -0.4
 },
 {
 "label": "Nikkei 225",
@@ -14670,18 +14665,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6146.54,
-"change_pct": -0.29
+"value": 6168.34,
+"change_pct": 0.06
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 154.84,
-"change_pct": 2.9
+"value": 156.57,
+"change_pct": 1.12
 },
 {
 "label": "VIX",
-"value": 17.54,
-"change_pct": 0.11
+"value": 17.32,
+"change_pct": -1.14
 },
 {
 "label": "2Y Treasury yield %",
@@ -14694,13 +14689,18 @@
 "slot": "morning",
 "at": "2026-10-28T05:35:56-05:00",
 "rows": 11
+},
+{
+"slot": "midday",
+"at": "2026-10-28T09:49:45-05:00",
+"rows": 11
 }
 ],
 "themes": [
-"The Fed debate moved from 'hold or hike' to 'how hard does Warsh pre-commit to December' after the 0.6% m/m September CPI and Brent's push back above $115.",
-"Global tightening is synchronising: Australia's 3.7% trimmed mean overnight, a Bank of Canada hike priced 81% this morning, and US 10-year at 5.01% on the eve of the decision.",
-"Growth is not the problem: durable goods +1.8%, consumer confidence 91.7 vs 81 expected and GDPNow 3.4% mean the hawkish case rests on demand, not just energy."
+"Oil-shock tightening went from debate to action: the Bank of Canada hiked to 2.50% with Brent averaging about $125 in October, the first G7 move on this shock, and the Fed meets with December priced at 76.5%.",
+"The AI capex boom shows up in the trade data: capital goods imports jumped a record 7.5% and pushed the goods deficit to $134.9B, the widest since March 2025, which subtracts from GDP while flagging demand that is anything but weak.",
+"UK fiscal risk stepped back: \u00a315B of headroom was enough for gilts (10-year 5.34%, down 1.4 bp), so the global long end is taking its cue from Washington today, not London."
 ],
-"snapshot_at": "2026-10-28T05:35:58-05:00"
+"snapshot_at": "2026-10-28T09:49:48-05:00"
 }
 }
