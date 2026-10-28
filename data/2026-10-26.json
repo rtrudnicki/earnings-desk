@@ -14354,343 +14354,225 @@
 }
 ],
 "macro": {
-"date": "2026-10-27",
+"date": "2026-10-28",
 "prints": [
 {
-"time_ct": "01:45",
-"event": "France INSEE consumer confidence",
-"period": "October",
-"consensus": "85",
-"actual": "80",
-"prior": "85",
-"unit": "index",
-"surprise": "-5",
-"read": "Lowest since 2013 on fiscal worries; feeds the French-debt discount that has been pushing money into Treasuries.",
+"time_ct": "06:00",
+"event": "MBA Weekly Mortgage Applications Survey (market composite index, w/w)",
+"period": "week ending October 23",
+"consensus": null,
+"actual": null,
+"prior": "-5.3% w/w",
+"unit": "w/w %",
+"surprise": null,
+"read": "No consensus found; with the 30-year contract rate at 7.41% last week, another drop in purchase applications would confirm housing is absorbing the Fed's September hike.",
 "source_url": "https://www.investing.com/economic-calendar/"
 },
 {
-"time_ct": "04:00",
-"event": "Euro area M3 money supply",
+"time_ct": "07:30",
+"event": "Advance International Trade in Goods (Census, Advance Economic Indicators Report)",
 "period": "September",
-"consensus": "3.5% y/y",
-"actual": "3.5% y/y",
-"prior": "3.5% y/y",
-"unit": "% y/y",
-"surprise": "0.0 pp",
-"read": "In line; private-sector loan growth held at 3.1%, but tighter lending conditions are muddying the ECB December-hike debate.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "07:00",
-"event": "Building Permits (final)",
-"period": "September",
-"consensus": "1.400M (-0.2% m/m)",
-"actual": "1.398M (-0.4% m/m)",
-"prior": "1.403M (-2.1% m/m)",
-"unit": "M units, SAAR",
-"surprise": "-0.002M (-0.2 pp)",
-"read": "A small downward revision to the advance September figure; permits are drifting lower with mortgage rates tied to a near-5% ten-year.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "07:15",
-"event": "ADP Employment Change, weekly",
-"period": "week ending Oct 10 (4-week average)",
-"consensus": null,
+"consensus": "-$130.4B",
 "actual": null,
-"prior": "18.5k",
-"unit": "k",
+"prior": "-$132.6B (August advance; calendars show -$132.1B after the full report)",
+"unit": "$B",
 "surprise": null,
-"read": "No consensus found; the weekly pulse has been running near 20k a week, a soft hiring pace the Fed is hiking into.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "07:15",
-"event": "ADP National Employment Report Preliminary Estimate (NER Pulse)",
-"period": "four weeks ending Oct 10",
-"consensus": null,
-"actual": "16.75k per week",
-"prior": "17.5k per week (revised from 18.5k)",
-"unit": "k jobs per week, 4-week average",
-"surprise": null,
-"read": "No consensus found; the weekly pace slowed a second straight week and the prior week was revised down, so private hiring is running near 17k a week while the Fed debates another hike.",
-"source_url": "https://mediacenter.adp.com/2026-10-27-ADP-National-Employment-Report-Preliminary-Estimate-for-October-10,-2026"
+"read": "A deficit near $130B keeps net exports a drag in tomorrow's Q3 GDP advance; a narrower gap than consensus would nudge GDPNow (3.4%) up.",
+"source_url": "https://www.census.gov/econ/indicators/advance_report.pdf"
 },
 {
 "time_ct": "07:30",
-"event": "Advance Report on Durable Goods, new orders",
+"event": "Advance Wholesale Inventories (m/m)",
 "period": "September",
-"consensus": "+1.5% m/m",
-"actual": "+1.8% m/m ($345.4B)",
-"prior": "+0.1% m/m",
+"consensus": "+0.5% m/m (Investing.com; TradingEconomics shows +0.3%)",
+"actual": null,
+"prior": "+0.5% m/m (August, revised October 26; the advance read was +0.7%)",
 "unit": "m/m %",
-"surprise": "+0.3 pp",
-"read": "Headline beat on a 28% jump in nondefense aircraft orders; ex-defense orders rose 2.2% and shipments 0.9%, but the strength is concentrated in one volatile line.",
-"source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html"
+"surprise": null,
+"read": "Inventories have been building for three months; another +0.5% supports Q3 GDP arithmetic but means less restocking to lean on in Q4.",
+"source_url": "https://www.census.gov/econ/indicators/advance_report.pdf"
 },
 {
 "time_ct": "07:30",
-"event": "Durable Goods Orders ex-transportation",
+"event": "Advance Retail Inventories (m/m)",
 "period": "September",
-"consensus": "+0.6% m/m",
-"actual": "+0.5% m/m",
-"prior": "+0.3% m/m",
+"consensus": null,
+"actual": null,
+"prior": "+0.3% m/m (August; ex-autos 0.0%)",
 "unit": "m/m %",
-"surprise": "-0.1 pp",
-"read": "A hair light but still firmer than August; underlying orders have been chopping sideways for a year and this does not change that picture.",
-"source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html"
+"surprise": null,
+"read": "No consensus found for the headline; TradingEconomics shows -0.1% for ex-autos. A second input to tomorrow's GDP advance, not a market mover on its own.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
 "time_ct": "07:30",
-"event": "Nondefense capital goods orders ex-aircraft (core capex)",
-"period": "September",
-"consensus": "+0.7% m/m",
-"actual": "+0.5% m/m",
-"prior": "+1.6% m/m",
-"unit": "m/m %",
-"surprise": "-0.2 pp",
-"read": "Payback from a hot August as expected, still positive, so business investment stays a plus for Thursday's Q3 GDP print rather than a drag.",
-"source_url": "https://investinglive.com/news/us-september-durable-goods-orders-1-8-vs-1-7-expected/"
-},
-{
-"time_ct": "07:55",
-"event": "Redbook retail sales",
-"period": "week ending Oct 24",
-"consensus": null,
-"actual": "+9.3% y/y",
-"prior": "+9.0% y/y",
-"unit": "% y/y",
-"surprise": null,
-"read": "No consensus found; nominal same-store sales accelerated slightly, though roughly a third of that growth is 3.4% inflation rather than volume.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "08:00",
-"event": "S&P CoreLogic Case-Shiller 20-City Home Price Index",
-"period": "August",
-"consensus": "+2.5% y/y",
-"actual": null,
-"prior": "+2.5% y/y",
-"unit": "% y/y",
-"surprise": null,
-"read": "Home-price growth has stalled near 2.5% with a flat monthly print expected; shelter disinflation is one of the few things working for the Fed.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "08:00",
-"event": "FHFA House Price Index",
-"period": "August",
-"consensus": "+0.2% m/m",
-"actual": "+0.3% m/m (+2.4% y/y)",
-"prior": "+0.2% m/m (revised from +0.3%)",
-"unit": "m/m %",
-"surprise": "+0.1 pp",
-"read": "In line on the month after July was revised down, with annual growth slipping to 2.4% against a 2.6% expectation; house prices are rising slower than inflation.",
-"source_url": "https://investinglive.com/news/us-fhfa-monthly-home-prices-index-0-3-vs-0-2-estimate/"
-},
-{
-"time_ct": "08:00",
-"event": "S&P Cotality Case-Shiller 20-City Composite Home Price Index",
-"period": "August",
-"consensus": "+2.5% y/y",
-"actual": "+2.7% y/y (+0.3% m/m SA, -0.4% m/m NSA)",
-"prior": "+2.5% y/y",
-"unit": "% y/y",
-"surprise": "+0.2 pp",
-"read": "A touch firmer than expected and the national index rose to 2.1%, but home prices have now fallen in real terms for 15 straight months against 3.4% inflation, so shelter is still a disinflation source.",
-"source_url": "https://calculatedrisk.substack.com/p/case-shiller-national-house-price-539"
-},
-{
-"time_ct": "09:00",
-"event": "Conference Board Consumer Confidence Index",
-"period": "October",
-"consensus": "81.0",
-"actual": "91.7",
-"prior": "84.2 (revised from 81.9)",
-"unit": "index (1985=100)",
-"surprise": "+10.7",
-"read": "The day's big surprise: a 7.5-point jump on easing gasoline prices with Expectations up to 72.6 and jobs-plentiful rising to 26.7%, which removes the consumer-collapse argument against a December hike even though 12-month inflation expectations stay at 5.8%.",
-"source_url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
-},
-{
-"time_ct": "09:00",
-"event": "New Residential Sales",
-"period": "September",
-"consensus": "650k",
-"actual": "676k (-0.6% m/m, -5.3% y/y)",
-"prior": "680k (revised from 684k)",
-"unit": "k units, SAAR",
-"surprise": "+26k",
-"read": "Beat the estimate but August was revised down; 8.4 months of supply and a median price down 3.9% y/y say builders are still discounting to move inventory.",
-"source_url": "https://investinglive.com/news/us-new-home-sales-for-september-0-676m-annualized-vs-0-650m-estimate/"
-},
-{
-"time_ct": "09:00",
-"event": "Richmond Fed Manufacturing Index",
-"period": "October",
-"consensus": "0",
-"actual": "-2",
-"prior": "-2",
-"unit": "index",
-"surprise": "-2",
-"read": "Flat and slightly negative; shipments recovered to 0 from -5 but new orders slipped to -8 and backlogs fell to -21, so fifth-district factories are not confirming the durable goods headline.",
-"source_url": "https://investinglive.com/news/us-october-richmond-fed-2-vs-2-expected/"
-},
-{
-"time_ct": "09:30",
-"event": "Dallas Fed Texas Service Sector Outlook",
-"period": "October",
+"event": "UK Autumn Budget (Chancellor John Healey, first budget)",
+"period": "fiscal year 2026-27",
 "consensus": null,
 "actual": null,
-"prior": "-1.8",
-"unit": "index",
+"prior": null,
+"unit": "event",
 "surprise": null,
-"read": "No consensus found; services activity in Texas has been flat to slightly negative.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "Gilts sold at the highest yield since 2008 on the eve of it (10-year near 5.36%); the market wants roughly \u00a315B of rebuilt headroom and small targeted tax rises, and a miss would push long-end yields up globally into the Fed.",
+"source_url": "https://www.fxstreet.com/analysis/investors-brace-for-smooth-sailing-fiscal-event-but-any-relief-in-sterling-and-gilts-to-be-short-lived-202610280659"
 },
 {
-"time_ct": "09:30",
-"event": "Dallas Fed Texas Service Sector Outlook Survey",
-"period": "October",
-"consensus": null,
-"actual": "4.0 (general business activity); revenue 4.4",
-"prior": "-1.8; revenue -0.9",
-"unit": "index",
-"surprise": null,
-"read": "No consensus found; Texas services swung back to modest growth after September's first-ever negative reading, with employment little changed at 2.8.",
-"source_url": "https://www.dallasfed.org/research/surveys/tssos/2026/2610"
-},
-{
-"time_ct": "12:00",
-"event": "Treasury 5-Year Note Auction",
-"period": "October",
-"consensus": null,
+"time_ct": "08:45",
+"event": "Bank of Canada interest rate decision and Monetary Policy Report",
+"period": "October meeting",
+"consensus": "2.50% (25 bp hike)",
 "actual": null,
-"prior": "5.033% high yield",
+"prior": "2.25%",
 "unit": "%",
 "surprise": null,
-"read": "The tail and indirect takedown matter with the ten-year at 4.97%; weak demand the day before the Fed would undo this morning's small bid for bonds.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "Markets price about an 81% chance of the first hike in a year and 19 of 34 economists expect it; a hike sets the tone for a G7 central bank tightening into $115 oil hours before the Fed.",
+"source_url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
 },
 {
-"time_ct": "12:00",
-"event": "H.6 Money Stock Measures (M2)",
-"period": "September",
-"consensus": null,
+"time_ct": "09:30",
+"event": "EIA Weekly Petroleum Status Report, commercial crude inventories change",
+"period": "week ending October 23",
+"consensus": "+0.1M bbl",
 "actual": null,
-"prior": "$23.34T",
-"unit": "$T",
-"surprise": null,
-"read": "Background data; not a market mover.",
-"source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-},
-{
-"time_ct": "15:30",
-"event": "API weekly crude oil inventories",
-"period": "week ending Oct 23",
-"consensus": null,
-"actual": null,
-"prior": "-4.93M bbl",
+"prior": "-3.06M bbl",
 "unit": "M bbl",
 "surprise": null,
-"read": "No consensus found; with WTI near $101 and Brent near $115 on Gulf supply attacks, another draw would add to the inflation worry the Fed is fighting.",
+"read": "API showed a 2.03M bbl draw overnight; with Brent above $115 another draw feeds the inflation worry the Fed is meeting about.",
+"source_url": "https://www.eia.gov/petroleum/supply/weekly/"
+},
+{
+"time_ct": "09:30",
+"event": "Atlanta Fed GDPNow, Q3 2026 nowcast update (after the trade and inventory data; timing approximate)",
+"period": "Q3 2026",
+"consensus": null,
+"actual": null,
+"prior": "3.4% (October 27 update, from 3.5%)",
+"unit": "% q/q SAAR",
+"surprise": null,
+"read": "Last pre-release nowcast before tomorrow's GDP advance, where the calendar consensus is 3.1%; the Atlanta Fed page itself would not render, prior taken from TradingEconomics.",
 "source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
-"time_ct": "20:30",
-"event": "China industrial profits, year to date (released Monday evening CT)",
-"period": "September",
-"consensus": "15.2% y/y",
-"actual": "15.5% y/y",
-"prior": "15.7% y/y",
-"unit": "% y/y YTD",
-"surprise": "+0.3 pp",
-"read": "A small beat on a decelerating trend, not a mover for US futures this morning; the China story overnight is the tech-stock selloff, not profits.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"time_ct": "10:30",
+"event": "Treasury 2-year floating rate note auction",
+"period": "October reopening",
+"consensus": null,
+"actual": null,
+"prior": "0.040% high discount margin (prior auction, per TradingEconomics)",
+"unit": "% discount margin",
+"surprise": null,
+"read": "Small front-end supply item; TreasuryDirect's upcoming-auctions page did not render, so size is unconfirmed.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "13:00",
+"event": "FOMC statement, federal funds target range",
+"period": "October 27-28 meeting",
+"consensus": "3.75%-4.00% (hold)",
+"actual": null,
+"prior": "3.75%-4.00% (raised 25 bp on September 16, vote 12-0)",
+"unit": "% range",
+"surprise": null,
+"read": "CME FedWatch prices about 90% hold and 7-10% hike; the statement's inflation language and any dissent for a hike are what move the December pricing (75-84% hike).",
+"source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+},
+{
+"time_ct": "13:30",
+"event": "Chair Kevin Warsh press conference",
+"period": "October 27-28 meeting",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "event",
+"surprise": null,
+"read": "Warsh has avoided forward signals; with September CPI at 3.7% y/y and 0.6% m/m, the question is whether he pre-commits to December or keeps it data dependent six days before the midterms.",
+"source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
 }
 ],
 "read": {
 "bias": "chop",
 "confidence": "medium",
-"call": "The morning's data leaned hawkish (confidence 91.7 vs 81, durables and new home sales beats) but nothing moved the ten-year off 4.97% or the 90% hold pricing, so stocks grind sideways into Wednesday's Fed decision with the megacap earnings after Thursday's close as the real catalyst.",
-"swing": "The 12:00 CT 5-year auction: a tail above 5.05% on the day before a Fed that is expected to hold but signal December would reprice the whole curve and knock equities.",
+"call": "Futures sit near flat into a Fed hold that everyone expects, so the day trades on Warsh's December tone at 13:30 CT and on Alphabet and Microsoft after the close, with $115 Brent and a 5% 10-year capping any rally.",
+"swing": "Warsh's press conference: a pre-commitment to a December hike or a hawkish dissent in the statement takes stocks lower; a data-dependent hold with no new guidance lets tech lead higher into the prints.",
 "drivers": [
-"Consumer confidence jumped 7.5 points to 91.7 against an 81 consensus, with September revised up to 84.2; the drop in gasoline did it, so the consumer is not cracking the way the September print suggested.",
-"Durable goods beat on aircraft (+1.8% vs +1.5%) but core capex rose only 0.5% vs 0.7% and Richmond Fed new orders fell to -8; manufacturing is flat, not booming.",
-"New home sales 676k beat 650k, yet August was revised down and median prices are down 3.9% y/y with 8.4 months of supply; housing is stable, not recovering.",
-"The ADP weekly pulse slowed to 16.75k jobs a week with the prior week revised down; hiring is the one soft spot the Fed can point to if it wants to hold in December.",
-"Fed funds futures price a 90.6% hold for Wednesday; December hike odds sit around 71-73% on CME and 76% on Polymarket, and today's data gave no reason to cut those."
+"The Fed holds at 3.75%-4.00% after the September hike; the debate is December, priced 75-84% for a hike.",
+"Brent above $115 (four-year highs, up 19% in a month) on Houthi strikes on Saudi energy sites, Hormuz tanker attacks and reports the US is preparing Gulf states for a new campaign against Iran after the midterms.",
+"10-year Treasury near 5.01% and 2-year near 4.75%; the dollar index above 102 and gold near $4,060.",
+"Bank of Canada expected to hike to 2.50% at 08:45 CT, and Australia's hot Q3 CPI overnight firmed an RBA hike next week: a global re-tightening tape.",
+"Alphabet and Microsoft report after the close; Tuesday's tech rally (Nasdaq +1.18%, semis +3.6%) rode SK Hynix, Broadcom's $63B Anthropic-linked financing and Meta's $25B share offering."
 ]
 },
 "what_mattered": [
 {
-"headline": "Consumer confidence rebounded hard in October",
-"fact": "Conference Board index 91.7 vs 81.0 consensus, September revised up to 84.2 from 81.9; Expectations 72.6, Present Situation 120.4, 12-month inflation expectations 5.8%.",
-"implication": "The recession-signal reading below 80 lasted one month; the Fed can hold Wednesday and keep December live without arguing the consumer is breaking.",
-"source_url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
+"headline": "Oil back above $115 on Saudi refinery attack and Iran campaign reports",
+"fact": "Brent $114.72-$115.59, up about 0.7% on the day, +19.3% over one month and +78% over one year; WTI about $101.",
+"implication": "Energy was 20.4% y/y in the September CPI already; a further leg keeps headline inflation near 4% and makes a December Fed hike the base case rather than the risk case.",
+"source_url": "https://tradingeconomics.com/commodity/brent-crude-oil"
 },
 {
-"headline": "Durable goods beat on aircraft, core capex cooled",
-"fact": "New orders +1.8% m/m vs +1.5% consensus; ex-transport +0.5% vs +0.6%; core capex +0.5% vs +0.7% after +1.6% in August; shipments +0.9%.",
-"implication": "Business investment stays positive into Thursday's Q3 GDP but the trend is sideways; nothing here moves the Fed either way.",
-"source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html"
+"headline": "Australia Q3 CPI ran hot, RBA hike next week firms",
+"fact": "Headline CPI +1.3% q/q vs 1.2% expected; trimmed mean 3.7% y/y vs 3.6% expected; September monthly CPI 4.3% y/y.",
+"implication": "Another developed-market central bank hiking into an energy shock; it adds to the global long-end selloff that has the US 10-year at 5%.",
+"source_url": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/"
 },
 {
-"headline": "Housing data firm on the surface, soft underneath",
-"fact": "New home sales 676k vs 650k with August cut to 680k; Case-Shiller 20-city +2.7% y/y vs +2.5%; FHFA +0.3% m/m but July revised down and y/y slipped to 2.4%.",
-"implication": "Home prices are rising slower than 3.4% inflation for a 15th month; shelter keeps helping core inflation even with mortgage rates in the high 6s.",
-"source_url": "https://calculatedrisk.substack.com/p/case-shiller-national-house-price-539"
+"headline": "Tuesday's data came in strong ahead of the Fed",
+"fact": "September durable goods orders +1.8% vs +1.5% consensus; Conference Board consumer confidence 91.7 vs 81 consensus and 84.2 prior; new home sales 676k vs 650k consensus; GDPNow 3.4% for Q3.",
+"implication": "The growth side gives the Fed no reason to soften; the hawkish-hold case for today is built on demand that is not slowing.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
-"headline": "Weekly hiring pulse slowed again",
-"fact": "ADP four-week average 16,750 jobs a week for the period ending Oct 10, down from a revised 17,500 and 26,000 three weeks earlier.",
-"implication": "Labor is the counterweight to the confidence beat; if Friday-style payroll data keep softening, December shifts from a hike toward a hold.",
-"source_url": "https://mediacenter.adp.com/2026-10-27-ADP-National-Employment-Report-Preliminary-Estimate-for-October-10,-2026"
+"headline": "Tech led Tuesday's close on AI financing news",
+"fact": "Nasdaq +1.18%, S&P 500 +0.6%, Dow +0.03%, Philadelphia semiconductor index +3.6%; Broadcom +4% on a $63B bank financing tied to Anthropic, CoreWeave +7.9%, Meta's $25B share sale five times oversubscribed.",
+"implication": "The AI capex trade is absorbing equity and debt supply without strain, which is why Nasdaq futures hold green into a hawkish Fed day.",
+"source_url": "https://www.fxstreet.com/news/dow-jones-futures-decline-ahead-of-fed-decision-big-tech-earnings-202610280856"
 },
 {
-"headline": "Markets flat ahead of the Fed",
-"fact": "Ten-year 4.97%, two-year 4.70%, S&P 500 up about 0.3% in early trade after a 7,676.77 close, dollar index above 102, WTI $101, gold $4,010.",
-"implication": "The hawkish data did not push yields higher; the market is waiting for Warsh's press conference and the Microsoft, Alphabet and Amazon prints before taking a side.",
-"source_url": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mostly-higher-as-yields-ease-ahead-of-the-fed/"
+"headline": "Gilts priced the UK budget at a 2008-era cost of funds",
+"fact": "The five-year gilt auction on budget eve cleared at the highest yield since 2008; the 10-year gilt is near 5.36%.",
+"implication": "Healey's first budget this afternoon is a global long-end event; thin headroom or soft tax measures would push yields up across markets before the Fed statement.",
+"source_url": "https://www.cityam.com/government-issues-debt-at-highest-interest-rate-since-financial-crisis-on-eve-of-budget/"
 }
 ],
 "look_at": [
-"The 12:00 CT 5-year auction tail and indirect takedown; last month's 5.033% stop is the reference and a weak auction is the one thing that could break the bond calm before the Fed.",
-"Whether the ten-year can hold below 5.00% into the close now that the consumer confidence and durables beats are priced; a break back above 5% would weigh on the Nasdaq into the megacap prints.",
-"December hike pricing on CME FedWatch after today's data; it opened the day near 71-73% and a move above 80% means the market is front-running Wednesday's statement.",
-"Oil after the 15:30 CT API inventory number with WTI at $101 and Brent near $115; another draw feeds the inflation-expectation line the Fed is watching.",
-"Tonight's China open and the tech selloff there; it has been the overnight driver for US futures this week more than any US data."
+"Fed statement at 13:00 CT: look for the word 'elevated' on inflation again, any vote for a hike, and whether the easing-bias sentence is gone; those three lines set the December pricing.",
+"Warsh at 13:30 CT: whether he names oil as the reason to stay data dependent or treats the 0.6% m/m September CPI as broad; the 2-year at 4.75% moves on that distinction.",
+"Bank of Canada at 08:45 CT: a hike to 2.50% plus a raised inflation forecast in the MPR is the global template for what the Fed does in December.",
+"Goods trade and inventories at 07:30 CT: they decide whether GDPNow holds 3.4% into tomorrow's Q3 advance where the calendar consensus is 3.1% with Q3 core PCE at 2.3%.",
+"Alphabet and Microsoft after the close: cloud growth and capex guidance decide whether Tuesday's AI-financing rally has a second day regardless of the Fed."
 ],
 "fed": {
-"next_meeting": "2026-10-28",
-"market_pricing": "CME FedWatch: 90.6% hold at 3.75-4.00% on Wednesday, 9.4% for a 25 bp hike (as of 06:55 CT); December hike priced 71-73% on CME and 76% on Polymarket, up from about 42% a month ago.",
-"speakers_today": []
+"next_meeting": "2026-12-09",
+"market_pricing": "About 90% hold today (7-10% hike), 0% cut; December 25 bp hike priced 75-84% per CME FedWatch as reported by FXStreet, Yahoo Finance and Forbes; the CME page itself timed out.",
+"speakers_today": [
+"Chair Kevin Warsh, post-meeting press conference 13:30 CT (blackout period; no other Fed speakers)"
+]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7730.75,
-"change_pct": 0.21
+"value": 7767.75,
+"change_pct": 0.12
 },
 {
 "label": "Nasdaq futures",
-"value": 29616.75,
-"change_pct": 0.61
+"value": 29929.75,
+"change_pct": 0.39
 },
 {
 "label": "Russell 2000 futures",
-"value": 2809.9,
-"change_pct": 0.44
+"value": 2822.6,
+"change_pct": -0.21
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7704.2,
-"change_pct": 0.36
+"value": 7722.6,
+"change_pct": 0.6
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 26376.29,
-"change_pct": 0.79
+"value": 26477.81,
+"change_pct": 1.18
 },
 {
 "label": "10Y Treasury yield %",
@@ -14700,62 +14582,62 @@
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 0.09
+"change_pct": 0.08
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.17,
-"change_pct": 0.21
+"value": 102.4,
+"change_pct": 0.08
 },
 {
 "label": "WTI crude $",
-"value": 100.38,
-"change_pct": -1.36
+"value": 101.57,
+"change_pct": 1.67
 },
 {
 "label": "Brent crude $",
-"value": 109.48,
-"change_pct": -5.47
+"value": 111.14,
+"change_pct": -2.41
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.98,
-"change_pct": 14.6
+"value": 3.06,
+"change_pct": 13.42
 },
 {
 "label": "Gold $",
-"value": 4061.0,
-"change_pct": 0.56
+"value": 4059.8,
+"change_pct": -0.36
 },
 {
 "label": "Bitcoin $",
-"value": 80103.75,
-"change_pct": 0.12
+"value": 81464.72,
+"change_pct": 0.82
 },
 {
 "label": "Nikkei 225",
-"value": 63268.37,
-"change_pct": 1.73
+"value": 63954.19,
+"change_pct": 1.08
 },
 {
 "label": "Hang Seng",
-"value": 23041.32,
-"change_pct": -0.73
+"value": 23094.83,
+"change_pct": 0.23
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6151.68,
-"change_pct": 0.58
+"value": 6146.54,
+"change_pct": -0.29
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 153.56,
-"change_pct": 2.05
+"value": 154.84,
+"change_pct": 2.9
 },
 {
 "label": "VIX",
-"value": 17.68,
-"change_pct": -3.86
+"value": 17.54,
+"change_pct": 0.11
 },
 {
 "label": "2Y Treasury yield %",
@@ -14766,20 +14648,15 @@
 "runs": [
 {
 "slot": "morning",
-"at": "2026-10-27T05:36:28-05:00",
-"rows": 18
-},
-{
-"slot": "midday",
-"at": "2026-10-27T09:49:00-05:00",
-"rows": 18
+"at": "2026-10-28T05:35:56-05:00",
+"rows": 11
 }
 ],
 "themes": [
-"The consumer-cracking debate flipped today: confidence at 91.7 vs 81 expected, with September revised up, means the September collapse was a gasoline shock rather than a labor-market break.",
-"The capex-boom-versus-flat-manufacturing debate stayed open: core capex +0.5% against Richmond Fed new orders at -8 and backlogs at -21 says the strength is in aircraft and a few large orders, not the factory floor.",
-"Housing reframed from recovery to stabilization: new home sales beat at 676k, but prices fell in real terms for a 15th month and supply sits at 8.4 months, which keeps shelter on the Fed's disinflation side."
+"The Fed debate moved from 'hold or hike' to 'how hard does Warsh pre-commit to December' after the 0.6% m/m September CPI and Brent's push back above $115.",
+"Global tightening is synchronising: Australia's 3.7% trimmed mean overnight, a Bank of Canada hike priced 81% this morning, and US 10-year at 5.01% on the eve of the decision.",
+"Growth is not the problem: durable goods +1.8%, consumer confidence 91.7 vs 81 expected and GDPNow 3.4% mean the hawkish case rests on demand, not just energy."
 ],
-"snapshot_at": "2026-10-27T09:49:03-05:00"
+"snapshot_at": "2026-10-28T05:35:58-05:00"
 }
 }
