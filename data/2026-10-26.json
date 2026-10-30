@@ -14552,397 +14552,323 @@
 }
 ],
 "macro": {
-"date": "2026-10-29",
+"date": "2026-10-30",
 "prints": [
 {
-"time_ct": "04:00",
-"event": "Euro area Economic Sentiment Indicator (European Commission)",
-"period": "October",
-"consensus": "97.5",
-"actual": "96.9",
-"prior": "97.5",
-"unit": "index",
-"surprise": "-0.6",
-"read": "Euro area sentiment slipped instead of holding, with services and consumers softer, and the ECB did hold today as that argued.",
-"source_url": "https://tradingeconomics.com/calendar"
-},
-{
-"time_ct": "07:30",
-"event": "Gross Domestic Product, 3rd Quarter 2026 (Advance Estimate), real GDP q/q annualized",
+"time_ct": "05:00",
+"event": "Euro area GDP, preliminary flash estimate (q/q)",
 "period": "Q3 2026",
-"consensus": "3.2%",
-"actual": "3.4%",
-"prior": "2.2%",
-"unit": "q/q annualized %",
+"consensus": "0.2%",
+"actual": "0.4%",
+"prior": "0.6%",
+"unit": "q/q %",
 "surprise": "+0.2 pp",
-"read": "Growth beat on investment (inventories and computer equipment) and a federal spending upturn tied to lower Strategic Petroleum Reserve sales, with exports of petroleum products the drag; final sales to private domestic purchasers ran 4.9%, so the Fed's 'strong' wording stands.",
-"source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+"read": "A beat that keeps the ECB's December hike on the table even as France shrank 0.1%; the euro rose 0.23% to about 1.1202 on the print.",
+"source_url": "https://www.fxstreet.com/news/eurozone-gdp-expands-04-in-q3-beats-02-estimates-202610301002"
 },
 {
-"time_ct": "07:30",
-"event": "GDP Price Index, 3rd Quarter 2026 (Advance)",
-"period": "Q3 2026",
-"consensus": "3.2%",
-"actual": "2.2%",
-"prior": "6.1%",
-"unit": "q/q annualized %",
-"surprise": "-1.0 pp",
-"read": "The quarterly deflator came in a full point under consensus, so the second quarter's 6.1% now reads as the oil spike passing through rather than a new trend.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "07:30",
-"event": "Core PCE Prices, 3rd Quarter 2026 (Advance)",
-"period": "Q3 2026",
-"consensus": "2.4%",
-"actual": "2.5%",
-"prior": "3.3%",
-"unit": "q/q annualized %",
-"surprise": "+0.1 pp",
-"read": "Quarterly core cooled to 2.5% from 3.3%, a touch above consensus; the quarter annualizes below the 3.1% year-over-year rate, which is the one argument the doves have left.",
-"source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
-},
-{
-"time_ct": "07:30",
-"event": "PCE Prices, 3rd Quarter 2026 (Advance)",
-"period": "Q3 2026",
-"consensus": "3.4%",
-"actual": "2.1%",
-"prior": "5.0%",
-"unit": "q/q annualized %",
-"surprise": "-1.3 pp",
-"read": "Headline quarterly inflation fell to 2.1% from 5.0% as the oil shock dropped out of the quarterly rate, well under the 3.4% consensus; the gross domestic purchases price index was 3.0%.",
-"source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
-},
-{
-"time_ct": "07:30",
-"event": "Real Consumer Spending, 3rd Quarter 2026 (Advance)",
-"period": "Q3 2026",
-"consensus": null,
-"actual": "3.8%",
-"prior": "3.8%",
-"unit": "q/q annualized %",
-"surprise": null,
-"read": "No consensus found; the consumer held the second quarter's 3.8% pace even with energy costs up, which is the part of the report that keeps a December hike on the table.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "07:30",
-"event": "Personal Income and Outlays: Personal Income",
+"time_ct": "05:00",
+"event": "Euro area unemployment rate",
 "period": "September",
-"consensus": "0.3%",
-"actual": "0.2%",
-"prior": "0.3% (revised from 0.2%)",
-"unit": "m/m %",
-"surprise": "-0.1 pp",
-"read": "Income grew 0.2% against spending of 0.5%, and the saving rate fell to 3.8%; households are funding consumption by saving less.",
-"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
-},
-{
-"time_ct": "07:30",
-"event": "Personal Income and Outlays: Personal Spending",
-"period": "September",
-"consensus": "0.6%",
-"actual": "0.5%",
-"prior": "0.9%",
-"unit": "m/m %",
-"surprise": "-0.1 pp",
-"read": "Nominal spending slowed from August's 0.9% to 0.5%, a shade under consensus, and with prices up 0.5% on the month real spending was roughly flat.",
-"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
-},
-{
-"time_ct": "07:30",
-"event": "PCE Price Index, month over month",
-"period": "September",
-"consensus": "0.5%",
-"actual": "0.5%",
-"prior": "0.3%",
-"unit": "m/m %",
-"surprise": "0.0 pp",
-"read": "Energy delivered the 0.5% headline jump as expected; nothing in the print changes the Fed debate on its own.",
-"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
-},
-{
-"time_ct": "07:30",
-"event": "PCE Price Index, year over year",
-"period": "September",
-"consensus": "3.6%",
-"actual": "3.6%",
-"prior": "3.4%",
-"unit": "y/y %",
-"surprise": "0.0 pp",
-"read": "Headline inflation at 3.6% is the highest of the year and moving away from 2%, the backdrop for the two dissents in favor of a hike.",
-"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
-},
-{
-"time_ct": "07:30",
-"event": "Core PCE Price Index, month over month",
-"period": "September",
-"consensus": "0.3%",
-"actual": "0.3%",
-"prior": "0.3% (revised from 0.2%)",
-"unit": "m/m %",
-"surprise": "0.0 pp",
-"read": "Core printed 0.3% on consensus and August was revised up to 0.3%, so the last two months annualize near 4%; this leaves December hike pricing where it was, in the 80s.",
-"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
-},
-{
-"time_ct": "07:30",
-"event": "Core PCE Price Index, year over year",
-"period": "September",
-"consensus": "3.1%",
-"actual": "3.1%",
-"prior": "3.0%",
-"unit": "y/y %",
-"surprise": "0.0 pp",
-"read": "Core ticked up to 3.1% after three months at 3.0%, the first reacceleration since the summer, exactly as forecast.",
-"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
-},
-{
-"time_ct": "07:30",
-"event": "Unemployment Insurance Weekly Claims: Initial Claims",
-"period": "Week ending October 24",
-"consensus": "198k",
-"actual": "194k",
-"prior": "195k (revised from 194k)",
-"unit": "k",
-"surprise": "-4k",
-"read": "Claims fell to 194k with the four-week average at 196,750; layoffs remain near the lowest levels since the 1960s and give the Fed no reason to wait.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
-},
-{
-"time_ct": "07:30",
-"event": "Unemployment Insurance Weekly Claims: Continuing Claims",
-"period": "Week ending October 17",
-"consensus": "1,720k",
-"actual": "1,701k",
-"prior": "1,722k (revised from 1,728k)",
-"unit": "k",
-"surprise": "-19k",
-"read": "Continuing claims dropped 21k to 1.70 million, the insured unemployment rate held at 1.1%, so re-hiring improved rather than worsened.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
-},
-{
-"time_ct": "08:15",
-"event": "ECB Monetary Policy Decision: Deposit Facility Rate (press conference 08:45 CT)",
-"period": "October meeting",
-"consensus": "2.50%",
-"actual": "2.50%",
-"prior": "2.50%",
+"consensus": "6.4%",
+"actual": "6.5%",
+"prior": "6.4%",
 "unit": "%",
-"surprise": "0.00 pp",
-"read": "Held at 2.50% as expected, but Lagarde said the Council debated a hike, energy prices are above the September projections and inflation (3.8% in September) stays well above target; she also announced she leaves on February 7, 2027, and the euro fell to a 17-month low near 1.11.",
-"source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html"
+"surprise": "+0.1 pp",
+"read": "A tick higher that does little against a GDP beat; the labour market is not the ECB's constraint.",
+"source_url": "https://www.fxstreet.com/news/eurozone-gdp-expands-04-in-q3-beats-02-estimates-202610301002"
 },
 {
-"time_ct": "09:00",
-"event": "Consumer Expenditures, Annual 2025 (BLS)",
-"period": "Annual 2025",
-"consensus": null,
-"actual": "$81,905 per consumer unit, +4.3% y/y",
-"prior": "$78,527 (2024)",
-"unit": "annual report",
+"time_ct": "07:00",
+"event": "Germany consumer price index, preliminary (y/y)",
+"period": "October",
+"consensus": "3.0%",
+"actual": null,
+"prior": "3.3%",
+"unit": "y/y %",
 "surprise": null,
-"read": "No consensus found; reference release showing 2025 spending up 4.3% and pre-tax income up 6.4%, not a market mover.",
-"source_url": "https://www.bls.gov/news.release/cesan.nr0.htm"
+"read": "Consensus is for the first easing since summer (m/m 0.1% expected vs 0.6% prior; harmonised y/y 3.1% expected); a miss lower would trim ECB December-hike pricing from 65%.",
+"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
 },
 {
-"time_ct": "09:30",
-"event": "EIA Weekly Natural Gas Storage Report",
-"period": "Week ending October 23",
-"consensus": "+75 Bcf",
-"actual": "+80 Bcf",
-"prior": "+77 Bcf",
-"unit": "Bcf",
-"surprise": "+5 Bcf",
-"read": "A larger than expected build took working gas to 3,724 Bcf, 1.0% above the five-year average, so the winter cushion widened slightly.",
-"source_url": "https://ir.eia.gov/ngs/ngs.html"
+"time_ct": "07:30",
+"event": "Employment Cost Index, compensation, civilian workers (3-month change, seasonally adjusted)",
+"period": "Q3 2026 (September)",
+"consensus": "0.8%",
+"actual": null,
+"prior": "0.9%",
+"unit": "q/q %",
+"surprise": null,
+"read": "The only US data today that can move the December-hike debate; 0.8% or lower says wage costs are not the inflation problem, 1.0% or higher hands the two hike dissenters their argument.",
+"source_url": "https://www.investing.com/economic-calendar/"
 },
 {
-"time_ct": "11:00",
-"event": "Freddie Mac Primary Mortgage Market Survey, 30-year fixed",
-"period": "Week of October 29",
+"time_ct": "07:30",
+"event": "Employment Cost Index, wages and salaries (3-month change)",
+"period": "Q3 2026 (September)",
 "consensus": null,
 "actual": null,
-"prior": "7.32%",
-"unit": "%",
+"prior": "0.9%",
+"unit": "q/q %",
 "surprise": null,
-"read": "No consensus found; mortgage rates above 7% are why pending home sales fell 7.3% in September, and with the 10-year back at 5% a third weekly dip is not assured.",
-"source_url": "https://www.freddiemac.com/pmms"
+"read": "No consensus found; the wages line is the one the Fed reads for persistence, prior year-over-year 3.2% for civilian workers.",
+"source_url": "https://www.bls.gov/news.release/eci.nr0.htm"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Cost Index, benefits (3-month change)",
+"period": "Q3 2026 (September)",
+"consensus": null,
+"actual": null,
+"prior": "1.0%",
+"unit": "q/q %",
+"surprise": null,
+"read": "No consensus found; benefits ran 3.8% year over year last quarter, the hotter half of compensation.",
+"source_url": "https://www.bls.gov/news.release/eci.nr0.htm"
+},
+{
+"time_ct": "07:30",
+"event": "Canada GDP by industry (m/m)",
+"period": "August",
+"consensus": "0.2%",
+"actual": null,
+"prior": "0.0%",
+"unit": "m/m %",
+"surprise": null,
+"read": "First month to carry the 50% US tariffs from Aug 22; a flat or negative print is a Canadian dollar and Bank of Canada story, not a US one.",
+"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
+},
+{
+"time_ct": "08:45",
+"event": "Chicago Business Barometer (Chicago PMI)",
+"period": "October",
+"consensus": "55.8",
+"actual": null,
+"prior": "58.8",
+"unit": "index",
+"surprise": null,
+"read": "Calendars disagree on the consensus (54.8 to 56.1); anything above 50 keeps the strong-activity story from the 3.4% GDP print intact, so only a sub-50 shock would matter today.",
+"source_url": "https://www.investing.com/economic-calendar/"
 },
 {
 "time_ct": "12:00",
-"event": "Treasury 7-Year Note Auction, $44 billion",
-"period": "October",
+"event": "Baker Hughes US oil rig count",
+"period": "Week of October 30",
 "consensus": null,
 "actual": null,
-"prior": "5.085% high yield, 2.42 bid-to-cover",
-"unit": "%",
+"prior": "460",
+"unit": "rigs",
 "surprise": null,
-"read": "No consensus; last month's 5.085% was the highest 7-year auction yield since 1993, and after today's strong GDP the long end's appetite at 5% is the afternoon test.",
+"read": "With Brent above $110, a rising count is the supply response to watch; total rigs prior 603.",
 "source_url": "https://www.investing.com/economic-calendar/"
 },
 {
-"time_ct": "15:30",
-"event": "Federal Reserve H.4.1 Balance Sheet, total assets",
-"period": "Week ending October 28",
-"consensus": null,
+"time_ct": "20:30",
+"event": "China NBS manufacturing PMI (Friday evening CT)",
+"period": "October",
+"consensus": "49.9",
 "actual": null,
-"prior": "$6,754B",
-"unit": "$B",
+"prior": "50.1",
+"unit": "index",
 "surprise": null,
-"read": "No consensus; reserves near $2.97 trillion with bill purchases on hold, watch for any sign the Fed resumed reserve management buying into month end.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"read": "Lands after the US close and sets Monday's tone; consensus has it slipping back below 50.",
+"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
+},
+{
+"time_ct": "22:00",
+"event": "Bank of Japan policy rate decision (overnight, Thursday evening CT)",
+"period": "October",
+"consensus": "1.25%",
+"actual": "1.25%",
+"prior": "1.25%",
+"unit": "%",
+"surprise": "0.0 pp",
+"read": "Held as every forecaster expected, but an 8-1 vote with Takata wanting 1.50%, a higher FY27 core-core inflation forecast of 2.7% and Ueda calling December live keep a December hike priced above 80%.",
+"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
 }
 ],
 "read": {
-"bias": "higher",
+"bias": "lower",
 "confidence": "medium",
-"call": "Front-end yields and December hike pricing stay bid: growth beat at 3.4%, core PCE held 0.3% with an upward August revision, claims at 194k, and nothing in the morning gave the Fed an excuse to wait.",
-"swing": "The 12:00 CT 7-year auction; a tail above last month's 5.085% with the 10-year at 5% would push the move from the front end into the long end.",
+"call": "A tech-led lower open on Amazon and Intel, with Nasdaq-100 futures down about 2% and S&P futures down 0.9% before the data, and the Employment Cost Index at 7:30 CT decides whether bonds keep cushioning the fall.",
+"swing": "Employment Cost Index Q3 at 7:30 CT: a print at or below the 0.8% consensus lets the 10-year hold near 4.93% and keeps the selloff a rotation; 1.0% or higher lifts December hike odds back above 80% and turns an earnings selloff into a rates selloff too.",
 "drivers": [
-"Q3 GDP 3.4% vs 3.2% consensus, final sales to private domestic purchasers 4.9%, consumer spending steady at 3.8%.",
-"September core PCE 0.3% m/m and 3.1% y/y on consensus, August core revised up to 0.3%, headline 3.6% y/y.",
-"Quarterly inflation measures undershot (GDP price index 2.2% vs 3.2%, PCE 2.1% vs 3.4%), the one soft spot for the hawks.",
-"Initial claims 194k vs 198k, continuing claims 1,701k vs 1,720k; the labor side is not slowing.",
-"ECB held at 2.50% but debated a hike, Lagarde resigns effective February 7, 2027; euro at a 17-month low lifts the dollar.",
-"December hike odds around 83% to 87% on CME FedWatch after yesterday's 10-2 hold with two hike dissents."
+"Amazon fell about 7% after hours on $77.3B of quarterly capex and a $42.4B trailing free cash outflow despite AWS growing 39%; Intel fell 17-23% on a Q4 EPS guide of $0.25 vs $0.42 expected.",
+"Alphabet's 12.6% drop on Thursday was its worst day on record, so the market is now punishing AI spend rather than rewarding it; Microsoft rose nearly 4% on the same night, which says rotation not exit.",
+"The Fed held at 3.75-4.00% on Wednesday with two dissents for a hike, and CME FedWatch prices roughly 75% for a December hike, down from 84.2% a day earlier as the tech selloff bid bonds.",
+"The 10-year is at 4.93%, a seven-week low, after a 7-year auction cleared at 4.894% vs 5.085% last time; the safety bid is the only cushion under equities today.",
+"Brent is back near $111 (+1.7%) on Houthi attacks on Saudi facilities after falling 2.1% on Thursday on US-Iran diplomacy; oil above $100 is why the Fed is debating a hike with GDP at 3.4%.",
+"Overseas central banks are leaning the same way: the ECB held at 2.50% but signalled a December hike (65% priced) and Lagarde quits Feb 7; the BoJ held at 1.25% with December live and more than 80% priced."
 ]
 },
 "what_mattered": [
 {
-"headline": "Growth beat with the consumer intact",
-"fact": "Real GDP grew 3.4% annualized in Q3 against 3.2% expected, real final sales to private domestic purchasers 4.9%, consumer spending 3.8%.",
-"implication": "The Fed's upgrade to 'strong' activity is confirmed; the hawks lose no ground on growth.",
-"source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+"headline": "Amazon spent $77B in a quarter and the market balked",
+"fact": "Q3 net sales $201.9B (+12%), AWS $46.0B (+39%), operating income $28.1B, EPS $1.89; purchases of property and equipment $77.3B in the quarter and $215.2B trailing twelve months; trailing free cash flow an outflow of $42.4B; 2026 capex still about $220B; Q4 sales guided $240-247B.",
+"implication": "AWS growth is the fastest in nearly five years, yet the stock fell about 7% after hours because the cash is going out faster than it comes in; the AI buildout is now a cash-flow debate, not a growth debate.",
+"source_url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx"
 },
 {
-"headline": "Core PCE on consensus but August revised up",
-"fact": "September core PCE 0.3% m/m, 3.1% y/y; August revised to 0.3% from 0.2%; headline 3.6% y/y, highest of the year.",
-"implication": "Two straight 0.3% core months annualize near 4%, so a December hike stays the base case unless October CPI breaks lower.",
+"headline": "Alphabet had its worst day on record and Intel guided a cliff",
+"fact": "Alphabet fell 12.6% on Thursday on softer search and advertising revenue; Intel fell as much as 23% pre-market after guiding Q4 EPS to $0.25 vs $0.42 expected and revenue to $15-16B vs $16.8B; Nasdaq-100 futures down about 2%, S&P 500 futures down 0.9%, Dow futures flat.",
+"implication": "Two mega-cap AI spenders missed in two days, so the AI capex trade is being repriced for payback; the Dow holding flat and Microsoft up nearly 4% say this is a rotation inside tech, not yet a broad risk-off.",
+"source_url": "https://www.fxstreet.com/news/dow-jones-futures-fall-as-tech-earnings-disappoint-fed-hike-bets-202610300807"
+},
+{
+"headline": "September PCE landed on consensus, hot but not hotter",
+"fact": "PCE price index +0.5% m/m and +3.6% y/y; core +0.3% m/m and +3.1% y/y; personal income +0.2%, spending +0.5% nominal but real spending less than 0.1%; saving rate 3.8%.",
+"implication": "Core at 3.1% is more than a point above target and real spending stalled, which is the stagflation-lite mix that keeps a December hike on the table without forcing it; no new information for the Fed, which is why hike odds slipped rather than rose.",
 "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
 },
 {
-"headline": "Quarterly inflation measures undershot",
-"fact": "GDP price index 2.2% vs 3.2% expected; Q3 PCE prices 2.1% vs 3.4%; core PCE 2.5% vs 2.4%.",
-"implication": "The oil shock is passing out of the quarterly rates faster than forecast; this is the dove argument but the monthly series does not yet show it.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"headline": "Q3 GDP beat at 3.4% while quarterly inflation cooled",
+"fact": "Real GDP +3.4% annualized vs 3.2% expected and 2.2% in Q2, led by inventories, equipment and consumer spending with exports down; the quarterly PCE price index slowed to 2.1% from 5.0% and core to 2.5% from 3.3%; real final sales to private domestic purchasers +4.9%.",
+"implication": "Growth is too strong to argue for cuts and the quarterly price slowdown is too stale to argue against a hike; the data gives the Fed room to wait for December without pressure either way.",
+"source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
 },
 {
-"headline": "Claims stay near record lows",
-"fact": "Initial claims 194k vs 198k expected, continuing claims 1,701k vs 1,720k, insured unemployment rate 1.1%.",
-"implication": "No labor-market slack to justify a pause; the hike dissenters' case strengthens.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
+"headline": "Jobless claims stayed at cycle lows",
+"fact": "Initial claims 194,000 for the week ending October 24 vs 195,000 prior (consensus 199,000 per Rio Times); continuing claims 1,701,000 vs 1,722,000.",
+"implication": "No labour-market excuse for the Fed to stand down; a sub-200k print a week before payrolls backs the hawks.",
+"source_url": "https://fred.stlouisfed.org/series/ICSA"
 },
 {
-"headline": "ECB holds, debated a hike, Lagarde to leave early",
-"fact": "Deposit rate held at 2.50%; euro area inflation 3.8% in September; Lagarde steps down February 7, 2027; EUR/USD hit 1.1104, a 17-month low.",
-"implication": "Energy above the September projections keeps a December ECB hike live; the succession adds a political layer to the next decision.",
-"source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html"
+"headline": "Fed held 3.75-4.00% with two votes for a hike",
+"fact": "Statement: 'Inflation remains elevated', 'Economic activity is expanding at a strong pace'; 10-2 vote with Lisa Cook and Beth Hammack preferring a quarter-point increase; CME FedWatch roughly 75% for a 25 bp December hike, down from 84.2%.",
+"implication": "Dissents for a hike from a governor and a regional president make December live by default; the Employment Cost Index today and payrolls next Friday are the two numbers that can stop it.",
+"source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+},
+{
+"headline": "ECB held at 2.50%, signalled December, and Lagarde is leaving early",
+"fact": "Deposit rate unchanged at 2.50% by unanimous vote; Lagarde to step down February 7, 2027, eight to nine months early, to speak on French politics; markets price about 65% for a December hike; France's Q3 GDP shrank 0.1% while the euro area grew 0.4%.",
+"implication": "A hawkish ECB with a lame-duck president and a shrinking France is a recipe for wider French spreads; Knot or de Cos as successor sets the tone for 2027, with de Cos the dovish option and favoured 42-34 on Kalshi.",
+"source_url": "https://www.fxstreet.com/analysis/ecb-on-hold-as-lagarde-to-leave-early-202610300651"
+},
+{
+"headline": "Bank of Japan held at 1.25% but told markets December is live",
+"fact": "Rate unchanged at 1.25% on an 8-1 vote with Takata dissenting for a 25 bp hike; FY27 core-core inflation forecast raised to 2.7%; Ueda said December is live; more than 80% priced for a December hike; USD/JPY tested 157.40; Nikkei fell 2.1%, Kospi 3.5%.",
+"implication": "Japanese yields rising with US yields falling narrows the carry gap; a stronger yen into a December BoJ hike is a headwind for the leveraged long-tech trade funded in yen.",
+"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
+},
+{
+"headline": "Treasuries caught the safety bid: 10-year to a seven-week low",
+"fact": "10-year yield 4.93%, down toward 4.9% and the lowest in seven weeks; 7-year auction cleared at 4.894% vs 5.085% at the prior auction; dollar index down 0.3% near 101.6; gold down 0.8% near $4,000.",
+"implication": "Bonds are working as a hedge again for the first time in weeks, which caps the equity damage; a hot ECI that reverses this is the worst combination for stocks.",
+"source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+},
+{
+"headline": "Oil whipsawed: down on US-Iran diplomacy, back up on Houthi strikes on Saudi",
+"fact": "Brent fell 2.1% to $109.26 on Thursday on diplomatic efforts to avert renewed US strikes on Iran, then rose about 1% to $116.03 overnight after the Houthis claimed attacks on Ras Tanura, the Rabigh refinery and Abqaiq; WTI $103.01.",
+"implication": "Oil above $100 is the reason headline PCE is 3.6% and the Fed is debating a hike; the Saudi attacks put the supply premium back on just as the diplomatic track was pulling it off.",
+"source_url": "https://www.tipranks.com/news/stock-futures-fall-as-amazon-earnings-disappoint-investors-oil-prices-rise"
 }
 ],
 "look_at": [
-"The 7-year auction at 12:00 CT: a high yield above 5.085% or a bid-to-cover under 2.4 says the long end is choking on 5% with strong growth data.",
-"The 2-year yield and December hike pricing through the afternoon; the data left the hike case intact, so any fade in pricing would mean the market is reading the soft quarterly deflators.",
-"The Freddie Mac 30-year rate at 11:00 CT; with the 10-year back at 5% a reversal above 7.32% keeps housing the weakest part of the economy.",
-"The dollar after the euro's 17-month low; a push through 102.50 on the index tightens conditions for the Fed without a hike.",
-"The Fed's H.4.1 at 15:30 CT for any resumption of bill purchases into month end."
+"Employment Cost Index at 7:30 CT: compare the wages line to the 0.9% prior as much as the 0.8% headline consensus, because the Fed hawks read wages and the bond market will react within minutes.",
+"The open: whether S&P futures hold the overnight area near 7,680 and whether selling stays inside AI spenders (Amazon, Alphabet, Intel) or spreads to the names that rose, Microsoft above all; a broadening is the signal to respect.",
+"10-year at 4.93%: if it keeps falling as stocks fall, bonds are hedging and the damage is contained; if a hot ECI pushes it back toward 5% while stocks fall, there is no cushion.",
+"Daly at 11:00 CT (Investing.com lists 10:00 CT) and Musalem at 11:30 CT: the first Fed voices after a 10-2 hold, so listen for whether they frame December as a hike to be earned or a hike to be avoided.",
+"Oil headlines: Brent near $111 to $116 on Houthi attacks on Saudi facilities against US-Iran diplomacy; a $5 swing either way moves breakevens and the hike odds.",
+"Germany CPI at 7:00 CT (3.0% consensus vs 3.3%) and Canada GDP at 7:30 CT (0.2% consensus, first tariff month) for the euro and Canadian dollar; China October PMI at 20:30 CT (49.9 consensus) sets Monday ahead of payrolls and the midterms next week."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "CME FedWatch about 83% to 87% for a 25 bp hike at the December 8-9 meeting after yesterday's 10-2 hold at 3.75% to 4.00% (Cook and Hammack dissenting for a hike); no post-data reading found yet.",
-"speakers_today": []
+"market_pricing": "CME FedWatch roughly 75% probability of a 25 bp hike to 4.00-4.25% at the December 8-9 meeting, down from 84.2% a day earlier (FXStreet, Oct 30); the Fed held at 3.75-4.00% on Oct 28 by a 10-2 vote with Cook and Hammack dissenting for a hike.",
+"speakers_today": [
+"Mary Daly (San Francisco Fed), 11:00 CT per FXStreet; Investing.com lists 10:00 CT",
+"Alberto Musalem (St. Louis Fed), 11:30 CT per FXStreet"
+]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7756.75,
-"change_pct": -0.34
+"value": 7671.75,
+"change_pct": -1.06
 },
 {
 "label": "Nasdaq futures",
-"value": 29588.25,
-"change_pct": -1.31
+"value": 28864.75,
+"change_pct": -2.36
 },
 {
 "label": "Russell 2000 futures",
-"value": 2869.5,
-"change_pct": 1.06
+"value": 2849.5,
+"change_pct": -0.62
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7706.19,
-"change_pct": -0.49
+"value": 7720.39,
+"change_pct": -0.3
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 26134.34,
-"change_pct": -1.57
+"value": 26184.72,
+"change_pct": -1.38
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": -1.25
+"change_pct": -1.11
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": -0.76
+"change_pct": -0.6
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.16,
-"change_pct": -0.03
+"value": 101.64,
+"change_pct": -0.39
 },
 {
 "label": "WTI crude $",
-"value": 100.64,
-"change_pct": -2.08
+"value": 104.14,
+"change_pct": 2.1
 },
 {
 "label": "Brent crude $",
-"value": 109.91,
-"change_pct": -4.69
+"value": 113.42,
+"change_pct": -1.27
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.94,
-"change_pct": 4.3
+"value": 2.9,
+"change_pct": -1.69
 },
 {
 "label": "Gold $",
-"value": 4042.1,
-"change_pct": -0.23
+"value": 3992.9,
+"change_pct": -0.96
 },
 {
 "label": "Bitcoin $",
-"value": 80894.69,
-"change_pct": -0.46
+"value": 77519.64,
+"change_pct": -0.33
 },
 {
 "label": "Nikkei 225",
-"value": 64659.47,
-"change_pct": 1.1
+"value": 63290.11,
+"change_pct": -2.12
 },
 {
 "label": "Hang Seng",
-"value": 22958.65,
-"change_pct": -0.59
+"value": 23294.42,
+"change_pct": 1.46
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6207.62,
-"change_pct": 0.65
+"value": 6155.23,
+"change_pct": -0.84
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 158.77,
-"change_pct": 0.8
+"value": 157.79,
+"change_pct": 0.18
 },
 {
 "label": "VIX",
-"value": 16.52,
-"change_pct": -2.31
+"value": 18.51,
+"change_pct": 7.62
 },
 {
 "label": "2Y Treasury yield %",
@@ -14953,20 +14879,15 @@
 "runs": [
 {
 "slot": "morning",
-"at": "2026-10-29T05:37:45-05:00",
-"rows": 20
-},
-{
-"slot": "midday",
-"at": "2026-10-29T09:49:13-05:00",
-"rows": 20
+"at": "2026-10-30T05:37:21-05:00",
+"rows": 11
 }
 ],
 "themes": [
-"Growth versus inflation is no longer a trade-off: GDP 3.4% with quarterly core PCE 2.5%, yet monthly core at 0.3% twice keeps the December hike near 85%.",
-"The oil shock is passing through the quarterly deflators (PCE prices 2.1% vs 5.0%) faster than the monthly year-over-year rates (3.6% headline), so which series the Fed weights decides December.",
-"Two central banks with hike dissents in the same week: the Fed's 10-2 and an ECB that debated a hike at 3.8% inflation, with Lagarde leaving February 7, 2027."
+"AI capex is being punished rather than rewarded: Amazon's $77.3B quarterly capex and $42.4B trailing free cash outflow sent the stock down 7% a day after Alphabet's worst session on record, so the question is payback, not growth.",
+"The hike debate turned on the Fed's own dissents: two votes to raise rates at a 10-2 hold leave December about 75% priced, and today's Employment Cost Index (0.8% consensus) is the first wage number since.",
+"The three big central banks are now leaning the same way at once: ECB December hike 65% priced with Lagarde leaving Feb 7, BoJ December live and more than 80% priced, Fed about 75%, with Brent above $110 the common cause."
 ],
-"snapshot_at": "2026-10-29T09:49:16-05:00"
+"snapshot_at": "2026-10-30T05:37:23-05:00"
 }
 }
