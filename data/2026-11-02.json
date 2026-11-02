@@ -14596,314 +14596,353 @@
 }
 ],
 "macro": {
-"date": "2026-10-30",
+"date": "2026-11-02",
 "prints": [
 {
-"time_ct": "05:00",
-"event": "Euro area GDP, preliminary flash estimate (q/q)",
-"period": "Q3 2026",
-"consensus": "0.2%",
-"actual": "0.4%",
-"prior": "0.6%",
-"unit": "q/q %",
-"surprise": "+0.2 pp",
-"read": "A beat that keeps the ECB's December hike on the table even as France shrank 0.1%; the euro rose 0.23% to about 1.1202 on the print.",
-"source_url": "https://www.fxstreet.com/news/eurozone-gdp-expands-04-in-q3-beats-02-estimates-202610301002"
-},
-{
-"time_ct": "05:00",
-"event": "Euro area unemployment rate",
+"time_ct": "01:00",
+"event": "Germany Retail Sales",
 "period": "September",
-"consensus": "6.4%",
-"actual": "6.5%",
-"prior": "6.4%",
-"unit": "%",
-"surprise": "+0.1 pp",
-"read": "A tick higher that does little against a GDP beat; the labour market is not the ECB's constraint.",
-"source_url": "https://www.fxstreet.com/news/eurozone-gdp-expands-04-in-q3-beats-02-estimates-202610301002"
-},
-{
-"time_ct": "07:00",
-"event": "Germany consumer price index, preliminary (y/y)",
-"period": "October",
-"consensus": "3.0%",
-"actual": "2.8%",
-"prior": "3.3%",
-"unit": "y/y %",
-"surprise": "-0.2 pp",
-"read": "A clean miss lower: prices fell 0.2% on the month against a 0.1% rise expected, harmonised inflation 2.8% against 3.1% expected, core down to 2.1% from 2.4%, so the euro gave back its GDP gain to about 1.1170 and the ECB's December hike is now a judgment call rather than a given.",
-"source_url": "https://www.investing.com/news/economic-indicators/germany-october-inflation-slows-more-than-expected-to-28-4987753"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Cost Index, compensation, civilian workers (3-month change, seasonally adjusted)",
-"period": "Q3 2026 (September)",
-"consensus": "0.8%",
-"actual": "0.8%",
-"prior": "0.9%",
-"unit": "q/q %",
-"surprise": "0.0 pp",
-"read": "In line and a tenth slower than the second quarter, with the year-over-year rate flat at 3.4%; wage costs are not what is pushing inflation to 3.6%, so this print neither helps nor hurts the two hike dissenters.",
-"source_url": "https://www.bls.gov/news.release/eci.nr0.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Cost Index, wages and salaries (3-month change)",
-"period": "Q3 2026 (September)",
-"consensus": null,
-"actual": "0.7%",
-"prior": "0.9%",
-"unit": "q/q %",
-"surprise": null,
-"read": "No consensus found; the wages line slowed to 0.7% on the quarter and 3.1% on the year from 3.2%, the softest signal in the release and the one the Fed reads for persistence.",
-"source_url": "https://www.bls.gov/news.release/eci.nr0.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Cost Index, benefits (3-month change)",
-"period": "Q3 2026 (September)",
-"consensus": null,
-"actual": "0.9%",
-"prior": "1.0%",
-"unit": "q/q %",
-"surprise": null,
-"read": "No consensus found; benefits eased to 0.9% on the quarter but still run 3.9% on the year, up from 3.8%, so benefits remain the hotter half of compensation.",
-"source_url": "https://www.bls.gov/news.release/eci.nr0.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Canada GDP by industry (m/m)",
-"period": "August",
-"consensus": "0.2%",
-"actual": "0.0%",
-"prior": "0.0%",
+"consensus": "+0.4% m/m",
+"actual": "-2.0% m/m",
+"prior": "+1.2% m/m",
 "unit": "m/m %",
-"surprise": "-0.2 pp",
-"read": "A second straight flat month with retail up 1.2% and wholesale down 1.4%, the advance September read is a 0.1% decline and the third quarter tracks only 0.3%, a Bank of Canada and Canadian dollar story under the 50% US tariffs.",
-"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261030/dq261030a-eng.htm"
+"surprise": "-2.4 pp",
+"read": "A sharp miss on German consumption that did little to the euro because the PMIs beat.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "04:00",
+"event": "HCOB Eurozone Manufacturing PMI (final)",
+"period": "October",
+"consensus": "52.4",
+"actual": "52.7",
+"prior": "52.9",
+"unit": "index",
+"surprise": "+0.3",
+"read": "Europe's factory sector is still expanding; Germany 54.2 and Spain 52.2 beat, France 49.5 and Italy 49.4 contracted.",
+"source_url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+},
+{
+"time_ct": "04:30",
+"event": "S&P Global UK Manufacturing PMI (final)",
+"period": "October",
+"consensus": "52.8",
+"actual": "52.8",
+"prior": "51.9",
+"unit": "index",
+"surprise": "0.0",
+"read": "UK factory output grew at its fastest pace in more than two years.",
+"source_url": "https://www.investing.com/economic-calendar/"
 },
 {
 "time_ct": "08:45",
-"event": "Chicago Business Barometer (Chicago PMI)",
+"event": "S&P Global US Manufacturing PMI (final)",
 "period": "October",
-"consensus": "55.8",
-"actual": "55.3",
-"prior": "58.8",
+"consensus": "56.0",
+"actual": null,
+"prior": "55.9",
 "unit": "index",
-"surprise": "-0.5",
-"read": "A small miss that gives back part of September's jump but stays well in growth territory; it does not dent the strong-activity story and nobody traded it with the Nasdaq down more than 2%.",
-"source_url": "https://www.investing.com/economic-calendar/united-states-chicago-purchasing-managers-index-(pmi)-38"
+"surprise": null,
+"read": "The flash was 56.0, a 53-month high, so the final only matters if it revises away from the flash.",
+"source_url": "https://www.investing.com/economic-calendar/"
 },
 {
-"time_ct": "12:00",
-"event": "Baker Hughes US oil rig count",
-"period": "Week of October 30",
+"time_ct": "09:00",
+"event": "ISM Manufacturing PMI",
+"period": "October",
+"consensus": "54.5 (Investing.com; Yahoo Finance calendar shows 54.7)",
+"actual": null,
+"prior": "54.5",
+"unit": "index",
+"surprise": null,
+"read": "The headline is expected flat at 54.5; the market reads the prices and employment sub-indices harder than the headline this month because the Fed is leaning toward a December hike.",
+"source_url": "https://www.investing.com/economic-calendar/ism-manufacturing-pmi-173"
+},
+{
+"time_ct": "09:00",
+"event": "ISM Manufacturing Prices Index",
+"period": "October",
+"consensus": "77.2 (Investing.com; Yahoo Finance calendar shows 77.5)",
+"actual": null,
+"prior": "77.9",
+"unit": "index",
+"surprise": null,
+"read": "Prices paid near 78 with oil up more than 10% in October is the inflation signal the hawks on the FOMC point at; a print above 78 adds to December hike pricing.",
+"source_url": "https://www.investing.com/economic-calendar/ism-manufacturing-prices-174"
+},
+{
+"time_ct": "09:00",
+"event": "ISM Manufacturing New Orders Index",
+"period": "October",
+"consensus": "54.9",
+"actual": null,
+"prior": "55.3",
+"unit": "index",
+"surprise": null,
+"read": "A small slip is expected; a drop under 53 would be the first real sign the tariff and oil shock is reaching factory demand.",
+"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+},
+{
+"time_ct": "09:00",
+"event": "ISM Manufacturing Employment Index",
+"period": "October",
+"consensus": "52.0",
+"actual": null,
+"prior": "52.7",
+"unit": "index",
+"surprise": null,
+"read": "The first read on October factory hiring ahead of Friday's payrolls, where consensus is only about 55k.",
+"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+},
+{
+"time_ct": "09:00",
+"event": "Construction Spending",
+"period": "September",
+"consensus": "+0.4% m/m (Investing.com; Yahoo Finance shows +0.5%, TradingEconomics 0.6%)",
+"actual": null,
+"prior": "+0.9% m/m ($2,203.1bn SAAR, August)",
+"unit": "m/m %",
+"surprise": null,
+"read": "August was 0.9% higher but still 1.7% below a year earlier; this feeds the Atlanta Fed GDPNow residential and structures lines, not the tape.",
+"source_url": "https://www.census.gov/construction/c30/pdf/release.pdf"
+},
+{
+"time_ct": "10:00",
+"event": "Atlanta Fed GDPNow (Q4 estimate update, follows construction spending; timing approximate)",
+"period": "Q4 2026",
 "consensus": null,
 "actual": null,
-"prior": "460",
-"unit": "rigs",
+"prior": "3.2%",
+"unit": "% q/q SAAR",
 "surprise": null,
-"read": "Not yet released; with Brent at $113 to $117 after the Hormuz tanker strikes, a rising count is the supply response to watch, total rigs prior 603 after a flat week.",
-"source_url": "https://tradingeconomics.com/united-states/crude-oil-rigs"
+"read": "No consensus found; the running estimate is 3.2%, so growth is not the Fed's problem, prices are.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "10:15",
+"event": "Chicago Fed President Goolsbee moderates Q&A with BIS Deputy GM Andrea Maechler (Chicago Fed Financial Markets Group conference)",
+"period": null,
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": null,
+"surprise": null,
+"read": "Goolsbee is a moderator, not a speaker; the only Fed voice of the day, so any aside on December moves rates.",
+"source_url": "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking"
+},
+{
+"time_ct": "10:30",
+"event": "Treasury 3-Month and 6-Month Bill Auctions",
+"period": "weekly",
+"consensus": null,
+"actual": null,
+"prior": "4.050% (3-month), 4.210% (6-month)",
+"unit": "%",
+"surprise": null,
+"read": "Bill yields above 4.2% at six months already price some chance of a December hike.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "13:00",
+"event": "Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS)",
+"period": "Q3 2026 survey (October)",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": null,
+"surprise": null,
+"read": "Watch whether banks report tighter standards and weaker demand for commercial and industrial loans; it feeds the Fed's December discussion but rarely moves the tape.",
+"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+},
+{
+"time_ct": "19:45",
+"event": "China RatingDog Manufacturing PMI (released Sunday night CT)",
+"period": "October",
+"consensus": "52.0 (Investing.com calendar; news wires cite 51.6)",
+"actual": "52.0",
+"prior": "52.1",
+"unit": "index",
+"surprise": "0.0",
+"read": "The private survey held in expansion for an eleventh month with output at a six-month high, so the two China gauges split again: large state firms soft, smaller exporters fine.",
+"source_url": "https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808"
 },
 {
 "time_ct": "20:30",
-"event": "China NBS manufacturing PMI (Friday evening CT)",
+"event": "China NBS Manufacturing PMI (released Saturday Oct 31, 20:30 CT Friday)",
 "period": "October",
-"consensus": "49.9",
-"actual": null,
+"consensus": "50.0",
+"actual": "49.3",
 "prior": "50.1",
 "unit": "index",
-"surprise": null,
-"read": "Lands after the US close and sets Monday's tone; consensus has it slipping back below 50.",
-"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
-},
-{
-"time_ct": "22:00",
-"event": "Bank of Japan policy rate decision (overnight, Thursday evening CT)",
-"period": "October",
-"consensus": "1.25%",
-"actual": "1.25%",
-"prior": "1.25%",
-"unit": "%",
-"surprise": "0.0 pp",
-"read": "Held as every forecaster expected, but an 8-1 vote with Takata wanting 1.50%, a higher FY27 core-core inflation forecast of 2.7% and Ueda calling December live keep a December hike priced above 80%.",
-"source_url": "https://www.fxstreet.com/analysis/lagarde-quits-early-to-speak-on-french-politics-as-frances-economy-shrinks-01-202610301031"
+"surprise": "-0.7",
+"read": "The official gauge fell back into contraction with NBS blaming a pullback in overseas orders after September's surge; non-manufacturing slipped to 49.7 from 50.2.",
+"source_url": "https://www.fxstreet.com/news/chinas-nbs-manufacturing-pmi-falls-to-493-in-october-non-manufacturing-pmi-eases-to-497-202611012335"
 }
 ],
 "read": {
-"bias": "lower",
-"confidence": "medium",
-"call": "The macro prints were a non-event, so today belongs to the earnings tape: Amazon and Intel turned the AI-spending worry into a Nasdaq drop of more than 2%, with safe-haven buying pulling the 10-year back under 5% to about 4.93%.",
-"swing": "The Strait of Hormuz headlines: another tanker strike that pushes Brent back through $117 would turn an AI-led tech selloff into a broad risk-off close, while a calm afternoon lets the market bounce on the in-line wage data and the lower yields.",
+"bias": "higher",
+"confidence": "low",
+"call": "A relief bounce after Friday's worst S&P session since June, led by oil falling more than 4% on Iran diplomacy reports and a bid back into the chip names, but it is a low-conviction bounce with the midterms tomorrow, Apple after the close and the Fed leaning toward a December hike.",
+"swing": "ISM prices paid at 09:00 CT: a print above the 77.9 prior reinforces the roughly 83% December hike pricing and the 4.9% ten-year, and would take the bounce back; a drop toward 75 lets it run.",
 "drivers": [
-"Employment Cost Index 0.8% in line, wages slowing to 0.7% and 3.1% on the year: wage costs are not the inflation problem, which is why the 10-year fell rather than rose on a day with a December hike still priced around 80%.",
-"Intel down roughly 26% to 29% and Amazon down 4% at the open; Reddit, Roblox and Pinterest down 24%, 16% and 6%, so the AI-spending debate is now hitting the names that sell into it, not just the ones that spend.",
-"Brent $113 to $117 after Iran claimed four tankers struck mines near Hormuz and a tanker caught fire off Khasab; crude up more than 2% on the day and more than 10% for October.",
-"German inflation 2.8% versus 3.0% expected, core 2.1%, so the ECB December hike that the euro area GDP beat had cemented is now less certain, and the euro reversed to about 1.1170.",
-"Gold down roughly 3% to about $3,910 and bitcoin near $77,000 after the Binance hack report, so the selloff is not a simple flight into every safe asset."
+"S&P 500 futures up about 0.5% and Nasdaq-100 futures up about 0.8% premarket after the S&P fell 1.82% to 7,580.07 and the Nasdaq 2.86% on Friday.",
+"Brent down 4.5% to $108.38 and WTI down more than 4% to $99.31 on reports the US and Iran are seeking a diplomatic route; Trump told Netanyahu he wants more time for diplomacy before any post-election strike.",
+"Ten-year Treasury yield near 4.93%, a hair off a seven-week low, with the dollar index around 101.70, down 0.27%.",
+"The October 28 FOMC held at 3.75-4.00% on a 10-2 vote with Cook and Hammack dissenting for a hike; futures price about an 83% chance of a 25 bp hike on December 9.",
+"China's official PMI fell to 49.3 (contraction) while the private RatingDog gauge held at 52.0; Eurozone manufacturing PMI beat at 52.7.",
+"Apple reports after the bell; Palantir, Vertex, Marriott, Diamondback, ON Semi and Ryanair also report today, and the midterm elections are Tuesday with Democrats expected to take the House."
 ]
 },
 "what_mattered": [
 {
-"headline": "Employment costs slowed exactly as expected",
-"fact": "Civilian compensation rose 0.8% in the third quarter after 0.9%, wages and salaries 0.7% after 0.9%, benefits 0.9% after 1.0%; compensation up 3.4% on the year, wages 3.1%, benefits 3.9%.",
-"implication": "The labour market is not where inflation is coming from; the December hike case rests on energy and on headline PCE at 3.6%, not on wages, which caps how hawkish the Fed can credibly sound.",
-"source_url": "https://www.bls.gov/news.release/eci.nr0.htm"
+"headline": "Friday's AI selloff was the worst S&P day since June",
+"fact": "S&P 500 -1.82% to 7,580.07, Nasdaq Composite -2.86% to 25,437.00, Dow -1.09% to 51,770.31; Intel fell more than 28% after its report; the Nasdaq lost 5.2% in October and fell a third straight week.",
+"implication": "The market is now pricing AI capex as a cost rather than a growth story; Monday's bounce in AMD (+2.2%), Nvidia (+1.5%) and Micron (+2.7%) premarket is the first test of whether Friday was a flush or the start of a correction.",
+"source_url": "https://portfolio-terminal.com/markets/stock-market-close/october-30-2026"
 },
 {
-"headline": "Amazon and Intel turned AI capex doubt into a tech rout",
-"fact": "Nasdaq down 2.6% and the S&P 500 down 1.5% after the open, with Intel down 26% to 29% on memory prices and weak PC demand and Amazon down 4%; the 10-year fell about 6 basis points to 4.93%.",
-"implication": "Yields falling on an equity selloff rather than on data says the bond market is reading the AI drawdown as a growth risk, which is the first thing in weeks to lean against the December hike.",
-"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
+"headline": "Oil drops more than 4% on Iran diplomacy",
+"fact": "Brent -4.5% to $108.38, WTI -4% to $99.31 after rising more than 10% in October; Rubio said Saturday no decision has been made on renewed strikes and Trump prefers a diplomatic resolution; Qatar talks revived Strait of Hormuz hopes.",
+"implication": "A lower oil price is the single biggest thing that could take the December hike off the table; ING notes that getting past Tuesday's election without strikes may let the risk premium erode, but OPEC+ holding December output flat limits the downside.",
+"source_url": "https://www.thenationalnews.com/business/2026/11/02/oil-prices-slide-more-than-3-as-trump-signals-more-time-for-iran-diplomacy/"
 },
 {
-"headline": "German inflation missed low and dented the ECB December hike",
-"fact": "Preliminary October CPI 2.8% on the year after 3.3%, prices down 0.2% on the month against a 0.1% rise expected, harmonised 2.8% against 3.1% expected, core 2.1% after 2.4%.",
-"implication": "The euro area GDP beat and the German inflation miss pull in opposite directions, so the ECB's December decision now turns on the euro area flash CPI next week rather than on growth.",
-"source_url": "https://www.investing.com/news/economic-indicators/germany-october-inflation-slows-more-than-expected-to-28-4987753"
+"headline": "China's two factory gauges split",
+"fact": "NBS manufacturing PMI 49.3 vs 50.0 consensus (prior 50.1), non-manufacturing 49.7; RatingDog manufacturing PMI 52.0 (prior 52.1) with output at a six-month high and sentiment at a nine-month low.",
+"implication": "State-heavy industry is contracting while private exporters still grow; not enough weakness to force Beijing's hand, and not a drag on US futures this morning.",
+"source_url": "https://www.fxstreet.com/news/chinas-nbs-manufacturing-pmi-falls-to-493-in-october-non-manufacturing-pmi-eases-to-497-202611012335"
 },
 {
-"headline": "Hormuz strikes lifted Brent back toward $117",
-"fact": "Brent hit $117 in Asian trade and was $113 to $116.54 through the European morning after Iran claimed four tankers hit mines and a tanker fire was reported 25 nautical miles off Khasab; crude is up more than 10% in October.",
-"implication": "Oil is the one input that can override the benign wage data in the Fed's December calculus, and it is also the reason headline PCE sits at 3.6% while the ECI runs 3.4%.",
-"source_url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html"
+"headline": "Fed held at 3.75-4.00% with two dissents for a hike",
+"fact": "October 28 FOMC vote 10-2, Cook and Hammack preferred a 25 bp increase; statement says inflation remains elevated and job gains have kept pace with the workforce; CME FedWatch priced about 83% for a December 9 hike after Chair Warsh's press conference.",
+"implication": "Every inflation-flavored print this week, ISM prices paid today and average hourly earnings Friday, is now read as a vote on the December hike.",
+"source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
 },
 {
-"headline": "Canada stalled for a second month",
-"fact": "Real GDP was unchanged in August, below the 0.2% advance estimate, with September's advance read at a 0.1% decline and the third quarter tracking 0.3% after 3.3% annualised in the second.",
-"implication": "The first full month under the 50% US tariffs shows the hit landing in wholesale and energy, which keeps the Bank of Canada on an easing path while the Fed debates a hike.",
-"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261030/dq261030a-eng.htm"
+"headline": "Eurozone factories beat, German shoppers did not",
+"fact": "HCOB Eurozone manufacturing PMI 52.7 vs 52.4 consensus (prior 52.9); Germany 54.2, Spain 52.2, France 49.5, Italy 49.4; German retail sales -2.0% m/m vs +0.4% expected.",
+"implication": "European manufacturing is still absorbing the US tariff shock better than feared, which keeps the ECB on hold rather than easing.",
+"source_url": "https://cnbc.com/2026/11/01/stock-market-today-live-updates.html"
 }
 ],
 "look_at": [
-"Watch whether the 10-year holds under 5% into the close; a yield that keeps falling while stocks fall says the bond market is pricing growth risk from the AI drawdown, not relief on wages.",
-"Watch the Nasdaq around the July lows that the morning note flagged, since a close below them turns an earnings reaction into a trend break for the AI complex.",
-"Watch Brent against $117, the Asian-session high, and any US Central Command response to Iran's four-tanker claim; oil is the only thing that can make today's benign wage data irrelevant for December.",
-"Check the Baker Hughes oil rig count at 12:00 CT against 460; a jump is the first supply response to $110-plus crude and a flat count says producers still do not believe it.",
-"China's October manufacturing PMI at 20:30 CT, consensus 49.9 after 50.1, sets Monday's open for commodities and the Asia tech names already down 2% to 3.5% overnight."
+"ISM prices paid at 09:00 CT against 77.9; it is the only US inflation input before Friday's wage number and the hawks will quote it if it stays near 78.",
+"Whether the chip bounce holds past the first hour; AMD, Nvidia and Micron are up 1.5% to 2.7% premarket after a week in which 47 AI and chip stocks lost about $5 trillion, and a fade by midday says the correction is not done.",
+"Oil through the session; WTI back under $100 with Brent at $108 is the relief trade, and any headline on post-election strikes reverses it.",
+"Apple after the close; the first mega-cap print since Friday's rout, and the market's appetite for capex talk will be judged on its guide and its AI spending commentary.",
+"The ten-year around 4.93% and the six-month bill at 4.21%; if yields fall with oil, the December hike odds (about 83%) start to slip, and that matters more for equities than the ISM headline."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "About 80% for a 25 basis point hike at the December 8-9 meeting (CME FedWatch 79.6% hike, 20.4% hold, as reported the morning of October 30; above 80% per FXStreet after the October 28 hold), with the ECI print giving no reason to move it.",
+"market_pricing": "About 83% probability of a 25 bp hike to 4.00-4.25% at the December 8-9 meeting per CME FedWatch after the October 28 press conference (Schwab); aggregator sites show roughly 73% as of November 1. Current target range 3.75-4.00%.",
 "speakers_today": [
-"None on the Federal Reserve Board calendar for October 30; the Board's schedule shows no speech or event through November 3 after the October 27-28 meeting and Chair Warsh's press conference."
+"10:15 CT: Chicago Fed President Austan Goolsbee moderates a Q&A with BIS Deputy General Manager Andrea Maechler at the Chicago Fed Financial Markets Group fall conference (not a policy speech)."
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7646.75,
-"change_pct": -1.39
+"value": 7654.0,
+"change_pct": null
 },
 {
 "label": "Nasdaq futures",
-"value": 28751.5,
-"change_pct": -2.74
+"value": 28776.5,
+"change_pct": null
 },
 {
 "label": "Russell 2000 futures",
-"value": 2828.9,
-"change_pct": -1.34
+"value": 2842.7,
+"change_pct": null
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7622.57,
-"change_pct": -1.27
+"value": 7580.07,
+"change_pct": -1.82
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25644.71,
-"change_pct": -2.06
+"value": 25437.0,
+"change_pct": -2.86
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.49,
-"change_pct": -1.08
+"change_pct": -1.2
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": -0.51
+"change_pct": -0.38
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.98,
-"change_pct": -0.06
+"value": 101.66,
+"change_pct": null
 },
 {
 "label": "WTI crude $",
-"value": 104.26,
-"change_pct": 2.22
+"value": 99.41,
+"change_pct": null
 },
 {
 "label": "Brent crude $",
-"value": 113.48,
-"change_pct": -1.22
+"value": 108.49,
+"change_pct": null
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.87,
-"change_pct": -2.78
+"value": 2.93,
+"change_pct": null
 },
 {
 "label": "Gold $",
-"value": 3915.7,
-"change_pct": -2.87
+"value": 3913.6,
+"change_pct": null
 },
 {
 "label": "Bitcoin $",
-"value": 76901.68,
-"change_pct": -1.12
+"value": 77752.58,
+"change_pct": -0.63
 },
 {
 "label": "Nikkei 225",
-"value": 63290.11,
-"change_pct": -2.12
+"value": 63081.86,
+"change_pct": -0.33
 },
 {
 "label": "Hang Seng",
-"value": 23294.42,
-"change_pct": 1.46
+"value": 23393.32,
+"change_pct": 0.42
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6147.94,
-"change_pct": -0.95
+"value": 6154.92,
+"change_pct": 0.39
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 156.7,
-"change_pct": -0.69
+"value": 155.98,
+"change_pct": -1.15
 },
 {
 "label": "VIX",
-"value": 19.95,
-"change_pct": 15.99
-},
-{
-"label": "2Y Treasury yield %",
-"value": 4.75,
-"change_pct": null
+"value": 18.93,
+"change_pct": -2.52
 }
 ],
 "runs": [
 {
 "slot": "morning",
-"at": "2026-10-30T05:37:21-05:00",
-"rows": 11
-},
-{
-"slot": "midday",
-"at": "2026-10-30T09:48:25-05:00",
-"rows": 11
+"at": "2026-11-02T05:35:21-06:00",
+"rows": 15
 }
 ],
 "themes": [
-"Wages are not the inflation problem: compensation 3.4% on the year and wages 3.1% and slowing, against headline PCE at 3.6%, so the December hike debate is an energy debate and oil at $113 to $117 is the whole argument.",
-"The AI-spending worry has spread from the spenders to the suppliers: Intel down 26% to 29% and the Nasdaq down 2.6% while the 10-year fell to 4.93%, the first day in weeks that lower yields came from fear rather than from softer data.",
-"The ECB December hike lost its certainty: euro area GDP beat at 0.4% in the morning, then German inflation missed at 2.8% against 3.0% with core 2.1%, and the euro gave the whole gain back."
+"The Fed debate has flipped from when to cut to whether to hike: a 10-2 hold on October 28 with two dissents for a hike and about 83% December hike pricing, while the ten-year sits near 4.93%.",
+"AI capex is now being priced as a cost: the S&P fell 1.82% and the Nasdaq 2.86% on Friday, Intel lost more than 28% on a cash-burn warning, and the Nasdaq dropped 5.2% in October.",
+"Oil's war premium is being tested by diplomacy rather than supply: Brent fell 4.5% to $108 on US-Iran talk reports after a 10%-plus October, with the midterms tomorrow the gate for any strike decision."
 ],
-"snapshot_at": "2026-10-30T09:48:28-05:00"
+"snapshot_at": "2026-11-02T05:35:23-06:00"
 }
 }
