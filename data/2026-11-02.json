@@ -14398,311 +14398,311 @@
 }
 ],
 "macro": {
-"date": "2026-11-03",
+"date": "2026-11-04",
 "prints": [
 {
-"time_ct": "01:30",
-"event": "Switzerland CPI y/y",
+"time_ct": "04:00",
+"event": "Euro area flash HICP (annual inflation)",
 "period": "October",
-"consensus": "1.2%",
-"actual": "1.5%",
-"prior": "1.0%",
-"unit": "%",
-"surprise": "+0.3 pp",
-"read": "Hotter than expected; minor for US futures but another inflation upside surprise on the day.",
-"source_url": "https://www.xtb.com/en/market-analysis/economic-calendar-us-midterms-jolts-and-factory-orders-take-center-stage-03-11-2026"
+"consensus": "4.0%",
+"actual": "4.0%",
+"prior": "3.8%",
+"unit": "% y/y",
+"surprise": "0.0 pp",
+"read": "Headline at a three-year high on energy (+20.8% y/y), core steady at 2.5%, so no new shock for US rates but the euro firmed.",
+"source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
 },
 {
-"time_ct": "05:00",
-"event": "RCM/TIPP Economic Optimism Index",
-"period": "November",
-"consensus": "46.2",
-"actual": "48.5",
-"prior": "46.8",
+"time_ct": "04:00",
+"event": "Euro area flash HICP excluding energy, food, alcohol and tobacco (core)",
+"period": "October",
+"consensus": null,
+"actual": "2.5%",
+"prior": "2.5%",
+"unit": "% y/y",
+"surprise": null,
+"read": "No consensus found that agrees with Eurostat's prior; reports call it in line, with core m/m 0.3% vs 0.2% in September.",
+"source_url": "https://www.fxstreet.com/news/eurozone-flash-hicp-grows-faster-by-4-yoy-in-october-as-expected-202611041002"
+},
+{
+"time_ct": "06:00",
+"event": "MBA Mortgage Applications",
+"period": "week ending October 30",
+"consensus": null,
+"actual": null,
+"prior": "+3.4%",
+"unit": "w/w %",
+"surprise": null,
+"read": "No consensus found; the 30-year contract rate was 7.37% last week, so housing demand stays rate-capped.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
+},
+{
+"time_ct": "07:15",
+"event": "ADP National Employment Report",
+"period": "October",
+"consensus": "+67k",
+"actual": null,
+"prior": "+90k",
+"unit": "k",
+"surprise": null,
+"read": "Calendars range 62.5k to 70k; a print under 50k feeds the slowing-jobs story two days before payrolls.",
+"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+},
+{
+"time_ct": "07:30",
+"event": "U.S. International Trade in Goods and Services",
+"period": "September",
+"consensus": "-$107.9B",
+"actual": null,
+"prior": "-$105.6B",
+"unit": "$B",
+"surprise": null,
+"read": "A wider gap trims third-quarter net exports at the margin; rarely a market mover alone.",
+"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+},
+{
+"time_ct": "07:30",
+"event": "Treasury Quarterly Refunding Statement",
+"period": "November-January quarter",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "statement",
+"surprise": null,
+"read": "No consensus found; with the 10-year near 4.93% and the 30-year above 5.3%, any hint of larger coupon sizes pushes long yields up.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
+},
+{
+"time_ct": "08:45",
+"event": "S&P Global US Services PMI (final)",
+"period": "October",
+"consensus": "57.9",
+"actual": null,
+"prior": "58.8",
 "unit": "index",
-"surprise": "+2.3",
-"read": "Consumer optimism beat and rose for the month, though the index is still below the 50 neutral line.",
-"source_url": "https://tradingeconomics.com/united-states/economic-optimism-index"
+"surprise": null,
+"read": "Consensus equals the flash reading; a revision of more than half a point either way would be the only news.",
+"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
 },
 {
-"time_ct": "05:00",
-"event": "Logistics Managers' Index",
+"time_ct": "08:45",
+"event": "S&P Global US Composite PMI (final)",
 "period": "October",
-"consensus": null,
-"actual": "70.7",
-"prior": "70.2",
+"consensus": "57.6",
+"actual": null,
+"prior": "58.4",
 "unit": "index",
 "surprise": null,
-"read": "No consensus found; logistics activity still running very hot above 70, consistent with Monday's strong ISM manufacturing print.",
-"source_url": "https://tradingeconomics.com/united-states/lmi-logistics-managers-index-current"
-},
-{
-"time_ct": "07:55",
-"event": "Redbook retail sales y/y",
-"period": "week of Oct 31",
-"consensus": null,
-"actual": "10.4%",
-"prior": "9.3%",
-"unit": "%",
-"surprise": null,
-"read": "No consensus found; same-store sales accelerated to a double-digit pace into month end, no sign of the consumer slowing.",
-"source_url": "https://tradingeconomics.com/united-states/redbook-index"
+"read": "Still a strong expansion reading; a revision is unlikely to move futures.",
+"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
 },
 {
 "time_ct": "09:00",
-"event": "Job Openings and Labor Turnover Survey, job openings",
-"period": "September",
-"consensus": "7.10M",
-"actual": "7.523M",
-"prior": "7.190M (revised from 7.079M)",
-"unit": "M",
-"surprise": "+0.42M",
-"read": "Openings jumped 333k to 7.52M with August revised up 111k, well above every consensus (Reuters 7.10M, Dow Jones 7.125M); the rate rose to 4.5% from 4.3%, driven by state and local government, and it feeds the December-hike camp.",
-"source_url": "https://www.bls.gov/news.release/jolts.nr0.htm"
-},
-{
-"time_ct": "09:00",
-"event": "JOLTS quits",
-"period": "September",
-"consensus": "3.05M",
-"actual": "3.365M",
-"prior": "3.044M (revised)",
-"unit": "M",
-"surprise": "+0.32M",
-"read": "Quits rose 321k to a one-and-a-half-year high with the rate up to 2.1% from 1.9%, almost all of it accommodation and food services (+197k); hires rose 131k to 5.40M and layoffs fell 127k to 1.64M, so the labor market read hot on every line.",
-"source_url": "https://www.bls.gov/news.release/jolts.nr0.htm"
-},
-{
-"time_ct": "09:00",
-"event": "Manufacturers' shipments, inventories and orders (factory orders) m/m",
-"period": "September",
-"consensus": "+1.2%",
-"actual": "+1.8%",
-"prior": "+0.3% (revised from +0.1%)",
-"unit": "m/m %",
-"surprise": "+0.6 pp",
-"read": "Third straight monthly gain, with nondurables up 1.8% as well as durables, shipments up 1.3% and unfilled orders up 0.9%; the beat is broad rather than an aircraft artifact.",
-"source_url": "https://www.census.gov/manufacturing/m3/prel/pdf/s-i-o.pdf"
-},
-{
-"time_ct": "09:00",
-"event": "Factory orders ex-transportation m/m",
-"period": "September",
-"consensus": "+0.4%",
-"actual": "+1.3%",
-"prior": "+0.4% (revised)",
-"unit": "m/m %",
-"surprise": "+0.9 pp",
-"read": "The line with information beat by nearly a point (Investing.com had consensus at +0.5%), confirming the ISM new-orders strength; the petroleum and coal products line, up 5.2% on price, flatters the nondurable side.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "09:00",
-"event": "Durable goods orders m/m, final",
-"period": "September",
-"consensus": "+1.8%",
-"actual": "+1.9%",
-"prior": "+1.8% (advance)",
-"unit": "m/m %",
-"surprise": "+0.1 pp",
-"read": "Revised up a tenth from the advance print; transportation equipment up 4.6% led, durable shipments unchanged at +0.9%.",
-"source_url": "https://www.census.gov/manufacturing/m3/prel/pdf/s-i-o.pdf"
-},
-{
-"time_ct": "10:30",
-"event": "Treasury 6-week bill auction",
-"period": "weekly",
-"consensus": null,
+"event": "ISM Services PMI (Services ISM Report On Business)",
+"period": "October",
+"consensus": "54.8",
 "actual": null,
-"prior": "3.950%",
-"unit": "%",
+"prior": "54.9",
+"unit": "index",
 "surprise": null,
-"read": "Not yet auctioned at the time of this update; routine bill supply, the refunding announcement is Wednesday.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "The headline matters less than prices paid (prior 74.0) and employment (prior 50.1); hot prices with soft jobs is the stagflation mix that hurt bonds in October.",
+"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
 },
 {
-"time_ct": "13:00",
-"event": "Total vehicle sales (annualized)",
+"time_ct": "09:00",
+"event": "ISM Services Prices Index",
 "period": "October",
 "consensus": null,
 "actual": null,
-"prior": "16.0M",
-"unit": "M units SAAR",
+"prior": "74.0",
+"unit": "index",
 "surprise": null,
-"read": "No consensus clearly found; Trading Economics prints 15.9M in its forecast column; released through the afternoon as automakers report.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "No consensus found; with oil near $97 WTI, a reading above 74 keeps rate-cut hopes on hold.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
 },
 {
-"time_ct": "15:30",
-"event": "API weekly crude oil inventories",
-"period": "week of Oct 30",
+"time_ct": "09:00",
+"event": "ISM Services Employment Index",
+"period": "October",
 "consensus": null,
 "actual": null,
-"prior": "-2.031M bbl",
+"prior": "50.1",
+"unit": "index",
+"surprise": null,
+"read": "No consensus found; a drop below 50 together with a weak ADP would steer Friday's payrolls expectations lower.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
+},
+{
+"time_ct": "09:30",
+"event": "EIA Weekly Petroleum Status Report: crude oil inventories",
+"period": "week ending October 30",
+"consensus": "+1.8M bbl",
+"actual": null,
+"prior": "-1.892M bbl",
 "unit": "M bbl",
 "surprise": null,
-"read": "No consensus found; matters more than usual with WTI swinging 7% a day on Iran headlines.",
-"source_url": "https://www.xtb.com/en/market-analysis/economic-calendar-us-midterms-jolts-and-factory-orders-take-center-stage-03-11-2026"
+"read": "Industry (API) data showed a 5.27M barrel draw; confirmation keeps Brent above $100 and inflation worries alive.",
+"source_url": "https://xtb.com/cy/market-analysis/news-and-research/economic-calendar-european-inflation-and-us-adp-in-focus"
 },
 {
-"time_ct": "21:30 (Mon Nov 2)",
-"event": "Reserve Bank of Australia monetary policy decision (cash rate target)",
-"period": "November meeting",
+"time_ct": "10:00",
+"event": "Atlanta Fed GDPNow (Q4)",
+"period": "Q4 2026",
 "consensus": null,
-"actual": "4.85%",
-"prior": "4.60%",
-"unit": "%",
+"actual": null,
+"prior": "3.7%",
+"unit": "% saar",
 "surprise": null,
-"read": "A 25 bp hike on a 6-3 vote with inflation 'broadly based' and seen above 3% for a year; no consensus found, but it adds to the global tightening tone before the US open.",
-"source_url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
+"read": "Updates after ISM and trade; the Atlanta Fed page did not render, prior taken from a calendar.",
+"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
 }
 ],
 "read": {
-"bias": "chop",
-"confidence": "medium",
-"call": "Every US print beat hot (openings 7.52M, quits at a 1.5-year high, core factory orders +1.3%), which pushes yields up and locks in December-hike pricing, but with the midterm vote and Iran headlines swinging oil 7% a day the stock tape stays two-way until results land.",
-"swing": "Oil on the Iran headlines: a confirmed de-escalation knocks WTI back under $95 and lets stocks rally through the hot data, while a fresh strike puts the 10-year back at 5%.",
+"bias": "higher",
+"confidence": "low",
+"call": "Futures erased an overnight election selloff and the bias is a modestly higher open driven by AMD, Arista and Super Micro beats, but the rebound is fragile until ISM prices and ADP land.",
+"swing": "ISM Services prices and employment at 09:00 CT: hot prices with soft jobs would push yields back up and undo the chip rebound.",
 "drivers": [
-"JOLTS openings 7.523M vs 7.10M consensus with August revised up 111k; the openings rate rose to 4.5% and layoffs fell to 1.64M, nothing in it for the slowdown camp.",
-"Quits jumped 321k to 3.365M (rate 2.1%), a wage-pressure signal that sits badly with a Fed already hiking into oil-driven inflation.",
-"Factory orders +1.8% and ex-transportation +1.3% vs +0.4% consensus, stacked on Monday's strong ISM; the manufacturing rebound is real and broad.",
-"Redbook same-store sales accelerated to +10.4% y/y, so the consumer is not cracking either.",
-"10-year up 4 bp to 4.935% and 2-year up 2 bp to 4.608% before the data; December hike odds were 77% on CME FedWatch this morning per Schwab and the data only push them higher.",
-"Midterm Election Day plus Apple's 45-46% gross margin guide: Dow futures opened down 323 points while the Nasdaq held, so sector rotation rather than a directional tape."
+"Democrats won the House and Senate; Nasdaq-100 futures fell as much as 2.4% overnight and then recovered to positive.",
+"AI hardware beats (AMD +6% premarket, Arista +12% and Super Micro +9% after hours) after the AI group fell 15% in October.",
+"Yields lower (10-year about 4.93%, 2-year about 4.60%) and dollar index down about 0.4% to 101.3 support stocks.",
+"Oil stays high (Brent about $104) with an API crude draw, keeping the inflation side of the Fed's problem live."
 ]
 },
 "what_mattered": [
 {
-"headline": "Job openings jump to 7.52 million, quits at a 1.5-year high",
-"fact": "Openings rose 333k to 7.523M (rate 4.5%) vs 7.10M consensus; August revised up to 7.190M; quits up 321k to 3.365M, rate 2.1% from 1.9%; hires +131k to 5.402M; layoffs -127k to 1.641M.",
-"implication": "The labor market is re-tightening, not cooling; it removes the last argument against a December hike and keeps the 2-year bid under yields. Caveat: JOLTS response rates are low and the series revises hard.",
-"source_url": "https://www.bls.gov/news.release/jolts.nr0.htm"
+"headline": "Democrats take both chambers of Congress",
+"fact": "Nasdaq-100 futures fell as much as 2.4% and S&P futures 1.4% overnight before recovering; by 6:25 a.m. ET Nasdaq-100 futures were up about 929 points from the overnight low of 27,615.75.",
+"implication": "Split government is mostly priced; the market is treating policy gridlock as manageable and refocusing on earnings.",
+"source_url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
 },
 {
-"headline": "Factory orders beat on a broad base",
-"fact": "New orders +1.8% to $677.2B vs +1.2% consensus; ex-transportation +1.3% vs +0.4%; nondurables +1.8%; durables revised up to +1.9%; shipments +1.3%; unfilled orders +0.9% to $1,623.8B.",
-"implication": "Confirms the ISM manufacturing rebound and lifts the Q3/Q4 GDP tracking for business investment; part of the nondurable gain is petroleum price (petroleum and coal products +5.2%), so inflation and activity are hard to separate.",
-"source_url": "https://www.census.gov/manufacturing/m3/prel/pdf/s-i-o.pdf"
+"headline": "AI hardware prints beat",
+"fact": "AMD adjusted EPS $2.09 vs $1.95 estimate; Arista guided Q4 EPS $1.26-$1.30 vs $1.15; Super Micro guided FY2027 sales $72B-$82B vs $69.17B.",
+"implication": "Counters the October AI-capex scare; whether it holds through the cash session decides whether tech leads or lags today.",
+"source_url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
 },
 {
-"headline": "Oil whipsaws on a US strike on Iran's Qeshm Island, then diplomacy hopes",
-"fact": "WTI spiked to about $97 and Brent near $105 overnight after Iran vowed to respond 'forcefully', lifting the 10-year to roughly 5%; crude then gave it back on talk of a settlement, with the 10-year at 4.935% by the US morning.",
-"implication": "Oil remains the single biggest driver of rates and the inflation narrative; every $5 swing in WTI is moving the long end more than the data are.",
-"source_url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+"headline": "Asian chip stocks hit hard before the US rebound",
+"fact": "Nikkei 225 closed -1.42% at 62,188.63 (down 4.45% intraday); Tokyo Electron -7.04%, Advantest -8%+, SK Hynix -5.08%.",
+"implication": "The overnight AI selloff was global, not just election-driven; watch whether US chips hold green.",
+"source_url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
 },
 {
-"headline": "Apple sold on a 45-46% gross margin guide despite the beat",
-"fact": "EPS $2.10 beat; gross margin guided to 45-46% on memory chip costs; shares down about 4% premarket, Dow futures down 323 points, Nasdaq futures higher.",
-"implication": "The memory-cost squeeze is now a margin story for the whole hardware complex; the rotation out of mega-cap tech into equal-weight continues (61% of S&P 500 names above their 50-day, from 20% a month ago).",
-"source_url": "https://www.schwab.com/learn/story/stock-market-update-open"
+"headline": "Euro area inflation at a three-year high",
+"fact": "Flash HICP 4.0% y/y in October vs 3.8% in September, energy +20.8%, core 2.5%.",
+"implication": "Energy-led inflation is global; it keeps central banks cautious and reinforces the oil-to-yields link for the US.",
+"source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+},
+{
+"headline": "Oil firm, gold jumps",
+"fact": "Brent +0.7% to $104.36, WTI +0.7% to $96.72; API crude draw 5.27M barrels vs an expected build; spot gold +2.93% to $4,043.",
+"implication": "The gold jump suggests investors are buying a hedge against political and inflation risk even as stocks bounce.",
+"source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-plunged-democrats-102707086.html"
 }
 ],
 "look_at": [
-"The 2-year yield and December hike odds after the JOLTS and factory orders beats: anything that moves pricing toward a fully priced December hike shows the data, not oil, is driving the front end today.",
-"WTI around the $95 to $97 band: a close back above $97 on Iran retaliation reverses the morning's bond relief and puts the 10-year back at 5%.",
-"The 6-week bill auction at 10:30 CT and Wednesday's refunding announcement for any sign of bill-heavy financing with the 10-year near 5%.",
-"Total vehicle sales through the afternoon against the 16.0M prior; a hold above 16M would make four hot consumer datapoints in two days (ISM, Redbook, JOLTS quits, autos).",
-"Midterm results tonight: a Democratic House with a Senate toss-up is Schwab's base case, and a 'buy on the news' bounce needs no surprise there.",
-"Thursday's weekly claims and Friday's October payrolls (Reuters consensus +65k, unemployment 4.2%) are what decide whether the JOLTS jump is a trend or a low-response-rate artifact."
+"ISM Services prices (prior 74.0) and employment (prior 50.1) at 09:00 CT: they decide whether yields resume rising.",
+"ADP at 07:15 CT against a 62.5k-70k consensus range: it sets the tone for Friday's payrolls.",
+"Treasury refunding at 07:30 CT: any increase in coupon sizes hits the 30-year, now above 5.3%.",
+"Whether chip names hold their premarket gains after the Asian selloff, with Arm and Qualcomm reporting after the close.",
+"EIA crude at 09:30 CT: a draw near the API's 5.27M barrels keeps Brent above $100."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "CME FedWatch put December hike odds at 77% on the morning of Nov 3 (Schwab), before the JOLTS and factory orders beats; a post-data reading was not published at the time of this update.",
-"speakers_today": [
-"None listed on the Board of Governors calendar for Nov 3; one morning note (Quant Partners) lists Chicago Fed President Goolsbee at 10:15 CT but this could not be confirmed on the Chicago Fed site.",
-"Chicago Fed economist Bart Hobijn speaks on labor market insiders and outsiders (Chicago Fed events page); Hammack and Barkin are Thursday, Williams, Musalem and Bowman Friday."
-]
+"market_pricing": null,
+"speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7595.0,
-"change_pct": 0.27
+"value": 7679.25,
+"change_pct": 1.09
 },
 {
 "label": "Nasdaq futures",
-"value": 28310.5,
-"change_pct": 0.65
+"value": 28577.25,
+"change_pct": 0.96
 },
 {
 "label": "Russell 2000 futures",
-"value": 2837.2,
-"change_pct": 0.69
+"value": 2862.8,
+"change_pct": 1.34
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7576.53,
-"change_pct": 0.47
+"value": 7568.92,
+"change_pct": 0.36
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25375.14,
-"change_pct": 0.84
+"value": 25372.01,
+"change_pct": 0.83
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": 1.31
+"change_pct": 1.19
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 1.06
+"change_pct": 1.04
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.91,
-"change_pct": 0.16
+"value": 101.45,
+"change_pct": -0.42
 },
 {
 "label": "WTI crude $",
-"value": 96.43,
-"change_pct": -0.03
+"value": 95.34,
+"change_pct": -0.78
 },
 {
 "label": "Brent crude $",
-"value": 103.83,
-"change_pct": -0.9
+"value": 102.39,
+"change_pct": -1.17
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.87,
-"change_pct": 0.39
+"value": 2.91,
+"change_pct": 0.69
 },
 {
 "label": "Gold $",
-"value": 3936.0,
-"change_pct": -0.85
+"value": 4052.5,
+"change_pct": 2.84
 },
 {
 "label": "Bitcoin $",
-"value": 77508.71,
-"change_pct": 1.08
+"value": 78553.56,
+"change_pct": 1.56
 },
 {
 "label": "Nikkei 225",
-"value": 63081.86,
-"change_pct": -0.33
+"value": 62188.63,
+"change_pct": -1.42
 },
 {
 "label": "Hang Seng",
-"value": 23525.97,
-"change_pct": 0.57
+"value": 23919.5,
+"change_pct": 1.67
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6164.12,
-"change_pct": -0.19
+"value": 6258.2,
+"change_pct": 1.85
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 156.24,
-"change_pct": 2.76
+"value": 154.97,
+"change_pct": 1.92
 },
 {
 "label": "VIX",
-"value": 20.56,
-"change_pct": -2.79
+"value": 18.26,
+"change_pct": -12.34
 },
 {
 "label": "2Y Treasury yield %",
@@ -14713,20 +14713,14 @@
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-03T05:35:56-06:00",
-"rows": 13
-},
-{
-"slot": "midday",
-"at": "2026-11-03T09:50:08-06:00",
+"at": "2026-11-04T05:35:49-06:00",
 "rows": 13
 }
 ],
 "themes": [
-"The 'labor market is cooling' thesis took a direct hit: openings 7.52M vs 7.10M expected with August revised up and quits at a 1.5-year high, the first clean re-acceleration in the JOLTS since the Fed began hiking in September.",
-"Manufacturing is no longer the weak link: ex-transportation factory orders +1.3% on top of Monday's ISM beat, the strongest two-day run of factory data this year, so the hike debate is now about demand strength as well as oil.",
-"Oil versus data for control of the 10-year: Iran headlines moved the 10-year from 5% to 4.935% in a morning while the hot prints pushed the other way, and the net was yields up 4 bp."
+"Split government is back: Democrats won both chambers, and the 2.4% overnight Nasdaq-100 drop retraced within hours, so markets treat gridlock as neutral to slightly positive.",
+"The AI-capex debate turned back toward the bulls on AMD, Arista and Super Micro beats, after the AI group fell 15% in October and more than 24% from its peak."
 ],
-"snapshot_at": "2026-11-03T09:50:11-06:00"
+"snapshot_at": "2026-11-04T05:35:52-06:00"
 }
 }
