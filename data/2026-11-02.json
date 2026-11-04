@@ -14433,7 +14433,7 @@
 "prior": "+3.4%",
 "unit": "w/w %",
 "surprise": null,
-"read": "No consensus found; the 30-year contract rate was 7.37% last week, so housing demand stays rate-capped.",
+"read": "No consensus found and the actual could not be confirmed from a page we opened; the 30-year contract rate was 7.37% the prior week, so housing demand stays rate-capped.",
 "source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
 },
 {
@@ -14441,108 +14441,108 @@
 "event": "ADP National Employment Report",
 "period": "October",
 "consensus": "+67k",
-"actual": null,
-"prior": "+90k",
+"actual": "+86k",
+"prior": "+86k (revised from +90k)",
 "unit": "k",
-"surprise": null,
-"read": "Calendars range 62.5k to 70k; a print under 50k feeds the slowing-jobs story two days before payrolls.",
-"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+"surprise": "+19k",
+"read": "A beat on every calendar (Reuters 69k, Dow Jones 75k) with job-changer pay growth at its fastest since March 2024, which argues against a soft Friday payrolls and keeps the December hike on the table.",
+"source_url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4999417"
 },
 {
 "time_ct": "07:30",
 "event": "U.S. International Trade in Goods and Services",
 "period": "September",
 "consensus": "-$107.9B",
-"actual": null,
-"prior": "-$105.6B",
+"actual": "-$105.0B",
+"prior": "-$105.7B (revised from -$105.6B)",
 "unit": "$B",
-"surprise": null,
-"read": "A wider gap trims third-quarter net exports at the margin; rarely a market mover alone.",
-"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+"surprise": "+$2.9B (narrower)",
+"read": "Exports rose $5.8B against $5.2B for imports, so the gap narrowed instead of widening; a small plus for third-quarter net exports, not a market mover.",
+"source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026"
 },
 {
 "time_ct": "07:30",
 "event": "Treasury Quarterly Refunding Statement",
 "period": "November-January quarter",
 "consensus": null,
-"actual": null,
+"actual": "$125B refunding: 3-year $58B, 10-year $42B, 30-year $25B; coupon sizes unchanged",
 "prior": null,
 "unit": "statement",
 "surprise": null,
-"read": "No consensus found; with the 10-year near 4.93% and the 30-year above 5.3%, any hint of larger coupon sizes pushes long yields up.",
-"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
+"read": "No consensus found in a single number; sizes held and the 'at least' wording was dropped from the guidance, while the $3B long-end cut some dealers expected did not come, so no relief and no new supply shock for long yields.",
+"source_url": "https://home.treasury.gov/news/press-releases/sb0678/"
 },
 {
 "time_ct": "08:45",
 "event": "S&P Global US Services PMI (final)",
 "period": "October",
 "consensus": "57.9",
-"actual": null,
+"actual": "56.1",
 "prior": "58.8",
 "unit": "index",
-"surprise": null,
-"read": "Consensus equals the flash reading; a revision of more than half a point either way would be the only news.",
-"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+"surprise": "-1.8",
+"read": "A large downward revision from the flash, with business optimism at its lowest since May while service prices rose at one of the fastest rates in four years.",
+"source_url": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/"
 },
 {
 "time_ct": "08:45",
 "event": "S&P Global US Composite PMI (final)",
 "period": "October",
 "consensus": "57.6",
-"actual": null,
+"actual": "55.9",
 "prior": "58.4",
 "unit": "index",
-"surprise": null,
-"read": "Still a strong expansion reading; a revision is unlikely to move futures.",
-"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+"surprise": "-1.7",
+"read": "Still solid expansion, but the revision takes some heat out of the strong-fourth-quarter story.",
+"source_url": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/"
 },
 {
 "time_ct": "09:00",
 "event": "ISM Services PMI (Services ISM Report On Business)",
 "period": "October",
 "consensus": "54.8",
-"actual": null,
+"actual": "54.5",
 "prior": "54.9",
 "unit": "index",
-"surprise": null,
-"read": "The headline matters less than prices paid (prior 74.0) and employment (prior 50.1); hot prices with soft jobs is the stagflation mix that hurt bonds in October.",
-"source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
+"surprise": "-0.3",
+"read": "A small miss, with business activity down to 53.8 from 56.5 and new orders to 55.9 from 59.8; tariffs and fuel costs were the most-cited supply chain issues.",
+"source_url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
 },
 {
 "time_ct": "09:00",
 "event": "ISM Services Prices Index",
 "period": "October",
 "consensus": null,
-"actual": null,
+"actual": "73.0",
 "prior": "74.0",
 "unit": "index",
 "surprise": null,
-"read": "No consensus found; with oil near $97 WTI, a reading above 74 keeps rate-cut hopes on hold.",
-"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
+"read": "No consensus found; a one-point dip still leaves prices near their highest levels, with respondents citing diesel and tariffs, so not enough to ease hike fears.",
+"source_url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
 },
 {
 "time_ct": "09:00",
 "event": "ISM Services Employment Index",
 "period": "October",
 "consensus": null,
-"actual": null,
+"actual": "51.4",
 "prior": "50.1",
 "unit": "index",
 "surprise": null,
-"read": "No consensus found; a drop below 50 together with a weak ADP would steer Friday's payrolls expectations lower.",
-"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-02"
+"read": "No consensus found; employment moved further above 50, and together with the ADP beat it points away from a weak Friday payrolls.",
+"source_url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
 },
 {
 "time_ct": "09:30",
 "event": "EIA Weekly Petroleum Status Report: crude oil inventories",
 "period": "week ending October 30",
-"consensus": "+1.8M bbl",
-"actual": null,
+"consensus": "+0.877M bbl",
+"actual": "-0.865M bbl",
 "prior": "-1.892M bbl",
 "unit": "M bbl",
-"surprise": null,
-"read": "Industry (API) data showed a 5.27M barrel draw; confirmation keeps Brent above $100 and inflation worries alive.",
-"source_url": "https://xtb.com/cy/market-analysis/news-and-research/economic-calendar-european-inflation-and-us-adp-in-focus"
+"surprise": "-1.742M bbl",
+"read": "A third straight draw, plus a 3.565M barrel distillate draw against 0.1M expected, keeps diesel the pressure point even with WTI off about $2 to $94 on the day (earlier calendars had consensus at +1.8M).",
+"source_url": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/"
 },
 {
 "time_ct": "10:00",
@@ -14553,136 +14553,135 @@
 "prior": "3.7%",
 "unit": "% saar",
 "surprise": null,
-"read": "Updates after ISM and trade; the Atlanta Fed page did not render, prior taken from a calendar.",
+"read": "Not yet updated; the narrower trade gap and softer ISM activity pull in opposite directions. The Atlanta Fed page did not render, so the prior comes from a calendar.",
 "source_url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-services-pmi-and-oil-inventories-among-data-due-wednesday-93CH-4996240"
 }
 ],
 "read": {
 "bias": "higher",
-"confidence": "low",
-"call": "Futures erased an overnight election selloff and the bias is a modestly higher open driven by AMD, Arista and Super Micro beats, but the rebound is fragile until ISM prices and ADP land.",
-"swing": "ISM Services prices and employment at 09:00 CT: hot prices with soft jobs would push yields back up and undo the chip rebound.",
+"confidence": "medium",
+"call": "Stocks lean higher on the Democratic sweep of Congress and lower yields, and the morning data was mixed enough not to flip that: a hot ADP and firmer ISM jobs against softer services activity and slightly cooler ISM prices.",
+"swing": "Friday's October payrolls (consensus about 63-65k); a beat after today's ADP would push December hike odds above 80% and take back the yield relief.",
 "drivers": [
-"Democrats won the House and Senate; Nasdaq-100 futures fell as much as 2.4% overnight and then recovered to positive.",
-"AI hardware beats (AMD +6% premarket, Arista +12% and Super Micro +9% after hours) after the AI group fell 15% in October.",
-"Yields lower (10-year about 4.93%, 2-year about 4.60%) and dollar index down about 0.4% to 101.3 support stocks.",
-"Oil stays high (Brent about $104) with an API crude draw, keeping the inflation side of the Fed's problem live."
+"Midterm result: Democrats took both chambers, so the market reads less fiscal expansion; the 10-year traded near 4.93%, the 2-year near 4.60%, and gold rose about 2.9% to roughly $4,041.",
+"ADP +86k vs +67k and ISM employment 51.4 vs 50.1 argue for a firm labor market.",
+"Services momentum cooled: ISM 54.5 with new orders down 3.9 points, and S&P final services cut to 56.1 from 57.9.",
+"Inflation pressure persists: ISM prices 73.0 and a 3.6M barrel distillate draw."
 ]
 },
 "what_mattered": [
 {
-"headline": "Democrats take both chambers of Congress",
-"fact": "Nasdaq-100 futures fell as much as 2.4% and S&P futures 1.4% overnight before recovering; by 6:25 a.m. ET Nasdaq-100 futures were up about 929 points from the overnight low of 27,615.75.",
-"implication": "Split government is mostly priced; the market is treating policy gridlock as manageable and refocusing on earnings.",
-"source_url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+"headline": "ADP beat",
+"fact": "Private payrolls +86k vs +67k consensus; the three-month average rose to 69k from 55k.",
+"implication": "Raises the bar for a soft Friday jobs report and keeps the December hike near 80% priced.",
+"source_url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4999417"
 },
 {
-"headline": "AI hardware prints beat",
-"fact": "AMD adjusted EPS $2.09 vs $1.95 estimate; Arista guided Q4 EPS $1.26-$1.30 vs $1.15; Super Micro guided FY2027 sales $72B-$82B vs $69.17B.",
-"implication": "Counters the October AI-capex scare; whether it holds through the cash session decides whether tech leads or lags today.",
-"source_url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+"headline": "ISM services: slower activity, firmer jobs, prices still high",
+"fact": "Headline 54.5 vs 54.8 expected; business activity 53.8 (from 56.5), new orders 55.9 (from 59.8), employment 51.4, prices 73.0.",
+"implication": "Not the stagflation mix markets feared; growth cooling at the margin with no break in prices.",
+"source_url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
 },
 {
-"headline": "Asian chip stocks hit hard before the US rebound",
-"fact": "Nikkei 225 closed -1.42% at 62,188.63 (down 4.45% intraday); Tokyo Electron -7.04%, Advantest -8%+, SK Hynix -5.08%.",
-"implication": "The overnight AI selloff was global, not just election-driven; watch whether US chips hold green.",
-"source_url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+"headline": "Refunding held steady",
+"fact": "$125B refunding with the 3-, 10- and 30-year at $58B / $42B / $25B, unchanged; the expected $3B long-end cut did not come.",
+"implication": "No new supply shock; next week's 10-year ($42B, Nov 10) and 30-year auctions test demand at about 4.9%.",
+"source_url": "https://home.treasury.gov/news/press-releases/sb0678/"
 },
 {
-"headline": "Euro area inflation at a three-year high",
-"fact": "Flash HICP 4.0% y/y in October vs 3.8% in September, energy +20.8%, core 2.5%.",
-"implication": "Energy-led inflation is global; it keeps central banks cautious and reinforces the oil-to-yields link for the US.",
-"source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+"headline": "Trade gap narrowed",
+"fact": "September deficit $105.0B vs $107.9B expected, as exports rose $5.8B to $321.5B.",
+"implication": "A small lift to third-quarter net exports.",
+"source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026"
 },
 {
-"headline": "Oil firm, gold jumps",
-"fact": "Brent +0.7% to $104.36, WTI +0.7% to $96.72; API crude draw 5.27M barrels vs an expected build; spot gold +2.93% to $4,043.",
-"implication": "The gold jump suggests investors are buying a hedge against political and inflation risk even as stocks bounce.",
-"source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-plunged-democrats-102707086.html"
+"headline": "Diesel stays tight",
+"fact": "EIA crude -0.865M vs +0.877M expected; distillates -3.565M vs -0.1M expected.",
+"implication": "Fuel costs, the issue ISM respondents cited most, are not easing; this feeds services prices.",
+"source_url": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/"
 }
 ],
 "look_at": [
-"ISM Services prices (prior 74.0) and employment (prior 50.1) at 09:00 CT: they decide whether yields resume rising.",
-"ADP at 07:15 CT against a 62.5k-70k consensus range: it sets the tone for Friday's payrolls.",
-"Treasury refunding at 07:30 CT: any increase in coupon sizes hits the 30-year, now above 5.3%.",
-"Whether chip names hold their premarket gains after the Asian selloff, with Arm and Qualcomm reporting after the close.",
-"EIA crude at 09:30 CT: a draw near the API's 5.27M barrels keeps Brent above $100."
+"GDPNow at 10:00 CT: a move far from 3.7% would reset fourth-quarter growth expectations after the trade and ISM data.",
+"The 10-year near 4.93%: whether the post-election rally in bonds holds after a strong ADP.",
+"December hike odds near 80%: a jump after today's jobs data would signal the market is pricing ahead of Friday.",
+"Diesel and crude after the distillate draw, since fuel is the input pushing ISM services prices."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": null,
+"market_pricing": "Futures put roughly 80% on a 25 bp hike at the Dec 8-9 meeting (CME FedWatch 79% as of Nov 3, per Vantage; Kitco says near 80%); the October meeting held at 3.75%-4.00% with two dissents in favor of a hike.",
 "speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7679.25,
-"change_pct": 1.09
+"value": 7729.25,
+"change_pct": 1.74
 },
 {
 "label": "Nasdaq futures",
-"value": 28577.25,
-"change_pct": 0.96
+"value": 28833.25,
+"change_pct": 1.86
 },
 {
 "label": "Russell 2000 futures",
-"value": 2862.8,
-"change_pct": 1.34
+"value": 2855.4,
+"change_pct": 1.08
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7568.92,
-"change_pct": 0.36
+"value": 7679.55,
+"change_pct": 1.46
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25372.01,
-"change_pct": 0.83
+"value": 25809.24,
+"change_pct": 1.72
 },
 {
 "label": "10Y Treasury yield %",
-"value": 0.5,
-"change_pct": 1.19
+"value": 0.49,
+"change_pct": -0.12
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 1.04
+"change_pct": -0.04
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.45,
-"change_pct": -0.42
+"value": 101.53,
+"change_pct": -0.33
 },
 {
 "label": "WTI crude $",
-"value": 95.34,
-"change_pct": -0.78
+"value": 93.92,
+"change_pct": -2.26
 },
 {
 "label": "Brent crude $",
-"value": 102.39,
-"change_pct": -1.17
+"value": 101.27,
+"change_pct": -2.25
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.91,
-"change_pct": 0.69
+"value": 2.95,
+"change_pct": 1.93
 },
 {
 "label": "Gold $",
-"value": 4052.5,
-"change_pct": 2.84
+"value": 4046.4,
+"change_pct": 2.69
 },
 {
 "label": "Bitcoin $",
-"value": 78553.56,
-"change_pct": 1.56
+"value": 80426.43,
+"change_pct": 3.98
 },
 {
 "label": "Nikkei 225",
-"value": 62188.63,
-"change_pct": -1.42
+"value": 63081.86,
+"change_pct": null
 },
 {
 "label": "Hang Seng",
@@ -14691,18 +14690,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6258.2,
-"change_pct": 1.85
+"value": 6288.88,
+"change_pct": 2.35
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 154.97,
-"change_pct": 1.92
+"value": 154.6,
+"change_pct": -0.24
 },
 {
 "label": "VIX",
-"value": 18.26,
-"change_pct": -12.34
+"value": 17.37,
+"change_pct": -16.61
 },
 {
 "label": "2Y Treasury yield %",
@@ -14715,12 +14714,17 @@
 "slot": "morning",
 "at": "2026-11-04T05:35:49-06:00",
 "rows": 13
+},
+{
+"slot": "midday",
+"at": "2026-11-04T09:48:12-06:00",
+"rows": 13
 }
 ],
 "themes": [
-"Split government is back: Democrats won both chambers, and the 2.4% overnight Nasdaq-100 drop retraced within hours, so markets treat gridlock as neutral to slightly positive.",
-"The AI-capex debate turned back toward the bulls on AMD, Arista and Super Micro beats, after the AI group fell 15% in October and more than 24% from its peak."
+"Election and fiscal path: the Democratic sweep of both chambers is read as less fiscal expansion and less borrowing, with the 10-year down to about 4.92% from 4.97%.",
+"Labor market: ADP +86k and ISM employment 51.4 push back on the slowing-jobs story two days before payrolls (consensus about 63-65k)."
 ],
-"snapshot_at": "2026-11-04T05:35:52-06:00"
+"snapshot_at": "2026-11-04T09:48:15-06:00"
 }
 }
