@@ -14574,294 +14574,415 @@
 }
 ],
 "macro": {
-"date": "2026-11-05",
+"date": "2026-11-06",
 "prints": [
 {
 "time_ct": "01:00",
-"event": "Germany Factory Orders (Destatis)",
+"event": "Germany Industrial Production (Destatis)",
 "period": "September",
-"consensus": "+4.8% m/m",
-"actual": "+4.4% m/m",
-"prior": "-10.1% m/m (revised)",
+"consensus": "-0.2% m/m",
+"actual": "+0.7% m/m",
+"prior": "+1.0% m/m (revised from +2.0%)",
 "unit": "m/m %",
-"surprise": "-0.4 pp",
-"read": "Orders clawed back less than half of August's collapse, so German industry is still shrinking into the energy shock.",
-"source_url": "https://tradingeconomics.com/calendar"
+"surprise": "+0.9 pp",
+"read": "German output beat but August was revised down by a full point and Q3 still fell 0.4% on Q2, so the level is no better than thought.",
+"source_url": "https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Industry-Manufacturing/_node.html"
 },
 {
 "time_ct": "04:00",
-"event": "Euro Area Producer Prices (Eurostat PPI)",
+"event": "Euro area Volume of Retail Trade (Eurostat)",
 "period": "September",
-"consensus": "+10.9% y/y",
-"actual": "+11.1% y/y",
-"prior": "+8.3% y/y (revised)",
-"unit": "y/y %",
-"surprise": "+0.2 pp",
-"read": "Pipeline inflation in Europe is accelerating, which is the backdrop for the Bank of England hike that followed two hours later.",
+"consensus": "-0.1% m/m",
+"actual": "-0.7% m/m",
+"prior": "+0.4% m/m (revised from +0.1%)",
+"unit": "m/m %",
+"surprise": "-0.6 pp",
+"read": "A clear miss on euro area spending, softened by the upward revision to August; not a mover for US futures.",
+"source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-06112026-ap"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Total Nonfarm Payrolls",
+"period": "October",
+"consensus": "+65k",
+"actual": null,
+"prior": "+29k",
+"unit": "k",
+"surprise": null,
+"read": "Consensus ranges from +55k (Yahoo calendar) to +59k (Dow Jones) to +65k (Bloomberg, Investing.com); the two-month revision matters as much as the headline after July and August were cut by 60k last time.",
 "source_url": "https://www.investing.com/economic-calendar/"
 },
 {
-"time_ct": "06:00",
-"event": "Bank of England Bank Rate decision and Monetary Policy Report",
-"period": "November",
-"consensus": "4.00% (hike of 25 bp; vote consensus 7 hike, 2 hold)",
-"actual": "4.00% (hike of 25 bp; vote 8-1, the dissent was for 50 bp)",
-"prior": "3.75%",
+"time_ct": "07:30",
+"event": "Employment Situation: Unemployment Rate",
+"period": "October",
+"consensus": "4.2%",
+"actual": null,
+"prior": "4.2%",
 "unit": "%",
-"surprise": "0 pp on the rate; vote more hawkish than expected",
-"read": "First hike since 2023 and nobody voted to hold; Mann wanted 50 bp, Pill, Greene and Lombardelli said one hike is unlikely to be enough, and the Bank now sees CPI near 5% by mid-2027, so the message is a central bank leaning into the oil shock rather than away from it.",
-"source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+"surprise": null,
+"read": "Held at 4.2% in September with 7.1 million unemployed; a tick up with a shrinking labor force would read as weakness rather than slack.",
+"source_url": "https://www.investing.com/economic-calendar/"
 },
 {
-"time_ct": "06:30",
-"event": "Challenger Job Cuts (Challenger, Gray & Christmas)",
+"time_ct": "07:30",
+"event": "Employment Situation: Average Hourly Earnings m/m",
+"period": "October",
+"consensus": "+0.3%",
+"actual": null,
+"prior": "+0.1%",
+"unit": "m/m %",
+"surprise": null,
+"read": "The wage line is what the hike camp at the Fed will cite; 0.3% or more keeps the December hike priced.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Average Hourly Earnings y/y",
+"period": "October",
+"consensus": "+2.9%",
+"actual": null,
+"prior": "+3.0%",
+"unit": "y/y %",
+"surprise": null,
+"read": "Annual wage growth is running below inflation, which is the dovish counterpoint to any strong headline.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Private Nonfarm Payrolls",
+"period": "October",
+"consensus": "+64k",
+"actual": null,
+"prior": "+46k",
+"unit": "k",
+"surprise": null,
+"read": "Private hiring carried September; government was a drag of 17k.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Manufacturing Payrolls",
+"period": "October",
+"consensus": "+5k",
+"actual": null,
+"prior": "+9k",
+"unit": "k",
+"surprise": null,
+"read": null,
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Government Payrolls",
+"period": "October",
+"consensus": "-5k",
+"actual": null,
+"prior": "-17k",
+"unit": "k",
+"surprise": null,
+"read": null,
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Labor Force Participation Rate",
+"period": "October",
+"consensus": "61.9%",
+"actual": null,
+"prior": "61.8%",
+"unit": "%",
+"surprise": null,
+"read": "Participation is down 0.8 point since the slowdown began and the labor force has shrunk by close to a million since September 2025, which is why 35k a month has kept unemployment flat.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: Average Weekly Hours",
+"period": "October",
+"consensus": "34.4",
+"actual": null,
+"prior": "34.4",
+"unit": "hours",
+"surprise": null,
+"read": null,
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "07:30",
+"event": "Employment Situation: U-6 Unemployment Rate",
+"period": "October",
+"consensus": "7.6%",
+"actual": null,
+"prior": "7.6%",
+"unit": "%",
+"surprise": null,
+"read": null,
+"source_url": "https://riotimesonline.com/global-economy-briefing-november-6-2026"
+},
+{
+"time_ct": "08:00",
+"event": "Manheim Used Vehicle Value Index m/m",
 "period": "October",
 "consensus": null,
-"actual": "43,994",
-"prior": "43,281",
-"unit": "announced cuts",
-"surprise": null,
-"read": "Announced layoffs are the lowest for an October since 2023 and down 71% from a year ago, while hiring plans of 444,692 are up 57%; no consensus found, so no surprise is computed.",
-"source_url": "https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/"
-},
-{
-"time_ct": "07:30",
-"event": "Unemployment Insurance Weekly Claims, initial claims (DOL)",
-"period": "Week ending October 31",
-"consensus": "196k",
-"actual": "189k",
-"prior": "195k (revised from 194k)",
-"unit": "k",
-"surprise": "-7k",
-"read": "Claims matched the July low, the fewest since 1969, and were 39k below the same week a year ago; there are no layoffs to speak of, which keeps a December hike live.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
-},
-{
-"time_ct": "07:30",
-"event": "Unemployment Insurance Weekly Claims, insured unemployment (DOL)",
-"period": "Week ending October 24",
-"consensus": "1,710k",
-"actual": "1,718k",
-"prior": "1,695k (revised from 1,701k)",
-"unit": "k",
-"surprise": "+8k",
-"read": "Continuing claims rose 23k on the week to the high end of the recent range with the insured rate still 1.1%; a drift, not the crack toward 1.75 million that would change the picture.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
-},
-{
-"time_ct": "07:30",
-"event": "Unemployment Insurance Weekly Claims, 4-week moving average (DOL)",
-"period": "Week ending October 31",
-"consensus": "196k",
-"actual": "194.75k",
-"prior": "197k (revised from 196.75k)",
-"unit": "k",
-"surprise": "-1.25k",
-"read": "The smoothed series fell 2,250 to 194,750, its lowest in months, confirming the headline rather than a one-week fluke.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
-},
-{
-"time_ct": "07:30",
-"event": "Productivity and Costs, nonfarm business productivity, preliminary (BLS)",
-"period": "Q3 2026",
-"consensus": "+2.8% q/q annualized",
-"actual": "+3.6% q/q annualized",
-"prior": "+2.1% q/q annualized (revised from +1.4%)",
-"unit": "q/q annualized %",
-"surprise": "+0.8 pp",
-"read": "Output rose 3.7% on hours up only 0.1%, so almost all of Q3 growth came from productivity; year over year productivity is up 2.1% and Q2 was revised up to 2.1%, which is the supply-side story that lets growth run hot without inflation.",
-"source_url": "https://www.bls.gov/news.release/prod2.nr0.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Productivity and Costs, unit labor costs, preliminary (BLS)",
-"period": "Q3 2026",
-"consensus": "+0.6% q/q annualized",
-"actual": "-0.7% q/q annualized",
-"prior": "+1.9% q/q annualized (revised from +1.2%)",
-"unit": "q/q annualized %",
-"surprise": "-1.3 pp",
-"read": "First decline in unit labor costs since Q2 2025 with hourly compensation up 2.9% and year over year costs up only 2.4%; wages are not the inflation problem, which takes the main argument away from the December hike camp even as claims keep the hike priced.",
-"source_url": "https://www.bls.gov/news.release/prod2.nr0.htm"
-},
-{
-"time_ct": "09:30",
-"event": "EIA Weekly Natural Gas Storage Report",
-"period": "Week ending October 30",
-"consensus": "+81 Bcf",
-"actual": "+77 Bcf",
-"prior": "+80 Bcf",
-"unit": "Bcf",
-"surprise": "-4 Bcf",
-"read": "Storage reached 3,801 Bcf, 109 Bcf below last year and 54 Bcf above the five-year average, so the US is entering winter comfortably supplied while Europe is not.",
-"source_url": "https://ir.eia.gov/ngs/ngs.html"
-},
-{
-"time_ct": "11:00",
-"event": "Freddie Mac Primary Mortgage Market Survey, 30-year fixed rate",
-"period": "Week of November 5",
-"consensus": null,
 "actual": null,
-"prior": "7.24%",
+"prior": "-1.1% m/m",
+"unit": "m/m %",
+"surprise": null,
+"read": "No consensus found; used-car prices feed the goods side of CPI with a lag.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "09:00",
+"event": "University of Michigan Surveys of Consumers, Preliminary: Index of Consumer Sentiment",
+"period": "November",
+"consensus": "48.1",
+"actual": null,
+"prior": "48.0",
+"unit": "index",
+"surprise": null,
+"read": "Sentiment sits near record lows; the survey window closed before Thursday's selloff, so it will not capture it.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "09:00",
+"event": "University of Michigan Surveys of Consumers, Preliminary: Current Economic Conditions",
+"period": "November",
+"consensus": "48.0",
+"actual": null,
+"prior": "46.7",
+"unit": "index",
+"surprise": null,
+"read": null,
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "09:00",
+"event": "University of Michigan Surveys of Consumers, Preliminary: Index of Consumer Expectations",
+"period": "November",
+"consensus": "49.5",
+"actual": null,
+"prior": "48.8",
+"unit": "index",
+"surprise": null,
+"read": null,
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "09:00",
+"event": "University of Michigan Surveys of Consumers, Preliminary: 1-Year Inflation Expectations",
+"period": "November",
+"consensus": "4.7%",
+"actual": null,
+"prior": "4.7%",
 "unit": "%",
 "surprise": null,
-"read": "Not yet posted at midday; the survey page still shows the October 29 reading of 7.24%, down from 7.32%, with the 10-year near 4.9%; no consensus found.",
-"source_url": "https://www.freddiemac.com/pmms"
+"read": "Inflation expectations are the Fed-relevant part of this release; 4.7% one-year is far above target and a hawkish talking point.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
-"time_ct": "15:30",
-"event": "Federal Reserve H.4.1, total assets (balance sheet)",
-"period": "Week ending November 4",
+"time_ct": "09:00",
+"event": "University of Michigan Surveys of Consumers, Preliminary: 5-Year Inflation Expectations",
+"period": "November",
+"consensus": "3.6%",
+"actual": null,
+"prior": "3.5%",
+"unit": "%",
+"surprise": null,
+"read": null,
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "12:00",
+"event": "Baker Hughes Rig Count (oil / total)",
+"period": "Week of November 6",
 "consensus": null,
 "actual": null,
-"prior": "$6.746 trillion",
-"unit": "$ trillion",
+"prior": "462 oil / 603 total",
+"unit": "rigs",
 "surprise": null,
-"read": "Watch the reserve-balance line (prior $2.895 trillion) alongside the New York Fed's bill purchases; no consensus found.",
-"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+"read": "No consensus found; watch for a response to WTI near $90.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "14:00",
+"event": "Consumer Credit (G.19)",
+"period": "September",
+"consensus": "$13.4B",
+"actual": null,
+"prior": "$8.28B",
+"unit": "$B",
+"surprise": null,
+"read": "August credit grew at a 1.9% annual rate with revolving balances shrinking 4.2% annualized; consensus wants a rebound to $13.4B (TradingEconomics shows $12B).",
+"source_url": "https://www.investing.com/economic-calendar/"
 }
 ],
 "read": {
 "bias": "chop",
-"confidence": "medium",
-"call": "The morning prints cut both ways for the Fed, a 57-year low in claims says hike while unit labor costs falling 0.7% says there is no wage inflation to hike against, so December stays priced near 80% and nothing resolves until tomorrow's October jobs report.",
-"swing": "October employment report at 07:30 CT Friday November 6; payrolls and average hourly earnings decide whether the December hike firms above 80% or slips back toward a coin flip.",
+"confidence": "low",
+"call": "A bounce attempt in tech after Thursday's 4.4% S&P and 5.5% Nasdaq rout runs into the October jobs report, and the print decides whether the December hike is locked in or the panic gets a Fed cushion.",
+"swing": "October nonfarm payrolls and average hourly earnings at 07:30 CT, consensus +65k and +0.3% m/m against +29k and +0.1% prior.",
 "drivers": [
-"Initial claims 189k versus 196k expected, matching the lowest level since 1969, with the 4-week average down to 194,750.",
-"Q3 productivity +3.6% annualized versus +2.8% expected and unit labor costs -0.7% versus +0.6%, the first decline since Q2 2025.",
-"Bank of England hiked to 4.00% on an 8-1 vote with the dissent for 50 bp and three members saying one hike is unlikely to be enough.",
-"CME FedWatch has a December 25 bp hike near 79% to 82% after Wednesday's JOLTS, up from the low 70s a week ago.",
-"The 10-year Treasury is holding near 4.90%, little changed on the day despite the two US prints."
+"Thursday was the worst day for all three indexes since April 2025: S&P 500 -4.36% to 7,354, Nasdaq -5.52% to 24,315, Dow -3.44%, VIX 28.18 (+70%); futures before the open are split, Nasdaq-100 +1.3%, S&P +0.2%, Dow -0.9%.",
+"The December FOMC is priced as a 25bp hike at roughly 65% (Polymarket 65.5% hike / 33.5% hold at 11 pm ET Thursday); a payroll print at or above 65k with 0.3% wages pushes that toward 80% and lifts the 10-year from 4.84%.",
+"A weak print (below 30k, or negative revisions) is ambiguous: it cuts hike odds, which helps rates and duration, but it feeds the growth scare that is already in the tape.",
+"The selloff's stated cause is political, not macro: Democratic midterm wins in Texas, Georgia and Ohio (about 40% of planned US data center capacity) raised fears the AI buildout slows; the Nasdaq-100 lost roughly $1.8 trillion. No data today fixes that.",
+"Thursday's labor data were firm: initial claims 189k vs 196k consensus, Q3 productivity 3.6% vs 2.8%, unit labor costs -0.7% vs +0.6%. Strong productivity with falling unit costs is the one disinflationary thread for the doves.",
+"Vice Chair for Supervision Bowman speaks at 11:15 CT, the first scheduled Fed reaction to the print; Williams and Musalem are also on calendar pages for today but their times are unconfirmed by their banks."
 ]
 },
 "what_mattered": [
 {
-"headline": "Jobless claims fall to 189,000, tying the lowest reading since 1969",
-"fact": "Initial claims 189k for the week ending October 31 versus 196k consensus and a revised 195k prior; 4-week average 194,750; continuing claims 1,718k.",
-"implication": "Layoffs are not happening, so the labor market gives the Fed no reason to stand down from a December hike; the only soft spot is continuing claims drifting up 23k.",
-"source_url": "https://www.dol.gov/ui/data.pdf"
+"headline": "Worst day for US stocks since April 2025; Nasdaq enters correction",
+"fact": "S&P 500 -4.36% to 7,354, Nasdaq Composite -5.52% to 24,315, Dow -3.44% to 51,523 (about 1,830 points), Russell 2000 -4.45%, VIX 28.18 (+69.7%).",
+"implication": "The move was led by chips and the most richly valued names, so it reads as positioning unwind and AI-capex repricing rather than a macro shock; the 10-year fell to 4.84% on haven buying.",
+"source_url": "https://riotimesonline.com/global-economy-briefing-november-6-2026"
 },
 {
-"headline": "Productivity surges and unit labor costs fall in Q3",
-"fact": "Nonfarm productivity +3.6% annualized (consensus +2.8%), unit labor costs -0.7% (consensus +0.6%), hourly compensation +2.9%, output +3.7% on hours +0.1%; Q2 revised up to +2.1% productivity.",
-"implication": "Growth of 3.4% in Q3 came almost entirely from output per hour, not more labor, so the wage-driven inflation case for hiking is weaker than the dissenters argue; markets will read this as goldilocks for equities and mildly bullish for the long end.",
-"source_url": "https://www.bls.gov/news.release/prod2.nr0.htm"
+"headline": "Selloff pinned on midterm results and the AI buildout",
+"fact": "Nasdaq-100 stocks shed roughly $1.8 trillion as tech-critical candidates won in Texas, Georgia and Ohio, states holding about 40% of planned US data center capacity; a WSJ-quoted analyst called it 'a true panic' that is '100% about the chip stocks'.",
+"implication": "The driver is regulatory risk to data center construction, which no economic print resolves; JPMorgan's line is the boom stays on track but gets costlier, slower and more consolidated.",
+"source_url": "https://www.semafor.com/article/11/05/2026/us-tech-selloff-erases-post-midterm-gains"
 },
 {
-"headline": "Bank of England hikes to 4% with a hawkish 8-1 vote",
-"fact": "Bank Rate +25 bp to 4.00%, first increase since 2023; Mann voted for 50 bp; the Bank sees CPI rising from 3.5% to around 5% by mid-2027; next decision December 17.",
-"implication": "A G7 central bank is now tightening into an energy shock with no one voting to hold, which strengthens the template the Fed hawks want to follow in December.",
+"headline": "Asia followed Wall Street down; Hong Kong and India bucked it",
+"fact": "Nikkei -5.96% to 57,435, KOSPI -6.02% to 5,060, CSI 300 -1.44%; Hang Seng +2.35%, Nifty +4.46%. Europe milder: DAX -1.17%, FTSE 100 -1.36%, Stoxx 600 -0.99%.",
+"implication": "The chip-heavy markets took the full hit while non-AI indexes held, which supports the view that this is a sector unwind and not a global growth repricing.",
+"source_url": "https://riotimesonline.com/global-economy-briefing-november-6-2026"
+},
+{
+"headline": "Bank of England hiked to 4.00%, 8-1, with the dissent for a bigger move",
+"fact": "Bank Rate +25bp to 4%; Catherine Mann voted for +50bp to 4.25%; UK CPI 3.5% in September and the Bank expects about 5% by mid-2027; next decision December 17.",
+"implication": "A second major central bank is now hiking into a slowdown on inflation grounds, the same bind the Fed faces on December 9.",
 "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
 },
 {
-"headline": "US gas storage builds 77 Bcf, below the 81 Bcf consensus",
-"fact": "Working gas 3,801 Bcf for the week ending October 30, 109 Bcf below last year and 54 Bcf above the five-year average.",
-"implication": "Minor miss; US storage is adequate for winter, so the energy inflation story remains a European and crude story, not a US gas one.",
-"source_url": "https://ir.eia.gov/ngs/ngs.html"
+"headline": "Thursday US labor data were firm and disinflationary at once",
+"fact": "Initial claims 189k (consensus 196k, prior 195k), continuing claims 1,718k, Q3 productivity +3.6% (consensus 2.8%), unit labor costs -0.7% (consensus +0.6%); Challenger job cuts 44k.",
+"implication": "Low claims say no layoff wave; falling unit labor costs are the best argument that wages are not the inflation problem, which blunts the case for a December hike if payrolls disappoint.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"headline": "Oil back under $100, gold and bitcoin sold with risk",
+"fact": "Brent $96.91 (-1.4%), WTI about $89 to $91; gold $4,075 (-0.9%); bitcoin $75,992 (-5.4%); dollar index 101.72 (+0.15%), euro 1.1173.",
+"implication": "Crude below $100 removes one inflation input, but the dollar bid and the bitcoin drop say liquidity, not relief, is driving flows.",
+"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
+},
+{
+"headline": "European data split: German output beat, euro area retail missed",
+"fact": "German industrial production +0.7% m/m in September vs -0.2% consensus, with August revised to +1.0% from +2.0%; euro area retail volume -0.7% m/m vs -0.1% consensus.",
+"implication": "Neither moves US futures; both say Europe's Q3 was weaker than the first prints showed.",
+"source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-06112026-ap"
 }
 ],
 "look_at": [
-"The 2-year Treasury yield into the close: it was up about 3 bp early on the claims print, and whether the unit-labor-cost decline pulls it back says which print the rates market believes.",
-"December hike odds on CME FedWatch after the prints settle; the morning number near 79% to 82% is the line to beat or lose going into payrolls.",
-"Sterling and gilt yields after the 8-1 Bank of England vote; a hawkish hike that fails to lift the currency says the market thinks the Bank is behind the oil shock.",
-"Freddie Mac's 30-year rate when it posts this afternoon; a third weekly decline from 7.32% would be the first relief for housing since the summer.",
-"Tomorrow's October jobs report at 07:30 CT, with average hourly earnings mattering more than the payroll count after today's unit labor cost print."
+"At 07:30 CT read payrolls against +65k and the two-month revision together; the last report cut July and August by 60k, and a repeat makes a 60k headline a 0k trend.",
+"Average hourly earnings at 0.3% m/m or higher with unemployment at 4.2% keeps the December hike near 65% or pushes it higher; watch the 10-year at 4.84% and the 2-year for the first read.",
+"Watch whether Nasdaq-100 futures hold their +1.3% through the print; a bounce that fades before the cash open after a 6% down day is a sign the unwind is not finished.",
+"Bowman at 11:15 CT is the first scheduled Fed voice after the data; any comment on financial conditions after Thursday matters more than her supervision topic.",
+"At 09:00 CT the Michigan one-year (4.7%) and five-year (3.6%) inflation expectations are the hawkish line of the day; the headline sentiment index near 48 is already priced."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "CME FedWatch about 79% to 82% for a 25 bp hike in December after the October 28 hold (10-2 vote, both dissents for a hike), up from the low 70s a week ago; no post-print reading found yet.",
-"speakers_today": []
+"market_pricing": "Target range 3.75% to 4.00% after the October 28 hold with two dissents for a hike; December 9 priced as a 25bp hike at roughly 65% (Polymarket 65.5% hike, 33.5% hold, 1.1% cut as of 11 pm ET November 5; CME FedWatch was 71% on October 30). October minutes come November 18.",
+"speakers_today": [
+"Vice Chair for Supervision Michelle Bowman, 11:15 CT, 'Supervision and Regulation', University of Mississippi Banking and Finance Symposium (Fed Board calendar)",
+"New York Fed President John Williams, about 03:30 CT per calendar pages; not listed on the New York Fed site",
+"St. Louis Fed President Alberto Musalem, about 08:10 CT per calendar pages; not confirmed on the St. Louis Fed site",
+"Dallas Fed President Lorie Logan appears on calendars at 00:00 UTC, which is Thursday 18:00 CT, so already past",
+"Non-Fed: BoJ Governor Ueda and ECB chief economist Lane also speak today"
+]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7519.25,
-"change_pct": -2.61
+"value": 7405.25,
+"change_pct": 0.3
 },
 {
 "label": "Nasdaq futures",
-"value": 27226.5,
-"change_pct": -4.69
+"value": 27139.0,
+"change_pct": 1.45
 },
 {
 "label": "Russell 2000 futures",
-"value": 2803.6,
-"change_pct": -2.17
+"value": 2737.1,
+"change_pct": 0.06
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7447.87,
-"change_pct": -3.13
+"value": 7353.73,
+"change_pct": -4.36
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 24506.94,
-"change_pct": -4.78
+"value": 24315.0,
+"change_pct": -5.52
 },
 {
 "label": "10Y Treasury yield %",
-"value": 0.49,
-"change_pct": -0.2
+"value": 0.48,
+"change_pct": -1.16
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 0.08
+"change_pct": -0.59
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.51,
-"change_pct": 0.0
+"value": 101.96,
+"change_pct": 0.41
 },
 {
 "label": "WTI crude $",
-"value": 90.25,
-"change_pct": 2.42
+"value": 90.97,
+"change_pct": 0.5
 },
 {
 "label": "Brent crude $",
-"value": 97.14,
-"change_pct": 2.66
+"value": 98.52,
+"change_pct": 0.23
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.96,
-"change_pct": 0.07
+"value": 3.01,
+"change_pct": 2.0
 },
 {
 "label": "Gold $",
-"value": 4115.7,
-"change_pct": 1.05
+"value": 4080.5,
+"change_pct": -0.8
 },
 {
 "label": "Bitcoin $",
-"value": 76127.0,
-"change_pct": -5.32
+"value": 76021.61,
+"change_pct": 0.1
 },
 {
 "label": "Nikkei 225",
-"value": 62188.63,
-"change_pct": null
+"value": 57434.77,
+"change_pct": -5.96
 },
 {
 "label": "Hang Seng",
-"value": 24796.98,
-"change_pct": 3.67
+"value": 24481.86,
+"change_pct": -1.27
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6235.27,
-"change_pct": -0.49
+"value": 6132.99,
+"change_pct": -1.58
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 151.13,
-"change_pct": -5.01
+"value": 148.4,
+"change_pct": -6.73
 },
 {
 "label": "VIX",
-"value": 23.82,
-"change_pct": 43.41
+"value": 26.88,
+"change_pct": -4.61
 },
 {
 "label": "2Y Treasury yield %",
@@ -14872,20 +14993,15 @@
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-05T05:37:13-06:00",
-"rows": 12
-},
-{
-"slot": "midday",
-"at": "2026-11-05T09:49:05-06:00",
-"rows": 12
+"at": "2026-11-06T05:36:36-06:00",
+"rows": 20
 }
 ],
 "themes": [
-"The hike-or-hold debate split along two prints today: claims at 189k, the lowest since 1969, argue for December, while unit labor costs at -0.7% annualized argue that wages are not the inflation problem.",
-"Productivity is doing the work: Q3 output rose 3.7% on hours up 0.1%, so the economy grew 3.4% without adding labor, and labor's share of output fell to its lowest since 1947.",
-"Central banks are tightening into the energy shock: the Bank of England hiked to 4% with no votes to hold and CPI seen near 5% by mid-2027, a week after two Fed dissents for a hike."
+"The December hike debate now runs through today's print: the market prices a 25bp hike at about 65%, and payrolls at the 65k consensus would be nearly double the 35k monthly average since January 2025.",
+"The AI trade's risk has shifted from capex budgets to politics: about $1.8 trillion left the Nasdaq-100 in a day on the idea that new state governments in Texas, Georgia and Ohio, 40% of planned data center capacity, slow the buildout.",
+"Central banks are hiking into weak growth: the Bank of England went to 4% with CPI at 3.5% and heading toward 5%, two days after the Fed held with two hawkish dissents."
 ],
-"snapshot_at": "2026-11-05T09:49:08-06:00"
+"snapshot_at": "2026-11-06T05:36:39-06:00"
 }
 }
