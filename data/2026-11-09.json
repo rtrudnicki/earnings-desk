@@ -9272,417 +9272,342 @@
 }
 ],
 "macro": {
-"date": "2026-11-06",
+"date": "2026-11-09",
 "prints": [
 {
-"time_ct": "01:00",
-"event": "Germany Industrial Production (Destatis)",
+"time_ct": "07:40",
+"event": "Fed Vice Chair for Supervision Bowman, discussion on community banking (Mutual Board Summit, Boston)",
+"period": null,
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "speech",
+"surprise": null,
+"read": "Supervision topic, so policy remarks are unlikely; her economic-outlook speeches are Tuesday.",
+"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+},
+{
+"time_ct": "09:00",
+"event": "Monthly Wholesale Trade: Inventories m/m (Census Bureau)",
+"period": "September (final)",
+"consensus": "0.6%",
+"actual": null,
+"prior": "0.6%",
+"unit": "m/m %",
+"surprise": null,
+"read": "Final revision to the October 28 advance estimate; only a large revision would nudge Q4 GDP tracking.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "09:00",
+"event": "Monthly Wholesale Trade: Sales m/m (Census Bureau)",
 "period": "September",
-"consensus": "-0.2% m/m",
-"actual": "+0.7% m/m",
-"prior": "+1.0% m/m (revised from +2.0%)",
+"consensus": null,
+"actual": null,
+"prior": "1.8%",
 "unit": "m/m %",
-"surprise": "+0.9 pp",
-"read": "German output beat but August was revised down by a full point and Q3 still fell 0.4% on Q2, so the level is no better than thought.",
-"source_url": "https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Industry-Manufacturing/_node.html"
+"surprise": null,
+"read": "No consensus found; the inventory-to-sales ratio is the read-through for the restocking cycle.",
+"source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
 },
 {
-"time_ct": "04:00",
-"event": "Euro area Volume of Retail Trade (Eurostat)",
-"period": "September",
-"consensus": "-0.1% m/m",
-"actual": "-0.7% m/m",
-"prior": "+0.4% m/m (revised from +0.1%)",
-"unit": "m/m %",
-"surprise": "-0.6 pp",
-"read": "A clear miss on euro area spending, softened by the upward revision to August; not a mover for US futures.",
-"source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-06112026-ap"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Total Nonfarm Payrolls",
-"period": "October",
-"consensus": "+65k",
-"actual": "+165k",
-"prior": "+60k (revised from +29k)",
-"unit": "k",
-"surprise": "+100k",
-"read": "Payrolls came in at more than twice the top of the forecast range and August and September were revised up a combined 84k, so the three-month pace is now roughly 137k against the 48k twelve-month average the slowdown story rested on.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Unemployment Rate",
-"period": "October",
-"consensus": "4.2%",
-"actual": "4.1%",
-"prior": "4.2%",
-"unit": "%",
-"surprise": "-0.1 pp",
-"read": "The rate fell for the right reason: the labor force grew 421k and household employment rose 463k, so this is hiring, not people giving up.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Average Hourly Earnings m/m",
-"period": "October",
-"consensus": "+0.3%",
-"actual": "+0.4%",
-"prior": "+0.1%",
-"unit": "m/m %",
-"surprise": "+0.1 pp",
-"read": "Hourly pay rose 14 cents to $38.00; a 0.4% month is what the hike camp wanted and it arrived with a strong headline, so the December hike is now the base case in futures.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Average Hourly Earnings y/y",
-"period": "October",
-"consensus": "+2.9%",
-"actual": "+3.1%",
-"prior": "+3.0%",
-"unit": "y/y %",
-"surprise": "+0.2 pp",
-"read": "Annual wage growth re-accelerated instead of slowing, which takes away the dovish counterpoint that real wages were falling into a weak labor market.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Private Nonfarm Payrolls",
-"period": "October",
-"consensus": "+64k",
-"actual": "+159k",
-"prior": "+46k (pre-revision)",
-"unit": "k",
-"surprise": "+95k",
-"read": "Professional and business services added 70k, health care 42k and transportation and warehousing 25k; leisure and hospitality (-13k) and wholesale (-9k) were the only notable drags.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Manufacturing Payrolls",
-"period": "October",
-"consensus": "+5k",
-"actual": "+19k",
-"prior": "+9k (pre-revision)",
-"unit": "k",
-"surprise": "+14k",
-"read": "Factory hiring beat on computer and electronic products, machinery and primary metals; a second straight gain after a long run of losses.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Government Payrolls",
-"period": "October",
-"consensus": "-5k",
-"actual": "+6k",
-"prior": "-17k (pre-revision)",
-"unit": "k",
-"surprise": "+11k",
-"read": "Government stopped subtracting from the headline for the first time in months.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Labor Force Participation Rate",
-"period": "October",
-"consensus": "61.9%",
-"actual": "61.9%",
-"prior": "61.8%",
-"unit": "%",
-"surprise": "0.0 pp",
-"read": "Participation ticked up as 293k people came back into the labor force, the opposite of the shrinking-workforce pattern that had been holding unemployment flat.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: Average Weekly Hours",
-"period": "October",
-"consensus": "34.4",
-"actual": "34.4",
-"prior": "34.4",
-"unit": "hours",
-"surprise": "0.0",
-"read": "Hours unchanged, so the income gain is all heads and pay, not longer weeks.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Employment Situation: U-6 Unemployment Rate",
-"period": "October",
-"consensus": "7.6%",
-"actual": "7.9%",
-"prior": "7.6%",
-"unit": "%",
-"surprise": "+0.3 pp",
-"read": "The one soft spot: involuntary part-time work rose 339k to 4.8 million and long-term unemployment reached 1.96 million, so underemployment widened even as the headline rate fell.",
-"source_url": "https://www.bls.gov/news.release/empsit.t15.htm"
-},
-{
-"time_ct": "08:00",
-"event": "Manheim Used Vehicle Value Index m/m",
+"time_ct": "09:00",
+"event": "Conference Board Employment Trends Index",
 "period": "October",
 "consensus": null,
 "actual": null,
-"prior": "-1.1% m/m",
-"unit": "m/m %",
+"prior": "107.56",
+"unit": "index",
 "surprise": null,
-"read": "No consensus found; the full-month October release is not posted on Cox Automotive's insights page as of midday, and the mid-October reading was +0.7% to 207.4.",
-"source_url": "https://www.coxautoinc.com/market-insights/"
+"read": "No consensus found; the index fell 0.5% in September from a downwardly revised 108.08, so a rebound would confirm Friday's 165k payroll beat.",
+"source_url": "https://www.conference-board.org/topics/employment-trends-index"
 },
 {
-"time_ct": "09:00",
-"event": "University of Michigan Surveys of Consumers, Preliminary: Index of Consumer Sentiment",
-"period": "November",
-"consensus": "48.1",
-"actual": "51.0",
-"prior": "48.0",
-"unit": "index",
-"surprise": "+2.9",
-"read": "Sentiment rose about 6% off near-record lows, with the gain concentrated among independents; it fell 5% for the largest stockholders, and the survey closed November 2, before this week's selloff.",
-"source_url": "https://www.sca.isr.umich.edu/"
-},
-{
-"time_ct": "09:00",
-"event": "University of Michigan Surveys of Consumers, Preliminary: Current Economic Conditions",
-"period": "November",
-"consensus": "48.0",
-"actual": "51.0",
-"prior": "46.7",
-"unit": "index",
-"surprise": "+3.0",
-"read": "Current conditions jumped 9% on the month but 57% of respondents still say high prices have eroded their living standards.",
-"source_url": "https://www.sca.isr.umich.edu/"
-},
-{
-"time_ct": "09:00",
-"event": "University of Michigan Surveys of Consumers, Preliminary: Index of Consumer Expectations",
-"period": "November",
-"consensus": "49.5",
-"actual": "50.9",
-"prior": "48.8",
-"unit": "index",
-"surprise": "+1.4",
-"read": "Expectations improved less than current conditions; the director flagged growing anxiety over a possible AI bubble in respondents' comments.",
-"source_url": "https://www.sca.isr.umich.edu/"
-},
-{
-"time_ct": "09:00",
-"event": "University of Michigan Surveys of Consumers, Preliminary: 1-Year Inflation Expectations",
-"period": "November",
-"consensus": "4.7%",
-"actual": "4.3%",
-"prior": "4.7%",
+"time_ct": "10:00",
+"event": "NY Fed Survey of Consumer Expectations, 1-year median inflation expectation",
+"period": "October",
+"consensus": null,
+"actual": null,
+"prior": "3.9%",
 "unit": "%",
-"surprise": "-0.4 pp",
-"read": "The lowest year-ahead reading since August and the one dovish print of the day, though still well above the 3.4% seen in February before the Iran conflict began.",
-"source_url": "https://www.sca.isr.umich.edu/"
+"surprise": null,
+"read": "No consensus found; September's 3.9% was the highest since May 2023 (3-year 3.3%, 5-year 3.0%), and another rise the day before CPI feeds the hike case.",
+"source_url": "https://www.newyorkfed.org/microeconomics/sce#/"
 },
 {
-"time_ct": "09:00",
-"event": "University of Michigan Surveys of Consumers, Preliminary: 5-Year Inflation Expectations",
-"period": "November",
-"consensus": "3.6%",
-"actual": "3.4%",
-"prior": "3.5%",
-"unit": "%",
-"surprise": "-0.2 pp",
-"read": "Long-run expectations eased a tenth; helpful for the Fed but not enough to offset a 0.4% wage month.",
-"source_url": "https://www.sca.isr.umich.edu/"
+"time_ct": "10:30",
+"event": "Treasury 3-month bill auction",
+"period": null,
+"consensus": null,
+"actual": null,
+"prior": "4.040%",
+"unit": "% high yield",
+"surprise": null,
+"read": "Bill yields near 4.0-4.2% already carry most of a December hike.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "10:30",
+"event": "Treasury 6-month bill auction",
+"period": null,
+"consensus": null,
+"actual": null,
+"prior": "4.150%",
+"unit": "% high yield",
+"surprise": null,
+"read": null,
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "11:15",
+"event": "Richmond Fed President Barkin speaks",
+"period": null,
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "speech",
+"surprise": null,
+"read": "Non-voter this year; useful for the tone on labor demand after the upward revisions.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "11:25",
+"event": "Bank of England Governor Bailey speaks",
+"period": null,
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "speech",
+"surprise": null,
+"read": "Follows last week's BoE hike; a gilt move can spill into Treasuries during the US session.",
+"source_url": "https://finobird.com/calendar/economic/analysis/fed-speakers-inflation-expectations-and-boe-bailey-what-to-watch-on-november-9-2026-2026-11-09/"
 },
 {
 "time_ct": "12:00",
-"event": "Baker Hughes Rig Count (oil / total)",
-"period": "Week of November 6",
+"event": "Treasury 3-year note auction",
+"period": null,
 "consensus": null,
 "actual": null,
-"prior": "462 oil / 603 total",
-"unit": "rigs",
+"prior": "4.932%",
+"unit": "% high yield",
 "surprise": null,
-"read": "No consensus found; watch for a response to WTI near $90.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "First coupon supply of the week lands into a 79% December hike; a tail would say the front end wants more than one hike.",
+"source_url": "https://www.investing.com/economic-calendar/"
+},
+{
+"time_ct": "12:00",
+"event": "Atlanta Fed GDPNow, Q4 2026 real GDP tracking update",
+"period": "Q4 2026",
+"consensus": null,
+"actual": null,
+"prior": "3.4%",
+"unit": "% SAAR",
+"surprise": null,
+"read": "Scheduled update after the wholesale data; the estimate fell to 3.4% on November 4 from 3.7% on November 2, and the time of day is not fixed.",
+"source_url": "https://www.atlantafed.org/RSS/GDPNow.aspx"
 },
 {
 "time_ct": "14:00",
-"event": "Consumer Credit (G.19)",
-"period": "September",
-"consensus": "$13.4B",
+"event": "Chicago Fed President Goolsbee speaks (first of two appearances)",
+"period": null,
+"consensus": null,
 "actual": null,
-"prior": "$8.28B",
-"unit": "$B",
+"prior": null,
+"unit": "speech",
 "surprise": null,
-"read": "August credit grew at a 1.9% annual rate with revolving balances shrinking 4.2% annualized; consensus wants a rebound to $13.4B (TradingEconomics shows $12B).",
+"read": "First Fed voice after the payroll beat; watch whether he endorses the December hike the market prices at 79%.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "19:30",
+"event": "China Consumer Price Index y/y (released Sunday evening CT, National Bureau of Statistics)",
+"period": "October",
+"consensus": "0.8%",
+"actual": "0.7%",
+"prior": "0.9%",
+"unit": "y/y %",
+"surprise": "-0.1 pp",
+"read": "Consumer inflation slowed for the first time in three months as food prices fell 2.9% y/y and core eased to 0.8% from 1.0%, so weak domestic demand still caps China's consumer prices.",
+"source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+},
+{
+"time_ct": "19:30",
+"event": "China Producer Price Index y/y (released Sunday evening CT, National Bureau of Statistics)",
+"period": "October",
+"consensus": "5.3%",
+"actual": "5.7%",
+"prior": "5.0%",
+"unit": "y/y %",
+"surprise": "+0.4 pp",
+"read": "Factory-gate inflation is the fastest since June 2022, driven by mining and raw-material prices and strong external demand, which keeps imported goods inflation in the US story.",
 "source_url": "https://www.investing.com/economic-calendar/"
 }
 ],
 "read": {
 "bias": "chop",
 "confidence": "medium",
-"call": "A blockbuster jobs report pushed the 10-year toward 4.87% and December hike odds to roughly 77-80%, while dip-buyers lifted Nasdaq futures after Thursday's AI rout, so stocks and bonds are pulling in opposite directions into the afternoon.",
-"swing": "Whether the 10-year holds below 4.90% through Bowman's 11:15 CT remarks; a break higher turns the rate shock into an equity problem for the second day running.",
+"call": "A thin US calendar leaves the tape to position-squaring before Tuesday's CPI, with futures firm but the Nasdaq capped by a 5% premarket drop in its largest chip name, so expect a two-way session that does not settle the AI-selloff debate.",
+"swing": "The 10:00 CT NY Fed one-year inflation expectation: a print above September's 3.9% (highest since May 2023) the day before CPI would push December hike odds from 79% toward certainty and hit long duration and growth stocks; a dip gives the rebound room.",
 "drivers": [
-"October payrolls +165k against +65k consensus with +84k of upward revisions; unemployment down to 4.1% on a growing labor force.",
-"Average hourly earnings +0.4% m/m and +3.1% y/y, both above forecast, removing the real-wage argument against a December hike.",
-"Fed funds futures price about 77-80% odds of a quarter-point hike at the December 8-9 meeting, up from about 66-75% before the print.",
-"Michigan sentiment beat at 51.0 with year-ahead inflation expectations falling to 4.3%, the only dovish print of the morning.",
-"U-6 rose 0.3 point to 7.9% on more involuntary part-time work, the one line the dove camp can cite."
+"Overnight futures were up 0.3% to 0.8% at 6:29 ET after opening lower Sunday night, so the bounce is fragile and headline-driven.",
+"Nvidia is down about 5% premarket on the board probe into its CEO, which pits the AI rebound trade against a single-stock drag.",
+"Friday's 165k payroll beat against 65k consensus plus 84k of upward revisions lifted December hike odds to 79% from 72% a week ago, so Fed speakers today (Bowman, Goolsbee, Barkin) have little room to surprise dovish.",
+"Oil fell after the President downplayed new strikes on Iran, easing the inflation input and lifting gold 0.7% to $4,094 with the dollar index at 102.20.",
+"China's 5.7% PPI against 0.7% CPI shows input-cost inflation that exports into US goods prices while Chinese demand stays weak."
 ]
 },
 "what_mattered": [
 {
-"headline": "October payrolls more than double the highest forecast",
-"fact": "+165k vs +65k consensus; August and September revised up a combined 84k; unemployment 4.1% vs 4.2% expected.",
-"implication": "The summer slowdown narrative is dead for now; the labor market is adding roughly 137k a month on a three-month basis and the Fed's hike camp has its cover.",
-"source_url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+"headline": "China factory inflation jumps while consumer prices stall",
+"fact": "October PPI +5.7% y/y (consensus 5.3%, prior 5.0%), the fastest since June 2022; CPI +0.7% y/y (consensus 0.8%, prior 0.9%); core CPI 0.8% from 1.0%; food -2.9% y/y.",
+"implication": "A five-point gap between producer and consumer prices means Chinese firms are absorbing margin or passing costs to export markets, which keeps imported goods inflation alive for the US CPI debate without signaling a Chinese demand recovery.",
+"source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
 },
 {
-"headline": "Wages re-accelerate",
-"fact": "Average hourly earnings +0.4% m/m to $38.00 and +3.1% y/y, vs +0.3% and +2.9% expected.",
-"implication": "Wage growth above inflation expectations on a hot headline makes a December hike the base case; futures moved to about 77-80% from the mid-60s to mid-70s.",
-"source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+"headline": "Nvidia board opens probe into CEO after espionage-linked affair report",
+"fact": "Shares down around 5% premarket and more than 6% in Frankfurt; the company says Huang will continue as CEO without interruption.",
+"implication": "The largest index weight is falling on a governance headline, not fundamentals, which blunts the attempted rebound from Thursday's AI selloff (the biggest day of retail selling since the pandemic per Vanda Research) and raises the bar for CoreWeave, Cisco and Applied Materials prints this week.",
+"source_url": "https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html"
 },
 {
-"headline": "Michigan sentiment beats, inflation expectations drop",
-"fact": "Preliminary November sentiment 51.0 vs 48.1 expected; year-ahead inflation expectations 4.3% from 4.7%; long-run 3.4% from 3.5%.",
-"implication": "Consumers feel slightly better and expect less inflation, but the survey closed November 2 and the gain reversed for the largest stockholders, so it predates this week's selloff.",
-"source_url": "https://www.sca.isr.umich.edu/"
+"headline": "October payrolls beat every forecast and the Fed hike is now the base case",
+"fact": "Payrolls +165k vs 65k consensus; August and September revised up a combined 84k; unemployment 4.1% from 4.2%; average hourly earnings +0.4% m/m, +3.1% y/y; participation 61.9%.",
+"implication": "Investing.com's Fed rate monitor prices a 25 bp hike at the December 9 meeting at 79.2% (72.4% a week earlier), so this week's CPI decides whether a second hike enters the curve rather than whether December happens.",
+"source_url": "https://www.bls.gov/news.release/empsit.nr0.htm"
 },
 {
-"headline": "Underemployment widens under the strong headline",
-"fact": "U-6 rose to 7.9% from 7.6%; part-time for economic reasons +339k to 4.8 million; 1.96 million unemployed 27 weeks or longer.",
-"implication": "The quality of the labor market improved less than the headline suggests, which is the argument for a one-and-done hike rather than a cycle.",
-"source_url": "https://www.bls.gov/news.release/empsit.t15.htm"
+"headline": "Gold up, oil down as Iran strike risk fades overnight",
+"fact": "Spot gold +0.7% to $4,094.43/oz after a 5% gain last week; oil fell after the President downplayed new strikes on Iran; dollar index near 102.20 in Asia.",
+"implication": "Lower crude takes some pressure off the headline CPI path and Fed hike pricing, but gold at a record while the Fed is hiking says the market doubts policy credibility more than growth.",
+"source_url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html"
+},
+{
+"headline": "GDPNow Q4 tracking slipped to 3.4%",
+"fact": "Atlanta Fed estimate 3.4% on November 4, down from 3.7% on November 2; next update scheduled today.",
+"implication": "Growth near 3.5% with 3.9% consumer inflation expectations is a hike backdrop, not a cut backdrop, so a soft CPI tomorrow would ease the pace, not the direction.",
+"source_url": "https://www.atlantafed.org/RSS/GDPNow.aspx"
 }
 ],
 "look_at": [
-"The 10-year yield against 4.90%: it rose to about 4.85-4.87% after the print and a further leg higher is what would knock equities a second day.",
-"Bowman at 11:15 CT (University of Mississippi, supervision and regulation topic): any aside on December is the only scheduled Fed voice today after a print that changed the odds.",
-"Nasdaq futures were up about 1.5% premarket while Dow futures fell about 0.9%; whether the AI dip-buy holds into the close tells you if Thursday's rout was a one-day event.",
-"Front-end repricing: traders pulled the expected final hike forward to April from June, so watch 2-year yields and the shape of the December-to-March strip.",
-"Consumer credit at 14:00 CT and the Baker Hughes rig count at 12:00 CT are the only remaining prints; neither is likely to move the tape."
+"Nvidia at the open: whether the 5% premarket loss holds or gets bought tells you if the AI rebound from Friday has sponsorship or if last week's retail capitulation has further to run.",
+"The 10:00 CT NY Fed inflation expectations print: anything above 3.9% on the one-year measure is the only US number today that can move Fed pricing ahead of CPI.",
+"Goolsbee at 09:00 and 14:00 CT and Barkin at 11:15 CT: listen for whether 'one more hike then pause' survives the 165k payroll print, since a 79% December hike leaves the debate about January.",
+"The 12:00 CT 3-year note auction: a tail at a 4.93% prior stop would confirm the front end wants more than one hike priced.",
+"Tuesday CPI setup: consensus +0.3% headline m/m (prior 0.6%) and +0.2% core (prior 0.3%), with no year-over-year figures published because of the October 2025 shutdown gap, so size positions today for a monthly-only print."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "CME FedWatch 76.8% odds of a 25 bp hike at the December 8-9 meeting after the jobs report (CNBC), up from about 66% Thursday; Reuters put futures at about 80% vs 75% before the print, with one more hike priced after December. Target range 3.75%-4.00%.",
+"market_pricing": "Investing.com Fed Rate Monitor, 06:05 ET Nov 9: 79.2% probability of a 25 bp hike to 4.00-4.25% at the December 8-9 meeting, 20.8% hold at 3.75-4.00%; 75.5% a day earlier and 72.4% a week earlier. CNBC quotes CME FedWatch at 81% after the jobs data, up from 73%.",
 "speakers_today": [
-"Michelle Bowman (Vice Chair for Supervision), 11:15 CT, University of Mississippi Banking and Finance Symposium, Oxford, Miss., discussion on supervision and regulation (Federal Reserve Board calendar).",
-"A pre-report preview listed Musalem (9:10 CT, Greater St. Louis Inc.), Daly and Williams as speaking today; none of those appear on the Board calendar and no remarks were found, so treat as unverified."
+"Vice Chair for Supervision Michelle Bowman, 07:40 CT, community banking discussion, Mutual Board Summit, Boston (Fed Board calendar)",
+"Chicago Fed President Austan Goolsbee, 09:00 CT and 14:00 CT (Trading Economics calendar; topics not shown)",
+"Richmond Fed President Thomas Barkin, 11:15 CT (Investing.com calendar; topic not shown)"
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7426.25,
-"change_pct": 0.59
+"value": 7448.5,
+"change_pct": null
 },
 {
 "label": "Nasdaq futures",
-"value": 27121.5,
-"change_pct": 1.38
+"value": 27189.75,
+"change_pct": null
 },
 {
 "label": "Russell 2000 futures",
-"value": 2741.4,
-"change_pct": 0.22
+"value": 2798.7,
+"change_pct": null
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7419.1,
-"change_pct": 0.89
+"value": 7376.86,
+"change_pct": 0.31
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 24699.82,
-"change_pct": 1.58
+"value": 24579.43,
+"change_pct": 1.09
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.49,
-"change_pct": 0.52
+"change_pct": 0.45
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 0.13
+"change_pct": 0.17
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.17,
-"change_pct": 0.61
+"value": 101.84,
+"change_pct": null
 },
 {
 "label": "WTI crude $",
-"value": 90.24,
-"change_pct": -0.31
+"value": 88.42,
+"change_pct": null
 },
 {
 "label": "Brent crude $",
-"value": 97.28,
-"change_pct": -1.03
+"value": 95.21,
+"change_pct": null
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 2.94,
-"change_pct": -0.14
+"value": 3.0,
+"change_pct": null
 },
 {
 "label": "Gold $",
-"value": 4055.3,
-"change_pct": -1.41
+"value": 4113.1,
+"change_pct": null
 },
 {
 "label": "Bitcoin $",
-"value": 75642.73,
-"change_pct": -0.39
+"value": 74526.99,
+"change_pct": -0.08
 },
 {
 "label": "Nikkei 225",
-"value": 61077.9,
-"change_pct": null
+"value": 58775.5,
+"change_pct": 2.33
 },
 {
 "label": "Hang Seng",
-"value": 24481.86,
-"change_pct": -1.27
+"value": 24448.95,
+"change_pct": -0.13
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6148.19,
-"change_pct": -1.34
+"value": 6245.98,
+"change_pct": 1.22
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 149.5,
-"change_pct": 0.74
+"value": 152.21,
+"change_pct": 2.57
 },
 {
 "label": "VIX",
-"value": 25.29,
-"change_pct": -10.26
-},
-{
-"label": "2Y Treasury yield %",
-"value": 4.78,
-"change_pct": null
+"value": 23.28,
+"change_pct": -9.2
 }
 ],
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-06T05:36:36-06:00",
-"rows": 20
-},
-{
-"slot": "midday",
-"at": "2026-11-06T09:49:02-06:00",
-"rows": 20
+"at": "2026-11-09T05:37:31-06:00",
+"rows": 15
 }
 ],
 "themes": [
-"The labor market slowdown is off the table for now: a 48k twelve-month average hiring pace gave way to +165k with +84k of revisions, and unemployment fell to 4.1% on a 421k larger labor force.",
-"The December hike went from a debate to the base case: futures price roughly 77-80% odds, up from the mid-60s Thursday, after wages printed +0.4% on the month.",
-"The AI-bubble worry has reached the household survey: Michigan's director flagged growing anxiety about a possible AI bubble and sentiment fell 5% among the largest stockholders even as the headline rose to 51.0."
+"Fed hike pricing hardened: a December 25 bp hike is now 79% priced versus 72% a week ago after payrolls of 165k against a 65k consensus, so the live question moved from December to whether January gets priced.",
+"China is exporting input-cost inflation without domestic demand: PPI 5.7% versus CPI 0.7% is a five-point gap, the widest of this cycle, and it lands the day before US CPI.",
+"The AI trade is fighting a governance shock: the largest index weight is down 5% premarket on a CEO probe days after the biggest retail selling day since the pandemic, so this week's AI earnings have to carry the rebound alone."
 ],
-"snapshot_at": "2026-11-06T09:49:05-06:00"
+"snapshot_at": "2026-11-09T05:37:35-06:00"
 }
 }
