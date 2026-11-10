@@ -9250,360 +9250,284 @@
 }
 ],
 "macro": {
-"date": "2026-11-09",
+"date": "2026-11-10",
 "prints": [
 {
-"time_ct": "07:40",
-"event": "Fed Vice Chair for Supervision Bowman, discussion on community banking (Mutual Board Summit, Boston)",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": null,
-"unit": "speech",
-"surprise": null,
-"read": "Listed on the Board calendar as a community-banking discussion with no posted text; no policy remarks reported, and her economic-outlook speeches are Tuesday at 14:30 and 17:30 CT.",
-"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-},
-{
-"time_ct": "09:00",
-"event": "Monthly Wholesale Trade: Inventories m/m (Census Bureau)",
-"period": "September (final)",
-"consensus": "0.6%",
-"actual": "0.7%",
-"prior": "0.6% (advance estimate, October 28)",
-"unit": "m/m %",
-"surprise": "+0.1 pp",
-"read": "Revised up on electrical goods (+2.5%) and petroleum (+10.6%) stocks, with inventories up 7.6% y/y, a small upward nudge to Q4 GDP tracking ahead of today's GDPNow update.",
-"source_url": "https://www.census.gov/wholesale/current/index.html"
-},
-{
-"time_ct": "09:00",
-"event": "Monthly Wholesale Trade: Sales m/m (Census Bureau)",
-"period": "September",
-"consensus": null,
-"actual": "2.8%",
-"prior": "2.0% (August, revised from 1.8%)",
-"unit": "m/m %",
-"surprise": null,
-"read": "No consensus found; sales outran inventories and pulled the inventory-to-sales ratio down to 1.21 months from 1.23, so the restocking is being absorbed by demand rather than piling up.",
-"source_url": "https://www.investing.com/news/economic-indicators/us-wholesale-inventories-revised-up-in-september-5012774"
-},
-{
-"time_ct": "09:00",
-"event": "Conference Board Employment Trends Index",
+"time_ct": "05:00",
+"event": "NFIB Small Business Optimism Index",
 "period": "October",
-"consensus": null,
-"actual": "108.36",
-"prior": "108.43 (September, revised up from 107.56)",
+"consensus": "98.0 index (XTB calendar; TradingEconomics appears to show 97.7)",
+"actual": "97.8 index (per TradingEconomics calendar and wire reports; NFIB's own release page refused the fetch, so not confirmed at the source)",
+"prior": "97.9 index",
 "unit": "index",
-"surprise": null,
-"read": "No consensus found; the index slipped 0.1% m/m but September was revised up by nearly a point and the y/y gain widened to 2.4% from 1.9%, so the labor backdrop matches Friday's 165k payroll beat rather than the earlier softening story.",
-"source_url": "https://www.conference-board.org/topics/employment-trends-index/"
-},
-{
-"time_ct": "09:00",
-"event": "Chicago Fed President Goolsbee, Q&A at Leadership Greater Chicago (first of two appearances)",
-"period": null,
-"consensus": null,
-"actual": "Services inflation is kicking up; data-center buildout looks like old-fashioned overheating; consumer spending still the main growth driver",
-"prior": null,
-"unit": "speech",
-"surprise": null,
-"read": "The first Fed voice after the payroll beat leaned hawkish without committing to December, and the market was already there at roughly 80% for a quarter-point hike.",
-"source_url": "https://investinglive.com/central-banks/fed-s-goolsbee-starting-to-see-inflation-kicking-up-in-services/"
-},
-{
-"time_ct": "10:00",
-"event": "NY Fed Survey of Consumer Expectations, 1-year median inflation expectation",
-"period": "October",
-"consensus": null,
-"actual": null,
-"prior": "3.9%",
-"unit": "%",
-"surprise": null,
-"read": "Not yet posted as of 09:45 CT; no consensus found; September's 3.9% was the highest since May 2023 (3-year 3.3%, 5-year 3.0%), and another rise the day before CPI feeds the hike case.",
-"source_url": "https://www.newyorkfed.org/microeconomics/sce#/"
-},
-{
-"time_ct": "10:30",
-"event": "Treasury 3-month bill auction",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": "4.040%",
-"unit": "% high yield",
-"surprise": null,
-"read": "Bill yields near 4.0-4.2% already carry most of a December hike.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "10:30",
-"event": "Treasury 6-month bill auction",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": "4.150%",
-"unit": "% high yield",
-"surprise": null,
-"read": null,
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "11:15",
-"event": "Richmond Fed President Barkin speaks",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": null,
-"unit": "speech",
-"surprise": null,
-"read": "Non-voter this year; on November 5 he called inflation the most important risk and backed gradual hikes, so watch whether he hardens that after the payroll revisions.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "11:25",
-"event": "Bank of England Governor Bailey speaks",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": null,
-"unit": "speech",
-"surprise": null,
-"read": "Follows last week's BoE hike; a gilt move can spill into Treasuries during the US session.",
-"source_url": "https://finobird.com/calendar/economic/analysis/fed-speakers-inflation-expectations-and-boe-bailey-what-to-watch-on-november-9-2026-2026-11-09/"
-},
-{
-"time_ct": "12:00",
-"event": "Treasury 3-year note auction",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": "4.932%",
-"unit": "% high yield",
-"surprise": null,
-"read": "First coupon supply of the week lands into roughly 80% December hike odds with the 10-year near 4.87%; a tail would say the front end wants more than one hike.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "12:00",
-"event": "Atlanta Fed GDPNow, Q4 2026 real GDP tracking update",
-"period": "Q4 2026",
-"consensus": null,
-"actual": null,
-"prior": "3.4%",
-"unit": "% SAAR",
-"surprise": null,
-"read": "The Atlanta Fed feed confirms today's scheduled update after the wholesale data; the estimate fell to 3.4% on November 4 from 3.7% on November 2 as the consumption and investment nowcasts eased, and the upward wholesale inventory revision leans the other way.",
-"source_url": "https://www.atlantafed.org/RSS/GDPNow.aspx"
-},
-{
-"time_ct": "14:00",
-"event": "Chicago Fed President Goolsbee speaks (first of two appearances)",
-"period": null,
-"consensus": null,
-"actual": null,
-"prior": null,
-"unit": "speech",
-"surprise": null,
-"read": "After this morning's services-inflation warning, watch whether he puts a number on December or repeats that the Fed needs more data.",
+"surprise": "-0.2 pts vs the 98.0 consensus",
+"read": "A 0.1 point slip that keeps the index just under its long-run average of 98.0; not a market mover on a CPI day.",
 "source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
-"time_ct": "19:30",
-"event": "China Consumer Price Index y/y (released Sunday evening CT, National Bureau of Statistics)",
-"period": "October",
-"consensus": "0.8%",
-"actual": "0.7%",
-"prior": "0.9%",
-"unit": "y/y %",
-"surprise": "-0.1 pp",
-"read": "Consumer inflation slowed for the first time in three months as food prices fell 2.9% y/y and core eased to 0.8% from 1.0%, so weak domestic demand still caps China's consumer prices.",
-"source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+"time_ct": "07:15",
+"event": "ADP National Employment Report weekly preliminary estimate (4-week average private job change)",
+"period": "latest four weeks",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "k",
+"surprise": null,
+"read": "No consensus found; TradingEconomics shows 16.75k against this row without a label, so it is not used as the prior here.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
 },
 {
-"time_ct": "19:30",
-"event": "China Producer Price Index y/y (released Sunday evening CT, National Bureau of Statistics)",
+"time_ct": "07:30",
+"event": "Consumer Price Index, all items, seasonally adjusted, month over month",
 "period": "October",
-"consensus": "5.3%",
-"actual": "5.7%",
-"prior": "5.0%",
+"consensus": "+0.3% m/m",
+"actual": null,
+"prior": "+0.6% m/m",
+"unit": "m/m %",
+"surprise": null,
+"read": "Not yet released; Goldman is at +0.21% and Deutsche at +0.20%, both below the +0.3% consensus, mostly on lower energy.",
+"source_url": "https://www.zerohedge.com/markets/key-events-week-cpi-ppi-fed-speakers-galore-and-end-earnings-season"
+},
+{
+"time_ct": "07:30",
+"event": "Consumer Price Index, all items less food and energy, seasonally adjusted, month over month",
+"period": "October",
+"consensus": "+0.2% m/m",
+"actual": null,
+"prior": "+0.3% m/m",
+"unit": "m/m %",
+"surprise": null,
+"read": "Not yet released; this is the print of the day, since Governor Waller said this morning that a core reading near 0.3% or higher puts a half-point December hike on the table (Goldman estimate +0.16%).",
+"source_url": "https://www.zerohedge.com/markets/key-events-week-cpi-ppi-fed-speakers-galore-and-end-earnings-season"
+},
+{
+"time_ct": "07:30",
+"event": "Consumer Price Index, 12-month change (all items and core)",
+"period": "October",
+"consensus": null,
+"actual": null,
+"prior": "3.7% y/y all items, 2.6% y/y core (September)",
 "unit": "y/y %",
-"surprise": "+0.4 pp",
-"read": "Factory-gate inflation is the fastest since June 2022, driven by mining and raw-material prices and strong external demand, which keeps imported goods inflation in the US story.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"surprise": null,
+"read": "No usable consensus: CNBC and the Goldman calendar say BLS will not publish 12-month changes for most indexes because the October 2025 levels were never produced during the shutdown, while TradingEconomics still lists 3.9% and 2.8%; treat any year-over-year headline with care.",
+"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+},
+{
+"time_ct": "07:30",
+"event": "Real Earnings",
+"period": "October",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "m/m %",
+"surprise": null,
+"read": "No consensus found; released alongside the CPI, and TradingEconomics shows -0.5% against this row without a label.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "07:55",
+"event": "Johnson Redbook Index, same-store sales year over year",
+"period": "week ended November 7",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "y/y %",
+"surprise": null,
+"read": "No consensus found; TradingEconomics shows 10.4% and 9.3% against this row but the columns could not be told apart.",
+"source_url": "https://tradingeconomics.com/united-states/calendar"
+},
+{
+"time_ct": "12:00",
+"event": "Treasury 10-Year Note auction, $42 billion",
+"period": "November refunding",
+"consensus": null,
+"actual": null,
+"prior": "5.300% high yield, 2.8 bid-to-cover (previous auction, as listed by XTB)",
+"unit": "%",
+"surprise": null,
+"read": "No consensus found; a 10-year sale four and a half hours after the CPI is the second test of the day for rates, with the 10-year trading near 4.87% this morning against the 5.30% the calendars list for the prior auction (those two numbers do not sit easily together, so check the prior).",
+"source_url": "https://xtb.com/en/market-analysis/economic-calendar-key-us-cpi-report-in-the-shadow-of-geopolitical-tensions-10-11-2026"
 }
 ],
 "read": {
-"bias": "higher",
-"confidence": "medium",
-"call": "Yields stay firm and the December hike stays priced near 80% into tomorrow's CPI; this morning's data (wholesale revision up, firmer labor index, Goolsbee on services inflation) all pushed the same way, while the oil slide and the equity rebound keep the move orderly.",
-"swing": "The 10:00 CT NY Fed one-year inflation expectation: another rise from 3.9% the day before CPI pushes the hike toward a lock, a fall gives the front end room to breathe.",
+"bias": "chop",
+"confidence": "low",
+"call": "Futures are flat to mixed after Monday's 2.35% rebound and everything waits on the 07:30 CT core CPI: 0.2% or lower lets the bounce hold, 0.3% or higher revives the half-point December hike that Waller floated this morning and sends stocks lower.",
+"swing": "October core CPI month over month at 07:30 CT (consensus +0.2%; Waller's line for considering 50 basis points is about +0.3%).",
 "drivers": [
-"Wholesale inventories were revised up to 0.7% m/m with sales up 2.8% and the stock-to-sales ratio down to 1.21 months, a growth-positive mix for Q4 tracking.",
-"The Employment Trends Index held near a two-year high at 108.36 with September revised up almost a full point, confirming Friday's 165k payrolls.",
-"Goolsbee said services inflation is kicking up and the data-center buildout looks like classic overheating, the first Fed voice since the jobs report and a hawkish one.",
-"Oil fell about 3% to roughly $88 WTI on Iran diplomacy hopes, the one disinflationary input today, and stocks rallied 1.6-2.5% off last week's worst drawdown since April 2025.",
-"The 10-year sits near 4.87% and the 3-year note auction at 12:00 CT is the first test of coupon demand at these levels before CPI."
+"Waller, speaking in London at 03:00 CT, said he leans toward a 25 basis point hike at the December 8-9 meeting whatever the October number shows, and that 50 should be considered if core runs hot.",
+"Consensus is +0.3% headline and +0.2% core after +0.6% and +0.3% in September; Goldman (+0.21% / +0.16%) and Deutsche (+0.20% headline) sit below consensus, so the bar for a soft surprise is already partly priced by the sell side.",
+"Futures near 05:20 CT: S&P 500 +0.06%, Dow +0.33%, Nasdaq-100 -0.25%, after Monday's S&P 500 +2.35% to 7,549.94, its best day since April 8.",
+"Oil is down again (WTI about $85 to $86, Brent about $90 to $91) after President Trump called fresh US strikes on Iran 'highly unlikely', which helps the headline inflation picture from here.",
+"10-year yield about 4.87% and VIX about 20 into the print, with a $42 billion 10-year auction at 12:00 CT."
 ]
 },
 "what_mattered": [
 {
-"headline": "Wholesale inventories revised up, sales surge",
-"fact": "September inventories +0.7% m/m (advance 0.6%, consensus 0.6%), sales +2.8%, inventory-to-sales ratio 1.21 months from 1.23",
-"implication": "Modest upside to Q4 GDP tracking ahead of today's GDPNow update (3.4% as of November 4), and demand is absorbing the restock rather than leaving shelves full.",
-"source_url": "https://www.census.gov/wholesale/current/index.html"
+"headline": "Waller backs a December hike and puts a half point on the table",
+"fact": "Governor Waller said he is 'leaning toward supporting an increase in our policy rate of 25 basis points at the FOMC's December meeting' and that a 50 basis point move 'should be considered' if October core CPI is hot.",
+"implication": "A soft CPI no longer removes the December hike; it only removes the larger one, so the upside from a good number is smaller than the downside from a bad one.",
+"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
 },
 {
-"headline": "Employment Trends Index confirms the labor rebound",
-"fact": "October 108.36 vs a September revised up to 108.43 from 107.56; up 2.4% y/y from 1.9%",
-"implication": "The September drop that fed the softening narrative was revised away, which strips the labor-market argument against a December hike.",
-"source_url": "https://www.conference-board.org/topics/employment-trends-index/"
+"headline": "Monday's rebound recovered part of last week's AI selloff",
+"fact": "S&P 500 +2.35% to 7,549.94, Dow +2.15% to 52,389.75, Nasdaq Composite +2.74% to 25,253.14; the semiconductor ETF SOXX rose 7.49%.",
+"implication": "Positioning is less washed out than it was Friday, so a hot CPI lands on a market that has just bought back in.",
+"source_url": "https://www.tradingview.com/news/stocktwits:3df15b331094b:0-dow-s-p-500-nasdaq-futures-mixed-as-traders-weigh-ai-rebound-await-inflation-data-hims-ttd-nvda-mara-in-focus/"
 },
 {
-"headline": "Goolsbee: services inflation kicking up, data centers look like overheating",
-"fact": "First Fed remarks since the 165k payroll beat; December hike pricing quoted at 80-84% in the same reports",
-"implication": "A long-time dove-leaning voter framing the problem as demand-side overheating leaves little on the committee to resist a December move if CPI runs hot.",
-"source_url": "https://investinglive.com/central-banks/fed-s-goolsbee-starting-to-see-inflation-kicking-up-in-services/"
+"headline": "Oil falls more than 2% on Iran de-escalation",
+"fact": "WTI -2.2% to $84.96 and Brent -2.4% to $90.40 at 03:37 CT after Trump said new US strikes on Iran were 'highly unlikely'; Brent lost 16.4% the week before last.",
+"implication": "Lower energy eases headline inflation in the November and December reports, though it does nothing for the October core number that the Fed is watching today.",
+"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
 },
 {
-"headline": "Stocks rebound hard as oil slides",
-"fact": "S&P 500 +2.0%, Nasdaq +2.5%, Dow +840 points (+1.6%) at 09:34 CT; WTI $88.12 (-3.0%); 10-year 4.87%",
-"implication": "Risk is recovering from last week's AI-led drawdown without yields falling, so the equity bid is about oil and positioning, not a repricing of the Fed.",
-"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+"headline": "China consumer prices soft, factory prices hot",
+"fact": "October CPI +0.7% y/y (expected +0.8%, prior +0.9%), core 0.8% (expected 0.9%); PPI +5.7% y/y (expected +5.3%, prior +5.0%), the highest since June 2022. Released November 9.",
+"implication": "Chinese factory-gate inflation at 5.7% is a goods-price import risk for the US at the moment the Fed is hiking; weak consumer prices say demand at home is not the cause.",
+"source_url": "https://finwire.io/news/stock-markets-news/china-october-2026-cpi-07-yy-expected-08-prior-09"
 },
 {
-"headline": "China producer prices run hottest since mid-2022",
-"fact": "October PPI +5.7% y/y vs 5.3% consensus; CPI +0.7% y/y vs 0.8%",
-"implication": "Imported goods inflation stays in the US CPI debate even as China's own consumer demand stays weak.",
-"source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+"headline": "China trade surplus misses, Asia equities rally anyway",
+"fact": "China's October trade balance was $105.3 billion against a $126.5 billion consensus and $133.5 billion prior; Kospi +4.39% to 5,239.13 and Nikkei +2.87% to 60,459.58, with TSMC October revenue up 59.7% y/y to NT$586.89 billion.",
+"implication": "Asia followed Wall Street's AI rebound rather than the Chinese data; the TSMC number supports the chip demand side of that trade.",
+"source_url": "https://xtb.com/en/market-analysis/economic-calendar-key-us-cpi-report-in-the-shadow-of-geopolitical-tensions-10-11-2026"
+},
+{
+"headline": "Nvidia fell more than 4% Monday on the Huang disclosure",
+"fact": "Shares closed more than 4% lower on a day the Nasdaq rose 2.74%, after CEO Jensen Huang's email to staff and news of a board review; they were up 1.7% premarket Tuesday.",
+"implication": "The largest index weight lagging a 7% chip rally is a company-specific overhang to watch separately from the macro tape.",
+"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
 }
 ],
 "look_at": [
-"NY Fed one-year inflation expectation at 10:00 CT (prior 3.9%, the highest since May 2023): a further rise the day before CPI would move December hike odds from 80% toward a lock.",
-"The 3-year note auction at 12:00 CT (prior stop 4.932%): a tail at these yields says the front end wants a second hike priced, a strong bid says one and done.",
-"GDPNow after the wholesale data: 3.4% on November 4, and today's upward inventory revision leans toward a higher print.",
-"Barkin at 11:15 CT and Goolsbee's second appearance at 14:00 CT: whether either puts a number on December after this morning's services-inflation remarks.",
-"Oil: the roughly 3% slide to $88 WTI is the only disinflationary input today; a reversal on Iran headlines would take the equity rally with it."
+"Core CPI month over month at 07:30 CT, to the second decimal: +0.2% or less keeps December at 25 basis points, while a rounded +0.3% is the level Waller named for considering 50.",
+"Whether BLS prints 12-month changes at all; sources disagree, and if they are missing the wires will compute their own, so trust the monthly figures first.",
+"The 2-year yield and December hike odds in the first ten minutes after the print, since they show whether the market accepts Waller's two-way framing.",
+"The $42 billion 10-year auction at 12:00 CT, where a weak result after a hot CPI would push long yields up a second time in one session.",
+"Logan at 09:50 CT and Schmid at 12:30 CT, the first two Fed officials to speak with the October number in hand; both have leaned hawkish."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "Roughly 80% odds of a 25 bp hike at the December 8-9 meeting (77% CME, about 81% LSEG at Friday's close; up to 84% quoted after Goolsbee this morning); policy rate 3.75-4.00%",
+"market_pricing": "A 25 basis point hike at the December 8-9 meeting is the base case, but the quoted odds conflict and none came from a page opened at CME: reports put it at 84.2% on Monday, and at 76.3% rising to 96.3% after Waller's remarks. No source found shows a meaningful probability for 50 basis points before the CPI.",
 "speakers_today": [
-"Bowman 07:40 CT, community banking discussion (Mutual Board Summit, Boston), no text posted",
-"Goolsbee 09:00 CT, Leadership Greater Chicago Q&A: services inflation kicking up, data-center buildout looks like overheating",
-"Barkin 11:15 CT",
-"Goolsbee 14:00 CT (second appearance)"
+"03:00 CT Governor Waller, Economic Outlook, Bank of England Watchers Conference, London (delivered: leans to a 25 bp December hike, 50 bp should be considered if core CPI is hot)",
+"09:50 CT Dallas Fed President Logan, opening remarks, Dallas Fed Energy Conference",
+"12:30 CT Kansas City Fed President Schmid, fireside chat, Dallas Fed Energy Conference",
+"14:30 CT Vice Chair for Supervision Bowman, Economic Outlook, Council on Foreign Relations, Washington",
+"17:30 CT Philadelphia Fed President Paulson, Philadelphia Fed field meeting",
+"17:30 CT Vice Chair for Supervision Bowman, Economic Outlook (virtual)"
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7541.0,
-"change_pct": null
+"value": 7580.5,
+"change_pct": 0.08
 },
 {
 "label": "Nasdaq futures",
-"value": 27833.5,
-"change_pct": null
+"value": 27958.0,
+"change_pct": -0.2
 },
 {
 "label": "Russell 2000 futures",
-"value": 2823.5,
-"change_pct": null
+"value": 2850.5,
+"change_pct": 0.06
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7525.65,
-"change_pct": 2.02
+"value": 7549.94,
+"change_pct": 2.35
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25194.21,
-"change_pct": 2.5
+"value": 25253.14,
+"change_pct": 2.74
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.49,
-"change_pct": 0.14
+"change_pct": 0.1
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": -0.0
+"change_pct": -0.08
 },
 {
 "label": "Dollar index (DXY)",
-"value": 101.92,
-"change_pct": null
+"value": 101.73,
+"change_pct": 0.08
 },
 {
 "label": "WTI crude $",
-"value": 88.26,
-"change_pct": null
+"value": 85.87,
+"change_pct": -1.13
 },
 {
 "label": "Brent crude $",
-"value": 94.82,
-"change_pct": null
+"value": 91.28,
+"change_pct": -1.39
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.13,
-"change_pct": null
+"value": 3.26,
+"change_pct": 1.34
 },
 {
 "label": "Gold $",
-"value": 4127.2,
-"change_pct": null
+"value": 4082.6,
+"change_pct": -0.78
 },
 {
 "label": "Bitcoin $",
-"value": 75381.01,
-"change_pct": 1.07
+"value": 74090.9,
+"change_pct": -1.51
 },
 {
 "label": "Nikkei 225",
-"value": 57434.77,
-"change_pct": null
+"value": 60459.58,
+"change_pct": 2.87
 },
 {
 "label": "Hang Seng",
-"value": 24448.95,
-"change_pct": -0.13
+"value": 24557.04,
+"change_pct": 0.44
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6291.67,
-"change_pct": 1.96
+"value": 6370.64,
+"change_pct": 1.27
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 155.94,
-"change_pct": 2.45
+"value": 156.9,
+"change_pct": 3.08
 },
 {
 "label": "VIX",
-"value": 21.05,
-"change_pct": -17.9
+"value": 20.07,
+"change_pct": 0.75
+},
+{
+"label": "2Y Treasury yield %",
+"value": 4.78,
+"change_pct": null
 }
 ],
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-09T05:37:31-06:00",
-"rows": 15
-},
-{
-"slot": "midday",
-"at": "2026-11-09T09:49:44-06:00",
-"rows": 15
+"at": "2026-11-10T05:33:09-06:00",
+"rows": 8
 }
 ],
 "themes": [
-"The labor-softening case against a December hike lost its data point: the Employment Trends Index's September drop was revised away (108.43 from 107.56) and October held at 108.36.",
-"The inflation debate moved from tariffs to overheating: Goolsbee said services inflation is kicking up and the data-center buildout looks like classic demand-side overheating, the day before CPI with hike odds near 80%.",
-"Risk and rates decoupled today: stocks rebounded 2% on a 3% oil slide while the 10-year held near 4.87%, so the equity relief is not a Fed repricing."
+"The December debate moved from 'hike or pause' to '25 or 50': Waller set the line at a core CPI of about 0.3% against a 0.2% consensus.",
+"Headline and core are pulling apart as oil falls: Brent near $90 after losing 16.4% and then 6.9% in two weeks lowers future headline prints while the Fed keys on core.",
+"China is exporting producer inflation, not consumer demand: PPI 5.7% y/y against CPI 0.7% y/y, a 5 point gap."
 ],
-"snapshot_at": "2026-11-09T09:49:52-06:00"
+"snapshot_at": "2026-11-10T05:33:13-06:00"
 }
 }
