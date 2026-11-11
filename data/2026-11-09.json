@@ -9269,147 +9269,142 @@
 "event": "MBA Weekly Mortgage Applications Survey (Market Composite Index, w/w)",
 "period": "Week ending November 6",
 "consensus": null,
-"actual": null,
+"actual": "+6.2%",
 "prior": "-1.2%",
 "unit": "w/w %",
 "surprise": null,
-"read": "No consensus found and the actual was not confirmed at the time of writing; the prior week had the 30-year rate at 7.30%, and Tuesday's 10 bp jump in the 10-year yield lands after this survey week, so the number says little about what comes next.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
+"read": "No consensus found; applications rose 6.2%, the sharpest weekly gain since June, as the 30-year contract rate eased to 7.21% from 7.30% (purchase index 141.2 from 131.4, refinance index 540.7 from 517.5), but the survey week ended before Tuesday's 10 bp jump in the 10-year yield, so the bounce is unlikely to carry into next week.",
+"source_url": "https://tradingeconomics.com/united-states/mortgage-applications"
 }
 ],
 "read": {
 "bias": "higher",
 "confidence": "medium",
-"call": "Stocks open higher on an AI-infrastructure rebound with no US data on the calendar and the Treasury cash market shut for Veterans Day, so the rate pressure that sank Tuesday cannot build in cash bonds today.",
-"swing": "No print can flip it today; the swing is whether the CoreWeave-led gap in tech (Nasdaq-100 futures +1.9%) holds through the cash session after Nvidia fell more than 5% on Tuesday.",
+"call": "The morning call stands: stocks are higher on the AI-infrastructure rebound (S&P 500 about +0.9% to +1.0%, Nasdaq about +1.5% in the first hour), with no US data left today and cash Treasuries shut for Veterans Day, though the Dow is slightly red and oil is rising.",
+"swing": "No print can flip it today; the swing is whether the tech gap holds into the close with Brent back up near $92.60, since the Dow was already down about 0.1% to 0.2% in the first hour.",
 "drivers": [
-"S&P 500 futures +0.9%, Nasdaq-100 futures +1.9%, Dow futures +0.2% (+76 points) at about 5:30 CT.",
-"CoreWeave up about 13% to 15% before the open on third-quarter revenue of $3.66B against $3.55B expected and a raised 2026 revenue guide of $13.0B to $13.3B; Nebius +11.4%, Iren +7.9%.",
-"US bond market closed for Veterans Day after the 10-year yield rose 10 bp to 4.98% and the 2-year rose 17 bp to 4.73% on Tuesday.",
-"October CPI came in at +0.4% m/m against +0.3% expected and core at +0.3% against +0.2%, which put a December Fed hike at roughly 88% to 90% for a quarter point with about 11% on a half point.",
-"Brent settled at $91.49 (-1.17%) and briefly traded under $90 for the first time since August on hopes of easing US-Iran tension."
+"First-hour tape: S&P 500 7,597.79 (+1.02%), Nasdaq Composite 25,458.72 (+1.57%), Russell 2000 2,834.86 (+0.48%), Dow 52,177.00 (-0.11%); CNBC's 9:28 CT update had the S&P +0.8%, Nasdaq +1.2% and the Dow down 152 points.",
+"CoreWeave up between 11% and 20% depending on the snapshot after third-quarter revenue of $3.66B against $3.55B expected and a raised 2026 guide; Nvidia up roughly 3% to 5% after falling nearly 10% over the first two days of the week; Micron and Broadcom each +5.6% in the AP count.",
+"Oil is working against the bounce: Brent +1.2% to $92.63 after settling at $91.49 Tuesday, and the front-month US crude contract was quoted at $88.63 (+3.0%).",
+"US cash bond market closed for Veterans Day after the 10-year yield closed at 4.98% Tuesday; the test of 5% waits for Thursday.",
+"December Fed hike odds unchanged at about 90% for a quarter point after Tuesday's hot October CPI; no Fed speaker confirmed today.",
+"MBA mortgage applications +6.2% w/w with the 30-year rate at 7.21%, a housing-only data point that did not move the tape."
 ]
 },
 "what_mattered": [
 {
-"headline": "Futures rebound on CoreWeave's quarter",
-"fact": "Nasdaq-100 futures +1.9% and S&P 500 futures +0.9% early Wednesday; CoreWeave rose about 13% after hours on revenue of $3.66B and a 2026 guide raised to $13.0B to $13.3B.",
-"implication": "The AI-infrastructure group, down hard over the past month, leads the open; the same stock's August earnings pop faded inside a week, so the gap needs follow-through in the cash session.",
-"source_url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+"headline": "Tech rebound held through the open",
+"fact": "In the first hour the S&P 500 was at 7,597.79 (+1.02%) and the Nasdaq Composite at 25,458.72 (+1.57%), while the Dow was at 52,177.00 (-0.11%) and the Russell 2000 up 0.48%.",
+"implication": "The gain is narrow: it sits in AI and chip names, and the Dow and small caps are not confirming it, so breadth is the thing to check before trusting the move.",
+"source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+},
+{
+"headline": "CoreWeave's quarter pulled the AI group up",
+"fact": "CoreWeave rose as much as 20% (CNBC, 9:29 CT; the AP had it +10.7% earlier) on revenue of $3.66B against $3.55B expected, up 168% y/y, with about $9B of customer prepayments and deposits expected over the next three months; Nvidia rose about 3% to 5%.",
+"implication": "Customer prepayments answer part of the funding worry behind the group's sell-off; Nebius reports before the bell Thursday and is the next test of the same question.",
+"source_url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html"
+},
+{
+"headline": "Mortgage applications jumped 6.2%",
+"fact": "MBA Market Composite Index +6.2% w/w for the week ending November 6 (prior -1.2%), the sharpest gain since June; purchase index 141.2 from 131.4, refinance index 540.7 from 517.5; 30-year contract rate 7.21% from 7.30%.",
+"implication": "A 9 bp dip in mortgage rates was enough to bring buyers back, but Tuesday's rise in the 10-year to 4.98% came after the survey week and points to higher mortgage rates in the next report.",
+"source_url": "https://tradingeconomics.com/united-states/mortgage-applications"
+},
+{
+"headline": "Oil turned back up",
+"fact": "Brent +1.2% to $92.63 on Wednesday morning after settling at $91.49 and briefly trading under $90 on Tuesday.",
+"implication": "The one input that was easing the inflation story reversed within a day; with a December hike about 90% priced, higher crude adds to the case for the larger move Waller raised.",
+"source_url": "https://www.cp24.com/news/money/2026/11/11/rebounding-ai-stocks-lift-wall-street/"
 },
 {
 "headline": "October CPI ran hot and stocks fell Tuesday",
-"fact": "CPI +0.4% m/m against +0.3% expected (September +0.6%); core +0.3% against +0.2% expected. The S&P 500 closed down 0.38% at 7,520.93, the Dow down 0.30% at 52,231.89, the Nasdaq Composite down 0.74%. No annual rate was published because October 2025 was never collected.",
-"implication": "The inflation miss is the reason a December hike is close to fully priced; today's bounce is happening against that backdrop, not in place of it.",
-"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
-},
-{
-"headline": "Waller put a half-point hike on the table",
-"fact": "Governor Waller said in London that \"a 50 basis point hike in the policy rate should be considered at the December meeting\" if inflation runs hot, and that hiking only 25 bp \"would put our credibility at risk\"; Dallas Fed President Logan said she expects two more quarter-point hikes. CME FedWatch after CPI: about 88% for +25 bp, 11% for +50 bp.",
-"implication": "The debate for December 8-9 has moved from whether to hike to how much; any Fed speaker on Thursday who backs 50 bp moves the front end again.",
-"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
-},
-{
-"headline": "Yields jumped and the 10-year auction was soft",
-"fact": "10-year yield +10 bp to 4.98% after touching 5.004% intraday; 2-year +17 bp to 4.73%; 30-year +9 bp to 5.35%. The $42B 10-year auction left dealers with 10%, the most since May.",
-"implication": "Cash Treasuries are closed today, so the test of the 5% level on the 10-year waits for Thursday, when a 30-year auction follows.",
-"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
-},
-{
-"headline": "China's October trade beat on both sides",
-"fact": "Exports +35.2% y/y against +33.5% expected (September +36.3%); imports +41.6% against +32% expected; surplus $105.3B, the lowest since April.",
-"implication": "Strong import growth points to firm Chinese demand and supports the global tech and commodity bid seen in Asia overnight (Nikkei +1.31%, Kospi +2.6%).",
-"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
-},
-{
-"headline": "Oil slid on Iran hopes",
-"fact": "Brent settled at $91.49 (-1.17%) after briefly breaking below $90 for the first time since August; WTI settled at $86.04 (-0.93%).",
-"implication": "Lower crude is the one input working against the hot-inflation story; it has to keep falling to matter for the December decision.",
-"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
+"fact": "CPI +0.4% m/m against +0.3% expected; core +0.3% against +0.2% expected. The S&P 500 closed down 0.38% at 7,520.93, the Dow down 0.30% at 52,231.89, the Nasdaq Composite down 0.74% at 25,065.87; odds of a quarter-point December hike rose to about 90%.",
+"implication": "Today's bounce is happening against a near fully priced December hike, not in place of it.",
+"source_url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
 }
 ],
 "look_at": [
-"Watch whether the tech gap holds after the first hour: Nasdaq-100 futures are up 1.9% on one company's print, while Nvidia fell more than 5% on Tuesday and the Nasdaq-100 is in correction.",
-"Treasury futures still trade with the cash market closed; a further sell-off there would say the 10-year breaks 5% when cash reopens Thursday.",
-"Brent near $90 is the level to watch, with OPEC's monthly oil market report due today; a clean break lower eases the inflation pressure behind the hike pricing.",
-"No Fed speakers are scheduled today, so December odds (about 88% for 25 bp, 11% for 50 bp) should hold until Thursday's run of Hammack, Barr, Goolsbee, Daly and Williams.",
-"Thursday is the real calendar: jobless claims (consensus 195k, prior 189k), October existing home sales (consensus 3.9M, prior 4.0M) and a 30-year bond auction, then October PPI on Friday."
+"Check breadth into the afternoon: the Nasdaq is up about 1.5% while the Dow is slightly red and the Russell 2000 is up only 0.5%, so a fade in CoreWeave or Nvidia would take the index gains with it.",
+"Watch Brent against $90 to $93: it is back at $92.63 after Tuesday's dip under $90, and a further rise feeds the inflation worry behind the December hike pricing.",
+"Treasury futures still trade with the cash market closed; a sell-off there would say the 10-year breaks 5% when cash reopens Thursday ahead of the 30-year bond auction.",
+"No Fed speaker is confirmed for today, so December odds (about 90% for 25 bp) should hold until Thursday's run of Hammack, Barr, Goolsbee, Daly and Williams.",
+"Thursday is the real calendar: weekly jobless claims, October existing home sales, the 30-year auction and Nebius earnings before the open, then October PPI on Friday."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "Target range 3.75% to 4.00%. After the October CPI, CME FedWatch showed about 88% to 90% for a 25 bp hike at the December 8-9 meeting and about 11% for 50 bp (one outlet reported 13.6% for 50 bp).",
+"market_pricing": "Target range 3.75% to 4.00%. CNBC reported odds of a 25 bp hike at the December 8-9 meeting at about 90% after Tuesday's October CPI; Tuesday's CME FedWatch reading put about 11% on 50 bp. No fresh Wednesday reading found.",
 "speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7609.25,
-"change_pct": 0.86
+"value": 7614.25,
+"change_pct": 0.93
 },
 {
 "label": "Nasdaq futures",
-"value": 28354.0,
-"change_pct": 1.86
+"value": 28397.0,
+"change_pct": 2.02
 },
 {
 "label": "Russell 2000 futures",
-"value": 2849.4,
-"change_pct": 0.72
+"value": 2844.8,
+"change_pct": 0.56
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7520.93,
-"change_pct": -0.38
+"value": 7596.09,
+"change_pct": 1.0
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25065.87,
-"change_pct": -0.74
+"value": 25455.21,
+"change_pct": 1.55
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": 2.45
+"change_pct": 0.3
 },
 {
 "label": "30Y Treasury yield %",
-"value": 0.53,
-"change_pct": 1.79
+"value": 0.54,
+"change_pct": 0.11
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.51,
-"change_pct": 0.28
+"value": 102.9,
+"change_pct": 0.65
 },
 {
 "label": "WTI crude $",
-"value": 86.69,
-"change_pct": 0.76
+"value": 88.54,
+"change_pct": 2.91
 },
 {
 "label": "Brent crude $",
-"value": 92.82,
-"change_pct": 1.45
+"value": 94.42,
+"change_pct": 3.2
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.32,
-"change_pct": 0.58
+"value": 3.35,
+"change_pct": 1.58
 },
 {
 "label": "Gold $",
-"value": 4062.1,
-"change_pct": 0.79
+"value": 4015.4,
+"change_pct": -0.37
 },
 {
 "label": "Bitcoin $",
-"value": 73969.71,
-"change_pct": 0.34
+"value": 73843.5,
+"change_pct": 0.17
 },
 {
 "label": "Nikkei 225",
-"value": 61248.59,
-"change_pct": 1.31
+"value": 60459.58,
+"change_pct": null
 },
 {
 "label": "Hang Seng",
@@ -9418,18 +9413,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6368.45,
-"change_pct": 0.64
+"value": 6366.65,
+"change_pct": 0.61
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 155.06,
-"change_pct": -1.17
+"value": 155.32,
+"change_pct": 0.17
 },
 {
 "label": "VIX",
-"value": 18.58,
-"change_pct": -4.52
+"value": 18.03,
+"change_pct": -7.35
 },
 {
 "label": "2Y Treasury yield %",
@@ -9442,13 +9437,18 @@
 "slot": "morning",
 "at": "2026-11-11T05:33:16-06:00",
 "rows": 2
+},
+{
+"slot": "midday",
+"at": "2026-11-11T09:47:42-06:00",
+"rows": 2
 }
 ],
 "themes": [
-"December hike size: core CPI at +0.3% m/m against +0.2% expected met the condition Waller set for considering 50 bp, and the market now puts about 11% on a half-point move.",
-"AI infrastructure funding: CoreWeave's $3.66B quarter and raised $13.0B to $13.3B guide lifted the stock about 13% to 15% after a drop of more than 40% in a month, reopening the question of whether the debt-funded build-out sell-off went too far.",
-"The 5% 10-year: the yield touched 5.004% on Tuesday and closed at 4.98% after a 10-year auction that left dealers with 10%, the most since May."
+"AI infrastructure funding: CoreWeave's $3.66B quarter, raised guide and about $9B of expected customer prepayments lifted the stock as much as 20% and Nvidia 3% to 5%, reopening the question of whether the debt-funded build-out sell-off went too far.",
+"Oil and the December hike: Brent's dip under $90 lasted one session and it is back at $92.63 (+1.2%), which removes the one offset to a core CPI of +0.3% m/m with a hike about 90% priced.",
+"Housing rate sensitivity: a 9 bp fall in the 30-year mortgage rate to 7.21% produced a 6.2% jump in applications, the largest since June, just before the 10-year yield rose 10 bp to 4.98%."
 ],
-"snapshot_at": "2026-11-11T05:33:22-06:00"
+"snapshot_at": "2026-11-11T09:47:50-06:00"
 }
 }
