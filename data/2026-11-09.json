@@ -9250,260 +9250,176 @@
 }
 ],
 "macro": {
-"date": "2026-11-10",
+"date": "2026-11-11",
 "prints": [
 {
-"time_ct": "05:00",
-"event": "NFIB Small Business Optimism Index",
+"time_ct": "01:00",
+"event": "Germany Consumer Price Index, final (y/y)",
 "period": "October",
-"consensus": "98.0 index (XTB calendar); TradingEconomics prints 97.7 in its consensus column",
-"actual": "97.8 index (TradingEconomics calendar; NFIB's own release page was not opened)",
-"prior": "97.9 index",
-"unit": "index",
-"surprise": "-0.2 pts vs the 98.0 XTB consensus (+0.1 pts vs the 97.7 TradingEconomics consensus)",
-"read": "A 0.1 point slip that keeps the index just under its long-run average of 98.0; the two calendars disagree on consensus so the sign of the surprise is not settled, and it did not move markets on a CPI day.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "07:15",
-"event": "ADP National Employment Report weekly preliminary estimate (4-week average private job change)",
-"period": "four weeks ended October 24",
-"consensus": null,
-"actual": "+19.75k a week",
-"prior": "+19.5k a week for the four weeks ended October 17 per the ADP release as carried by wire summaries; TradingEconomics shows 16.75k in its previous column, which is the October 10 reading",
-"unit": "k",
-"surprise": null,
-"read": "No consensus found; a second straight small rise in a series that has run between 17k and 26k a week since September, so hiring is slow but not rolling over.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "07:30",
-"event": "Consumer Price Index, all items, seasonally adjusted, month over month",
-"period": "October",
-"consensus": "+0.3% m/m",
-"actual": "+0.4% m/m",
-"prior": "+0.6% m/m",
-"unit": "m/m %",
-"surprise": "+0.1 pp",
-"read": "Hotter than consensus and well above the +0.2% Goldman and Deutsche estimates even with energy up only 0.7% (gasoline +1.0% after +9.1%); food rose 0.5% and shelter rose 0.3%, with shelter over thirty percent of the monthly increase.",
-"source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Consumer Price Index, all items less food and energy, seasonally adjusted, month over month",
-"period": "October",
-"consensus": "+0.2% m/m",
-"actual": "+0.3% m/m",
-"prior": "+0.3% m/m",
-"unit": "m/m %",
-"surprise": "+0.1 pp",
-"read": "A third straight +0.3% (about 3.7% annualized over three months) that lands exactly on the line Governor Waller drew this morning for putting a half-point December hike on the table; used cars fell 1.2% but car insurance (+0.7%), recreation (+0.8%) and transportation services (+0.8%) carried it.",
-"source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-},
-{
-"time_ct": "07:30",
-"event": "Consumer Price Index, 12-month change (all items and core)",
-"period": "October",
-"consensus": null,
-"actual": null,
-"prior": "3.7% y/y all items, 2.6% y/y core (September)",
+"consensus": "2.8%",
+"actual": "2.8%",
+"prior": "3.3%",
 "unit": "y/y %",
-"surprise": null,
-"read": "No consensus found and no actual: BLS left the 12-month cells blank because October 2025 prices were never collected during the shutdown; TradingEconomics shows 3.7% and 2.6% as October actuals but those are the September figures carried over, so ignore any year-over-year headline today.",
-"source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+"surprise": "0.0 pp",
+"read": "Final reading matched the flash, so German inflation fell half a point from September and gave US futures nothing new.",
+"source_url": "https://tradingeconomics.com/calendar"
 },
 {
-"time_ct": "07:30",
-"event": "Real Earnings",
-"period": "October",
-"consensus": null,
-"actual": "0.0% m/m (real average hourly earnings, all employees, unchanged)",
-"prior": "-0.4% m/m (September, as shown revised on TradingEconomics; the BLS release does not restate it)",
-"unit": "m/m %",
-"surprise": null,
-"read": "No consensus found; nominal hourly pay rose 0.4% and prices rose 0.4%, so real pay was flat, which means wages are keeping up with inflation rather than cooling it.",
-"source_url": "https://www.bls.gov/news.release/realer.nr0.htm"
-},
-{
-"time_ct": "07:55",
-"event": "Johnson Redbook Index, same-store sales year over year",
-"period": "week ended November 7",
-"consensus": null,
-"actual": "+10.1% y/y (TradingEconomics, column read by position)",
-"prior": "+10.4% y/y",
-"unit": "y/y %",
-"surprise": null,
-"read": "No consensus found (TradingEconomics shows 9.3% in a third column that could be consensus or its own forecast); double-digit nominal sales growth says the consumer is still spending into higher prices.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "10:00",
-"event": "Quarterly Report on Household Debt and Credit (Federal Reserve Bank of New York)",
-"period": "Q3 2026",
+"time_ct": "06:00",
+"event": "MBA Weekly Mortgage Applications Survey (Market Composite Index, w/w)",
+"period": "Week ending November 6",
 "consensus": null,
 "actual": null,
-"prior": "$18.8 trillion total household debt (Q2 2026, down $13 billion)",
-"unit": "$ trillion",
+"prior": "-1.2%",
+"unit": "w/w %",
 "surprise": null,
-"read": "No consensus found; the release was scheduled for 10:00 CT but the New York Fed page returned no figures, and the $18.8T on TradingEconomics could not be told apart from the Q2 level, so the actual stays empty.",
-"source_url": "https://tradingeconomics.com/united-states/calendar"
-},
-{
-"time_ct": "12:00",
-"event": "Treasury 10-Year Note auction, $42 billion",
-"period": "November refunding",
-"consensus": null,
-"actual": null,
-"prior": "5.300% high yield, 2.77 bid-to-cover (October 7 auction of $39 billion, per wire reports)",
-"unit": "%",
-"surprise": null,
-"read": "No consensus found and no result found yet; the sale comes after a hot CPI with the 10-year reported near 4.94%, far below the 5.300% the calendars list for October, so a stop well under 5.3% would be normal and the things to judge are the tail against the when-issued yield and the bid-to-cover against 2.77.",
+"read": "No consensus found and the actual was not confirmed at the time of writing; the prior week had the 30-year rate at 7.30%, and Tuesday's 10 bp jump in the 10-year yield lands after this survey week, so the number says little about what comes next.",
 "source_url": "https://tradingeconomics.com/united-states/calendar"
 }
 ],
 "read": {
-"bias": "lower",
+"bias": "higher",
 "confidence": "medium",
-"call": "Headline and core CPI both beat by a tenth and core hit the exact number Waller named for considering a half-point hike, so short rates repriced up (2-year +14 bp to about 4.69%) and stocks lean lower into the 10-year auction.",
-"swing": "The $42 billion 10-year auction at 12:00 CT and the 12:30 CT remarks from Governor Bowman and Kansas City Fed President Schmid: a clean auction plus any pushback on a half-point move would let stocks recover, a tail plus endorsement of 50 would extend the selloff.",
+"call": "Stocks open higher on an AI-infrastructure rebound with no US data on the calendar and the Treasury cash market shut for Veterans Day, so the rate pressure that sank Tuesday cannot build in cash bonds today.",
+"swing": "No print can flip it today; the swing is whether the CoreWeave-led gap in tech (Nasdaq-100 futures +1.9%) holds through the cash session after Nvidia fell more than 5% on Tuesday.",
 "drivers": [
-"Core CPI +0.3% against +0.2% consensus, the third +0.3% in a row, roughly 3.7% annualized over three months.",
-"Waller said before the print that he leans toward a quarter-point hike in December and that a half point should be considered if core came in near 0.3% or higher; it did.",
-"2-year Treasury yield up 14 bp to about 4.69% and the 10-year reported up about 7 bp to about 4.94% (CNBC figure from a search summary, page not opened); the dollar firmer.",
-"Nasdaq 100 tracking fund down 1.0% before the open at 7:38 CT; no midday index levels could be opened, so the intraday path is not confirmed.",
-"Offset: Brent down more than 3.2% to under $90 on hopes for US-Iran talks, which eases the energy leg of inflation going forward."
+"S&P 500 futures +0.9%, Nasdaq-100 futures +1.9%, Dow futures +0.2% (+76 points) at about 5:30 CT.",
+"CoreWeave up about 13% to 15% before the open on third-quarter revenue of $3.66B against $3.55B expected and a raised 2026 revenue guide of $13.0B to $13.3B; Nebius +11.4%, Iren +7.9%.",
+"US bond market closed for Veterans Day after the 10-year yield rose 10 bp to 4.98% and the 2-year rose 17 bp to 4.73% on Tuesday.",
+"October CPI came in at +0.4% m/m against +0.3% expected and core at +0.3% against +0.2%, which put a December Fed hike at roughly 88% to 90% for a quarter point with about 11% on a half point.",
+"Brent settled at $91.49 (-1.17%) and briefly traded under $90 for the first time since August on hopes of easing US-Iran tension."
 ]
 },
 "what_mattered": [
 {
-"headline": "Core CPI hits Waller's line",
-"fact": "Core CPI rose 0.3% in October against a 0.2% consensus, matching September and August; headline rose 0.4% against 0.3%.",
-"implication": "The debate for the December 9 decision moved from whether to hike to whether to hike a quarter or a half point.",
-"source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+"headline": "Futures rebound on CoreWeave's quarter",
+"fact": "Nasdaq-100 futures +1.9% and S&P 500 futures +0.9% early Wednesday; CoreWeave rose about 13% after hours on revenue of $3.66B and a 2026 guide raised to $13.0B to $13.3B.",
+"implication": "The AI-infrastructure group, down hard over the past month, leads the open; the same stock's August earnings pop faded inside a week, so the gap needs follow-through in the cash session.",
+"source_url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
 },
 {
-"headline": "The beat was not energy",
-"fact": "Energy rose only 0.7% (gasoline +1.0% after +9.1% in September) while food rose 0.5%, shelter 0.3%, car insurance 0.7%, recreation 0.8% and transportation services 0.8%; used cars fell 1.2%.",
-"implication": "The forecasts that sat below consensus were counting on lower energy to pull the headline down; services and food kept it up, which is the stickier kind of inflation.",
-"source_url": "https://www.stocktitan.net/articles/october-2026-cpi-inflation-report"
+"headline": "October CPI ran hot and stocks fell Tuesday",
+"fact": "CPI +0.4% m/m against +0.3% expected (September +0.6%); core +0.3% against +0.2% expected. The S&P 500 closed down 0.38% at 7,520.93, the Dow down 0.30% at 52,231.89, the Nasdaq Composite down 0.74%. No annual rate was published because October 2025 was never collected.",
+"implication": "The inflation miss is the reason a December hike is close to fully priced; today's bounce is happening against that backdrop, not in place of it.",
+"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
 },
 {
-"headline": "Front-end rates repriced",
-"fact": "The 2-year yield rose 14 bp to 4.69% and traders fully priced two quarter-point hikes by March, the first in December.",
-"implication": "Higher short rates and a firmer dollar are the headwind for stocks today, with long-duration growth shares the most exposed.",
-"source_url": "https://rallies.ai/news/stocks-cut-gains-as-dollar-and-yields-rise-after-us-cpi-cements-december-rate-hike-bets-8863669750d1c6f2"
+"headline": "Waller put a half-point hike on the table",
+"fact": "Governor Waller said in London that \"a 50 basis point hike in the policy rate should be considered at the December meeting\" if inflation runs hot, and that hiking only 25 bp \"would put our credibility at risk\"; Dallas Fed President Logan said she expects two more quarter-point hikes. CME FedWatch after CPI: about 88% for +25 bp, 11% for +50 bp.",
+"implication": "The debate for December 8-9 has moved from whether to hike to how much; any Fed speaker on Thursday who backs 50 bp moves the front end again.",
+"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
 },
 {
-"headline": "Real pay flat",
-"fact": "Real average hourly earnings were unchanged in October: nominal pay +0.4%, CPI +0.4%.",
-"implication": "Wage growth is matching inflation, which supports spending (Redbook +10.1% y/y) and gives the Fed no relief from the labor side.",
-"source_url": "https://www.bls.gov/news.release/realer.nr0.htm"
+"headline": "Yields jumped and the 10-year auction was soft",
+"fact": "10-year yield +10 bp to 4.98% after touching 5.004% intraday; 2-year +17 bp to 4.73%; 30-year +9 bp to 5.35%. The $42B 10-year auction left dealers with 10%, the most since May.",
+"implication": "Cash Treasuries are closed today, so the test of the 5% level on the 10-year waits for Thursday, when a 30-year auction follows.",
+"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
 },
 {
-"headline": "Oil fell on the same morning",
-"fact": "Brent dropped more than 3.2% to below $90 a barrel on hopes for US-Iran peace talks.",
-"implication": "Cheaper oil helps the November headline but does nothing for the core services that drove today's beat.",
-"source_url": "https://rallies.ai/news/stocks-cut-gains-as-dollar-and-yields-rise-after-us-cpi-cements-december-rate-hike-bets-8863669750d1c6f2"
+"headline": "China's October trade beat on both sides",
+"fact": "Exports +35.2% y/y against +33.5% expected (September +36.3%); imports +41.6% against +32% expected; surplus $105.3B, the lowest since April.",
+"implication": "Strong import growth points to firm Chinese demand and supports the global tech and commodity bid seen in Asia overnight (Nikkei +1.31%, Kospi +2.6%).",
+"source_url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+},
+{
+"headline": "Oil slid on Iran hopes",
+"fact": "Brent settled at $91.49 (-1.17%) after briefly breaking below $90 for the first time since August; WTI settled at $86.04 (-0.93%).",
+"implication": "Lower crude is the one input working against the hot-inflation story; it has to keep falling to matter for the December decision.",
+"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-10"
 }
 ],
 "look_at": [
-"The 10-year auction result at 12:00 CT: compare the high yield with the when-issued level and the bid-to-cover with October's 2.77, because weak demand after a hot CPI would push long yields toward 5%.",
-"Bowman and Schmid at 12:30 CT (Bowman again at 17:30 CT): the first Fed voices after the print, and the test of whether anyone besides Waller will entertain a half-point hike.",
-"The 2-year yield near 4.69%: if it keeps rising into the afternoon the market is moving toward pricing a half point for December 9, not just a quarter.",
-"The New York Fed household debt report for Q3: the figures could not be opened at midday, and card and auto delinquencies matter more with rate hikes coming.",
-"PPI later this week and the fact that the November CPI lands December 10, one day after the Fed decision, so today's report is the last CPI the committee sees before it votes."
+"Watch whether the tech gap holds after the first hour: Nasdaq-100 futures are up 1.9% on one company's print, while Nvidia fell more than 5% on Tuesday and the Nasdaq-100 is in correction.",
+"Treasury futures still trade with the cash market closed; a further sell-off there would say the 10-year breaks 5% when cash reopens Thursday.",
+"Brent near $90 is the level to watch, with OPEC's monthly oil market report due today; a clean break lower eases the inflation pressure behind the hike pricing.",
+"No Fed speakers are scheduled today, so December odds (about 88% for 25 bp, 11% for 50 bp) should hold until Thursday's run of Hammack, Barr, Goolsbee, Daly and Williams.",
+"Thursday is the real calendar: jobless claims (consensus 195k, prior 189k), October existing home sales (consensus 3.9M, prior 4.0M) and a 30-year bond auction, then October PPI on Friday."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "Target range 3.75% to 4.00%. Traders fully price two quarter-point hikes by March with the first in December (rallies.ai wire summary); a search summary of ZeroHedge put the odds of a quarter-point December hike above 99% after Waller spoke. No market-implied probability for a half-point move could be opened.",
-"speakers_today": [
-"Governor Waller, about 03:00 CT (done): leans toward a quarter-point hike in December, half point to be considered if October core CPI was near 0.3% or higher",
-"Dallas Fed President Logan, 08:35 CT (TradingEconomics calendar; no report of her remarks found)",
-"Governor Bowman, 12:30 CT",
-"Kansas City Fed President Schmid, 12:30 CT",
-"Governor Bowman, 17:30 CT"
-]
+"market_pricing": "Target range 3.75% to 4.00%. After the October CPI, CME FedWatch showed about 88% to 90% for a 25 bp hike at the December 8-9 meeting and about 11% for 50 bp (one outlet reported 13.6% for 50 bp).",
+"speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7536.5,
-"change_pct": -0.5
+"value": 7609.25,
+"change_pct": 0.86
 },
 {
 "label": "Nasdaq futures",
-"value": 27883.75,
-"change_pct": -0.47
+"value": 28354.0,
+"change_pct": 1.86
 },
 {
 "label": "Russell 2000 futures",
-"value": 2816.6,
-"change_pct": -1.13
+"value": 2849.4,
+"change_pct": 0.72
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7496.56,
-"change_pct": -0.71
+"value": 7520.93,
+"change_pct": -0.38
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25042.39,
-"change_pct": -0.83
+"value": 25065.87,
+"change_pct": -0.74
 },
 {
 "label": "10Y Treasury yield %",
 "value": 0.5,
-"change_pct": 2.63
+"change_pct": 2.45
 },
 {
 "label": "30Y Treasury yield %",
-"value": 0.54,
-"change_pct": 1.83
+"value": 0.53,
+"change_pct": 1.79
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.19,
-"change_pct": 0.54
+"value": 102.51,
+"change_pct": 0.28
 },
 {
 "label": "WTI crude $",
-"value": 85.44,
-"change_pct": -1.62
+"value": 86.69,
+"change_pct": 0.76
 },
 {
 "label": "Brent crude $",
-"value": 90.52,
-"change_pct": -2.21
+"value": 92.82,
+"change_pct": 1.45
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.21,
-"change_pct": -0.22
+"value": 3.32,
+"change_pct": 0.58
 },
 {
 "label": "Gold $",
-"value": 4057.8,
-"change_pct": -1.38
+"value": 4062.1,
+"change_pct": 0.79
 },
 {
 "label": "Bitcoin $",
-"value": 73247.3,
-"change_pct": -2.63
+"value": 73969.71,
+"change_pct": 0.34
 },
 {
 "label": "Nikkei 225",
-"value": 58775.5,
-"change_pct": null
+"value": 61248.59,
+"change_pct": 1.31
 },
 {
 "label": "Hang Seng",
-"value": 24557.04,
-"change_pct": 0.44
+"value": 24315.92,
+"change_pct": -0.98
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6358.42,
-"change_pct": 1.08
+"value": 6368.45,
+"change_pct": 0.64
 },
 {
 "label": "XBI (biotech ETF, prior close)",
@@ -9512,8 +9428,8 @@
 },
 {
 "label": "VIX",
-"value": 20.1,
-"change_pct": 0.9
+"value": 18.58,
+"change_pct": -4.52
 },
 {
 "label": "2Y Treasury yield %",
@@ -9524,20 +9440,15 @@
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-10T05:33:09-06:00",
-"rows": 8
-},
-{
-"slot": "midday",
-"at": "2026-11-10T09:49:19-06:00",
-"rows": 9
+"at": "2026-11-11T05:33:16-06:00",
+"rows": 2
 }
 ],
 "themes": [
-"A quarter point or a half point in December: core CPI at +0.3% for a third straight month met the condition Waller set hours earlier for considering 50 bp.",
-"Is the inflation problem energy or services: energy rose only 0.7% in October yet headline still printed +0.4%, with transportation services +0.8% and food +0.5%.",
-"How far the Treasury rally can run: the 10-year sits near 4.94% against a 5.300% stop at the October auction, and today's $42 billion sale tests that gap right after a hot print."
+"December hike size: core CPI at +0.3% m/m against +0.2% expected met the condition Waller set for considering 50 bp, and the market now puts about 11% on a half-point move.",
+"AI infrastructure funding: CoreWeave's $3.66B quarter and raised $13.0B to $13.3B guide lifted the stock about 13% to 15% after a drop of more than 40% in a month, reopening the question of whether the debt-funded build-out sell-off went too far.",
+"The 5% 10-year: the yield touched 5.004% on Tuesday and closed at 4.98% after a 10-year auction that left dealers with 10%, the most since May."
 ],
-"snapshot_at": "2026-11-10T09:49:26-06:00"
+"snapshot_at": "2026-11-11T05:33:22-06:00"
 }
 }
