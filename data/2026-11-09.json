@@ -9269,11 +9269,11 @@
 "event": "Unemployment Insurance Weekly Claims: initial claims (seasonally adjusted)",
 "period": "Week ending November 7",
 "consensus": "194k",
-"actual": null,
-"prior": "189k",
+"actual": "200k",
+"prior": "191k (revised from 189k)",
 "unit": "k",
-"surprise": null,
-"read": "Consensus 194k on Investing.com (two other calendars print 195k); a print under 190k again keeps the labor market tight and backs the December hike that is already priced.",
+"surprise": "+6k",
+"read": "Claims rose 9k to 200k, above the 194k consensus on Investing.com (195k on Dow Jones and Trading Economics), and the prior week was revised up 2k; still a low level, so it trims the tightest-labor-market story at the edge without changing the December hike.",
 "source_url": "https://www.dol.gov/ui/data.pdf"
 },
 {
@@ -9281,11 +9281,11 @@
 "event": "Unemployment Insurance Weekly Claims: insured unemployment (continuing claims)",
 "period": "Week ending October 31",
 "consensus": "1,710k",
-"actual": null,
-"prior": "1,718k",
+"actual": "1,697k",
+"prior": "1,717k (revised from 1,718k)",
 "unit": "k",
-"surprise": null,
-"read": "Consensus 1,710k on Investing.com (the Rio Times calendar prints 1,720k); the level has sat near 1.7 million for weeks, so only a move of 30k or more matters.",
+"surprise": "-13k",
+"read": "Continuing claims fell 20k to 1,697k, under 1.7 million and below the 1,710k consensus, so people who lose jobs are still finding work fast; this offsets the rise in new claims.",
 "source_url": "https://www.dol.gov/ui/data.pdf"
 },
 {
@@ -9293,24 +9293,24 @@
 "event": "Unemployment Insurance Weekly Claims: 4-week moving average of initial claims",
 "period": "Week ending November 7",
 "consensus": "192.5k",
-"actual": null,
-"prior": "194.75k",
+"actual": "195.25k",
+"prior": "195.25k (revised from 194.75k)",
 "unit": "k",
-"surprise": null,
-"read": "Consensus from one calendar only (Rio Times); Investing.com prints no consensus for this line.",
-"source_url": "https://riotimesonline.com/global-economy-briefing-november-12-2026"
+"surprise": "+2.75k",
+"read": "Unchanged at 195.25k after the prior week was revised up 500; the consensus is from one calendar only (Rio Times), so the miss carries little weight and the trend is flat.",
+"source_url": "https://www.dol.gov/ui/data.pdf"
 },
 {
 "time_ct": "09:00",
 "event": "Existing-Home Sales",
 "period": "October",
 "consensus": "3.89m annual rate",
-"actual": null,
+"actual": "3.75m annual rate",
 "prior": "3.99m annual rate",
 "unit": "m, annual rate",
-"surprise": null,
-"read": "Consensus 3.89m on Investing.com (the Rio Times calendar prints 3.98m); with the 30-year Treasury at 5.34% a drop back under 3.9m is the expected cost of higher mortgage rates, so only a hold near 4.0m would surprise.",
-"source_url": "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales"
+"surprise": "-0.14m",
+"read": "Sales fell 5.5% m/m (consensus -3.5%) and 8.8% y/y to 3.75m as the 30-year mortgage rate averaged 7.33% in October against 6.86% in September, which NAR calls the highest since 2000; Investing.com prints the prior as 3.97m against the 3.99m NAR published last month, and Trading Economics prints a 3.85m consensus.",
+"source_url": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report"
 },
 {
 "time_ct": "11:00",
@@ -9321,7 +9321,7 @@
 "prior": "-0.865m barrels",
 "unit": "m barrels, w/w change",
 "surprise": null,
-"read": "Moved from Wednesday to Thursday 12:00 ET for Veterans Day; gasoline consensus -0.100m and distillates -1.000m, and with Brent near $92.70 another draw keeps the energy leg of inflation alive.",
+"read": "Moved from Wednesday to Thursday 12:00 ET for Veterans Day; Brent is up about 1% near $93.60 this morning on the president's Iran remark, so another draw adds to the energy leg of inflation.",
 "source_url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
 },
 {
@@ -9333,8 +9333,8 @@
 "prior": "5.618% high yield",
 "unit": "%",
 "surprise": null,
-"read": "No consensus found (the when-issued yield at 12:00 CT is the bar); the size and CUSIP come from a third-party calendar citing Treasury, and the prior is as printed on Investing.com even though the 30-year trades near 5.34% this morning, so treat the prior with care.",
-"source_url": "https://xoomar.com/markets/calendar"
+"read": "No consensus found (the when-issued yield at 12:00 CT is the bar); the 30-year traded at 5.363% this morning with the 10-year back above 5%, and the prior is as printed on Investing.com, so treat the prior with care.",
+"source_url": "https://www.investing.com/economic-calendar/"
 },
 {
 "time_ct": "13:00",
@@ -9363,138 +9363,138 @@
 ],
 "read": {
 "bias": "lower",
-"confidence": "low",
-"call": "Stocks lean lower at the open, led by technology, because the Nvidia leadership story hits the largest index weight the morning after a 1.3% rally while the 10-year yield sits at 4.99% and a December rate hike is priced.",
-"swing": "The Nvidia board's decision on its chief executive (a company event, not a print); among the scheduled items the 12:00 CT $25B 30-year bond auction is the one that can move yields and the tape.",
+"confidence": "medium",
+"call": "Stocks stay lower into the afternoon, led by technology: Nvidia's chief executive resigned, the 10-year yield is back above 5%, and neither morning print gave the Fed a reason to step back from a December hike.",
+"swing": "The $25B 30-year bond auction at 12:00 CT: a clean sale that pulls the 10-year back under 5% is the one scheduled event that could turn the tape, and a tail does the opposite.",
 "drivers": [
-"Futures at about 05:20 CT: Nasdaq-100 -0.7%, S&P 500 -0.4%, Dow about flat (+35 points), per CNBC; Yahoo printed S&P 500 -0.3%.",
-"Nvidia down 5.6% to 7% before the open after the Wall Street Journal reported the board was weighing removal of its chief executive; rival chipmakers are up 2.5% to 3.9%, so this is a rotation inside chips as much as a market-wide sale.",
-"Rates: 10-year 4.99%, 2-year 4.76% (+3 bp), 30-year 5.34% with the bond market back from the Veterans Day close; October CPI on Tuesday was +0.4% m/m headline and +0.3% core, described as hot (no consensus found in the pages opened).",
-"Wednesday's rally (S&P 500 +1.31% to 7,619, Nasdaq Composite +1.60%, Dow +0.49%) happened with the bond market shut, so today is the first session where stocks and yields trade the CPI together.",
-"Light data day: claims at 07:30 CT and existing-home sales at 09:00 CT rarely move the index, which leaves the 30-year auction and five Fed speakers as the scheduled risk."
+"Cash market at 09:31 CT (CNBC): S&P 500 -0.8%, Nasdaq Composite -1.5%, Dow +108 points (+0.2%); the split says the selling is in technology, with the rest of the market holding.",
+"Nvidia's 8-K filed today says Jensen Huang resigned as president, chief executive and director effective immediately, with CFO Colette Kress as interim chief executive; the stock was down about 10% before the open and more than 5% after it, on volume above 373 million shares against a 30-day average of 144.4 million.",
+"Rates: 10-year +3.1 bp to 5.02% after touching 5.0583%, the highest since October 22; 2-year +7 bp to 4.797%; 30-year 5.363% (CNBC).",
+"Prints: initial claims 200k against 194k and continuing claims 1,697k against 1,710k cancel each other out; existing-home sales at 3.75m against 3.89m show 7.33% mortgage rates biting, but housing weakness alone does not move the Fed while CPI runs +0.4% m/m.",
+"Oil is firm (WTI $86.86, Brent about $93.60) after the president said no deal with Iran is needed, which is the reason CNBC gives for the rise in yields."
 ]
 },
 "what_mattered": [
 {
-"headline": "Nvidia board weighs removing its chief executive",
-"fact": "The Wall Street Journal reported Wednesday after the close that Nvidia's board was meeting to decide whether to oust CEO Jensen Huang, following a New York Times report on a relationship with a company executive; the stock fell 8.6% after hours and about 7% before the open (CNBC; Yahoo shows -5.6%), and no board decision had been reported as of 05:30 CT.",
-"implication": "The largest index weight is the swing for the day; analysts quoted by CNBC see up to 20% downside on a removal, while AMD (+3% to +3.9%) and Broadcom (+2.5% to +3%) are bid as substitutes.",
-"source_url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+"headline": "Nvidia's chief executive resigned; the CFO is interim chief",
+"fact": "Nvidia's 8-K dated November 12 says Jensen Huang resigned as president, CEO and board member effective immediately, Colette Kress becomes interim CEO while staying CFO, Harvey Jones becomes board chair and a search begins; shares were down about 10% before the open and more than 5% after it, and one analyst (Ives) put the stock at $300 with Huang and $225 without.",
+"implication": "The uncertainty over the board's decision is gone but the worst case for holders happened; the largest index weight explains most of the Nasdaq's 1.5% drop.",
+"source_url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
 },
 {
-"headline": "Futures give back part of Wednesday's rally",
-"fact": "Nasdaq-100 futures -0.7%, S&P 500 futures -0.3%, Dow futures +0.1% at 05:28 CT, after the S&P 500 closed +1.31% at 7,619 on Wednesday.",
-"implication": "The weakness is concentrated in technology; the Dow holding flat says this is not a broad risk-off move yet.",
-"source_url": "https://sg.finance.yahoo.com/news/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+"headline": "The 10-year Treasury yield is back above 5%",
+"fact": "10-year +3.1 bp to 5.02% after a high of 5.0583% (highest since October 22), 2-year +7 bp to 4.797%, 30-year 5.363%; Goldman Sachs added a quarter-point hike in March to its forecast.",
+"implication": "The level the morning note flagged has broken before the 30-year auction, so the sale at 12:00 CT now decides if 5% holds as a floor for the day.",
+"source_url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
 },
 {
-"headline": "Treasuries reopen with the 10-year at the edge of 5%",
-"fact": "10-year 4.992% (flat against Tuesday's close), 2-year 4.757% (+3 bp), 30-year 5.340%; the cash bond market was closed Wednesday for Veterans Day.",
-"implication": "A weak 30-year auction at 12:00 CT could push the 10-year through 5%, a level that has weighed on equity multiples.",
-"source_url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+"headline": "Jobless claims rose to 200k but continuing claims fell under 1.7 million",
+"fact": "Initial claims 200k (+9k, consensus 194k; prior revised to 191k from 189k); insured unemployment 1,697k (-20k, consensus 1,710k); 4-week average flat at 195.25k.",
+"implication": "A mixed report at very low levels: no sign of the labor slack that would let the Fed pause.",
+"source_url": "https://www.dol.gov/ui/data.pdf"
 },
 {
-"headline": "A December rate hike is the base case after the October CPI",
-"fact": "October CPI rose 0.4% m/m (prior 0.6%) and core 0.3% (prior 0.3%); a prediction market (Polymarket, 22:19 CT Wednesday) put a 25 bp hike on December 9 at 85.5%, 50 bp or more at 9.8% and no change at 3.6%. No CME FedWatch figure was found.",
-"implication": "Strong data is bad news for stocks in this regime: a low claims number today adds to hike odds instead of supporting the tape.",
-"source_url": "https://riotimesonline.com/global-economy-briefing-november-12-2026"
+"headline": "Existing-home sales fell 5.5% to a 3.75m rate",
+"fact": "October sales 3.75m annual rate against a 3.89m consensus, -8.8% y/y; 30-year mortgage rate 7.33% in October against 6.86% in September; median price $416,700 (+0.4% y/y); supply 5.1 months, up from 4.7.",
+"implication": "Housing is the first sector to show clear damage from higher rates; price growth near zero and rising supply point to softer shelter inflation later, not soon enough for December.",
+"source_url": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report"
 },
 {
-"headline": "Asia fell and European technology followed; UK growth was in line",
-"fact": "Nikkei 225 -0.70% to 60,819, Kospi -0.61%, CSI 300 -0.78%, Hang Seng -1.43% in its last hour; Stoxx 600 +0.3% at the open with its technology sector -1.3% (ASML -3%, Infineon -3.8%); UK Q3 GDP +0.7% q/q, matching estimates.",
-"implication": "The chip weakness is global while the rest of Europe is firm, which supports reading today as a sector event unless yields break higher.",
+"headline": "Cleveland Fed's Hammack backs higher rates; FedWatch has December fully priced",
+"fact": "Hammack this morning: \"I think we need to move rates higher to get to a restrictive stance of policy to bring inflation back down to 2%\"; CME FedWatch shows 100% odds of a December increase and about 13% for a half point.",
+"implication": "The debate is the size of the move; a hawkish tone from the afternoon speakers would lift the half-point odds and the 2-year.",
 "source_url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
 }
 ],
 "look_at": [
-"Any headline on the Nvidia board's decision, because it sets the direction for the Nasdaq more than every scheduled release today.",
-"Initial claims at 07:30 CT against 194k: a third straight week under 195k hardens the December hike, so a low number is not a relief for stocks.",
-"The $25B 30-year bond auction at 12:00 CT: compare the high yield with the when-issued level, since a tail of 1 bp or more with the 10-year at 4.99% would test 5%.",
-"Fed speakers through the day (Barr 09:00 CT on the Fed's own calendar; Goolsbee, Daly, Schmid and Williams listed by Investing.com) for any pushback on a December hike or talk of 50 bp.",
-"Cisco and Applied Materials report after the close and October PPI is due Friday 07:30 CT (calendar estimate +0.4% m/m after +1.3%), so positions into the close carry both."
+"The $25B 30-year bond auction at 12:00 CT: compare the high yield with the when-issued level, since a tail of 1 bp or more with the 10-year at 5.02% would press stocks further.",
+"Nvidia's close against its low of the day, because a stock that holds the opening loss after a 373-million-share morning says the resignation is priced.",
+"Daly (about 12:10 CT), Schmid (about 12:30 CT) and Williams (about 17:30 CT) for any support of a half-point hike after Hammack called for higher rates; FedWatch has that at about 13%.",
+"The crude inventory report at 11:00 CT (consensus -0.600m barrels) with Brent near $93.60, since oil is the stated reason yields rose today.",
+"The October budget deficit at about 13:00 CT against -$298.6B, then Cisco and Applied Materials after the close and October PPI on Friday at 07:30 CT."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "No CME FedWatch figure found. Polymarket (22:19 CT Nov 11): 25 bp hike 85.5%, 50 bp or more 9.8%, no change 3.6% for the December 8-9 meeting; a Wednesday morning newsletter (QSG) said the meeting was priced at 100% for a move.",
+"market_pricing": "CME FedWatch per CNBC (Nov 12): 100% odds of a rate increase at the December 8-9 meeting, about 13% for a half point. Polymarket (22:19 CT Nov 11) had 25 bp at 85.5% and 50 bp or more at 9.8%.",
 "speakers_today": [
-"Governor Michael Barr, 09:00 CT, 'Artificial Intelligence and Inequality' (virtual; Federal Reserve calendar)",
+"Cleveland Fed President Hammack, spoke this morning (about 08:30 CT per the CNBC live blog): rates need to move higher to reach a restrictive stance; open mind on December",
+"Governor Michael Barr, 09:00 CT, 'Artificial Intelligence and Inequality' (virtual; Federal Reserve calendar); no remarks found yet",
 "Chicago Fed President Goolsbee, about 10:30 CT (Investing.com lists him; time from the Rio Times table only)",
 "San Francisco Fed President Daly, about 12:10 CT (Investing.com lists her; time from the Rio Times only)",
 "Kansas City Fed President Schmid, about 12:30 CT (Investing.com lists him; time from the Rio Times only)",
-"New York Fed President Williams, about 17:30 CT (Investing.com lists him; time from the Rio Times only)",
-"Cleveland Fed President Hammack, about 08:00 CT (Rio Times table only, not on Investing.com; unconfirmed)"
+"New York Fed President Williams, about 17:30 CT (Investing.com lists him; time from the Rio Times only)"
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7610.0,
-"change_pct": -0.4
+"value": 7620.0,
+"change_pct": -0.27
 },
 {
 "label": "Nasdaq futures",
-"value": 28234.0,
-"change_pct": -0.84
+"value": 28305.5,
+"change_pct": -0.59
 },
 {
 "label": "Russell 2000 futures",
-"value": 2852.4,
-"change_pct": -0.05
+"value": 2818.0,
+"change_pct": -1.25
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7619.38,
-"change_pct": 1.31
+"value": 7608.1,
+"change_pct": -0.15
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 25466.19,
-"change_pct": 1.6
+"value": 25359.73,
+"change_pct": -0.42
 },
 {
 "label": "10Y Treasury yield %",
-"value": 0.5,
-"change_pct": 0.3
+"value": 0.51,
+"change_pct": 1.28
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.54,
-"change_pct": 0.11
+"change_pct": 0.75
 },
 {
 "label": "Dollar index (DXY)",
-"value": 102.89,
-"change_pct": -0.02
+"value": 103.19,
+"change_pct": 0.27
 },
 {
 "label": "WTI crude $",
-"value": 86.03,
-"change_pct": -0.58
+"value": 86.55,
+"change_pct": 0.02
 },
 {
 "label": "Brent crude $",
-"value": 92.35,
-"change_pct": -0.44
+"value": 93.43,
+"change_pct": 0.72
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.27,
-"change_pct": 1.8
+"value": 3.3,
+"change_pct": 2.74
 },
 {
 "label": "Gold $",
-"value": 3953.5,
-"change_pct": -1.17
+"value": 3868.8,
+"change_pct": -3.29
 },
 {
 "label": "Bitcoin $",
-"value": 73062.31,
-"change_pct": -1.22
+"value": 71297.07,
+"change_pct": -3.61
 },
 {
 "label": "Nikkei 225",
-"value": 60819.36,
-"change_pct": -0.7
+"value": 61248.59,
+"change_pct": null
 },
 {
 "label": "Hang Seng",
@@ -9503,18 +9503,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6414.36,
-"change_pct": 0.33
+"value": 6387.7,
+"change_pct": -0.09
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 156.31,
-"change_pct": 0.81
+"value": 152.96,
+"change_pct": -2.15
 },
 {
 "label": "VIX",
-"value": 18.29,
-"change_pct": 4.57
+"value": 18.23,
+"change_pct": 4.23
 },
 {
 "label": "2Y Treasury yield %",
@@ -9527,13 +9527,18 @@
 "slot": "morning",
 "at": "2026-11-12T05:34:56-06:00",
 "rows": 9
+},
+{
+"slot": "midday",
+"at": "2026-11-12T09:47:33-06:00",
+"rows": 9
 }
 ],
 "themes": [
-"The Fed debate has moved from whether to hike in December to how much: after October CPI at +0.4% m/m, a prediction market shows 85.5% for 25 bp and 9.8% for 50 bp or more.",
-"The 10-year Treasury at 4.99% meets a $25B 30-year sale and an expected $298.6B October deficit on the same day, which puts the supply question back beside the inflation one.",
-"Market leadership in AI chips is being questioned on governance instead of demand: Nvidia is down 5.6% to 7% before the open while AMD and Broadcom are up 2.5% to 3.9%."
+"The December question is now size, not direction: CME FedWatch shows 100% for a hike and about 13% for a half point, and Hammack said today that rates need to go higher.",
+"Higher rates are showing up in housing before the labor market: existing-home sales fell 5.5% to 3.75m with mortgages at 7.33%, while continuing claims fell to 1,697k.",
+"The Nvidia question moved from governance risk to succession: Huang resigned, the CFO is interim chief, and the stock is down more than 5% on more than twice its average volume."
 ],
-"snapshot_at": "2026-11-12T05:35:00-06:00"
+"snapshot_at": "2026-11-12T09:47:41-06:00"
 }
 }
