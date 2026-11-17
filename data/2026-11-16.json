@@ -9030,199 +9030,332 @@
 }
 ],
 "macro": {
-"date": "2026-11-16",
+"date": "2026-11-17",
 "prints": [
 {
-"time_ct": "04:00",
-"event": "Euro area industrial production, m/m",
+"time_ct": "01:00",
+"event": "UK unemployment rate (ILO, three months)",
 "period": "September",
-"consensus": "0.3 %",
-"actual": "0.2 %",
-"prior": "-0.5 %",
-"unit": "m/m %",
-"surprise": "-0.1 pp",
-"read": "A small miss on the month and a large one on the year (-1.5% against -0.2% expected); little effect on US futures.",
-"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---16th-november-2026"
-},
-{
-"time_ct": "07:30",
-"event": "Empire State Manufacturing Survey, general business conditions index",
-"period": "November",
-"consensus": "18 index",
-"actual": "7.8 index",
-"prior": "25.5 index",
-"unit": "index",
-"surprise": "-10.2",
-"read": "A ten-point miss (consensus 18 on Finviz and Newsquawk; Finviz showed 17.6 this morning): new orders fell to 3.0 from 23.2 and prices paid dropped fourteen points to 45.9, so the inflation line eased with activity, while employment rose to 18.1, the highest since June 2022, and the six-month outlook rose eight points to 28.9.",
-"source_url": "https://www.newyorkfed.org/survey/empire/empiresurvey_overview"
-},
-{
-"time_ct": "07:30",
-"event": "Canada Consumer Price Index, y/y",
-"period": "October",
-"consensus": "3.2 %",
-"actual": "3.1 %",
-"prior": "3.1 %",
-"unit": "y/y %",
-"surprise": "-0.1 pp",
-"read": "Unchanged from September and a tenth below the 3.2% expected (Newsquawk and Forex Fundamentals print 3.2% as the expectation); the month rose 0.2% against 0.4% expected, CPI excluding gasoline is 2.2% and CPI-trim eased to 1.8% from 1.9%, so the Canadian print took a little pressure off North American rates.",
-"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm"
-},
-{
-"time_ct": "17:50",
-"event": "Japan GDP, preliminary, q/q (released Sunday evening CT)",
-"period": "Q3",
-"consensus": "0.1 %",
-"actual": "0.0 %",
-"prior": "0.4 %",
-"unit": "q/q %",
-"surprise": "-0.1 pp",
-"read": "Growth stalled (annualised -0.1% against +0.3% expected) and the Nikkei fell below 60,000; Saxo prints a different prior annualised figure (1.7% against Newsquawk's 1.4%).",
-"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---16th-november-2026"
-},
-{
-"time_ct": "20:00",
-"event": "China industrial output (National Bureau of Statistics), released Sunday evening CT",
-"period": "October",
-"consensus": "5.3 %",
-"actual": "4.8 %",
-"prior": "5.5 %",
-"unit": "y/y %",
-"surprise": "-0.5 pp",
-"read": "A clear miss against the Reuters poll and a slowdown from September; it weighed on copper and the Australian dollar overnight.",
-"source_url": "https://finance.yahoo.com/economy/articles/chinas-factory-output-retail-sales-020559490.html"
-},
-{
-"time_ct": "20:00",
-"event": "China retail sales (National Bureau of Statistics), released Sunday evening CT",
-"period": "October",
-"consensus": "0.8 %",
-"actual": "0.4 %",
-"prior": "1.1 %",
-"unit": "y/y %",
-"surprise": "-0.4 pp",
-"read": "Consumption nearly flat on the year in a month that held a week-long national holiday.",
-"source_url": "https://finance.yahoo.com/economy/articles/chinas-factory-output-retail-sales-020559490.html"
-},
-{
-"time_ct": "20:00",
-"event": "China fixed-asset investment, year to date (National Bureau of Statistics), released Sunday evening CT",
-"period": "January-October",
-"consensus": "-7.0 %",
-"actual": "-8.1 %",
-"prior": "-7.2 %",
-"unit": "ytd y/y %",
-"surprise": "-1.1 pp",
-"read": "Investment is contracting faster, with property investment down 21.6% over the ten months.",
-"source_url": "https://finance.yahoo.com/economy/articles/chinas-factory-output-retail-sales-020559490.html"
-},
-{
-"time_ct": "20:00",
-"event": "China urban surveyed unemployment rate, released Sunday evening CT",
-"period": "October",
-"consensus": "5.2 %",
-"actual": "5.1 %",
-"prior": "5.2 %",
+"consensus": "4.7 %",
+"actual": "4.6 %",
+"prior": "4.7 %",
 "unit": "%",
 "surprise": "-0.1 pp",
-"read": "The one line in the China batch that came in better than expected.",
-"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---16th-november-2026"
+"read": "Jobless rate fell a tenth against an unchanged forecast, but claimant count rose 33.2k against 25.4k expected and regular pay growth slowed to 3.5% from 3.7%; a mixed report with no effect on US futures.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
+},
+{
+"time_ct": "04:00",
+"event": "Germany ZEW Indicator of Economic Sentiment",
+"period": "November",
+"consensus": "29 index",
+"actual": "35.6 index",
+"prior": "28.1 index",
+"unit": "index",
+"surprise": "+6.6",
+"read": "A clear beat (Newsquawk expected 29, Investing.com 28.8) with current conditions at -33.2 against -35; European stocks still fell about 1% on the chip selloff, so it did not move US futures.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
+},
+{
+"time_ct": "07:15",
+"event": "ADP National Employment Report, weekly preliminary estimate (four-week average change)",
+"period": "four weeks to late October",
+"consensus": null,
+"actual": null,
+"prior": "19.75 k",
+"unit": "k",
+"surprise": null,
+"read": "No consensus found; the prior four-week average was 19.75k (Finviz; Investing.com rounds to 19.80k), so a negative number would be the surprise.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "07:30",
+"event": "Advance Monthly Sales for Retail and Food Services, m/m",
+"period": "October",
+"consensus": "0.2 %",
+"actual": null,
+"prior": "0.8 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Consensus 0.2% on TD and Finviz, 0.1% on Investing.com; a slowdown from September is expected, so the headline needs to be flat or negative to change the growth story.",
+"source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+},
+{
+"time_ct": "07:30",
+"event": "Retail sales excluding motor vehicles and parts, m/m",
+"period": "October",
+"consensus": "0.4 %",
+"actual": null,
+"prior": "0.9 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Consensus from Finviz and Investing.com; gasoline prices inflate this line, so read it with the control group.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "07:30",
+"event": "Retail sales control group, m/m",
+"period": "October",
+"consensus": "0.4 %",
+"actual": null,
+"prior": "0.1 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "The line that feeds GDP consumption; 0.4% after 0.1% is a pickup, so the consensus has the consumer firmer underneath a soft headline.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "07:30",
+"event": "Retail sales excluding motor vehicles and gasoline, m/m",
+"period": "October",
+"consensus": "0.3 %",
+"actual": null,
+"prior": "0.2 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Consensus from TD only; Finviz and Investing.com print no forecast for this line.",
+"source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+},
+{
+"time_ct": "07:30",
+"event": "U.S. Import Price Index, m/m",
+"period": "October",
+"consensus": "0.7 %",
+"actual": null,
+"prior": "1.1 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Import prices ran 8.1% y/y in September; another 0.7% month keeps goods inflation in front of a Fed that is already hiking.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "07:30",
+"event": "U.S. Export Price Index, m/m",
+"period": "October",
+"consensus": "0.3 %",
+"actual": null,
+"prior": "2.2 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Export prices were up 11.6% y/y in September; a sharp slowdown from 2.2% is expected.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "07:30",
+"event": "New York Fed Business Leaders Survey, services business activity index",
+"period": "November",
+"consensus": null,
+"actual": null,
+"prior": "-20.7 index",
+"unit": "index",
+"surprise": null,
+"read": "No consensus found; follows Monday's Empire manufacturing miss (7.8 against 18), so a second weak New York survey would add to the slowing-activity read.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "07:55",
+"event": "Redbook same-store sales, y/y",
+"period": "week ended November 14",
+"consensus": null,
+"actual": null,
+"prior": "10.1 %",
+"unit": "y/y %",
+"surprise": null,
+"read": "No consensus found; a weekly private series, rarely a market mover.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "08:15",
+"event": "Industrial Production (G.17), m/m",
+"period": "October",
+"consensus": "0.1 %",
+"actual": null,
+"prior": "0.7 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Consensus 0.1% on TD and Finviz, 0.0% on Investing.com, after a 0.7% jump in September.",
+"source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+},
+{
+"time_ct": "08:15",
+"event": "Manufacturing output (G.17), m/m",
+"period": "October",
+"consensus": "0.2 %",
+"actual": null,
+"prior": "0.3 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "Consensus from Finviz and Investing.com; the Fed's September release confirms the 0.3% prior.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "08:15",
+"event": "Capacity utilization (G.17)",
+"period": "October",
+"consensus": "76.8 %",
+"actual": null,
+"prior": "76.9 %",
+"unit": "%",
+"surprise": null,
+"read": "A tenth lower is expected; no inflation signal at this level.",
+"source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+},
+{
+"time_ct": "09:00",
+"event": "Manufacturing and Trade Inventories and Sales (business inventories), m/m",
+"period": "September",
+"consensus": "0.5 %",
+"actual": null,
+"prior": "0.4 %",
+"unit": "m/m %",
+"surprise": null,
+"read": "A September number that only adjusts Q3 GDP tracking; retail inventories excluding autos are expected at 0.4% after 0.1%.",
+"source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+},
+{
+"time_ct": "09:00",
+"event": "NAHB/Wells Fargo Housing Market Index",
+"period": "November",
+"consensus": "29 index",
+"actual": null,
+"prior": "29 index",
+"unit": "index",
+"surprise": null,
+"read": "Builder confidence fell three points to 29 in October; unchanged is expected with mortgage rates following the 10-year above 5%.",
+"source_url": "https://www.nahb.org/news-and-economics/housing-economics/indices/housing-market-index"
+},
+{
+"time_ct": "10:00",
+"event": "Atlanta Fed GDPNow, Q4 real GDP estimate",
+"period": "Q4",
+"consensus": null,
+"actual": null,
+"prior": "3.5 %",
+"unit": "% annualised",
+"surprise": null,
+"read": "No consensus (it is a model update; Finviz repeats the prior 3.5%); today's retail sales and industrial production feed it.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
+},
+{
+"time_ct": "15:30",
+"event": "API weekly crude oil stock change",
+"period": "week ended November 13",
+"consensus": null,
+"actual": null,
+"prior": "+9.0 m barrels",
+"unit": "m barrels",
+"surprise": null,
+"read": "No consensus found; last week showed a 9.0 million barrel build, and crude sits near 85 to 86 after Monday's 3.5% fall in Brent.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-17"
 }
 ],
 "read": {
-"bias": "lower",
-"confidence": "medium",
-"call": "Both morning prints came in soft and the 10-year eased to about 5.12%, but stocks fell further after the open on the chip selloff (S&P 500 -1.1%, Nasdaq Composite -1.8% near 09:45 CT), so the day stays down unless Warsh gives buyers a reason at 11:00 CT.",
-"swing": "Fed Chair Warsh's opening remarks at 11:00 CT at the San Francisco Fed productivity conference: a hint that 50 bp is off the table for December would lift stocks; Newsquawk expects little guidance, which leaves the chip selling in charge.",
+"bias": "chop",
+"confidence": "low",
+"call": "Futures are down 0.3 to 0.4% after Monday's 1.9% fall in the S&P 500, yields are lower and the data are expected soft but not weak, so the session likely trades in a range while everyone waits for Nvidia after the close.",
+"swing": "The 07:30 CT retail sales control group (0.4% expected after 0.1%): a negative print on top of Monday's Empire miss turns a chip selloff into a growth scare, and a strong one with 0.7% import prices pushes the 10-year back toward 5.15%. Nvidia reports after the close (about 15:20 CT), too late for the cash session.",
 "drivers": [
-"Near 09:45 CT (Yahoo ticker): S&P 500 7,475.85 (-1.13%), Nasdaq Composite 24,692.52 (-1.77%), Dow -0.56%, Russell 2000 -1.19%, VIX 21.42 (+11%); the cash session is weaker than futures were at 04:30 CT (S&P -0.3%, Nasdaq 100 -0.9%).",
-"Empire State index 7.8 against 18 expected and 25.5 in October; new orders 3.0 from 23.2, prices paid 45.9 (down fourteen points), employment 18.1, the highest since June 2022.",
-"Canada October CPI 3.1% y/y against 3.2% expected and 0.2% m/m against 0.4%; CPI-trim 1.8%.",
-"Rates and oil eased: 10-year Treasury about 5.12% (down 4 bp from Friday's 5.15% close) and December crude 86.67 (-2.1%) on the Yahoo ticker, so the stock decline today is not a yields story.",
-"Chips lead the decline again with Nvidia lower a day before its Tuesday report (Newsquawk US equity open); Kansas City Fed President Schmid said inflation is running too hot."
+"Monday closed at the lows: S&P 500 -1.88% to 7,420, Nasdaq 100 -2.49% to 24,510, Dow -1.41%, Russell 2000 -1.70%; technology -2.98% (Newsquawk). VIX 22.91, up almost 19% (Saxo). Third straight losing session.",
+"At 04:55 CT S&P 500 futures were -0.3%, Nasdaq 100 -0.4%, Dow -0.4%, Russell -0.5%; the S&P contract dipped below 7,400 with 7,300 the next level watched. Europe is down about 1%, technology weakest (Newsquawk).",
+"Rates are helping, not hurting: 10-year 5.105%, lower across the curve; dollar index flat at 103.60; WTI 84.68 to 86.10 and Brent 91.26 to 93.03 after Brent fell 3.5% on Monday.",
+"New US limits on China's access to high-end AI chips landed on top of the Nvidia leadership gap; Nvidia is down 39% from its October high and the board is not considering Jensen Huang's return (Newsquawk).",
+"Home Depot beat before the open: adjusted EPS $3.86 against $3.84, revenue $43.4B against $42.8B, comparable sales +2.2% against +1.8%, and named Richard McPhail chief executive from November 23 (CNBC).",
+"A 25 bp hike on December 9 is 97.4% priced (CME FedWatch per Reuters); Waller at 08:10 CT is the speaker who could reopen the 50 bp question."
 ]
 },
 "what_mattered": [
 {
-"headline": "Chip selloff deepened after the open",
-"fact": "S&P 500 -1.13% and Nasdaq Composite -1.77% near 09:45 CT with the VIX up 11% to 21.42; futures at 04:30 CT had the S&P 500 down only 0.3%. Nvidia fell further ahead of Tuesday's report, its first since Jensen Huang resigned as chief executive last Thursday.",
-"implication": "Stocks fell while yields and oil eased, so this is a semiconductor and positioning move, not a rates move; softer data did not help.",
-"source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-100-145810375.html"
+"headline": "Monday's selloff ran to the close",
+"fact": "S&P 500 -1.88% to 7,420, Nasdaq 100 -2.49% to 24,510, Dow -1.41% to 51,610, Russell 2000 -1.70%; technology -2.98% and communication services -2.82%. VIX 22.91, up almost 19%. Futures at 04:55 CT were down another 0.3 to 0.4%.",
+"implication": "The S&P 500 lost another 0.75 point after mid-morning Monday with yields lower, so the selling is positioning in AI names ahead of Nvidia, not a rates move; a bounce needs Nvidia, not data.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---17th-november-2026"
 },
 {
-"headline": "Empire State survey missed by ten points and its price line cooled",
-"fact": "General business conditions 7.8 against 18 expected (October 25.5); new orders 3.0, shipments 8.8, prices paid 45.9 (down fourteen points), prices received 27.2 (down three), employment 18.1, six-month outlook 28.9 (up eight).",
-"implication": "One regional survey, but the first November read shows activity slowing and input price pressure easing together, which argues for 25 bp over 50 bp in December.",
-"source_url": "https://www.newyorkfed.org/survey/empire/empiresurvey_overview"
+"headline": "New US curbs on AI chip sales to China",
+"fact": "The US is restricting China's access to high-end AI chips; Nvidia set up a national security and export control committee, its general counsel testifies privately on December 2, and it warned customers of legal risk under new US legislation. The stock is down 39% from its October high.",
+"implication": "A second overhang on top of the chief executive vacancy going into tonight's report; BofA puts a 10 to 15% chance on Nvidia withdrawing guidance until a new chief executive is named.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
 },
 {
-"headline": "Canada's October inflation held at 3.1%, below the 3.2% expected",
-"fact": "CPI +3.1% y/y (September 3.1%), +0.2% m/m against 0.4% expected; gasoline +30.9% y/y, CPI excluding gasoline 2.2%, CPI-trim 1.8%, CPI-median 2.0%.",
-"implication": "Outside energy, Canadian inflation is at or below target; the Canadian dollar weakened (USD/CAD 1.4263 to 1.4305 per Newsquawk) and the print leans against the North American rates selloff.",
-"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm"
+"headline": "Nvidia reports after the close",
+"fact": "Consensus EPS $2.47 and revenue $108.85B (Newsquawk); first report under interim chief Colette Kress. Results are due about 15:20 CT.",
+"implication": "The largest index weight reports into a 39% drawdown; the outlook, and whether one is given at all, sets Wednesday's open for the whole AI group.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-equity-opening-news---17th-november-2026"
 },
 {
-"headline": "China's October activity data missed across the board",
-"fact": "Industrial output +4.8% y/y (poll 5.3%, prior 5.5%), retail sales +0.4% (poll 0.8%, prior 1.1%), fixed-asset investment -8.1% year to date (poll -7.0%), property investment -21.6%.",
-"implication": "Weaker China demand hit copper (LME -1.1%, a four-month low at 6.11 per pound per Saxo) and the Australian dollar; a negative for industrial and materials names, a small help on goods inflation.",
-"source_url": "https://finance.yahoo.com/economy/articles/chinas-factory-output-retail-sales-020559490.html"
+"headline": "Home Depot beat and changed chief executive",
+"fact": "Adjusted EPS $3.86 against $3.84 expected, revenue $43.4B against $42.8B, comparable sales +2.2% against +1.8%; full-year guide is sales growth about 4.5%, comparable sales about 1.4%, adjusted EPS up about 2%. Richard McPhail becomes chief executive on November 23; Ted Decker stays as chair.",
+"implication": "A decent read on the housing-linked consumer two hours before retail sales; no premarket price move was found in the sources opened.",
+"source_url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
 },
 {
-"headline": "Gulf shipping risk keeps oil high",
-"fact": "Iranian drone strike on a Bahrain air base, tankers reported hitting mines in the Strait of Hormuz, and a tanker struck by a projectile at 05:58 GMT; Brent near 96, WTI near 88. By mid-morning December crude was down 2.1% at 86.67 (Yahoo ticker).",
-"implication": "Oil at these levels feeds the inflation worry that already has the Fed hiking, so energy news is a rates story as well as an equity one.",
-"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---16th-november-2026"
+"headline": "Yields and oil eased again",
+"fact": "10-year 5.105% (5.127% early in Asia per Saxo), 2-year 4.821%, 30-year 5.477%; Brent settled $92.44 on Monday, down 3.5%, and WTI trades 84.68 to 86.10, below its 100-day and 200-day averages near 88.",
+"implication": "Lower oil takes some pressure off the inflation worry behind the Fed's hikes; stocks falling while yields fall says the equity problem is in technology.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
 },
 {
-"headline": "Treasury yields hold above 5% with a December hike fully priced",
-"fact": "10-year about 5.13 to 5.14% and 2-year 4.86% early Monday (4.84% Friday); Saxo calls a 25 bp December hike more than fully priced with a low chance of 50 bp. Mid-morning the 10-year was about 5.12% after the soft Empire and Canadian prints (Yahoo ticker).",
-"implication": "Equity multiples stay under pressure until the Fed or the data pulls yields back; Wednesday's minutes predate the hot October CPI and will read stale.",
-"source_url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026"
+"headline": "Gulf risk has not gone away",
+"fact": "Iran's Revolutionary Guard said it struck a US radar at Bahrain's Sheikh Isa base and that a supertanker carrying over 2 million barrels and an LNG carrier hit mines in the Strait of Hormuz. Iraq says Kirkuk to Ceyhan pipeline exports resumed at 120k barrels a day, rising to 500k. Vice President Vance said the Iran campaign will not become a two-year commitment.",
+"implication": "Oil fell anyway, so the market is trading added supply and a shorter conflict; a confirmed tanker loss would reverse that quickly and lift yields with it.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
+},
+{
+"headline": "Europe's inflation problem is as large as the US one",
+"fact": "Italy's final October CPI was 5.5% y/y against 5.4% expected and 4.2% in September; the European Commission forecasts euro-area inflation at 3.2% in 2026 and 3.1% in 2027 with growth at 1.2%. German ZEW sentiment rose to 35.6 against 29 expected.",
+"implication": "Global rates stay high together (German 10-year 3.355%), which limits how far Treasury yields can fall on soft US data.",
+"source_url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"
+},
+{
+"headline": "Fed: Warsh gave no guidance, Hammack wants steady hikes",
+"fact": "Chair Warsh on Monday spoke about emerging technologies having varying economic outcomes and said nothing on December (Reuters). Cleveland Fed President Hammack favours 'small and steady rate increases' (Saxo). CME FedWatch has 97.4% on a 25 bp hike in December; markets price about 88 bp of further tightening by mid-2027.",
+"implication": "A quarter point in December is settled; the debate has moved to how many more follow, which is what today's four speakers can shift.",
+"source_url": "https://investing.com/news/stock-market-news/us-stock-futures-slip-ahead-of-nvidia-results-fed-speakers-in-focus-5032236"
 }
 ],
 "look_at": [
-"Warsh at 11:00 CT: his first words since the hot October CPI; the market wants any hint on 25 bp versus 50 bp in December, and Newsquawk expects him to avoid guidance.",
-"Whether the S&P 500 holds its morning low near 7,475: yields and oil are both lower, so if stocks keep falling the selling is about chips and positioning ahead of Nvidia on Tuesday.",
-"The 10-year near 5.12%: the Empire prices paid drop to 45.9 and the cooler Canadian CPI pulled it off Friday's 5.15%; a move back up after Warsh would undo the one support stocks have.",
-"Hammack at 13:15 CT (Saxo listing): she dissented for a hike in October, so her tone marks the hawkish edge of the committee.",
-"Tuesday 07:30 CT retail sales (0.2% expected after 0.8%, Finviz): after today's Empire miss a second soft activity number would turn a chip selloff into a growth worry."
+"07:30 CT retail sales: the headline is expected at 0.2% after 0.8% but the control group at 0.4% after 0.1%; watch the control group, because it feeds GDP and a miss there after Monday's Empire survey would be the first real sign of a slowing consumer.",
+"07:30 CT import prices (0.7% expected after 1.1%): September ran 8.1% y/y, and a hot number alongside firm retail sales is the mix that sends the 10-year back above 5.15%.",
+"Waller at 08:10 CT on payments: Newsquawk flags whether he still leaves room for a 50 bp hike in December after the October CPI and PPI; Hammack follows at 08:30 CT and Williams at 13:25 CT.",
+"S&P 500 futures at 7,400 and then 7,300: the contract broke 7,400 overnight, and holding it through the data would say sellers are done until Nvidia.",
+"Nvidia after the close, about 15:20 CT: consensus $2.47 and $108.85B; the first thing to check is whether the company gives an outlook at all."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "Target range 3.75%-4.00% after a 10-2 hold on October 28 (Cook and Hammack wanted +25 bp). A 25 bp hike on December 9 is fully priced; the chance of 50 bp is put at roughly 12% (Trading Economics, cited by a Nov 15 preview) to 13.5% (CME FedWatch as of Nov 10-11, per Admirals). No source opened today prints a probability for a hold.",
+"market_pricing": "Target range 3.75%-4.00%. CME FedWatch shows a 97.4% chance of a 25 bp hike on December 9 (Reuters, 04:53 CT Tuesday); no source opened today prints a 50 bp probability. Saxo: about 88 bp of further tightening priced by mid-2027. Minutes of the October 27-28 meeting are due Wednesday at 13:00 CT.",
 "speakers_today": [
-"04:00 CT Governor Barr, 'Some Potential Financial Stability Implications of Artificial Intelligence', Milan (delivered; no comment on monetary policy per Newsquawk)",
-"08:05 CT New York Fed President Williams, on FX market structure (time from Finviz; no policy headlines found by 09:45 CT)",
-"11:00 CT Chair Warsh, opening remarks, Productivity and Jobs Task Force Conference, San Francisco Fed",
-"13:15 CT Cleveland Fed President Hammack (listed by Saxo only)",
-"17:10 CT Richmond Fed President Barkin (listed by Finviz only)"
+"06:30 CT St. Louis Fed President Musalem, at a central bank event (TD and Saxo; venue name cut off in TD's table)",
+"08:10 CT Governor Waller, 'Payments', The Clearing House Annual Conference, New York (Fed calendar; Finviz lists 08:20)",
+"08:30 CT Cleveland Fed President Hammack, Brookings Institution",
+"13:25 CT New York Fed President Williams, fireside chat",
+"ECB chief economist Lane also speaks (time not found)"
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7484.75,
-"change_pct": null
+"value": 7423.5,
+"change_pct": -0.21
 },
 {
 "label": "Nasdaq futures",
-"value": 27394.5,
-"change_pct": null
+"value": 27261.75,
+"change_pct": -0.08
 },
 {
 "label": "Russell 2000 futures",
-"value": 2765.5,
-"change_pct": null
+"value": 2737.1,
+"change_pct": -0.52
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7475.79,
-"change_pct": -1.14
+"value": 7416.59,
+"change_pct": -1.92
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 24698.69,
-"change_pct": -1.74
+"value": 24509.76,
+"change_pct": -2.49
 },
 {
 "label": "10Y Treasury yield %",
@@ -9232,81 +9365,81 @@
 {
 "label": "30Y Treasury yield %",
 "value": 0.55,
-"change_pct": -0.44
+"change_pct": -0.26
 },
 {
 "label": "Dollar index (DXY)",
-"value": 103.53,
-"change_pct": null
+"value": 103.58,
+"change_pct": 0.03
 },
 {
 "label": "WTI crude $",
-"value": 86.81,
-"change_pct": null
+"value": 86.06,
+"change_pct": 0.4
 },
 {
 "label": "Brent crude $",
-"value": 93.56,
-"change_pct": null
+"value": 92.82,
+"change_pct": 0.41
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.15,
-"change_pct": null
+"value": 3.12,
+"change_pct": 0.06
 },
 {
 "label": "Gold $",
-"value": 3864.8,
-"change_pct": null
+"value": 3861.8,
+"change_pct": 0.23
 },
 {
 "label": "Bitcoin $",
-"value": 64513.21,
-"change_pct": -1.21
+"value": 64493.71,
+"change_pct": -0.56
 },
 {
 "label": "Nikkei 225",
-"value": 61142.35,
-"change_pct": null
+"value": 58860.43,
+"change_pct": -1.34
 },
 {
 "label": "Hang Seng",
-"value": 23753.84,
-"change_pct": 0.49
+"value": 23508.17,
+"change_pct": -1.03
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6359.04,
-"change_pct": -0.44
+"value": 6293.85,
+"change_pct": -0.86
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 148.6,
-"change_pct": -1.3
+"value": 145.88,
+"change_pct": -3.1
 },
 {
 "label": "VIX",
-"value": 21.44,
-"change_pct": 11.09
+"value": 23.29,
+"change_pct": 1.66
+},
+{
+"label": "2Y Treasury yield %",
+"value": 4.78,
+"change_pct": null
 }
 ],
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-16T05:33:48-06:00",
-"rows": 8
-},
-{
-"slot": "midday",
-"at": "2026-11-16T09:48:10-06:00",
-"rows": 8
+"at": "2026-11-17T05:34:24-06:00",
+"rows": 18
 }
 ],
 "themes": [
-"25 bp or 50 bp in December: a quarter point is fully priced and a half point sits near 12 to 13.5%; today's Empire prices paid fall to 45.9 from about 59.5 and Canada's 3.1% CPI lean toward 25, with Warsh at 11:00 CT the test.",
-"Is growth slowing under the rate selloff: the Empire index fell eighteen points to 7.8 with new orders at 3.0, the first November activity read, a day before October retail sales.",
-"How far the chip selloff runs: the Nasdaq Composite is down 1.8% mid-morning with yields lower, after Nvidia lost about 13% last week and a day before its report."
+"How many hikes after December: 25 bp on December 9 is 97.4% priced and about 88 bp more is priced by mid-2027; Hammack's 'small and steady rate increases' fits that path and Waller this morning can move it.",
+"Is the consumer slowing: October retail sales are expected at 0.2% after 0.8%, a day after the Empire index fell to 7.8, while Home Depot's comparable sales rose 2.2% against 1.8% expected.",
+"How far the AI selloff runs: the Nasdaq 100 fell 2.49% on Monday, Nvidia is 39% off its October high, and new China chip limits arrived the day before its report."
 ],
-"snapshot_at": "2026-11-16T09:48:16-06:00"
+"snapshot_at": "2026-11-17T05:34:29-06:00"
 }
 }
