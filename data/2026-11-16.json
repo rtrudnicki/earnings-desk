@@ -489,7 +489,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 253.1,
+"market_cap_b": 278.2,
 "n_est": "16",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -511,7 +511,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 142.8,
+"market_cap_b": 154.3,
 "n_est": "7",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -533,7 +533,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 123.7,
+"market_cap_b": 125.0,
 "n_est": "11",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -555,7 +555,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 72.5,
+"market_cap_b": 75.4,
 "n_est": "13",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -577,7 +577,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 33.9,
+"market_cap_b": 33.6,
 "n_est": "8",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -599,7 +599,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 18.3,
+"market_cap_b": 18.8,
 "n_est": "3",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -621,7 +621,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 1011.7,
+"market_cap_b": 1010.4,
 "n_est": "13",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -643,7 +643,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 209.9,
+"market_cap_b": 204.4,
 "n_est": "2",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -687,7 +687,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 85.7,
+"market_cap_b": 83.7,
 "n_est": "9",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -709,7 +709,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 76.3,
+"market_cap_b": 75.6,
 "n_est": "2",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -731,7 +731,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 70.4,
+"market_cap_b": 72.7,
 "n_est": "7",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -753,7 +753,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 48.4,
+"market_cap_b": 48.7,
 "n_est": "2",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -775,7 +775,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 29.5,
+"market_cap_b": 30.6,
 "n_est": "11",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -797,7 +797,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 17.0,
+"market_cap_b": 17.2,
 "n_est": "3",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -819,7 +819,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 12.2,
+"market_cap_b": 11.7,
 "n_est": "N/A",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -841,7 +841,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 29.4,
+"market_cap_b": 29.7,
 "n_est": "1",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -863,7 +863,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 14.1,
+"market_cap_b": 14.0,
 "n_est": "11",
 "fiscal_q_end": "Oct/2026",
 "source": "calendar"
@@ -885,7 +885,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 10.4,
+"market_cap_b": 10.6,
 "n_est": "4",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
@@ -907,29 +907,7 @@
 "watch": "",
 "notes_raw": "",
 "notes_link": null,
-"market_cap_b": 10.4,
-"n_est": "1",
-"fiscal_q_end": "Sep/2026",
-"source": "calendar"
-},
-{
-"tab": "Fri 11-20",
-"day": "Fri",
-"date_md": "11-20",
-"row": 0,
-"priority": 3,
-"ticker": "FRO",
-"company": "Frontline Plc",
-"session": "BMO",
-"call_et": "",
-"eps_est": "",
-"yr_ago_eps": "$0.19",
-"rev_est": "",
-"implied_move": "",
-"watch": "",
-"notes_raw": "",
-"notes_link": null,
-"market_cap_b": 10.1,
+"market_cap_b": 10.6,
 "n_est": "1",
 "fiscal_q_end": "Sep/2026",
 "source": "calendar"
