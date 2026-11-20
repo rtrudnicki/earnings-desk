@@ -9113,27 +9113,39 @@
 "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
 },
 {
+"time_ct": "07:25",
+"event": "Fed Governor Waller: opening remarks, College Fed Challenge Finals",
+"period": null,
+"consensus": null,
+"actual": "Text posted; no policy content. He noted only that the committee presents its outlook on December 8 and its view of the proper stance on December 9.",
+"prior": null,
+"unit": "speech",
+"surprise": null,
+"read": "No consensus found (speech); nothing on inflation, hikes or the stock selloff, so his November 18 comment that a half-point hike is likely necessary stands as his last word.",
+"source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm"
+},
+{
 "time_ct": "07:30",
 "event": "Canada Retail Sales (Statistics Canada)",
 "period": "September",
 "consensus": "+0.7% m/m (matches the agency's own flash estimate)",
-"actual": null,
+"actual": "+0.8% m/m to C$75.3 billion (excluding autos and gasoline +0.1%; volume +0.1%; October flash estimate -1.5%)",
 "prior": "+1.2% m/m (August)",
 "unit": "m/m %",
-"surprise": null,
-"read": "Not yet released at the time of writing; a Canadian dollar item with little pull on US futures.",
-"source_url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
+"surprise": "+0.1 pp",
+"read": "A headline beat that is all price: gasoline station sales rose 6.9%, volumes rose 0.1%, and the agency's early estimate for October is a 1.5% fall.",
+"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261120/dq261120a-eng.htm"
 },
 {
 "time_ct": "09:00",
 "event": "Surveys of Consumers (University of Michigan): Index of Consumer Sentiment, final",
 "period": "November",
 "consensus": "51.5 (Finviz)",
-"actual": null,
+"actual": "51.5",
 "prior": "51.0 preliminary (October final 48.0)",
 "unit": "index",
-"surprise": null,
-"read": "The only US print today with a consensus; interviews for the final cover the first two weeks of the stock selloff, and the preliminary already showed sentiment down 5% among households with the largest stock holdings.",
+"surprise": "0.0",
+"read": "In line and up about 7% from October on post-election gains in expected business conditions; still 9% below February, and interviews ended November 16, so the worst days of the stock selloff are not in it.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -9141,11 +9153,11 @@
 "event": "Surveys of Consumers (University of Michigan): Current Economic Conditions, final",
 "period": "November",
 "consensus": "51.6 (Finviz)",
-"actual": null,
+"actual": "49.4",
 "prior": "51.0 preliminary (October final 46.7)",
 "unit": "index",
-"surprise": null,
-"read": "Consensus looks for a small upward revision; a cut below 51.0 would say the selloff reached how people feel about buying now.",
+"surprise": "-2.2",
+"read": "The one miss in the report: revised down 1.6 points from the preliminary, so how people feel about their finances and buying now got worse in the second half of the survey window.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -9153,11 +9165,11 @@
 "event": "Surveys of Consumers (University of Michigan): Index of Consumer Expectations, final",
 "period": "November",
 "consensus": "50.9 (Finviz)",
-"actual": null,
+"actual": "52.9",
 "prior": "50.9 preliminary (October final 48.8)",
 "unit": "index",
-"surprise": null,
-"read": "Expected unchanged from the preliminary.",
+"surprise": "+2.0",
+"read": "Revised up two points; the gain in the headline is all in the outlook, not in present conditions.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -9165,11 +9177,11 @@
 "event": "Surveys of Consumers (University of Michigan): year-ahead inflation expectations, final",
 "period": "November",
 "consensus": "4.3% (Finviz)",
-"actual": null,
+"actual": "3.7%",
 "prior": "4.3% preliminary (October final 4.7%)",
 "unit": "%",
-"surprise": null,
-"read": "The number the Fed cares about in this report: 4.3% was the lowest since August, and a revision back up after Thursday's Philadelphia prices paid jump would feed the half-point debate for December 9.",
+"surprise": "-0.6 pp",
+"read": "The print of the day: a full point below October and six tenths below the preliminary, which weakens the case for a half-point hike on December 9 and helped the S&P 500 turn positive after the release.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -9177,11 +9189,11 @@
 "event": "Surveys of Consumers (University of Michigan): long-run (5-year) inflation expectations, final",
 "period": "November",
 "consensus": "3.4% (Finviz)",
-"actual": null,
+"actual": "3.3%",
 "prior": "3.4% preliminary (October final 3.5%)",
 "unit": "%",
-"surprise": null,
-"read": "Still above the 2.8% to 3.2% range of 2024; a tick back to 3.5% or more would be read as expectations not coming down.",
+"surprise": "-0.1 pp",
+"read": "A tenth lower than expected and two tenths below October; moving the right way but still above the 2.8% to 3.2% range of 2024.",
 "source_url": "https://www.sca.isr.umich.edu/"
 },
 {
@@ -9189,24 +9201,24 @@
 "event": "State Employment and Unemployment (Monthly) (Bureau of Labor Statistics)",
 "period": "October",
 "consensus": null,
-"actual": null,
+"actual": "Unemployment rates lower in 3 states and the District of Columbia, higher in 1 (Colorado, +0.3 point), stable in 46; national rate 4.1%",
 "prior": null,
 "unit": "%",
 "surprise": null,
-"read": "No consensus found; state detail of the October jobs report already published, not a market mover.",
-"source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+"read": "No consensus found; state detail of the October jobs report already published (highest District of Columbia 5.4%, lowest South Dakota 2.0%), not a market mover.",
+"source_url": "https://www.bls.gov/news.release/laus.nr0.htm"
 },
 {
 "time_ct": "09:00",
 "event": "Total Factor Productivity for Major Industries (Bureau of Labor Statistics)",
 "period": "Annual 2025",
 "consensus": null,
-"actual": null,
+"actual": "Total factor productivity rose in 7 of 19 major industries in 2025, led by wholesale trade",
 "prior": null,
-"unit": "%",
+"unit": "industries",
 "surprise": null,
 "read": "No consensus found; an annual industry release, not a market mover.",
-"source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+"source_url": "https://www.bls.gov/news.release/prod5.nr0.htm"
 },
 {
 "time_ct": "11:15",
@@ -9217,7 +9229,7 @@
 "prior": null,
 "unit": "speech",
 "surprise": null,
-"read": "No consensus found (speech); the one policy speech of the day, and the place to hear whether a governor sees the stock selloff as a reason to go slower or the price data as a reason to go faster on December 9.",
+"read": "No consensus found (speech); text not posted at the time of writing. The one policy speech of the day, and the first chance to hear whether a governor reads the 3.7% inflation expectations number and the stock selloff as a reason to stay at a quarter point on December 9.",
 "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
 },
 {
@@ -9229,7 +9241,7 @@
 "prior": "463 oil rigs (601 total)",
 "unit": "rigs",
 "surprise": null,
-"read": "No consensus found; an energy item only, with crude near $82 and headed for a third weekly fall.",
+"read": "No consensus found; not yet released at the time of writing, and an energy item only.",
 "source_url": "https://finviz.com/calendar/economic"
 },
 {
@@ -9258,141 +9270,135 @@
 }
 ],
 "read": {
-"bias": "lower",
-"confidence": "medium",
-"call": "Stocks are set to open lower for what would be a seventh straight S&P 500 decline, led by technology (Nasdaq futures -1.56%, S&P 500 futures -0.63%, Dow futures flat), and nothing on a thin data calendar is large enough to turn that by itself.",
-"swing": "Whether buyers show up in the large technology and chip names after the open, with Anthropic's second trading day (indicated about 6% to 7% under its $97.17 first close) as the tell; on the data side only a Michigan year-ahead inflation revision well away from 4.3% at 09:00 CT would matter.",
+"bias": "chop",
+"confidence": "low",
+"call": "The Michigan inflation expectations drop to 3.7% took the half-point hike argument down a notch and let the S&P 500 turn positive, but the Nasdaq is still down more than 1% in a week where the indexes have lost about 6%, so expect a split, two-way afternoon instead of a clean bounce.",
+"swing": "Governor Cook's speech at 11:15 CT: a nod to a half-point hike on December 9 would undo the relief from the 3.7% print, and a mention of tighter financial conditions after the selloff would extend it.",
 "drivers": [
-"Thursday reversed hard: the indexes opened sharply higher, turned down after Anthropic began trading, and all three closed down more than 2%, with the Nasdaq Composite at its lowest since April (TradingEconomics).",
-"The selling spread overnight: Japan's Nikkei fell 5.06% to 56,437, the lowest since April and nearly 8% lower on the week; Europe's STOXX 50 is down 1.6% and the STOXX 600 down 1.0% this morning.",
-"Chip-specific news is still getting worse: Nvidia fell another 3.3% Thursday amid its leadership crisis, AMD fell 7.7% on a short seller report, and CNBC reports a California attorney general subpoena to Nvidia over chip diversion to China.",
-"Bonds are trading as a haven, not on the Fed: the 10-year Treasury yield is near 4.99%, down about 6 basis points and lower for a fifth session, even as Fed officials lean toward more hikes; the VIX is 29.33.",
-"My read, not a sourced fact: today is the third Friday of the month, a monthly options expiration, which tends to add volume and sharper moves around the open and the close in a market already this stretched."
+"University of Michigan year-ahead inflation expectations 3.7% against 4.3% expected and 4.7% in October; 5-year 3.3% against 3.4%.",
+"Headline sentiment in line at 51.5, but Current Economic Conditions missed at 49.4 against 51.6, and interviews ended November 16, before the worst of the selloff.",
+"Treasury yields lower: 10-year near 4.95% and 2-year 4.653% early Friday, each down more than 10 basis points, as growth worries took over from hike worries.",
+"Technology is still the weak spot: Nasdaq 100 down 1.13% while the S&P 500 turned positive after the 9:00 CT data; Anthropic fell about 9% to 10% the day after its debut.",
+"Markets still price a quarter-point hike on December 9 at about 99%, so the open question is size, and Waller's opening remarks this morning added nothing."
 ]
 },
 "what_mattered": [
 {
-"headline": "Anthropic's record IPO did not stop the technology selloff",
-"fact": "Priced at $83, opened at $111.50, closed its first day at $97.17 (+17%), then indicated about 6% to 7% lower before Friday's open (Yahoo Finance); the article puts the raise at $81.3 billion, while a separate headline cites $107.3 billion.",
-"implication": "The market treated the largest listing of the year as supply to sell into, so the event bulls were waiting on is now behind them with prices lower.",
-"source_url": "https://finance.yahoo.com/markets/stocks/article/anthropic-stock-dives-after-rip-roaring-ipo-095411951.html"
+"headline": "Consumers' inflation expectations fell hard in the final November survey",
+"fact": "Year-ahead expectations 3.7% (consensus 4.3%, preliminary 4.3%, October 4.7%); 5-year 3.3% (consensus 3.4%, October 3.5%).",
+"implication": "My analysis: this is the first data point this week that argues against a half-point hike on December 9, one day after the Philadelphia prices paid jump argued for it.",
+"source_url": "https://www.sca.isr.umich.edu/"
 },
 {
-"headline": "All three US indexes fell more than 2% Thursday after opening higher",
-"fact": "The Nasdaq Composite closed at its lowest since April; Nvidia -3.3%, AMD -7.7%; the S&P 500 is down 7.97% over the past month on TradingEconomics' tracking contract.",
-"implication": "A failed morning rally is a worse sign than a plain down day: buyers who stepped in at the open were under water by the close.",
-"source_url": "https://tradingeconomics.com/united-states/stock-market"
+"headline": "Sentiment in line, present conditions weaker",
+"fact": "Index of Consumer Sentiment 51.5 (consensus 51.5); Current Economic Conditions 49.4 (consensus 51.6); Expectations 52.9 (consensus 50.9). Sentiment is up about 7% on the month and 9% below February.",
+"implication": "The gain is a post-election outlook effect; the survey closed November 16, so December's preliminary on the selloff is the real test.",
+"source_url": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/"
 },
 {
-"headline": "Japan's Nikkei fell 5.06%, its worst level since April",
-"fact": "Nikkei 225 closed at 56,437, down nearly 8% on the week; SoftBank Group -14.5%, Kioxia -11.7%, Advantest -10.3%.",
-"implication": "The unwind is no longer a US-only story, and forced selling abroad can come back into US names at the open.",
-"source_url": "https://tradingeconomics.com/japan/stock-market"
+"headline": "Rates repriced dovish as growth worries grew",
+"fact": "Fed pricing: 25 basis points of hikes by year-end with a 99% chance of a hike at the next meeting and 70 basis points cumulative through 2027; 10-year yield about 4.95%, 2-year 4.653%.",
+"implication": "A quarter point on December 9 is treated as settled; the half-point tail is what moves stocks from here.",
+"source_url": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-9/"
 },
 {
-"headline": "Treasury yields fell for a fifth session on haven demand",
-"fact": "10-year yield near 4.99% (-6 basis points), 2-year near 4.72% (-6 basis points); the dollar index is about 103.8, up 0.5% on the week and headed for a fourth weekly gain.",
-"implication": "Lower yields here are fear, not a softer Fed: officials still back more hikes and Waller has said a half point could be considered in December.",
-"source_url": "https://tradingeconomics.com/united-states/government-bond-yield"
+"headline": "S&P 500 turned positive, technology did not",
+"fact": "Around 9:17 CT the S&P 500 was back above flat while the Nasdaq 100 was down 1.13% near 26,218; earlier the Nasdaq Composite was down about 2%. Week to date the Dow and S&P 500 are down about 6% and the Nasdaq about 7%.",
+"implication": "The selling is concentrated in AI and data-center names after the midterms and the Nvidia leadership news, so index direction depends on whether that group finds a floor.",
+"source_url": "https://investinglive.com/stocks/s-p-500-turns-positive-but-the-nasdaq-indices-remain-in-technical-triage/"
 },
 {
-"headline": "Thursday's late data cut against the Philadelphia miss",
-"fact": "Kansas City Fed composite rose to 18 from 11 (manufacturing index 23 from 16); the 10-year TIPS auction cleared at 2.903% against 2.653% at the prior auction; Fed assets fell to $6.741T and reserves rose to $3.002T.",
-"implication": "One district's drop is not yet a trend in factories, and investors demanded 25 basis points more real yield to hold inflation-protected debt than last time.",
-"source_url": "https://finviz.com/calendar/economic"
-},
-{
-"headline": "Price pressure abroad is still building",
-"fact": "German producer prices rose 8.1% y/y in October against 7.2% expected, the fastest since February 2023, on an 18.7% rise in energy; Japan headline inflation rose to 2.3% from 2.1%.",
-"implication": "The energy shock is still moving through prices outside the US, which supports the case for central banks to keep tightening even as stocks fall.",
-"source_url": "https://tradingeconomics.com/germany/producer-prices-change"
+"headline": "Canada retail sales beat on gasoline, October looks weak",
+"fact": "September +0.8% m/m against +0.7% expected; gasoline stations +6.9%; volume +0.1%; October flash estimate -1.5%.",
+"implication": "A Canadian dollar item, but it repeats the pattern of energy prices lifting nominal spending while real spending stalls.",
+"source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261120/dq261120a-eng.htm"
 }
 ],
 "look_at": [
-"The first 30 minutes in the large chip and technology names: Thursday's opening rally failed, so a lower open that holds and turns up would be the first sign sellers are done, and a second failed bounce would say they are not.",
-"Michigan year-ahead inflation expectations at 09:00 CT (consensus and preliminary both 4.3%): a move back toward October's 4.7% would strengthen the half-point case for December 9, a fall would take some pressure off.",
-"Michigan final sentiment at 09:00 CT (consensus 51.5, preliminary 51.0): the later interviews caught more of the selloff, so a downward revision would be the first measured hit from stocks to household confidence.",
-"Governor Cook at 11:15 CT: listen for whether she treats tighter financial conditions from the selloff as doing some of the Fed's work.",
-"The 10-year Treasury yield against 5.0% and the VIX against 30: yields still falling with the VIX rising means the day is about fear, and a rebound in yields would mean attention is back on the Fed."
+"Governor Cook at 11:15 CT, because it is the only policy speech left before the weekend and the first Fed reaction to the 3.7% inflation expectations print.",
+"Whether the S&P 500 holds positive into the afternoon; the 7,237.85 to 7,259.79 zone is the level buyers need to reclaim, with 7,079.91 as the next support.",
+"The 2-year Treasury yield near 4.65%, because a further fall says the market is taking the half-point hike off the table.",
+"The Nasdaq 100 against 26,098, the 61.8% retracement level, and Anthropic against its $83 offering price, as the test of whether the technology selling is done.",
+"Baker Hughes rig count at 12:00 CT (prior 463 oil rigs), an energy item only."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "Not rechecked today (no page with CME FedWatch numbers opened). As of November 18-19 news reports, a quarter-point hike to 4.00%-4.25% on December 9 was priced at roughly 91% to 96%, with the rest on a half point; the October minutes showed a couple of participants open to more than 25 basis points if inflation data were unfavorable.",
+"market_pricing": "Quarter-point hike at the December 8-9 meeting priced at 98% to 99% (CME FedWatch via CNBC; investingLive); 25 basis points by year-end and 70 basis points cumulative through 2027. No market probability for a half-point hike was found.",
 "speakers_today": [
-"Waller 07:25 CT (welcoming remarks, College Fed Challenge Finals)",
-"Cook 11:15 CT (The U.S. Economy in Global Context, Santiago)"
+"Governor Waller, 07:25 CT, opening remarks at the College Fed Challenge Finals: delivered, no policy content.",
+"Governor Cook, 11:15 CT, The U.S. Economy in Global Context, Central Bank of Chile annual conference, Santiago: text not yet posted."
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7155.0,
-"change_pct": -0.59
+"value": 7124.0,
+"change_pct": -1.02
 },
 {
 "label": "Nasdaq futures",
-"value": 26207.25,
-"change_pct": -1.48
+"value": 25955.25,
+"change_pct": -2.42
 },
 {
 "label": "Russell 2000 futures",
-"value": 2660.9,
-"change_pct": -0.09
+"value": 2644.0,
+"change_pct": -0.72
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7175.83,
-"change_pct": -2.02
+"value": 7081.91,
+"change_pct": -1.31
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 23879.2,
-"change_pct": -2.25
+"value": 23255.62,
+"change_pct": -2.61
 },
 {
 "label": "10Y Treasury yield %",
-"value": 0.51,
-"change_pct": -0.28
+"value": 0.5,
+"change_pct": -1.98
 },
 {
 "label": "30Y Treasury yield %",
-"value": 0.54,
-"change_pct": -0.2
+"value": 0.53,
+"change_pct": -1.17
 },
 {
 "label": "Dollar index (DXY)",
-"value": 103.85,
-"change_pct": -0.05
+"value": 103.67,
+"change_pct": -0.22
 },
 {
 "label": "WTI crude $",
-"value": 82.37,
-"change_pct": -1.01
+"value": 81.44,
+"change_pct": -2.13
 },
 {
 "label": "Brent crude $",
-"value": 89.12,
-"change_pct": -3.11
+"value": 88.05,
+"change_pct": -4.27
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.57,
-"change_pct": 9.15
+"value": 3.61,
+"change_pct": 10.53
 },
 {
 "label": "Gold $",
-"value": 3591.0,
-"change_pct": -2.56
+"value": 3557.6,
+"change_pct": -3.47
 },
 {
 "label": "Bitcoin $",
-"value": 61722.32,
-"change_pct": -0.29
+"value": 59485.91,
+"change_pct": -3.9
 },
 {
 "label": "Nikkei 225",
-"value": 56436.65,
-"change_pct": -5.06
+"value": 59444.21,
+"change_pct": null
 },
 {
 "label": "Hang Seng",
@@ -9401,18 +9407,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 5994.82,
-"change_pct": -1.95
+"value": 5962.18,
+"change_pct": -2.48
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 144.12,
-"change_pct": -0.63
+"value": 142.9,
+"change_pct": -0.85
 },
 {
 "label": "VIX",
-"value": 29.44,
-"change_pct": 3.52
+"value": 29.88,
+"change_pct": 5.06
 },
 {
 "label": "2Y Treasury yield %",
@@ -9425,13 +9431,18 @@
 "slot": "morning",
 "at": "2026-11-20T05:35:07-06:00",
 "rows": 15
+},
+{
+"slot": "midday",
+"at": "2026-11-20T09:47:40-06:00",
+"rows": 15
 }
 ],
 "themes": [
-"Can the AI trade hold without new buyers: a record IPO that closed +17% on day one was followed by a 2%+ fall in all three indexes and a 5.06% drop in the Nikkei, with the VIX at 29.33.",
-"Fear against the Fed in the bond market: the 10-year yield has fallen five sessions to about 4.99% while officials talk about a possible half-point hike on December 9.",
-"Is the factory rebound real: the Kansas City composite rose to 18 from 11 hours after the Philadelphia index fell to 6.3 from 20.9, so the two regional surveys now disagree and the November ISM decides."
+"Quarter point or half point on December 9: year-ahead inflation expectations at 3.7% against 4.7% in October cut against Waller's November 18 view that a half-point hike is likely necessary.",
+"Growth scare against inflation scare: the 10-year yield fell more than 10 basis points to about 4.95% in a week where stocks lost about 6%, so bonds are now trading the selloff more than the price data.",
+"Energy is inflating nominal spending while volumes stall: Canada's retail sales rose 0.8% with gasoline up 6.9% and volume up 0.1%, and Germany's producer prices rose 8.1% on an 18.7% energy increase."
 ],
-"snapshot_at": "2026-11-20T05:35:11-06:00"
+"snapshot_at": "2026-11-20T09:47:50-06:00"
 }
 }
