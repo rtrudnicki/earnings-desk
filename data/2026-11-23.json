@@ -8634,321 +8634,343 @@
 }
 ],
 "macro": {
-"date": "2026-11-23",
+"date": "2026-11-24",
 "prints": [
 {
-"time_ct": "02:30",
-"event": "HCOB Flash Germany PMI (composite; manufacturing; services)",
-"period": "November",
-"consensus": "composite 53.3; manufacturing 54.1; services 52.4",
-"actual": "composite 55.0; manufacturing 55.0; services 54.0",
-"prior": "composite 53.4; manufacturing 54.2; services 52.5",
-"unit": "index",
-"surprise": "composite +1.7; manufacturing +0.9; services +1.6",
-"read": "A clear beat, described as the strongest German activity in 56 months, so Europe is not following the US equity rout into a growth scare; figures are from a calendar page, not yet checked against the S&P Global release.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
 "time_ct": "03:00",
-"event": "HCOB Flash Eurozone PMI (composite; manufacturing; services)",
+"event": "Germany ifo Business Climate Index",
 "period": "November",
-"consensus": "composite 51.9; manufacturing 52.7; services 51.8",
-"actual": "composite 51.7; manufacturing 52.9; services 51.2",
-"prior": "composite 51.7; manufacturing 52.7; services 51.4",
+"consensus": "90.5 index",
+"actual": "90.6 index",
+"prior": "90.1 index (revised)",
 "unit": "index",
-"surprise": "composite -0.2; manufacturing +0.2; services -0.6",
-"read": "Flat on the composite with services soft: Germany carried the bloc while France slipped to a six-month low.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"surprise": "+0.1 index",
+"read": "Seventh monthly rise in a row and a hair above the poll, with current conditions 89.4 (from 88.8) and expectations 91.9 (from 91.5); manufacturing and construction fell, so it is no push for US futures.",
+"source_url": "https://www.rte.ie/news/business/2026/1124/1600420-german-ifo-index/"
 },
 {
-"time_ct": "03:30",
-"event": "S&P Global Flash UK PMI (composite; manufacturing; services)",
-"period": "November",
-"consensus": "composite 51.9; manufacturing 53.0; services 53.0",
-"actual": "composite 52.3; manufacturing 52.7; services 52.0",
-"prior": "composite 52.9; manufacturing 52.8; services 52.8",
-"unit": "index",
-"surprise": "composite +0.4; manufacturing -0.3; services -1.0",
-"read": "Services missed by a full point and the composite slowed from October; a soft read that matters little for US futures.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"time_ct": "07:15",
+"event": "ADP National Employment Report, weekly preliminary estimate",
+"period": "four weeks to early November",
+"consensus": null,
+"actual": null,
+"prior": "23.75k",
+"unit": "k, average weekly private job change",
+"surprise": null,
+"read": "No consensus found; it is the only labour number of the day and a soft reading would lean against the December hike that is almost fully priced.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-23"
 },
 {
 "time_ct": "07:30",
-"event": "Chicago Fed National Activity Index (CFNAI)",
-"period": "October",
-"consensus": "+0.20",
-"actual": "-0.06",
-"prior": "+0.05 (revised from +0.07)",
-"unit": "index",
-"surprise": "-0.26",
-"read": "A miss that puts growth slightly below trend: the three-month average fell to -0.05 from +0.01, with production the drag; the consensus is the calendar page's figure and the Chicago Fed's own data page did not show the numbers, so the actual rests on wire reports.",
-"source_url": "https://www.newsquawk.com/headlines/us-chicago-fed-national-activity-index-oct--006-prev-005"
-},
-{
-"time_ct": "08:45",
-"event": "S&P Global Flash US Manufacturing PMI",
-"period": "November",
-"consensus": "54.5",
-"actual": "54.5",
-"prior": "54.9",
-"unit": "index",
-"surprise": "0.0",
-"read": "In line and still solidly expanding, though a three-month low; no new information for the rate path.",
-"source_url": "https://www.fxstreet.com/news/us-sp-manufacturing-pmi-retreats-to-545-services-pmi-declines-to-547-202611231502"
-},
-{
-"time_ct": "08:45",
-"event": "S&P Global Flash US Services PMI",
-"period": "November",
-"consensus": "55.6",
-"actual": "54.7",
-"prior": "56.1",
-"unit": "index",
-"surprise": "-0.9",
-"read": "A miss of almost a point and a three-month low, but 54.7 is still firm growth and the survey's price gauges stayed consistent with inflation well above 2%, so it cools the growth story without taking the December hike off the table.",
-"source_url": "https://www.newsquawk.com/headlines/us-sp-global-services-pmi-flash-nov-547-vs-exp-556-prev-561"
-},
-{
-"time_ct": "08:45",
-"event": "S&P Global Flash US Composite PMI Output Index",
-"period": "November",
-"consensus": null,
-"actual": "54.6",
-"prior": "55.9",
-"unit": "index",
-"surprise": null,
-"read": "No consensus found that could be trusted (one calendar page shows 55.6, which duplicates the services forecast and the wire headline carries none); 54.6 is the slowest pace since July, and S&P Global's chief economist still reads it as roughly 3% annualized GDP growth in the fourth quarter.",
-"source_url": "https://www.newsquawk.com/headlines/us-sp-global-composite-pmi-flash-nov-546-prev-559"
-},
-{
-"time_ct": "09:00",
-"event": "Chicago Fed Survey of Economic Conditions (CFSEC)",
+"event": "Philadelphia Fed Nonmanufacturing Business Outlook Survey",
 "period": "November",
 "consensus": null,
 "actual": null,
 "prior": null,
-"unit": "index",
+"unit": "diffusion index",
 "surprise": null,
-"read": "No consensus found and no prior found; a regional survey that rarely moves markets.",
-"source_url": "https://www.chicagofed.org/research/data/data-release-calendar"
+"read": "No consensus found and the prior was not readable on the Philadelphia Fed page; a regional services check, rarely a market mover.",
+"source_url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/nonmanufacturing-business-outlook-survey"
+},
+{
+"time_ct": "07:55",
+"event": "Johnson Redbook Index, same-store sales",
+"period": "week ended November 21",
+"consensus": null,
+"actual": null,
+"prior": "9.5 y/y %",
+"unit": "y/y %",
+"surprise": null,
+"read": "No consensus found; Investing.com lists it today while Finviz shows it on Wednesday, so treat the timing as unconfirmed.",
+"source_url": "https://www.investing.com/news/stock-market-news/cb-consumer-confidence-highlights-economic-data-due-tuesday-93CH-5046246"
+},
+{
+"time_ct": "08:00",
+"event": "FHFA House Price Index, monthly (with the third quarter index)",
+"period": "September",
+"consensus": "0.2 m/m %",
+"actual": null,
+"prior": "0.3 m/m % (August; 2.4 y/y %)",
+"unit": "m/m %",
+"surprise": null,
+"read": "Home prices are still rising slowly with long yields near 4.9%; one calendar (TradingCharts) carries 0.3% instead of 0.2%.",
+"source_url": "https://www.fhfa.gov/data/hpi"
+},
+{
+"time_ct": "08:00",
+"event": "S&P Cotality Case-Shiller 20-City Composite Home Price Index, year over year",
+"period": "September",
+"consensus": "2.7 y/y %",
+"actual": null,
+"prior": "2.7 y/y %",
+"unit": "y/y %",
+"surprise": null,
+"read": "Flat annual growth is expected; the S&P site refused the fetch, so the prior comes from calendar pages.",
+"source_url": "https://www.investing.com/news/stock-market-news/cb-consumer-confidence-highlights-economic-data-due-tuesday-93CH-5046246"
+},
+{
+"time_ct": "08:00",
+"event": "S&P Cotality Case-Shiller 20-City Composite Home Price Index, seasonally adjusted month over month",
+"period": "September",
+"consensus": "0.2 m/m %",
+"actual": null,
+"prior": "0.3 m/m % (not seasonally adjusted: -0.4 m/m %)",
+"unit": "m/m %",
+"surprise": null,
+"read": "A two-month-old number that will not move rates on its own.",
+"source_url": "https://www.zerohedge.com/markets/key-events-holiday-shortened-week-all-about-pce"
 },
 {
 "time_ct": "09:00",
-"event": "Chicago Fed Survey of Economic Conditions (CFSEC) Activity Index",
+"event": "The Conference Board Consumer Confidence Index",
 "period": "November",
-"consensus": null,
-"actual": "+17",
-"prior": "+10",
+"consensus": "92.2 index",
+"actual": null,
+"prior": "91.7 index",
 "unit": "index",
 "surprise": null,
-"read": "No consensus found; the Midwest survey says growth picked up, with the manufacturing index at +62 from +49 and nonmanufacturing at -4 from -9, which cuts against the softer national PMI but rarely moves markets.",
-"source_url": "https://www.chicagofed.org/publications/cfsec/2026/november2026"
+"read": "The main US print of the day; calendars range from 92.1 to 92.5, October had Present Situation 120.4 and Expectations 72.6, and the labour and inflation-expectation answers matter more than the headline two weeks before a likely hike.",
+"source_url": "https://www.conference-board.org/topics/consumer-confidence"
 },
 {
-"time_ct": "10:30",
-"event": "Treasury 3-Month Bill Auction",
-"period": "Week of November 23",
-"consensus": "4.111%",
-"actual": null,
-"prior": "4.155%",
-"unit": "% high rate",
-"surprise": null,
-"read": "Routine; not yet released, and the time is the usual bill slot, not confirmed on TreasuryDirect, whose table did not load.",
-"source_url": "https://www.investing.com/economic-calendar/"
-},
-{
-"time_ct": "10:30",
-"event": "Treasury 6-Month Bill Auction",
-"period": "Week of November 23",
+"time_ct": "09:00",
+"event": "Richmond Fed Fifth District Survey of Manufacturing Activity, composite index",
+"period": "November",
 "consensus": null,
 "actual": null,
-"prior": "4.310%",
-"unit": "% high rate",
+"prior": "-2 index",
+"unit": "index",
 "surprise": null,
-"read": "No consensus found; routine, not yet released, and the time is the usual bill slot, not confirmed on TreasuryDirect.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"read": "No usable consensus found: Investing.com prints -3, TradingCharts 1 and Finviz 2, so the calendars do not even agree on the sign; the Richmond Fed's own data table shows 0 for October against -2 in its text.",
+"source_url": "https://www.richmondfed.org/region_communities/regional_data_analysis/surveys/manufacturing"
+},
+{
+"time_ct": "09:00",
+"event": "Richmond Fed Fifth District Survey of Service Sector Activity, revenues index",
+"period": "November",
+"consensus": null,
+"actual": null,
+"prior": "2 index",
+"unit": "index",
+"surprise": null,
+"read": "No consensus found; released with the manufacturing survey.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-23"
 },
 {
 "time_ct": "12:00",
-"event": "Treasury 2-Year Note Auction",
+"event": "Treasury 5-Year Note auction, $70 billion (plus a $28 billion 2-year floating rate note reopening)",
 "period": "November",
 "consensus": null,
 "actual": null,
-"prior": "4.708%",
+"prior": "4.845 % high yield",
 "unit": "% high yield",
 "surprise": null,
-"read": "No consensus found; the 2-year carries Fed hike pricing and traded near 4.72% this morning, up more than 10 basis points, so a high yield above the prior 4.708% with weak demand would say hike bets are still building; time is the usual note slot and size was not confirmed on TreasuryDirect.",
-"source_url": "https://www.investing.com/economic-calendar/"
+"read": "No consensus found; the supply test of the day with the 10-year near 4.90% and a hike priced for December 9. Monday's 2-year sale cleared at 4.70%.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-23"
+},
+{
+"time_ct": "12:00",
+"event": "Federal Reserve H.6 Money Stock Measures (M2)",
+"period": "October",
+"consensus": null,
+"actual": null,
+"prior": "23.41 $ trillion",
+"unit": "$ trillion",
+"surprise": null,
+"read": "No consensus found; not a market mover.",
+"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+},
+{
+"time_ct": "15:30",
+"event": "API Weekly Statistical Bulletin, crude oil stock change",
+"period": "week ended November 21",
+"consensus": null,
+"actual": null,
+"prior": "+5.3 million barrels",
+"unit": "million barrels",
+"surprise": null,
+"read": "No consensus found; it lands after the close with crude near $80 and tanker damage in the Strait of Hormuz in the news.",
+"source_url": "https://finviz.com/calendar/economic?dateFrom=2026-11-23"
 }
 ],
 "read": {
-"bias": "higher",
-"confidence": "low",
-"call": "The morning data came in soft but not weak, which is not enough to break the rebound from last week's selloff, but the 2-year yield up more than 10 basis points and the dollar at its highest since April 2025 cap how far stocks can run.",
-"swing": "The 2-year note auction at 12:00 CT, followed by New York Fed President Williams, whose speaking time was not confirmed.",
+"bias": "lower",
+"confidence": "medium",
+"call": "Stocks open lower and give back part of Monday's 4.7% jump, because the rally rested on one company's CEO news, futures are already down about 1% (Nasdaq 100 about 2%), and nothing on a light calendar argues against a December hike.",
+"swing": "Nvidia's first hour of trading after its 31% Monday gain; if it holds, the index giveback fades, and the 09:00 CT Conference Board confidence number is the only data print able to add to the move.",
 "drivers": [
-"Flash US services PMI 54.7 against 55.6 expected and 56.1 prior; composite 54.6, the slowest since July, yet still read as about 3% annualized GDP growth.",
-"Survey price gauges stayed consistent with inflation well above the Fed's 2% target, with shipping delays more widespread, so the miss did not weaken hike pricing.",
-"A December hike is about 96% priced, up from about 92% on Friday; the 2-year yield is near 4.72% and the 30-year near 5.32%, up 15 basis points.",
-"Stock futures pointed to a rebound of about 2.5% on the S&P 500 before the open after the worst week since April 2025; that is a pre-market figure, and the cash session level was not checked.",
-"CFNAI fell to -0.06 against +0.20 expected, with the three-month average at -0.05: growth a touch below trend in October."
+"S&P 500 futures down about 1%, Nasdaq 100 futures down about 2% and Dow futures down 259 points (0.5%) as of the 6:26 a.m. ET CNBC update, after the best day for the S&P 500 and Nasdaq since April 9, 2025.",
+"A 25 basis point hike on December 9 is priced at roughly 95% to 98% (CME FedWatch, Monday), up from about 88% on Friday; Williams said the Fed has work to do and would not exclude moving at consecutive meetings.",
+"Rates are a headwind but not a new one this morning: the 10-year was 4.901% at 5:44 a.m. ET, down 2 basis points, and the 2-year closed Monday near 4.69%.",
+"The VIX closed at 26.62 after a 26% drop and was quoted near 29 before the open, so big swings in either direction are still being paid for.",
+"The heavy data is Wednesday at 07:30 CT (October PCE, second estimate of third quarter GDP, durable goods, claims), then Thursday is closed, which argues for lighter positions into today's close."
 ]
 },
 "what_mattered": [
 {
-"headline": "US services growth slowed more than expected",
-"fact": "Flash services PMI 54.7 against 55.6 expected and 56.1 in October; manufacturing 54.5, in line; composite 54.6 from 55.9.",
-"implication": "Growth is cooling from a high level rather than cracking, which eases the overheating worry a little without giving the Fed a reason to skip December.",
-"source_url": "https://www.newsquawk.com/headlines/us-sp-global-services-pmi-flash-nov-547-vs-exp-556-prev-561"
+"headline": "Monday was the biggest one-day rally since April 2025, on Jensen Huang's return as Nvidia chief executive",
+"fact": "S&P 500 +4.73% to 7,237.17, Nasdaq Composite +6.51% to 24,089.56, Dow +3.01% to 49,595.31; Nvidia rose 31% and added about $950 billion of market value.",
+"implication": "A single-stock rally of that size leaves the index exposed to a giveback, and futures are showing one.",
+"source_url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
 },
 {
-"headline": "Price pressure in the surveys did not ease enough",
-"fact": "S&P Global's chief economist said the price gauges remain consistent with inflation well above the 2% target in the coming months, and both sectors are still adding staff.",
-"implication": "Slower activity with sticky prices is the mix that keeps hikes priced, and the dollar index rose 0.35% to 104.20 after the data.",
-"source_url": "https://www.fxstreet.com/news/us-sp-manufacturing-pmi-retreats-to-545-services-pmi-declines-to-547-202611231502"
+"headline": "Futures turned lower overnight as Nvidia pulled back",
+"fact": "Nasdaq 100 futures down 2%, S&P 500 futures down 1%, Dow futures down 259 points (0.5%) in the 6:26 a.m. ET update; a Monday evening quote had S&P 500 futures up 0.39% at 8:42 p.m. ET, so the turn came during the Asia and Europe hours.",
+"implication": "The open tests whether Monday's buyers stay; a move back above Monday's close would say the rally has more than one leg.",
+"source_url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
 },
 {
-"headline": "Yields jumped as stocks rebounded",
-"fact": "2-year up more than 10 basis points to 4.719%, 10-year up 4 to 4.952%, 30-year up 15 to 5.317%; December hike odds about 96% from about 92% on Friday.",
-"implication": "Last week's flight into bonds is unwinding, so the equity bounce is being paid for with higher rates, the same pressure that started the selloff.",
+"headline": "The December hike is close to fully priced",
+"fact": "CME FedWatch showed roughly 98% odds of a 25 basis point hike on December 9, up from about 88% on Friday; the 2-year yield rose more than 7 basis points to 4.69% and the 10-year was 4.932%.",
+"implication": "With the hike priced, the open question is the path after it, so Wednesday's PCE matters more for January than for December.",
 "source_url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
 },
 {
-"headline": "National activity slipped below trend in October",
-"fact": "CFNAI -0.06 against +0.20 expected, September revised to +0.05 from +0.07; three-month average -0.05 from +0.01.",
-"implication": "A backward-looking miss driven by production; it agrees with the softer PMI but is too small to change the Fed's view.",
-"source_url": "https://seekingalpha.com/news/4675536-chicago-fed-national-activity-index-dips-in-october-reversing-septembers-increase"
+"headline": "Williams left the door open to back-to-back hikes",
+"fact": "The New York Fed president said the Fed has \"work to do\" and \"would not exclude moving at consecutive meetings\"; a separate Monday evening reading put the odds at 95.1% for 25 basis points and 4.9% for 50.",
+"implication": "Fed speech is now quiet until the meeting, so data carries the rate debate from here.",
+"source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-021343688.html"
 },
 {
-"headline": "Midwest survey went the other way",
-"fact": "CFSEC Activity Index +17 in November from +10 in October; manufacturing +62 from +49, nonmanufacturing -4 from -9.",
-"implication": "Regional factory strength argues against reading the PMI dip as the start of a slowdown.",
-"source_url": "https://www.chicagofed.org/publications/cfsec/2026/november2026"
+"headline": "Oil fell and gold jumped on Monday, and the dollar set a new high for the year",
+"fact": "WTI -3.68% to $80.34 and Brent -3.45% to $89.39; gold +2.95% to $3,636.69; dollar index +0.47% to 104.33. Tuesday morning Brent was $89.16 after three tankers hit naval mines in the Strait of Hormuz.",
+"implication": "Crude near its lowest since late August eases the inflation worry a little, but the tanker damage is a risk that is not in the price.",
+"source_url": "https://ic.com/blog/general-market-analysis-24-november-2026-ic"
+},
+{
+"headline": "Overseas was mixed, with Korea following the chip rally",
+"fact": "Kospi +6.32% to 5,006.03; Stoxx 600 little changed, DAX -0.1%, CAC 40 +0.3%; Germany's ifo index rose to 90.6 against 90.5 expected.",
+"implication": "No lead from Europe; the US open sets the tone.",
+"source_url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+},
+{
+"headline": "Deal news: Sanofi to buy Insmed for $41 billion",
+"fact": "$175 per share in cash, Insmed up 14% before the open; Monday also brought CrowdStrike agreeing to acquire Zscaler.",
+"implication": "Large cash deals support single stocks even on a down index day, biotech most of all.",
+"source_url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
 }
 ],
 "look_at": [
-"The 2-year note auction at 12:00 CT: with the 2-year near 4.72%, weak demand would push hike pricing further and test the stock rebound.",
-"Whether the rebound holds into the afternoon with the 30-year yield up 15 basis points to about 5.32%; a bounce that fades as long yields rise would repeat last week's pattern.",
-"New York Fed President Williams later today (sources disagree on the time, 12:00 or 15:00 CT): any comment on January after a December hike matters more than December itself.",
-"The dollar index at 104.20, its highest since April 2025: a stronger dollar on a soft PMI says the market is trading the price gauges, not the activity miss.",
-"The final November PMIs next week: October's flash manufacturing reading of 56.0 was revised down to 54.9, so today's figures can still move."
+"Nvidia in the first hour: Monday's index gain was built on its 31% move, so how much of it holds decides how deep the giveback runs.",
+"Conference Board confidence at 09:00 CT against 92.2 expected and 91.7 prior: read the jobs-plentiful and inflation-expectation answers, since a firm number adds to the case for hikes beyond December.",
+"The $70 billion 5-year auction at 12:00 CT: a weak result with the 10-year near 4.90% would push yields up into Wednesday's inflation data.",
+"The 2-year yield around 4.69%: it is the cleanest gauge of whether the market starts to price a second hike in January after the Williams remarks.",
+"Position for Wednesday at 07:30 CT, when October PCE (core expected 0.3% on the month, 3.2% to 3.4% on the year depending on the calendar), the third quarter GDP revision (about 3.4% to 3.5%), durable goods and claims all land before the Thanksgiving close."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "About a 96% chance of a quarter-point hike at the December 8-9 meeting, up from about 92% on Friday (CME FedWatch, as reported by CNBC).",
-"speakers_today": [
-"New York Fed President John Williams, later today; time and topic not confirmed (not yet listed on the New York Fed speeches page)"
-]
+"market_pricing": "CME FedWatch on Monday: roughly 95% to 98% for a 25 basis point hike at the December 8-9 meeting (about 88% on Friday), about 5% for 50 basis points; the Fed held at 3.75% to 4.00% on October 28 by a 10-2 vote.",
+"speakers_today": []
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7301.5,
-"change_pct": null
+"value": 7180.75,
+"change_pct": -1.02
 },
 {
 "label": "Nasdaq futures",
-"value": 27045.25,
-"change_pct": null
+"value": 26278.5,
+"change_pct": -1.98
 },
 {
 "label": "Russell 2000 futures",
-"value": 2674.8,
-"change_pct": null
+"value": 2658.8,
+"change_pct": -0.57
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7257.8,
-"change_pct": 5.03
+"value": 7237.17,
+"change_pct": 4.73
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 24196.52,
-"change_pct": 6.98
+"value": 24089.56,
+"change_pct": 6.51
 },
 {
 "label": "10Y Treasury yield %",
-"value": 0.5,
-"change_pct": 1.02
+"value": 0.49,
+"change_pct": 0.12
 },
 {
 "label": "30Y Treasury yield %",
 "value": 0.53,
-"change_pct": 0.4
+"change_pct": -0.17
 },
 {
 "label": "Dollar index (DXY)",
-"value": 104.28,
-"change_pct": null
+"value": 104.0,
+"change_pct": -0.31
 },
 {
 "label": "WTI crude $",
-"value": 80.5,
-"change_pct": null
+"value": 80.04,
+"change_pct": -0.16
 },
 {
 "label": "Brent crude $",
-"value": 86.77,
-"change_pct": null
+"value": 86.87,
+"change_pct": -2.8
 },
 {
 "label": "Nat gas (Henry Hub) $",
-"value": 3.46,
-"change_pct": null
+"value": 3.58,
+"change_pct": 12.47
 },
 {
 "label": "Gold $",
-"value": 3673.9,
-"change_pct": null
+"value": 3628.8,
+"change_pct": -0.62
 },
 {
 "label": "Bitcoin $",
-"value": 62710.66,
-"change_pct": 2.53
+"value": 59799.85,
+"change_pct": -2.31
 },
 {
 "label": "Nikkei 225",
-"value": 56436.65,
-"change_pct": -5.06
+"value": 58644.63,
+"change_pct": 3.91
 },
 {
 "label": "Hang Seng",
-"value": 22383.74,
-"change_pct": -0.12
+"value": 22219.65,
+"change_pct": -0.73
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6084.29,
-"change_pct": 2.4
+"value": 6024.07,
+"change_pct": -0.83
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 146.62,
-"change_pct": 4.6
+"value": 147.16,
+"change_pct": 4.98
 },
 {
 "label": "VIX",
-"value": 25.92,
-"change_pct": -27.78
+"value": 29.13,
+"change_pct": 9.43
+},
+{
+"label": "2Y Treasury yield %",
+"value": 4.78,
+"change_pct": null
 }
 ],
 "runs": [
 {
 "slot": "morning",
-"at": "2026-11-23T05:33:51-06:00",
-"rows": 11
-},
-{
-"slot": "midday",
-"at": "2026-11-23T09:47:00-06:00",
-"rows": 11
+"at": "2026-11-24T05:33:51-06:00",
+"rows": 13
 }
 ],
 "themes": [
-"Cooling or cracking: the flash composite fell to 54.6, the slowest since July, but still maps to about 3% annualized growth, so the data supports cooling from a high level, not a growth scare.",
-"Hikes are being priced on prices, not activity: a 0.9-point services miss left December hike odds at about 96% and the 2-year yield up more than 10 basis points.",
-"The stock rebound and the bond selloff are the same trade in reverse: the 30-year yield is up 15 basis points to 5.317% on the day stocks try to recover from their worst week since April 2025."
+"One hike or a string of them: December odds went from about 88% to about 98% in one session and Williams would not exclude consecutive moves, so the debate has shifted to January.",
+"Is Monday's rally durable: a 4.73% S&P 500 gain driven by a 31% move in one stock is being followed by futures down about 1%, with the VIX still near 27 to 29.",
+"Oil against geopolitics: Brent sits near $89, its lowest area since late August, on the same morning three tankers hit mines in the Strait of Hormuz."
 ],
-"snapshot_at": "2026-11-23T09:47:09-06:00"
+"snapshot_at": "2026-11-24T05:33:56-06:00"
 }
 }
