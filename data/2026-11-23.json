@@ -8641,11 +8641,11 @@
 "event": "MBA Weekly Mortgage Applications Survey, composite index",
 "period": "week ended Nov 20",
 "consensus": null,
-"actual": null,
+"actual": "+6.1% w/w",
 "prior": "-2.3% w/w",
 "unit": "w/w %",
 "surprise": null,
-"read": "No consensus found; applications fell the prior week as mortgage rates rose with the 10-year near 4.9%.",
+"read": "No consensus found; applications rebounded 6.1% with purchase applications up 10.2%, so housing demand did not fold under higher mortgage rates last week.",
 "source_url": "https://us.econoday.com/byevent?fid=672590&year=2026&lid=0"
 },
 {
@@ -8661,15 +8661,27 @@
 "source_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
 },
 {
+"time_ct": "06:25",
+"event": "Speech, Vice Chair for Supervision Bowman: Modernizing Banking Supervision: A Shared Agenda for the Americas (pre-recorded video)",
+"period": "Nov 25",
+"consensus": null,
+"actual": null,
+"prior": null,
+"unit": "speech",
+"surprise": null,
+"read": "A bank supervision topic on tape, so a policy signal is unlikely.",
+"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+},
+{
 "time_ct": "07:30",
 "event": "Unemployment Insurance Weekly Claims, initial claims",
 "period": "week ended Nov 21",
 "consensus": "200k",
-"actual": null,
-"prior": "203k",
+"actual": "189k",
+"prior": "203k (revised to 202k)",
 "unit": "k",
-"surprise": null,
-"read": "Claims near 200k say layoffs are not rising, which leaves the Fed free to keep its eyes on inflation.",
+"surprise": "-11k",
+"read": "Claims fell to 189k, matching the low of the year, so the labor market gives the Fed no reason to hold back; the holiday-week seasonal adjustment flatters the number somewhat.",
 "source_url": "https://us.econoday.com/byevent?fid=672537&year=2026&lid=0"
 },
 {
@@ -8677,35 +8689,35 @@
 "event": "Personal Income and Outlays: core PCE price index, m/m",
 "period": "October",
 "consensus": "0.3%",
-"actual": null,
+"actual": "0.3%",
 "prior": "0.3%",
 "unit": "m/m %",
-"surprise": null,
-"read": "The number of the day: 0.3% keeps a quarter-point December hike on track, 0.4% opens the half-point debate.",
-"source_url": "https://us.econoday.com/byevent?fid=667163&year=2026&lid=0"
+"surprise": "0.0 pp",
+"read": "In line at 0.3%, which keeps the December hike at a quarter point and takes the half-point debate off the table for now.",
+"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
 },
 {
 "time_ct": "07:30",
 "event": "Personal Income and Outlays: core PCE price index, y/y",
 "period": "October",
 "consensus": "3.2%",
-"actual": null,
+"actual": "3.3%",
 "prior": "3.1%",
 "unit": "y/y %",
-"surprise": null,
-"read": "A rise to 3.2% would move core inflation further from the 2% target.",
-"source_url": "https://us.econoday.com/byevent?fid=667163&year=2026&lid=0"
+"surprise": "+0.1 pp",
+"read": "A tenth above forecast and up two tenths from September, so core inflation is still moving away from the 2% target.",
+"source_url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy"
 },
 {
 "time_ct": "07:30",
 "event": "Personal Income and Outlays: PCE price index, m/m",
 "period": "October",
 "consensus": "0.3%",
-"actual": null,
+"actual": "0.3%",
 "prior": "0.5%",
 "unit": "m/m %",
-"surprise": null,
-"read": "Headline is expected to cool from September's 0.5% monthly jump.",
+"surprise": "0.0 pp",
+"read": "Headline cooled from September's 0.5% as expected.",
 "source_url": "https://us.econoday.com/byevent?fid=667163&year=2026&lid=0"
 },
 {
@@ -8713,11 +8725,11 @@
 "event": "Personal Income and Outlays: PCE price index, y/y",
 "period": "October",
 "consensus": "3.8%",
-"actual": null,
+"actual": "3.8%",
 "prior": "3.6%",
 "unit": "y/y %",
-"surprise": null,
-"read": "The yearly rate is still expected to climb to 3.8% even with a softer month.",
+"surprise": "0.0 pp",
+"read": "In line, but 3.8% is still a two-tenth rise in the yearly rate.",
 "source_url": "https://us.econoday.com/byevent?fid=667163&year=2026&lid=0"
 },
 {
@@ -8725,47 +8737,47 @@
 "event": "Personal Income and Outlays: personal income, m/m",
 "period": "October",
 "consensus": "0.4%",
-"actual": null,
-"prior": "0.2%",
+"actual": "0.7%",
+"prior": "0.3% (BEA; the calendar page shows 0.2%)",
 "unit": "m/m %",
-"surprise": null,
-"read": "Income is expected to pick up after a weak September.",
-"source_url": "https://us.econoday.com/byevent?fid=667163&year=2026&lid=0"
+"surprise": "+0.3 pp",
+"read": "Income rose $201.8 billion, well above forecast; press reports attribute part of the jump to one-time items, so read the wage line before calling it a trend.",
+"source_url": "https://www.bea.gov/news/glance"
 },
 {
 "time_ct": "07:30",
 "event": "Personal Income and Outlays: personal consumption expenditures, m/m",
 "period": "October",
 "consensus": "0.4%",
-"actual": null,
+"actual": "0.3%",
 "prior": "0.5%",
 "unit": "m/m %",
-"surprise": null,
-"read": "Spending at 0.4% in nominal terms is close to flat after 0.3% inflation.",
-"source_url": "https://us.econoday.com/byevent?fid=667163&year=2026&lid=0"
+"surprise": "-0.1 pp",
+"read": "Spending rose $63.8 billion, a tenth short, and with prices up 0.3% real spending was flat to slightly down; the saving rate was 4.1%.",
+"source_url": "https://www.bea.gov/news/glance"
 },
 {
 "time_ct": "07:30",
 "event": "Gross Domestic Product (Second Estimate), real GDP, annual rate",
 "period": "Q3 2026",
 "consensus": "3.5%",
-"actual": null,
+"actual": "4.3%",
 "prior": "3.4% (advance estimate)",
 "unit": "q/q annualized %",
-"surprise": null,
-"read": "A small upward revision is expected; the calendar page lists 1.5% as its prior, which does not match the 3.4% advance figure on bea.gov, so the BEA figure is used.",
-"source_url": "https://us.econoday.com/byevent?fid=667063&year=2026&lid=0"
+"surprise": "+0.8 pp",
+"read": "A large upward revision led by investment and consumer spending; the economy ran well above trend in the third quarter while inflation was rising.",
+"source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
 },
 {
 "time_ct": "07:30",
 "event": "Corporate Profits (Preliminary Estimate), after-tax, y/y",
 "period": "Q3 2026",
 "consensus": null,
-"actual": null,
-"prior": "14.0% (Q2)",
+"actual": "12.4%",
+"prior": "14.0% (Q2, revised to 11.6%)",
 "unit": "y/y %",
 "surprise": null,
-"read": "No consensus found; first official profit read for the third quarter.",
+"read": "No consensus found; profit growth of 12.4% is a pickup from a Q2 figure that was revised down to 11.6%.",
 "source_url": "https://us.econoday.com/byevent?fid=666983&year=2026&lid=0"
 },
 {
@@ -8773,23 +8785,23 @@
 "event": "Advance Report on Durable Goods Manufacturers' Shipments, Inventories and Orders: new orders, m/m",
 "period": "October",
 "consensus": "0.5%",
-"actual": null,
-"prior": "1.8%",
+"actual": "0.2%",
+"prior": "1.8% (revised to 2.0%)",
 "unit": "m/m %",
-"surprise": null,
-"read": "A slowdown from September's 1.8% is expected.",
-"source_url": "https://us.econoday.com/byevent?fid=667011&year=2026&lid=0"
+"surprise": "-0.3 pp",
+"read": "The headline missed at 0.2% ($346.7 billion), but the forecast range was wide (-1.9% to 2.5%) and the miss sits in transportation.",
+"source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html"
 },
 {
 "time_ct": "07:30",
 "event": "Advance Report on Durable Goods: new orders excluding transportation, m/m",
 "period": "October",
 "consensus": "0.5%",
-"actual": null,
+"actual": "0.5%",
 "prior": "0.5%",
 "unit": "m/m %",
-"surprise": null,
-"read": "A steady 0.5% would say factory demand is holding up under higher rates.",
+"surprise": "0.0 pp",
+"read": "In line; factory demand outside aircraft and autos is holding up under higher rates.",
 "source_url": "https://us.econoday.com/byevent?fid=667011&year=2026&lid=0"
 },
 {
@@ -8797,11 +8809,11 @@
 "event": "Advance Report on Durable Goods: nondefense capital goods orders excluding aircraft, m/m",
 "period": "October",
 "consensus": null,
-"actual": null,
+"actual": "1.2%",
 "prior": "0.5%",
 "unit": "m/m %",
 "surprise": null,
-"read": "No consensus found; this is the business investment gauge inside the report.",
+"read": "No consensus found; 1.2% is a strong business investment number, taken from the calendar page because the Census table could not be read directly.",
 "source_url": "https://us.econoday.com/byevent?fid=667011&year=2026&lid=0"
 },
 {
@@ -8809,23 +8821,23 @@
 "event": "New Residential Sales, seasonally adjusted annual rate",
 "period": "October",
 "consensus": "651k",
-"actual": null,
-"prior": "676k",
+"actual": "701k",
+"prior": "676k (revised to 614k)",
 "unit": "k, annual rate",
-"surprise": null,
-"read": "A drop is expected as mortgage rates rise.",
-"source_url": "https://us.econoday.com/byevent?fid=667152&year=2026&lid=0"
+"surprise": "+50k",
+"read": "A 50k beat, but September was cut by 62k and the Census margin of error is plus or minus 22.6%, so the level matters more than the 14.2% monthly jump.",
+"source_url": "https://www.census.gov/construction/nrs/current/index.html"
 },
 {
 "time_ct": "09:30",
 "event": "EIA Weekly Petroleum Status Report, crude oil inventories",
 "period": "week ended Nov 20",
 "consensus": null,
-"actual": null,
+"actual": "+1.1 million barrels",
 "prior": "+3.4 million barrels",
 "unit": "million barrels, w/w",
 "surprise": null,
-"read": "No consensus found; oil is back above $82 on shipping attacks near the Strait of Hormuz, so a draw would add to the inflation worry.",
+"read": "No consensus found on a calendar page; a second straight build, with gasoline up 1.7 million and distillate up 0.7 million barrels per press reports, takes some pressure off the oil-driven inflation worry (the calendar page prints 1.1 without a sign; the build direction is from wire reports).",
 "source_url": "https://us.econoday.com/byevent?fid=672430&year=2026&lid=0"
 },
 {
@@ -8841,16 +8853,28 @@
 "source_url": "https://us.econoday.com/byevent?fid=682489&year=2026&lid=0"
 },
 {
+"time_ct": "10:00",
+"event": "Atlanta Fed Survey of Business Uncertainty, sales revenue growth uncertainty",
+"period": "November",
+"consensus": null,
+"actual": null,
+"prior": "3.56% (October)",
+"unit": "%",
+"surprise": null,
+"read": "No consensus found; the November update was due by 10:00 CT but the figure could not be read from the Atlanta Fed page, and the 3.56% prior is the uncertainty measure, not sales growth expectations as first labeled.",
+"source_url": "https://www.atlantafed.org/research/surveys/business-uncertainty"
+},
+{
 "time_ct": "10:30",
 "event": "Treasury 7-Year Note Auction",
 "period": "Nov 25",
 "consensus": null,
 "actual": null,
-"prior": null,
+"prior": "4.894% high yield (Oct 29 auction)",
 "unit": "yield %",
 "surprise": null,
-"read": "No consensus found; moved up to the morning for the holiday, and Tuesday's 5-year sale cleared at 4.719%.",
-"source_url": "https://us.econoday.com/byweek.asp?cust=us"
+"read": "No consensus found and no result found yet; moved up to the morning for the holiday, and October's sale cleared at 4.894% with a 2.46 bid-to-cover.",
+"source_url": "https://us.econoday.com/byweek?day=25&month=11&year=2026&cust=us&lid=0"
 },
 {
 "time_ct": "11:00",
@@ -8858,11 +8882,11 @@
 "period": "week ended Nov 20",
 "consensus": null,
 "actual": null,
-"prior": "+20 bcf",
+"prior": "+20 bcf (total 3,882 bcf)",
 "unit": "bcf, w/w",
 "surprise": null,
-"read": "No consensus found; released a day early for the holiday after natural gas jumped 15% on Tuesday.",
-"source_url": "https://us.econoday.com/byevent?fid=672380&year=2026&lid=0"
+"read": "No consensus found; released a day early for the holiday, and the EIA page still showed last week's report when checked.",
+"source_url": "https://ir.eia.gov/ngs/ngs.html"
 },
 {
 "time_ct": "12:00",
@@ -8874,7 +8898,7 @@
 "unit": "rigs",
 "surprise": null,
 "read": "No consensus found; released early for the holiday.",
-"source_url": "https://us.econoday.com/byweek.asp?cust=us"
+"source_url": "https://us.econoday.com/byweek?day=25&month=11&year=2026&cust=us&lid=0"
 },
 {
 "time_ct": "13:00",
@@ -8885,140 +8909,139 @@
 "prior": null,
 "unit": "report",
 "surprise": null,
-"read": "The Fed's district-by-district summary two weeks before the Dec 8-9 meeting; watch the language on prices and wages.",
-"source_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
+"read": "The Fed's district-by-district summary two weeks before the Dec 8-9 meeting; after a 4.3% GDP print and 3.3% core inflation, watch the language on prices and wages.",
+"source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
 }
 ],
 "read": {
-"bias": "chop",
-"confidence": "low",
-"call": "Futures swung from a 0.65% loss to roughly flat overnight, and with a December hike already 96% priced, an in-line 0.3% core PCE leaves a thin pre-holiday tape to trade on chip stocks rather than data.",
-"swing": "October core PCE at 07:30 CT: 0.4% m/m would put a half-point December hike in play and push stocks lower; 0.2% would bring relief.",
+"bias": "lower",
+"confidence": "medium",
+"call": "Growth at 4.3%, claims at 189k and core inflation at 3.3% lock in a quarter-point hike on Dec 9, and stocks were selling off after the data with tech leading, so the lean into a thin pre-holiday afternoon is lower.",
+"swing": "The Beige Book at 13:00 CT: firm language on prices and wages would add to the selling, while reports of softening demand would support the drop in Treasury yields and could steady stocks.",
 "drivers": [
-"Core PCE consensus 0.3% m/m and 3.2% y/y, up from 3.1%; headline seen at 3.8% y/y, up from 3.6%.",
-"CME FedWatch shows a 96.4% chance of a quarter-point hike on Dec 9 and 3.6% for a half point.",
-"The S&P 500 fell 0.50% Tuesday to 7,201.09, its eighth loss in nine sessions, while the Dow rose 0.85% to close above 50,000 for the first time.",
-"Technology fell 3.26% Tuesday, handing back much of Monday's rally after Nvidia reinstated Jensen Huang.",
-"The 10-year Treasury yield sits at 4.90% and WTI crude at $82.05, both working against stocks.",
-"Thursday is the Thanksgiving closure, so volume will thin out after the morning data."
+"Core PCE rose 0.3% on the month as expected but 3.3% on the year against 3.2% forecast, the second straight yearly increase.",
+"Third-quarter GDP was revised to 4.3% from 3.4%, 0.8 points above the 3.5% forecast.",
+"Initial claims fell to 189k against 200k expected, tying the low of the year.",
+"Real consumer spending was about flat in October (nominal +0.3% against prices +0.3%), the one soft spot in the batch.",
+"CNBC reported stock futures added to losses and Treasury yields fell sharply after the release; one report had the Nasdaq down about 3% intraday (not confirmed against a second source)."
 ]
 },
 "what_mattered": [
 {
-"headline": "Futures fell hard Tuesday night, then recovered to flat",
-"fact": "At 9:51 p.m. ET S&P 500 futures were down 0.65% and Nasdaq-100 futures down 1.17%; later S&P 500 futures were up 0.06% and Nasdaq-100 futures up 0.2%.",
-"implication": "There is no clear overnight direction; the 07:30 CT data sets the open.",
-"source_url": "https://news-usa.today/stock-futures-slip-as-tech-selloff-reverses-gains-ahead-of-pce-data/"
+"headline": "Core inflation ticked above forecast on the yearly rate",
+"fact": "Core PCE rose 0.3% m/m (in line) and 3.3% y/y against 3.2% expected and 3.1% in September; headline PCE was 0.3% m/m and 3.8% y/y, both in line.",
+"implication": "The monthly pace did not accelerate, so the December move stays a quarter point, but the yearly rate is still climbing away from 2%.",
+"source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
 },
 {
-"headline": "Chip stocks gave back Monday's rally while the Dow crossed 50,000",
-"fact": "Nasdaq Composite -1.48% to 23,733.54, S&P 500 -0.50% to 7,201.09, Dow +0.85% to 50,018.70; technology sector -3.26%, health care +2.95%; VIX 26.36.",
-"implication": "Money is rotating out of AI names into health care and consumer names, and a VIX above 26 says the market is still nervous.",
-"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+"headline": "Third-quarter growth revised up sharply",
+"fact": "Real GDP grew at a 4.3% annual rate in Q3, revised from 3.4% and above the 3.5% consensus; Q2 was 2.2%. After-tax corporate profits rose 12.4% y/y.",
+"implication": "The economy was running hot going into the fourth quarter, which backs the Fed's case to keep raising rates.",
+"source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
 },
 {
-"headline": "Consumer confidence jumped far past forecasts",
-"fact": "The Conference Board index rose 11.4 points to 103.3 in November against a forecast near 92.",
-"implication": "A confident consumer supports spending and gives the Fed more room to raise rates.",
-"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+"headline": "Jobless claims matched the low of the year",
+"fact": "Initial claims fell to 189k from a revised 202k, 11k below the 200k consensus; the four-week average is 196k.",
+"implication": "No sign of layoffs rising, though holiday-week seasonal adjustment can distort a single week.",
+"source_url": "https://us.econoday.com/byevent?fid=672537&year=2026&lid=0"
 },
 {
-"headline": "New York Fed President Williams backed a December hike",
-"fact": "Williams said inflation is \"too high\"; CME FedWatch shows a 97% chance of a December hike and a 66% chance of another in January.",
-"implication": "The December move is settled; the open questions are its size and whether January follows.",
-"source_url": "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dollar-steadies-before-pce-dxy-holds-103-80-as-eur-usd-gbp-usd-stall-below-pivots-1647073"
+"headline": "Income jumped while real spending stalled",
+"fact": "Personal income rose 0.7% ($201.8 billion) against 0.4% expected; spending rose 0.3% ($63.8 billion) against 0.4%; the saving rate was 4.1%.",
+"implication": "Households banked the extra income in October; if the income gain was partly one-time, the spending slowdown is the more durable signal.",
+"source_url": "https://www.bea.gov/news/glance"
 },
 {
-"headline": "Oil and natural gas rose, gold and silver fell",
-"fact": "WTI +2.35% to $82.05 and Brent +2.27% to $91.40 on attacks on vessels near the Strait of Hormuz; natural gas +15.3% to $3.671; gold -2.64% to $3,555; silver -5.65% to $40.71.",
-"implication": "Higher energy prices feed the inflation numbers the Fed is hiking against.",
-"source_url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+"headline": "Housing and capital spending held up",
+"fact": "New home sales ran at a 701k annual rate against 651k expected (September revised down to 614k from 676k); core capital goods orders rose 1.2%; mortgage applications rose 6.1% on the week.",
+"implication": "Rate-sensitive sectors are not yet buckling, which removes one argument for the Fed to slow down.",
+"source_url": "https://us.econoday.com/byevent?fid=667152&year=2026&lid=0"
 }
 ],
 "look_at": [
-"Core PCE at 07:30 CT, because 0.3% m/m is the consensus and one tenth either side changes the debate over a quarter-point or half-point December hike.",
-"The 2-year Treasury yield, at 4.63% on Tuesday, in the minutes after the data, because it shows fastest whether the market is adding or removing hike bets.",
-"Semiconductor stocks at the open, because technology fell 3.26% on Tuesday and a second down day would confirm Monday's rally was a one-day event.",
-"The 7-year note auction at 10:30 CT, because weak demand with the 10-year at 4.90% would push yields up into a thin holiday afternoon.",
-"The Beige Book at 13:00 CT for what businesses say about prices and wages, the last broad Fed read before the Dec 8-9 meeting."
+"The Beige Book at 13:00 CT, for whether districts report firms passing on higher prices and wages two weeks before the Dec 8-9 meeting.",
+"The 7-year note auction result ($44 billion, bidding closed 10:30 CT), because a weak sale after a 4.3% GDP print would push yields back up; October's cleared at 4.894%.",
+"Whether the tech-led stock selling deepens or fades into the close, since volume thins ahead of Thanksgiving and moves can overshoot.",
+"The natural gas storage report at 11:00 CT, after Tuesday's 15% jump in natural gas prices.",
+"Oil after a second straight crude build (+1.1 million barrels), because energy is what is keeping headline inflation at 3.8%."
 ],
 "fed": {
 "next_meeting": "2026-12-09",
-"market_pricing": "CME FedWatch via Reuters: 96.4% chance of a 25 basis point hike at the Dec 8-9 meeting, 3.6% chance of 50 basis points; about 66% chance of another hike in January.",
+"market_pricing": "A quarter-point hike on Dec 8-9 was about 96-97% priced before the data (press reports; the CME FedWatch page could not be loaded). After the data CNBC reported traders still price two more hikes, with odds of a third in 2027 down to about 1-in-3 from 50-50 on Tuesday; a half-point move in December is not priced.",
 "speakers_today": [
-"Vice Chair for Supervision Michelle Bowman, 06:25 CT, pre-recorded video on banking supervision"
+"Vice Chair for Supervision Bowman, 06:25 CT, pre-recorded video on banking supervision"
 ]
 },
 "snapshot": [
 {
 "label": "S&P 500 futures",
-"value": 7097.5,
-"change_pct": -1.66
+"value": 7029.5,
+"change_pct": -2.6
 },
 {
 "label": "Nasdaq futures",
-"value": 25595.0,
-"change_pct": -2.59
+"value": 25193.25,
+"change_pct": -4.12
 },
 {
 "label": "Russell 2000 futures",
-"value": 2661.2,
-"change_pct": -1.04
+"value": 2649.3,
+"change_pct": -1.49
 },
 {
 "label": "S&P 500 (prior close)",
-"value": 7201.09,
-"change_pct": -0.5
+"value": 7011.59,
+"change_pct": -2.63
 },
 {
 "label": "Nasdaq (prior close)",
-"value": 23733.54,
-"change_pct": -1.48
+"value": 22799.26,
+"change_pct": -3.94
 },
 {
 "label": "10Y Treasury yield %",
-"value": 0.49,
-"change_pct": -0.28
+"value": 0.48,
+"change_pct": -1.59
 },
 {
 "label": "30Y Treasury yield %",
-"value": 0.53,
-"change_pct": -0.04
+"value": 0.52,
+"change_pct": -1.11
 },
 {
 "label": "Dollar index (DXY)",
-"value": 104.03,
-"change_pct": 0.21
+"value": 103.96,
+"change_pct": 0.14
 },
 {
 "label": "WTI crude $",
-"value": 81.48,
-"change_pct": -0.69
+"value": 83.1,
+"change_pct": 1.28
 },
 {
 "label": "Brent crude $",
-"value": 88.1,
-"change_pct": -3.61
+"value": 89.73,
+"change_pct": -1.83
 },
 {
 "label": "Nat gas (Henry Hub) $",
 "value": 3.67,
-"change_pct": 10.59
+"change_pct": 10.53
 },
 {
 "label": "Gold $",
-"value": 3552.4,
-"change_pct": -0.27
+"value": 3475.6,
+"change_pct": -2.42
 },
 {
 "label": "Bitcoin $",
-"value": 58570.19,
-"change_pct": -1.97
+"value": 58265.95,
+"change_pct": -2.48
 },
 {
 "label": "Nikkei 225",
-"value": 57011.62,
-"change_pct": -2.78
+"value": 58644.63,
+"change_pct": null
 },
 {
 "label": "Hang Seng",
@@ -9027,18 +9050,18 @@
 },
 {
 "label": "Euro Stoxx 50",
-"value": 6002.6,
-"change_pct": -0.02
+"value": 5940.77,
+"change_pct": -1.05
 },
 {
 "label": "XBI (biotech ETF, prior close)",
-"value": 156.82,
-"change_pct": 6.56
+"value": 152.73,
+"change_pct": -2.61
 },
 {
 "label": "VIX",
-"value": 29.46,
-"change_pct": 11.76
+"value": 32.51,
+"change_pct": 23.33
 },
 {
 "label": "2Y Treasury yield %",
@@ -9051,13 +9074,18 @@
 "slot": "morning",
 "at": "2026-11-25T05:34:33-06:00",
 "rows": 21
+},
+{
+"slot": "midday",
+"at": "2026-11-25T09:52:33-06:00",
+"rows": 21
 }
 ],
 "themes": [
-"Quarter point or half point in December: the market prices 96.4% for 25 basis points, yet Governor Waller has favored a possible 50 and core PCE is expected to rise to 3.2% y/y.",
-"Consumer strength against market stress: confidence jumped to 103.3 from 91.9 while the S&P 500 has fallen in eight of nine sessions.",
-"Whether the AI rebound holds: the Nasdaq rose 6.5% Monday on Huang's return to Nvidia and gave back 1.48% on Tuesday."
+"Quarter point or half point in December: core PCE held at 0.3% on the month, which settles it at a quarter point even with the yearly rate at 3.3%.",
+"Hot economy versus tired consumer: GDP was revised to 4.3% for the third quarter, yet real spending was flat in October while income rose 0.7%.",
+"How many hikes in 2027: odds of a third increase fell to about 1-in-3 from 50-50 after today's batch, per CNBC."
 ],
-"snapshot_at": "2026-11-25T05:34:38-06:00"
+"snapshot_at": "2026-11-25T09:52:42-06:00"
 }
 }
